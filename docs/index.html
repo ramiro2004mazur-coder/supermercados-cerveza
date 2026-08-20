@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Supermercados · Cerveza</title>
+<style>
+:root{
+  --bg:#0b1017;--bg2:#0e141c;--panel:#131b26;--panel2:#18222f;--line:#233043;
+  --ink:#eef4fb;--muted:#8ea0b5;--green:#1fcf8a;--red:#ff6b6b;--yellow:#ffcf5c;
+  --blue:#5aa9ff;--accent:#fa7d00;--cmqbg:rgba(90,169,255,.10);--compbg:rgba(250,0,80,.09);
+  --shadow:0 14px 40px rgba(0,0,0,.35);
+  --c1:#5aa9ff;--c2:#fa7d00;--c3:#1fcf8a;--c4:#ff6b6b;--c5:#c792ea;--c6:#ffcf5c;
+}
+body.light{
+  --bg:#f4f6fa;--bg2:#eef1f6;--panel:#fff;--panel2:#f7f9fc;--line:#dfe4ec;
+  --ink:#1a2430;--muted:#5f6b7a;--green:#0a9d63;--red:#d64545;--yellow:#c98a00;
+  --blue:#2f6fdf;--accent:#c9600a;--cmqbg:rgba(47,111,223,.08);--compbg:rgba(250,0,80,.10);
+  --shadow:0 10px 30px rgba(20,40,80,.10);
+}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(180deg,var(--bg),var(--bg2));color:var(--ink);
+  font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  min-height:100vh}
+header{position:sticky;top:0;z-index:20;background:var(--panel);border-bottom:1px solid var(--line);
+  padding:14px 20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;box-shadow:var(--shadow)}
+header h1{font-size:16px;margin:0;font-weight:700;letter-spacing:.2px}
+header .meta{color:var(--muted);font-size:12px}
+header .spacer{flex:1}
+button.tglbtn{background:var(--panel2);border:1px solid var(--line);color:var(--ink);
+  border-radius:8px;padding:6px 12px;cursor:pointer;font-size:12px}
+nav.tabs{display:flex;gap:6px;padding:14px 20px 0}
+nav.tabs button{background:var(--panel2);border:1px solid var(--line);color:var(--muted);
+  padding:8px 16px;border-radius:10px 10px 0 0;cursor:pointer;font-size:13px;font-weight:600}
+nav.tabs button.active{background:var(--panel);color:var(--ink);border-bottom:1px solid var(--panel)}
+main{padding:0 20px 40px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:0 10px 10px 10px;
+  padding:18px;box-shadow:var(--shadow)}
+.filters{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+.filters input[type=text]{background:var(--panel2);border:1px solid var(--line);color:var(--ink);
+  border-radius:8px;padding:7px 10px;font-size:13px;min-width:220px}
+.chip-group{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--panel2);color:var(--muted);
+  border-radius:999px;padding:5px 12px;font-size:12px;cursor:pointer;user-select:none}
+.chip.on{color:var(--ink);border-color:var(--blue);background:var(--cmqbg)}
+.chip.comp.on{border-color:var(--accent);background:var(--compbg)}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th{position:sticky;top:0;background:var(--panel);text-align:left;color:var(--muted);
+  font-weight:600;padding:8px 10px;border-bottom:1px solid var(--line);cursor:pointer;
+  white-space:nowrap}
+th:hover{color:var(--ink)}
+td{padding:7px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+tbody tr{cursor:pointer}
+tbody tr:hover{background:var(--panel2)}
+.tag{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:700}
+.tag.cmq{background:var(--cmqbg);color:var(--blue)}
+.tag.comp{background:var(--compbg);color:var(--accent)}
+.tag.sc{background:var(--panel2);color:var(--muted)}
+.tag.cad{background:var(--panel2);color:var(--ink);border:1px solid var(--line)}
+.din{font-weight:700}
+.din.hi{color:var(--red)}
+.din.mid{color:var(--yellow)}
+.din.zero{color:var(--muted);font-weight:400}
+.tablewrap{max-height:70vh;overflow:auto;border:1px solid var(--line);border-radius:8px}
+.hint{color:var(--muted);font-size:12px;margin-top:8px}
+.detail{margin-top:16px;padding-top:16px;border-top:1px dashed var(--line)}
+.detail h3{margin:0 0 10px;font-size:14px}
+.legend{display:flex;gap:12px;flex-wrap:wrap;margin:8px 0}
+.legend span{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted)}
+.legend i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.compare-picker{max-height:220px;overflow:auto;border:1px solid var(--line);border-radius:8px;
+  padding:8px;margin-bottom:12px}
+.compare-picker label{display:flex;gap:8px;align-items:center;padding:3px 4px;font-size:12.5px;
+  cursor:pointer;border-radius:6px}
+.compare-picker label:hover{background:var(--panel2)}
+.statgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;
+  margin-bottom:16px}
+.stat-card{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px}
+.stat-card .k{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.4px}
+.stat-card .v{font-size:20px;font-weight:700;margin-top:4px}
+svg.chart{width:100%;height:260px;display:block}
+.empty{color:var(--muted);text-align:center;padding:30px}
+</style>
+</head>
+<body>
+<header>
+  <h1>🍺 Supermercados · Cerveza</h1>
+  <div class="meta" id="metaLine">cargando…</div>
+  <div class="spacer"></div>
+  <button class="tglbtn" id="themeBtn">☀ / ☾</button>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="tabla" class="active">Evolución por SKU</button>
+  <button data-tab="comparar">Comparar</button>
+  <button data-tab="marcas">Por marca y cadena</button>
+</nav>
+
+<main>
+  <section class="panel" id="view-tabla">
+    <div class="filters">
+      <input type="text" id="search" placeholder="Buscar marca o producto…">
+      <div class="chip-group" id="cadenaChips"></div>
+      <div class="chip-group" id="grupoChips">
+        <div class="chip on" data-grupo="todos">Todos</div>
+        <div class="chip on" data-grupo="CMQ">CMQ</div>
+        <div class="chip comp on" data-grupo="Competencia">Competencia</div>
+        <div class="chip on" data-grupo="Sin clasificar">Sin clasificar</div>
+      </div>
+    </div>
+    <div class="tablewrap">
+      <table id="mainTable">
+        <thead><tr>
+          <th data-k="cadena">Cadena</th>
+          <th data-k="marca">Marca</th>
+          <th data-k="sku">Producto</th>
+          <th data-k="calibre">Calibre</th>
+          <th data-k="grupo">Grupo</th>
+          <th data-k="segmento">Segmento</th>
+          <th data-k="fleje">Fleje</th>
+          <th data-k="ptc">PTC</th>
+          <th data-k="dinamica">Dinámica</th>
+        </tr></thead>
+        <tbody id="mainBody"></tbody>
+      </table>
+    </div>
+    <div class="hint" id="countHint"></div>
+    <div class="detail" id="skuDetail" style="display:none">
+      <h3 id="skuDetailTitle"></h3>
+      <svg class="chart" id="skuChart"></svg>
+    </div>
+  </section>
+
+  <section class="panel" id="view-comparar" style="display:none">
+    <div class="filters">
+      <input type="text" id="compareSearch" placeholder="Filtrar la lista para elegir SKUs…">
+    </div>
+    <div class="compare-picker" id="comparePicker"></div>
+    <div class="legend" id="compareLegend"></div>
+    <svg class="chart" id="compareChart"></svg>
+    <div class="hint">Elegí cualquier cantidad de SKUs (de cualquier marca o cadena) para superponer su evolución de PTC.</div>
+  </section>
+
+  <section class="panel" id="view-marcas" style="display:none">
+    <div class="statgrid" id="statCards"></div>
+    <div class="tablewrap">
+      <table id="statTable">
+        <thead><tr>
+          <th data-k="marca">Marca</th>
+          <th data-k="cadena">Cadena</th>
+          <th data-k="grupo">Grupo</th>
+          <th data-k="segmento">Segmento</th>
+          <th data-k="avg_ptc">PTC prom.</th>
+          <th data-k="avg_dinamica">Dinámica prom.</th>
+          <th data-k="max_dinamica">Dinámica máx.</th>
+          <th data-k="dias">Días</th>
+        </tr></thead>
+        <tbody id="statBody"></tbody>
+      </table>
+    </div>
+    <div class="hint">Comparación de precio/dinámica promedio de cada marca, desglosado por cadena — la forma más directa de ver quién está más barato en cada supermercado.</div>
+  </section>
+</main>
+
+<script>
+const CHART_COLORS = ['c1','c2','c3','c4','c5','c6'];
+let DATA = null;
+let sortState = {tabla:{k:'marca',dir:1}, marcas:{k:'avg_ptc',dir:-1}};
+let filters = {cadenas:new Set(), grupos:new Set(['todos','CMQ','Competencia','Sin clasificar']), search:''};
+let selectedSku = null;
+let compareIds = new Set();
+
+fetch('data.json').then(r=>r.json()).then(d=>{
+  DATA = d;
+  filters.cadenas = new Set(d.cadenas);
+  document.getElementById('metaLine').textContent =
+    `${d.meta.sku_rows} filas · ${d.dates.length} fecha(s) (${d.dates[0]||'-'} → ${d.dates[d.dates.length-1]||'-'}) · generado ${d.meta.generado} UTC`;
+  buildCadenaChips();
+  renderTabla();
+  renderStats();
+}).catch(e=>{
+  document.getElementById('metaLine').textContent = 'Error cargando data.json: ' + e;
+});
+
+function buildCadenaChips(){
+  const wrap = document.getElementById('cadenaChips');
+  wrap.innerHTML = '';
+  DATA.cadenas.forEach(c=>{
+    const el = document.createElement('div');
+    el.className = 'chip on';
+    el.textContent = c;
+    el.dataset.cadena = c;
+    el.onclick = ()=>{
+      if(filters.cadenas.has(c)){ filters.cadenas.delete(c); el.classList.remove('on'); }
+      else { filters.cadenas.add(c); el.classList.add('on'); }
+      renderTabla();
+    };
+    wrap.appendChild(el);
+  });
+}
+
+document.getElementById('grupoChips').addEventListener('click', e=>{
+  const chip = e.target.closest('.chip');
+  if(!chip) return;
+  const g = chip.dataset.grupo;
+  if(g === 'todos'){
+    filters.grupos = new Set(['todos','CMQ','Competencia','Sin clasificar']);
+    document.querySelectorAll('#grupoChips .chip').forEach(c=>c.classList.add('on'));
+  } else {
+    document.querySelector('[data-grupo="todos"]').classList.remove('on');
+    filters.grupos.delete('todos');
+    if(filters.grupos.has(g)){ filters.grupos.delete(g); chip.classList.remove('on'); }
+    else { filters.grupos.add(g); chip.classList.add('on'); }
+  }
+  renderTabla();
+});
+
+document.getElementById('search').addEventListener('input', e=>{
+  filters.search = e.target.value.trim().toLowerCase();
+  renderTabla();
+});
+
+document.getElementById('tabs').addEventListener('click', e=>{
+  const btn = e.target.closest('button[data-tab]');
+  if(!btn) return;
+  document.querySelectorAll('#tabs button').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  ['tabla','comparar','marcas'].forEach(t=>{
+    document.getElementById('view-'+t).style.display = (t===btn.dataset.tab) ? '' : 'none';
+  });
+  if(btn.dataset.tab === 'comparar') renderComparePicker();
+});
+
+document.getElementById('themeBtn').onclick = ()=>document.body.classList.toggle('light');
+
+function lastDate(p){
+  const ds = Object.keys(p.dates);
+  return ds.length ? ds[ds.length-1] : null;
+}
+function latestVals(p){
+  const d = lastDate(p);
+  return d ? p.dates[d] : {fleje:null, ptc:null, dinamica:null};
+}
+function fmtMoney(v){ return v==null ? '-' : '$' + v.toLocaleString('es-AR',{maximumFractionDigits:0}); }
+function fmtPct(v){ return v==null ? '-' : (v*100).toFixed(0) + '%'; }
+function dinClass(v){ if(!v) return 'zero'; if(v>=0.25) return 'hi'; if(v>=0.10) return 'mid'; return ''; }
+function grupoTag(g){
+  const cls = g==='CMQ' ? 'cmq' : g==='Competencia' ? 'comp' : 'sc';
+  return `<span class="tag ${cls}">${g}</span>`;
+}
+
+function filteredRows(){
+  return DATA.pivot.filter(p=>{
+    if(!filters.cadenas.has(p.cadena)) return false;
+    if(!filters.grupos.has(p.grupo)) return false;
+    if(filters.search){
+      const hay = (p.marca+' '+p.sku).toLowerCase();
+      if(!hay.includes(filters.search)) return false;
+    }
+    return true;
+  });
+}
+
+function renderTabla(){
+  if(!DATA) return;
+  let rows = filteredRows();
+  const {k, dir} = sortState.tabla;
+  rows = rows.slice().sort((a,b)=>{
+    let av, bv;
+    if(['fleje','ptc','dinamica'].includes(k)){ av = latestVals(a)[k]; bv = latestVals(b)[k]; }
+    else { av = a[k]; bv = b[k]; }
+    av = av==null ? -Infinity : av; bv = bv==null ? -Infinity : bv;
+    if(typeof av === 'string') return av.localeCompare(bv) * dir;
+    return (av - bv) * dir;
+  });
+  const body = document.getElementById('mainBody');
+  body.innerHTML = rows.map(p=>{
+    const v = latestVals(p);
+    return `<tr data-id="${p.id}">
+      <td><span class="tag cad">${p.cadena}</span></td>
+      <td>${p.marca}</td>
+      <td>${p.sku}</td>
+      <td>${p.calibre}</td>
+      <td>${grupoTag(p.grupo)}</td>
+      <td>${p.segmento}</td>
+      <td>${fmtMoney(v.fleje)}</td>
+      <td>${fmtMoney(v.ptc)}</td>
+      <td class="din ${dinClass(v.dinamica)}">${fmtPct(v.dinamica)}</td>
+    </tr>`;
+  }).join('');
+  document.getElementById('countHint').textContent = `${rows.length} de ${DATA.pivot.length} filas`;
+  body.querySelectorAll('tr').forEach(tr=>{
+    tr.onclick = ()=> showSkuDetail(tr.dataset.id);
+  });
+}
+
+document.querySelectorAll('#mainTable thead th, #statTable thead th').forEach(th=>{
+  th.addEventListener('click', ()=>{
+    const table = th.closest('table').id === 'mainTable' ? 'tabla' : 'marcas';
+    const k = th.dataset.k;
+    const st = sortState[table];
+    st.dir = (st.k === k) ? -st.dir : 1;
+    st.k = k;
+    if(table==='tabla') renderTabla(); else renderStats();
+  });
+});
+
+function showSkuDetail(id){
+  selectedSku = DATA.pivot.find(p=>p.id===id);
+  if(!selectedSku) return;
+  const wrap = document.getElementById('skuDetail');
+  wrap.style.display = '';
+  document.getElementById('skuDetailTitle').textContent =
+    `${selectedSku.cadena} · ${selectedSku.marca} — ${selectedSku.sku}`;
+  drawLineChart(document.getElementById('skuChart'), [{
+    label: selectedSku.cadena, color: 'var(--blue)',
+    points: DATA.dates.map(d => selectedSku.dates[d] ? selectedSku.dates[d].ptc : null),
+  }], DATA.dates);
+  wrap.scrollIntoView({behavior:'smooth', block:'nearest'});
+}
+
+function renderComparePicker(){
+  const list = document.getElementById('comparePicker');
+  const q = document.getElementById('compareSearch').value.trim().toLowerCase();
+  const rows = DATA.pivot.filter(p=>{
+    if(!q) return true;
+    return (p.cadena+' '+p.marca+' '+p.sku).toLowerCase().includes(q);
+  }).slice(0, 300);
+  list.innerHTML = rows.map(p=>`
+    <label>
+      <input type="checkbox" data-id="${p.id}" ${compareIds.has(p.id)?'checked':''}>
+      <span class="tag cad">${p.cadena}</span> ${p.marca} — ${p.sku}
+    </label>
+  `).join('');
+  list.querySelectorAll('input').forEach(cb=>{
+    cb.onchange = ()=>{
+      if(cb.checked) compareIds.add(cb.dataset.id); else compareIds.delete(cb.dataset.id);
+      drawCompareChart();
+    };
+  });
+}
+document.getElementById('compareSearch').addEventListener('input', renderComparePicker);
+
+function drawCompareChart(){
+  const series = [...compareIds].map((id,i)=>{
+    const p = DATA.pivot.find(x=>x.id===id);
+    if(!p) return null;
+    return {
+      label: `${p.cadena} · ${p.marca} ${p.sku}`,
+      color: `var(--${CHART_COLORS[i % CHART_COLORS.length]})`,
+      points: DATA.dates.map(d => p.dates[d] ? p.dates[d].ptc : null),
+    };
+  }).filter(Boolean);
+  document.getElementById('compareLegend').innerHTML = series.map(s=>
+    `<span><i style="background:${s.color}"></i>${s.label}</span>`).join('');
+  drawLineChart(document.getElementById('compareChart'), series, DATA.dates);
+}
+
+function drawLineChart(svg, series, dates){
+  const W = svg.clientWidth || 800, H = 260, PAD = 40;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  if(!dates.length || !series.length){
+    svg.innerHTML = `<text x="${W/2}" y="${H/2}" text-anchor="middle" fill="var(--muted)" font-size="13">Sin datos para graficar</text>`;
+    return;
+  }
+  const allVals = series.flatMap(s=>s.points).filter(v=>v!=null);
+  const min = Math.min(...allVals, 0) * 0.98;
+  const max = Math.max(...allVals, 1) * 1.05;
+  const xw = (W - PAD*2) / Math.max(dates.length - 1, 1);
+  const yScale = v => H - PAD - ((v - min) / (max - min || 1)) * (H - PAD*2);
+  const xScale = i => PAD + i * xw;
+
+  let svgContent = '';
+  // grid
+  for(let g=0; g<=4; g++){
+    const y = PAD + g*(H-PAD*2)/4;
+    const val = max - g*(max-min)/4;
+    svgContent += `<line x1="${PAD}" y1="${y}" x2="${W-10}" y2="${y}" stroke="var(--line)" stroke-width="1"/>`;
+    svgContent += `<text x="4" y="${y+4}" font-size="10" fill="var(--muted)">${Math.round(val)}</text>`;
+  }
+  // x labels (thin out if many dates)
+  const step = Math.max(1, Math.ceil(dates.length / 8));
+  dates.forEach((d,i)=>{
+    if(i % step !== 0 && i !== dates.length-1) return;
+    svgContent += `<text x="${xScale(i)}" y="${H-8}" font-size="10" fill="var(--muted)" text-anchor="middle">${d.slice(5)}</text>`;
+  });
+  // lines
+  series.forEach(s=>{
+    const pts = s.points.map((v,i)=> v==null ? null : `${xScale(i)},${yScale(v)}`).filter(Boolean);
+    if(pts.length > 1){
+      svgContent += `<polyline points="${pts.join(' ')}" fill="none" stroke="${s.color}" stroke-width="2.5"/>`;
+    }
+    s.points.forEach((v,i)=>{
+      if(v==null) return;
+      svgContent += `<circle cx="${xScale(i)}" cy="${yScale(v)}" r="3.5" fill="${s.color}"><title>${dates[i]}: $${Math.round(v)}</title></circle>`;
+    });
+  });
+  svg.innerHTML = svgContent;
+}
+
+function renderStats(){
+  if(!DATA) return;
+  const {k, dir} = sortState.marcas;
+  const rows = DATA.stats.slice().sort((a,b)=>{
+    let av = a[k], bv = b[k];
+    if(typeof av === 'string') return av.localeCompare(bv) * dir;
+    return (av - bv) * dir;
+  });
+  document.getElementById('statBody').innerHTML = rows.map(s=>`
+    <tr>
+      <td>${s.marca}</td>
+      <td><span class="tag cad">${s.cadena}</span></td>
+      <td>${grupoTag(s.grupo)}</td>
+      <td>${s.segmento}</td>
+      <td>${fmtMoney(s.avg_ptc)}</td>
+      <td class="din ${dinClass(s.avg_dinamica)}">${fmtPct(s.avg_dinamica)}</td>
+      <td class="din ${dinClass(s.max_dinamica)}">${fmtPct(s.max_dinamica)}</td>
+      <td>${s.dias}</td>
+    </tr>
+  `).join('');
+
+  const cards = document.getElementById('statCards');
+  const cmq = DATA.stats.filter(s=>s.grupo==='CMQ');
+  const comp = DATA.stats.filter(s=>s.grupo==='Competencia');
+  const avg = arr => arr.length ? arr.reduce((a,b)=>a+b,0)/arr.length : 0;
+  cards.innerHTML = `
+    <div class="stat-card"><div class="k">Cadenas activas</div><div class="v">${DATA.cadenas.join(' · ')}</div></div>
+    <div class="stat-card"><div class="k">SKUs CMQ</div><div class="v">${cmq.length}</div></div>
+    <div class="stat-card"><div class="k">SKUs Competencia</div><div class="v">${comp.length}</div></div>
+    <div class="stat-card"><div class="k">Dinámica prom. CMQ</div><div class="v">${fmtPct(avg(cmq.map(s=>s.avg_dinamica)))}</div></div>
+    <div class="stat-card"><div class="k">Dinámica prom. Competencia</div><div class="v">${fmtPct(avg(comp.map(s=>s.avg_dinamica)))}</div></div>
+  `;
+}
+</script>
+</body>
+</html>

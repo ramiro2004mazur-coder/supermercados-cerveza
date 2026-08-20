@@ -1,0 +1,65 @@
+name: Scrape supermercados y publicar dashboard
+
+on:
+  schedule:
+    - cron: '15 13 * * *'   # 10:15 ART
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: supermercados-cerveza-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install -r scraper/requirements.txt
+
+      - name: Scrapear (una cadena caida no rompe la corrida de las demas)
+        id: scrape
+        run: |
+          cd scraper
+          python3 scrape.py --out-dir ../data/raw
+
+      - name: Ingestar corrida al historico
+        run: |
+          python3 scripts/ingest_run.py \
+            --csv "${{ steps.scrape.outputs.csv_path }}" \
+            --date "${{ steps.scrape.outputs.fecha }}"
+
+      - name: Regenerar data.json del dashboard
+        run: python3 scripts/build_dashboard_data.py
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/data.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios de datos, no se commitea."
+          else
+            git commit -m "data: corte ${{ steps.scrape.outputs.fecha }}"
+            git push
+          fi
+
+      - name: Subir log de errores como artifact (si hubo)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-${{ steps.scrape.outputs.fecha }}
+          path: data/logs/
+          if-no-files-found: ignore
+          retention-days: 30

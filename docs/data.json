@@ -1,0 +1,3745 @@
+{
+  "pivot": [
+    {
+      "id": "carrefour-republica-artesanal-cerveza-lager-republica-artesanal-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "República Artesanal",
+      "sku": "Cerveza Lager República Artesanal en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1290.0,
+          "ptc": 1290.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-republica-artesanal-cerveza-honey-republica-artesanal-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "República Artesanal",
+      "sku": "Cerveza Honey República Artesanal en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1290.0,
+          "ptc": 1290.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-republica-artesanal-cerveza-amber-republica-artesanal-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "República Artesanal",
+      "sku": "Cerveza Amber República Artesanal en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1290.0,
+          "ptc": 1290.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-corona-cerveza-blanca-sin-alcohol-corona-0-0-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Corona",
+      "sku": "Cerveza blanca sin alcohol Corona 0.0% 330 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3600.0,
+          "ptc": 2520.0,
+          "dinamica": 0.3
+        }
+      }
+    },
+    {
+      "id": "carrefour-michelob-ultra-cerveza-light-michelob-ultra-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Michelob Ultra",
+      "sku": "Cerveza light Michelob Ultra 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2725.0,
+          "ptc": 2725.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-975-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza blanca Stella Artois 975 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6819.0,
+          "ptc": 4432.35,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-blanca-quilmes-sin-alcohol-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza blanca Quilmes sin alcohol 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2150.0,
+          "ptc": 2150.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-corona-cerveza-rubia-corona-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Corona",
+      "sku": "Cerveza rubia Corona 330 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4550.0,
+          "ptc": 3185.0,
+          "dinamica": 0.3
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-negra-quilmes-stout-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza negra Quilmes Stout 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2589.0,
+          "ptc": 2589.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-pure-gold-stella-artois-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Pure Gold Stella Artois en lata 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4139.0,
+          "ptc": 2483.4,
+          "dinamica": 0.4
+        }
+      }
+    },
+    {
+      "id": "carrefour-bajo-cero-cerveza-blanca-quilmes-bajo-cero-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Bajo Cero",
+      "sku": "Cerveza blanca Quilmes Bajo cero en lata 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1619.0,
+          "ptc": 1619.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-blanca-quilmes-1890-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza blanca Quilmes 1890 retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3769.0,
+          "ptc": 3769.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-0-0-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza blanca Stella Artois 0.0 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3400.0,
+          "ptc": 2210.0,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-corona-cerveza-rubia-corona-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Corona",
+      "sku": "Cerveza rubia Corona 710 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7490.0,
+          "ptc": 5243.0,
+          "dinamica": 0.3
+        }
+      }
+    },
+    {
+      "id": "carrefour-mecklenburger-cerveza-mecklenburger-pilsener-500-ml",
+      "cadena": "Carrefour",
+      "marca": "Mecklenburger",
+      "sku": "Cerveza Mecklenburger Pilsener 500 ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1790.0,
+          "ptc": 1790.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-brahma-cerveza-rubia-brahma-354-ml",
+      "cadena": "Carrefour",
+      "marca": "Brahma",
+      "sku": "Cerveza rubia Brahma 354 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1669.0,
+          "ptc": 1669.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-pure-gold-stella-artois-en-porron-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Pure Gold Stella Artois en porrón 330 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4189.0,
+          "ptc": 2513.4,
+          "dinamica": 0.4
+        }
+      }
+    },
+    {
+      "id": "carrefour-denninghoffs-cerveza-denninghoff-weizen-dunkel-barril-5-lts",
+      "cadena": "Carrefour",
+      "marca": "Denninghoffs",
+      "sku": "Cerveza Denninghoff weizen dunkel barril 5 lts",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 36990.0,
+          "ptc": 36990.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-heineken-cerveza-sin-alcohol-heineken-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Heineken",
+      "sku": "Cerveza sin alcohol Heineken en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 3100.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-mecklenburger-cerveza-sin-alcohol-mecklenburger-500-ml",
+      "cadena": "Carrefour",
+      "marca": "Mecklenburger",
+      "sku": "Cerveza sin alcohol Mecklenburger 500 ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1690.0,
+          "ptc": 1690.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-brahma-cerveza-blanca-brahma-en-lata-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Brahma",
+      "sku": "Cerveza blanca Brahma en lata 710 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-apolo-cerveza-rubia-apolo-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Apolo",
+      "sku": "Cerveza rubia Apolo 1 lt",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1990.0,
+          "ptc": 1990.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza blanca Stella Artois 330 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4079.0,
+          "ptc": 2651.35,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-andes-origen-cerveza-rubia-andes-origen-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza rubia Andes Origen 710 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4630.0,
+          "ptc": 3009.5,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza blanca Stella Artois 710 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5970.0,
+          "ptc": 3582.0,
+          "dinamica": 0.4
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-blanca-quilmes-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza blanca Quilmes Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2589.0,
+          "ptc": 2589.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-negra-stella-artois-noire-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza negra Stella Artois Noire 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4025.0,
+          "ptc": 4025.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-guinness-cerveza-guinnes-extra-stout-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Guinness",
+      "sku": "Cerveza Guinnes Extra Stout 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4149.0,
+          "ptc": 4149.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-patagonia-cerveza-vera-ipa-patagonia-730-ml",
+      "cadena": "Carrefour",
+      "marca": "Patagonia",
+      "sku": "Cerveza Vera Ipa Patagonia 730 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7055.0,
+          "ptc": 7055.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-pampa-brewing-cerveza-pampa-brewing-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Pampa Brewing Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3300.0,
+          "ptc": 3300.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-patagonia-cerveza-roja-patagonia-amber-lager-730-ml",
+      "cadena": "Carrefour",
+      "marca": "Patagonia",
+      "sku": "Cerveza roja Patagonia Amber Lager 730 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7055.0,
+          "ptc": 7055.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-andes-cerveza-andes-ipa-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Andes",
+      "sku": "Cerveza Andes Ipa retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5729.0,
+          "ptc": 3723.85,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-patagonia-cerveza-roja-patagonia-amber-lager-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Patagonia",
+      "sku": "Cerveza roja Patagonia Amber Lager 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4960.0,
+          "ptc": 4960.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-andes-origen-cerveza-roja-andes-origen-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza roja Andes Origen 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5729.0,
+          "ptc": 3723.85,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-andes-origen-cerveza-rubia-andes-origen-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza rubia Andes Origen 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5569.0,
+          "ptc": 3619.85,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "carrefour-budweiser-cerveza-rubia-budweiser-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Budweiser",
+      "sku": "Cerveza rubia Budweiser 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5015.0,
+          "ptc": 5015.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-negra-quilmes-stout-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza negra Quilmes Stout 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 4580.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-schneider-cerveza-blanca-schneider-limon-remix-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Schneider",
+      "sku": "Cerveza blanca Schneider Limón Remix en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2725.0,
+          "ptc": 2725.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-sin-alcohol-imperial-golden-0-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza sin alcohol Imperial Golden 0% en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2100.0,
+          "ptc": 2100.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-ipa-citrica-antares-sin-alcohol-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza ipa citrica Antares sin alcohol 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3553.0,
+          "ptc": 3553.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-denninghoffs-cerveza-negra-denninghoff-schwarz-barril-5-lts",
+      "cadena": "Carrefour",
+      "marca": "Denninghoffs",
+      "sku": "Cerveza negra Denninghoff schwarz barril 5 lts",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 36990.0,
+          "ptc": 36990.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-patagonia-cerveza-patagonia-lager-del-sur-730-ml",
+      "cadena": "Carrefour",
+      "marca": "Patagonia",
+      "sku": "Cerveza Patagonia Lager del Sur 730 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7055.0,
+          "ptc": 7055.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-patagonia-cerveza-blanca-patagonia-lager-del-sur-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Patagonia",
+      "sku": "Cerveza blanca Patagonia Lager del Sur 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4960.0,
+          "ptc": 4960.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-bajo-cero-cerveza-rubia-quilmes-bajo-cero-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Bajo Cero",
+      "sku": "Cerveza rubia Quilmes Bajo cero Retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3769.0,
+          "ptc": 3769.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-amstel-cerveza-blanca-amstel-lager-pura-malta-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Amstel",
+      "sku": "Cerveza blanca Amstel Lager pura malta 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2725.0,
+          "ptc": 2725.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-budweiser-cerveza-blanca-budweiser-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Budweiser",
+      "sku": "Cerveza blanca Budweiser 710 ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4139.0,
+          "ptc": 4139.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-quilmes-ipa-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza Quilmes Ipa retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 4580.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-roja-imperial-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza roja Imperial 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 3295.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-pampa-brewing-cerveza-pampa-brewing-honey-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Pampa Brewing Honey 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-pampa-cerveza-pampa-golden-ale-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Pampa",
+      "sku": "Cerveza Pampa Golden Ale 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-mecklenburger-cerveza-rubia-mecklenburger-pilsener-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Mecklenburger",
+      "sku": "Cerveza rubia Mecklenburger Pilsener 330 ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1190.0,
+          "ptc": 1190.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-imperial-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza Imperial Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 3295.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-brahma-cerveza-rubia-brahma-340-ml",
+      "cadena": "Carrefour",
+      "marca": "Brahma",
+      "sku": "Cerveza rubia Brahma 340 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1749.0,
+          "ptc": 1749.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-rubia-clasica-quilmes-340-ml",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza rubia clásica Quilmes 340 ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1640.0,
+          "ptc": 1640.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-heineken-cerveza-rubia-heineken-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Heineken",
+      "sku": "Cerveza rubia Heineken retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6865.0,
+          "ptc": 6865.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-quilmes-cerveza-rubia-clasica-quilmes-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "sku": "Cerveza rubia clásica Quilmes 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 916.0,
+          "dinamica": 0.8
+        }
+      }
+    },
+    {
+      "id": "carrefour-pampa-brewing-cerveza-lager-pampa-brewing-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Lager Pampa Brewing en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-estrella-de-galicia-cerveza-lager-estrella-galicia-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza Lager Estrella Galicia en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3500.0,
+          "ptc": 3500.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-andes-origen-cerveza-rubio-oro-andes-origen-botella-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza rubio oro Andes Origen botella retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5569.0,
+          "ptc": 3341.4,
+          "dinamica": 0.4
+        }
+      }
+    },
+    {
+      "id": "carrefour-blue-moon-cerveza-blanca-blue-moon-blegian-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Blue Moon",
+      "sku": "Cerveza blanca Blue Moon Blegian 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4685.0,
+          "ptc": 4685.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-amstel-cerveza-blanca-amstel-lager-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Amstel",
+      "sku": "Cerveza blanca Amstel Lager 710 ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-imperial-golden-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia Imperial Golden 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-heineken-cerveza-rubia-heineken-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Heineken",
+      "sku": "Cerveza rubia Heineken 710 ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5995.0,
+          "ptc": 5995.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-imperial-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia Imperial 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-negra-imperial-cream-stout-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza negra Imperial Cream Stout 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5450.0,
+          "ptc": 5450.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-heineken-cerveza-rubia-heineken-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Heineken",
+      "sku": "Cerveza rubia Heineken 330 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4195.0,
+          "ptc": 4195.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-estrella-de-galicia-cerveza-sin-gluten-estrella-galicia-en-lata-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza sin gluten Estrella Galicia en lata 330 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-estrella-de-galicia-cerveza-sin-alcohol-0-0-estrella-galicia-en-lata-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza sin alcohol 0.0% Estrella Galicia en lata 330 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3200.0,
+          "ptc": 3200.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-lager-imperial-en-botella-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia lager Imperial en botella retornable 1 lt.",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5230.0,
+          "ptc": 5230.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-salta-cautiva-cerveza-salta-cautiva-session-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza Salta Cautiva Session Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-amstel-cerveza-blanca-amstel-lager-edicion-limitada-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Amstel",
+      "sku": "Cerveza blanca Amstel Lager edición limitada retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4795.0,
+          "ptc": 4795.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-miller-cerveza-blanca-miller-genuine-draft-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Miller",
+      "sku": "Cerveza blanca Miller Genuine Draft 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3485.0,
+          "ptc": 3485.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-imperial-golden-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia Imperial Golden 710 ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4470.0,
+          "ptc": 4470.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-salta-cautiva-cerveza-roja-salta-cautiva-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza roja Salta Cautiva 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-miller-cerveza-rubia-miller-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Miller",
+      "sku": "Cerveza rubia miller 710 ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5175.0,
+          "ptc": 5175.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-imperial-lager-710-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia Imperial Lager 710 ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4470.0,
+          "ptc": 4470.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-imperial-apa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia Imperial Apa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 3295.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-rabieta-cerveza-roja-rabieta-honey-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Rabieta",
+      "sku": "Cerveza roja Rabieta Honey 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3699.0,
+          "ptc": 3699.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-warsteiner-cerveza-rubia-warsteiner-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Warsteiner",
+      "sku": "Cerveza rubia Warsteiner 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3485.0,
+          "ptc": 3485.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-grolsch-cerveza-rubia-golsch-retornable-925-ml",
+      "cadena": "Carrefour",
+      "marca": "Grolsch",
+      "sku": "Cerveza rubia Golsch retornable 925 ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6755.0,
+          "ptc": 6755.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-grolsch-cerveza-blanca-golsch-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Grolsch",
+      "sku": "Cerveza blanca Golsch 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-rubia-imperial-ipa-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza rubia Imperial Ipa 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5670.0,
+          "ptc": 5670.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-schneider-cerveza-rubia-schneider-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Schneider",
+      "sku": "Cerveza rubia Schneider 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 4580.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-salta-cautiva-cerveza-lager-salta-cautiva-fresh-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza lager Salta Cautiva Fresh en lata 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-imperial-cerveza-blanca-imperia-golden-porron-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "sku": "Cerveza blanca Imperia Golden porrón 330 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3485.0,
+          "ptc": 3485.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-blue-moon-cerveza-belgian-white-blue-moon-porron-355-ml",
+      "cadena": "Carrefour",
+      "marca": "Blue Moon",
+      "sku": "Cerveza belgian white Blue Moon porrón 355 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5209.0,
+          "ptc": 5209.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-artesanal-antares-espiritu-lager-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza artesanal Antares Espiritu Lager 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3800.0,
+          "ptc": 3800.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-miller-cerveza-blanca-miller-edicion-limitada-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Miller",
+      "sku": "Cerveza blanca Miller edición limitada 330 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3815.0,
+          "ptc": 3815.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-grolsch-cerveza-grolsch-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Grolsch",
+      "sku": "Cerveza Grolsch Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4140.0,
+          "ptc": 4140.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-salta-cautiva-cerveza-blanca-salta-cautiva-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza blanca Salta Cautiva 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-rabieta-cerveza-rabieta-helles-munich-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Rabieta",
+      "sku": "Cerveza Rabieta Helles Munich 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3699.0,
+          "ptc": 3699.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-kunstmann-cerveza-kunstmann-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Kunstmann",
+      "sku": "Cerveza Kunstmann Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4575.0,
+          "ptc": 4575.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-kunstmann-cerveza-roja-torobayo-kunstmann-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Kunstmann",
+      "sku": "Cerveza roja Torobayo Kunstmann 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4575.0,
+          "ptc": 4575.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-rubia-antares-caravana-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza rubia Antares Caravana Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4509.0,
+          "ptc": 4509.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-warsteiner-cerveza-rubia-warsteiner-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Warsteiner",
+      "sku": "Cerveza rubia Warsteiner retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6320.0,
+          "ptc": 6320.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-miller-cerveza-rubia-miller-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Miller",
+      "sku": "Cerveza rubia Miller 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6320.0,
+          "ptc": 6320.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-artesanal-ipa-antares-xpa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza artesanal Ipa Antares XPA 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4515.0,
+          "ptc": 4515.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-artesanal-ipa-new-antares-en-lata-473-cc",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza artesanal ipa new Antares en lata 473 cc.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4509.0,
+          "ptc": 4509.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-barbaroja-cerveza-barbaroja-frutada-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Barbaroja",
+      "sku": "Cerveza Barbaroja Frutada 330 ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3209.0,
+          "ptc": 3209.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-blanca-antares-playa-grande-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza blanca Antares Playa Grande 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4509.0,
+          "ptc": 4509.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-bierhaus-cerveza-bierhaus-red-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Bierhaus Red Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4015.0,
+          "ptc": 4015.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-artesanal-antares-scotch-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza artesanal Antares Scotch 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4509.0,
+          "ptc": 4509.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-artesanal-antares-honey-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza artesanal Antares Honey 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4509.0,
+          "ptc": 4509.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-asahi-cerveza-blanca-dry-asahi-porron-330-ml",
+      "cadena": "Carrefour",
+      "marca": "Asahi",
+      "sku": "Cerveza blanca Dry Asahi porrón 330 ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5239.0,
+          "ptc": 5239.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-antares-cerveza-artesanal-antares-kolsch-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "sku": "Cerveza artesanal Antares Kolsch 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4509.0,
+          "ptc": 4509.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "carrefour-salta-cautiva-cerveza-blanca-salta-cautiva-retornable-1-lt",
+      "cadena": "Carrefour",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza blanca Salta Cautiva retornable 1 lt",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5239.0,
+          "ptc": 5239.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-oslava-cerveza-lager-oslava-473-lt",
+      "cadena": "Dia",
+      "marca": "Oslava",
+      "sku": "Cerveza Lager Oslava 473 Lt.",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1450.0,
+          "ptc": 1100.0,
+          "dinamica": 0.2414
+        }
+      }
+    },
+    {
+      "id": "dia-oslava-cerveza-lager-oslava-1-lt",
+      "cadena": "Dia",
+      "marca": "Oslava",
+      "sku": "Cerveza Lager Oslava 1 Lt.",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1990.0,
+          "ptc": 1990.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-st-wendeler-cerveza-rubia-st-wendeler-500-ml",
+      "cadena": "Dia",
+      "marca": "St Wendeler",
+      "sku": "Cerveza Rubia St. Wendeler 500 ml.",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2100.0,
+          "ptc": 1250.0,
+          "dinamica": 0.4048
+        }
+      }
+    },
+    {
+      "id": "dia-isenbeck-cerveza-isenbeck-473-ml",
+      "cadena": "Dia",
+      "marca": "Isenbeck",
+      "sku": "Cerveza Isenbeck 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2090.0,
+          "ptc": 1250.0,
+          "dinamica": 0.4019
+        }
+      }
+    },
+    {
+      "id": "dia-andes-origen-cerveza-andes-origen-ipa-andina-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Andes Origen IPA Andina Lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3085.0,
+          "ptc": 2313.75,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-schneider-cerveza-schneider-rubia-710-ml",
+      "cadena": "Dia",
+      "marca": "Schneider",
+      "sku": "Cerveza Schneider Rubia 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3790.0,
+          "ptc": 2274.0,
+          "dinamica": 0.4
+        }
+      }
+    },
+    {
+      "id": "dia-schneider-cerveza-schneider-rubia-473-ml",
+      "cadena": "Dia",
+      "marca": "Schneider",
+      "sku": "Cerveza Schneider Rubia 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2610.0,
+          "ptc": 2610.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-361-cerveza-rubia-361-710-ml",
+      "cadena": "Dia",
+      "marca": "361",
+      "sku": "Cerveza Rubia 361 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2400.0,
+          "ptc": 1900.0,
+          "dinamica": 0.2083
+        }
+      }
+    },
+    {
+      "id": "dia-brul-cerveza-rubia-brul-1-lt",
+      "cadena": "Dia",
+      "marca": "Brul",
+      "sku": "Cerveza Rubia Brul 1 Lt.",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3800.0,
+          "ptc": 3250.0,
+          "dinamica": 0.1447
+        }
+      }
+    },
+    {
+      "id": "dia-corona-cerveza-lata-corona-473-ml",
+      "cadena": "Dia",
+      "marca": "Corona",
+      "sku": "Cerveza Lata Corona 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4650.0,
+          "ptc": 2775.0,
+          "dinamica": 0.4032
+        }
+      }
+    },
+    {
+      "id": "dia-st-wendeler-cerveza-ipa-st-wendeler-500-ml",
+      "cadena": "Dia",
+      "marca": "St Wendeler",
+      "sku": "Cerveza Ipa St Wendeler 500 Ml.",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2513.0,
+          "ptc": 2513.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-quilmes-cerveza-0-0-sin-alcohol-quilmes-473-ml",
+      "cadena": "Dia",
+      "marca": "Quilmes",
+      "sku": "Cerveza 0.0 Sin Alcohol Quilmes 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2145.0,
+          "ptc": 2145.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-michelob-ultra-cerveza-ultra-michelob-473-ml",
+      "cadena": "Dia",
+      "marca": "Michelob Ultra",
+      "sku": "Cerveza Ultra Michelob 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2640.0,
+          "ptc": 1716.0,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "dia-amstel-cerveza-lager-amstel-473-ml",
+      "cadena": "Dia",
+      "marca": "Amstel",
+      "sku": "Cerveza Lager Amstel 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2720.0,
+          "ptc": 2720.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-stella-artois-cerveza-stella-artois-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois Lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3400.0,
+          "ptc": 2210.0,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "dia-amstel-cerveza-amstel-710-ml",
+      "cadena": "Dia",
+      "marca": "Amstel",
+      "sku": "Cerveza Amstel 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3920.0,
+          "ptc": 3920.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-andes-cerveza-roja-andes-en-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Andes",
+      "sku": "Cerveza Roja Andes en lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3085.0,
+          "ptc": 2313.75,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-st-wendeler-cerveza-lager-st-wendeler-500-ml",
+      "cadena": "Dia",
+      "marca": "St Wendeler",
+      "sku": "Cerveza Lager St. Wendeler 500 Ml.",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2100.0,
+          "ptc": 1250.0,
+          "dinamica": 0.4048
+        }
+      }
+    },
+    {
+      "id": "dia-andes-cerveza-andes-rubia-en-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Andes",
+      "sku": "Cerveza Andes Rubia en lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2950.0,
+          "ptc": 2212.5,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-grolsch-cerveza-lata-grolsch-473-cc",
+      "cadena": "Dia",
+      "marca": "Grolsch",
+      "sku": "Cerveza Lata Grolsch 473 Cc.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 2551.25,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "dia-brahma-cerveza-brahma-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Brahma",
+      "sku": "Cerveza Brahma Lata 473 ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2710.0,
+          "ptc": 2050.0,
+          "dinamica": 0.2435
+        }
+      }
+    },
+    {
+      "id": "dia-quilmes-cerveza-quilmes-cristal-en-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Quilmes",
+      "sku": "Cerveza Quilmes Cristal en Lata 473 ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2588.0,
+          "ptc": 1900.0,
+          "dinamica": 0.2658
+        }
+      }
+    },
+    {
+      "id": "dia-corona-cerveza-0-0-corona-473-ml",
+      "cadena": "Dia",
+      "marca": "Corona",
+      "sku": "Cerveza 0.0 Corona 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3600.0,
+          "ptc": 2850.0,
+          "dinamica": 0.2083
+        }
+      }
+    },
+    {
+      "id": "dia-brahma-cerveza-brahma-710-ml",
+      "cadena": "Dia",
+      "marca": "Brahma",
+      "sku": "Cerveza Brahma 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3915.0,
+          "ptc": 3250.0,
+          "dinamica": 0.1699
+        }
+      }
+    },
+    {
+      "id": "dia-bajo-cero-cerveza-bajo-cero-quilmes-473-ml",
+      "cadena": "Dia",
+      "marca": "Bajo Cero",
+      "sku": "Cerveza Bajo Cero Quilmes 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1618.0,
+          "ptc": 1618.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-quilmes-cerveza-quilmes-710-ml",
+      "cadena": "Dia",
+      "marca": "Quilmes",
+      "sku": "Cerveza Quilmes 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3700.0,
+          "ptc": 2700.0,
+          "dinamica": 0.2703
+        }
+      }
+    },
+    {
+      "id": "dia-heineken-cerveza-0-0-alcohol-heineken-473-ml",
+      "cadena": "Dia",
+      "marca": "Heineken",
+      "sku": "Cerveza 0.0 Alcohol Heineken 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3380.0,
+          "ptc": 2392.5,
+          "dinamica": 0.2922
+        }
+      }
+    },
+    {
+      "id": "dia-salta-cautiva-cerveza-ipa-salta-cautiva-473-ml",
+      "cadena": "Dia",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza Ipa Salta Cautiva 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-budweiser-cerveza-musica-budweiser-473-ml",
+      "cadena": "Dia",
+      "marca": "Budweiser",
+      "sku": "Cerveza Musica Budweiser 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2800.0,
+          "ptc": 2190.0,
+          "dinamica": 0.2179
+        }
+      }
+    },
+    {
+      "id": "dia-stella-artois-cerveza-vintage-stella-artois-473-ml",
+      "cadena": "Dia",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Vintage Stella Artois 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4020.0,
+          "ptc": 3150.0,
+          "dinamica": 0.2164
+        }
+      }
+    },
+    {
+      "id": "dia-budweiser-cerveza-budweiser-lata-710-ml",
+      "cadena": "Dia",
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser Lata 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4115.0,
+          "ptc": 3300.0,
+          "dinamica": 0.1981
+        }
+      }
+    },
+    {
+      "id": "dia-st-wendeler-cerveza-trigo-st-wendeler-500-ml",
+      "cadena": "Dia",
+      "marca": "St Wendeler",
+      "sku": "Cerveza Trigo St. Wendeler 500 Ml.",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2501.0,
+          "ptc": 2501.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-imperial-cerveza-imperial-stout-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "sku": "Cerveza Imperial Stout lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 3295.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-heineken-cerveza-heineken-lata-710-ml",
+      "cadena": "Dia",
+      "marca": "Heineken",
+      "sku": "Cerveza Heineken lata 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5995.0,
+          "ptc": 4496.25,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-imperial-cerveza-ipa-imperial-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "sku": "Cerveza Ipa Imperial lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 3295.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-st-wendeler-cerveza-negra-st-wendeler-500-ml",
+      "cadena": "Dia",
+      "marca": "St Wendeler",
+      "sku": "Cerveza Negra St. Wendeler 500 Ml.",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2501.0,
+          "ptc": 2501.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-imperial-cerveza-golden-imperial-473-ml",
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden Imperial 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-heineken-cerveza-heineken-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Heineken",
+      "sku": "Cerveza Heineken Lata 473 ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-corona-cerveza-corona-botella-no-retornable-710-ml",
+      "cadena": "Dia",
+      "marca": "Corona",
+      "sku": "Cerveza Corona Botella No Retornable 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6560.0,
+          "ptc": 4920.0,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-brahma-cerveza-rubia-brahma-lata-354-ml",
+      "cadena": "Dia",
+      "marca": "Brahma",
+      "sku": "Cerveza Rubia Brahma Lata 354 Ml.",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1928.0,
+          "ptc": 1410.0,
+          "dinamica": 0.2687
+        }
+      }
+    },
+    {
+      "id": "dia-pampa-cerveza-brewing-honey-pampa-473-ml",
+      "cadena": "Dia",
+      "marca": "Pampa",
+      "sku": "Cerveza Brewing Honey Pampa 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 2700.0,
+          "dinamica": 0.1
+        }
+      }
+    },
+    {
+      "id": "dia-pampa-cerveza-brewing-ipa-pampa-473-ml",
+      "cadena": "Dia",
+      "marca": "Pampa",
+      "sku": "Cerveza Brewing Ipa Pampa 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3300.0,
+          "ptc": 3300.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-pampa-cerveza-brewing-dorada-pampa-473ml",
+      "cadena": "Dia",
+      "marca": "Pampa",
+      "sku": "Cerveza Brewing Dorada Pampa 473Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 2700.0,
+          "dinamica": 0.1
+        }
+      }
+    },
+    {
+      "id": "dia-imperial-cerveza-golden-0-0-imper-473-ml",
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden 0.0 Imper 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2290.0,
+          "ptc": 2290.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-stella-artois-cerveza-stella-artois-710-ml",
+      "cadena": "Dia",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois 710 Ml.",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5970.0,
+          "ptc": 4990.0,
+          "dinamica": 0.1642
+        }
+      }
+    },
+    {
+      "id": "dia-warsteiner-cerveza-warsteiner-473-ml",
+      "cadena": "Dia",
+      "marca": "Warsteiner",
+      "sku": "Cerveza Warsteiner 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 2551.25,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "id": "dia-antares-cerveza-session-ipa-antares-473-ml",
+      "cadena": "Dia",
+      "marca": "Antares",
+      "sku": "Cerveza Session Ipa Antares 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4700.0,
+          "ptc": 4700.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-antares-cerveza-honey-lata-antares-473-ml",
+      "cadena": "Dia",
+      "marca": "Antares",
+      "sku": "Cerveza Honey Lata Antares 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4700.0,
+          "ptc": 4700.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-salta-cautiva-cerveza-rubia-salta-cautiva-en-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza Rubia Salta Cautiva en lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 3100.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-imperial-cerveza-imperial-amber-lager-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "sku": "Cerveza Imperial Amber Lager lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 3295.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-patagonia-cerveza-patagonia-amber-lager-en-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Patagonia",
+      "sku": "Cerveza Patagonia Amber Lager en lata 473 Ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4955.0,
+          "ptc": 4955.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-imperial-cerveza-imperial-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "sku": "Cerveza Imperial Lata 473 ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-corona-cerveza-corona-botella-no-retornable-330-ml",
+      "cadena": "Dia",
+      "marca": "Corona",
+      "sku": "Cerveza Corona Botella No Retornable 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4060.0,
+          "ptc": 3045.0,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-miller-cerveza-lata-miller-473-ml",
+      "cadena": "Dia",
+      "marca": "Miller",
+      "sku": "Cerveza Lata Miller 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3485.0,
+          "ptc": 3485.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-heineken-cerveza-porron-heineken-330-ml",
+      "cadena": "Dia",
+      "marca": "Heineken",
+      "sku": "Cerveza Porron Heineken 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4195.0,
+          "ptc": 2662.5,
+          "dinamica": 0.3653
+        }
+      }
+    },
+    {
+      "id": "dia-maradona-cerveza-rubia-maradona-1-lt",
+      "cadena": "Dia",
+      "marca": "Maradona",
+      "sku": "Cerveza Rubia Maradona 1 Lt.",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3900.0,
+          "ptc": 3900.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-bierhaus-cerveza-ipa-argent-bierhaus-473-ml",
+      "cadena": "Dia",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Ipa Argent Bierhaus 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4135.0,
+          "ptc": 3101.25,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-bierhaus-cerveza-honey-lazybee-bierhaus-473-ml",
+      "cadena": "Dia",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Honey Lazybee Bierhaus 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3235.0,
+          "ptc": 2426.25,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-guinness-cerveza-extra-stout-guinness-473-ml",
+      "cadena": "Dia",
+      "marca": "Guinness",
+      "sku": "Cerveza Extra Stout Guinness 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4300.0,
+          "ptc": 3870.0,
+          "dinamica": 0.1
+        }
+      }
+    },
+    {
+      "id": "dia-antares-cerveza-lager-antares-473-ml",
+      "cadena": "Dia",
+      "marca": "Antares",
+      "sku": "Cerveza Lager Antares 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4000.0,
+          "ptc": 4000.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-schneider-cerveza-schneider-retornable-970-ml",
+      "cadena": "Dia",
+      "marca": "Schneider",
+      "sku": "Cerveza Schneider Retornable 970 ml.",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 999.0,
+          "ptc": 999.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-estrella-de-galicia-cerveza-sin-gluten-estrella-galicia-330-ml",
+      "cadena": "Dia",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza Sin Gluten Estrella Galicia 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3200.0,
+          "ptc": 3200.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-michelob-ultra-cerveza-ultra-michelob-ultra-27-ml",
+      "cadena": "Dia",
+      "marca": "Michelob Ultra",
+      "sku": "Cerveza Ultra Michelob Ultra 27 Ml.",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2665.0,
+          "ptc": 1293.5,
+          "dinamica": 0.5146
+        }
+      }
+    },
+    {
+      "id": "dia-guinness-cerveza-hop-house-lager-guinness-473-ml",
+      "cadena": "Dia",
+      "marca": "Guinness",
+      "sku": "Cerveza Hop House Lager Guinness 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3900.0,
+          "ptc": 3510.0,
+          "dinamica": 0.1
+        }
+      }
+    },
+    {
+      "id": "dia-miller-cerveza-porron-miller-330-ml",
+      "cadena": "Dia",
+      "marca": "Miller",
+      "sku": "Cerveza Porron Miller 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3815.0,
+          "ptc": 3815.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-antares-cerveza-ipa-sin-alcohol-antares-473-ml",
+      "cadena": "Dia",
+      "marca": "Antares",
+      "sku": "Cerveza Ipa Sin Alcohol Antares 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4000.0,
+          "ptc": 4000.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-bierhaus-cerveza-ipa-chalaland-bierhaus-473-ml",
+      "cadena": "Dia",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Ipa Chalaland Bierhaus 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5015.0,
+          "ptc": 3761.25,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-estrella-de-galicia-cerveza-0-0-tostada-estrella-galicia-330-ml",
+      "cadena": "Dia",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza 0.0 Tostada Estrella Galicia 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3200.0,
+          "ptc": 3200.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-stella-artois-cerveza-stella-artois-en-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois en Lata 473 ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1149.0,
+          "ptc": 799.0,
+          "dinamica": 0.3046
+        }
+      }
+    },
+    {
+      "id": "dia-bierhaus-cerveza-red-ipa-timeless-bierhaus-473-ml",
+      "cadena": "Dia",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Red Ipa Timeless Bierhaus 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4135.0,
+          "ptc": 3101.25,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "id": "dia-bierhaus-cerveza-ipa-superstar-bierhaus-473-ml",
+      "cadena": "Dia",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Ipa Superstar Bierhaus 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4135.0,
+          "ptc": 4135.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-peroni-cerveza-peroni-330-ml",
+      "cadena": "Dia",
+      "marca": "Peroni",
+      "sku": "Cerveza Peroni 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4900.0,
+          "ptc": 4900.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-schneider-cerveza-lemon-remix-schneider-473-ml",
+      "cadena": "Dia",
+      "marca": "Schneider",
+      "sku": "Cerveza Lemon Remix Schneider 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2720.0,
+          "ptc": 2720.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-salta-cautiva-cerveza-fresh-lager-salta-cautiva-473-ml",
+      "cadena": "Dia",
+      "marca": "Salta Cautiva",
+      "sku": "Cerveza Fresh Lager Salta Cautiva 473 Ml.",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 3100.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "id": "dia-stella-artois-cerveza-pure-gold-stella-artois-330-ml",
+      "cadena": "Dia",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Pure Gold Stella Artois 330 Ml.",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4185.0,
+          "ptc": 3000.0,
+          "dinamica": 0.2832
+        }
+      }
+    },
+    {
+      "id": "dia-dia-cerveza-dorada-lata-dia-473-ml",
+      "cadena": "Dia",
+      "marca": "Dia",
+      "sku": "Cerveza Dorada Lata Dia 473 Ml.",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2350.0,
+          "ptc": 1790.0,
+          "dinamica": 0.2383
+        }
+      }
+    },
+    {
+      "id": "dia-budweiser-cerveza-budweiser-lata-473-ml",
+      "cadena": "Dia",
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser Lata 473 ml.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1550.0,
+          "ptc": 1550.0,
+          "dinamica": 0.0
+        }
+      }
+    }
+  ],
+  "dates": [
+    "2026-08-20"
+  ],
+  "cadenas": [
+    "Carrefour",
+    "Dia"
+  ],
+  "stats": [
+    {
+      "cadena": "Carrefour",
+      "marca": "República Artesanal",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1290.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Corona",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.3,
+      "avg_dinamica": 0.3,
+      "avg_ptc": 3649.3333333333335
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Michelob Ultra",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2725.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.32142857142857145,
+      "avg_ptc": 3128.214285714286
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Quilmes",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.8,
+      "avg_dinamica": 0.1,
+      "avg_ptc": 2851.625
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Bajo Cero",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2694.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Mecklenburger",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1556.6666666666667
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Brahma",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2447.6666666666665
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Denninghoffs",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 36990.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Heineken",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5038.75
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Apolo",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1990.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.3625,
+      "avg_ptc": 3423.65
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Guinness",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4149.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Patagonia",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 6217.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Pampa Brewing",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3100.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Andes",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.35,
+      "avg_ptc": 3723.85
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Budweiser",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4577.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Schneider",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3652.5
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Imperial",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3914.1666666666665
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Antares",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4324.666666666667
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Amstel",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3815.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Pampa",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3000.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Estrella De Galicia",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3233.3333333333335
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Blue Moon",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4947.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Salta Cautiva",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3531.8
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Miller",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4698.75
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Rabieta",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3699.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Warsteiner",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4902.5
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Grolsch",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4940.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Kunstmann",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4575.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Barbaroja",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3209.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Bierhaus",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4015.0
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Asahi",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5239.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Oslava",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2414,
+      "avg_dinamica": 0.1207,
+      "avg_ptc": 1545.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "St Wendeler",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4048,
+      "avg_dinamica": 0.16192,
+      "avg_ptc": 2003.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Isenbeck",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4019,
+      "avg_dinamica": 0.4019,
+      "avg_ptc": 1250.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Andes Origen",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 2313.75
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Schneider",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.1,
+      "avg_ptc": 2150.75
+    },
+    {
+      "cadena": "Dia",
+      "marca": "361",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2083,
+      "avg_dinamica": 0.2083,
+      "avg_ptc": 1900.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Brul",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.1447,
+      "avg_dinamica": 0.1447,
+      "avg_ptc": 3250.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Corona",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4032,
+      "avg_dinamica": 0.277875,
+      "avg_ptc": 3397.5
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Quilmes",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2703,
+      "avg_dinamica": 0.1787,
+      "avg_ptc": 2248.3333333333335
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Michelob Ultra",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.5146,
+      "avg_dinamica": 0.43229999999999996,
+      "avg_ptc": 1504.75
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Amstel",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3320.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Stella Artois",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.26368,
+      "avg_ptc": 2829.8
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Andes",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 2263.125
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Grolsch",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.35,
+      "avg_ptc": 2551.25
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Brahma",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2687,
+      "avg_dinamica": 0.22736666666666663,
+      "avg_ptc": 2236.6666666666665
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Bajo Cero",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1618.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Heineken",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.3653,
+      "avg_dinamica": 0.289375,
+      "avg_ptc": 3137.8125
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Salta Cautiva",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3101.6666666666665
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Budweiser",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2179,
+      "avg_dinamica": 0.1386666666666667,
+      "avg_ptc": 2346.6666666666665
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Imperial",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3064.1666666666665
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Pampa",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.1,
+      "avg_dinamica": 0.06666666666666667,
+      "avg_ptc": 2900.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Warsteiner",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.35,
+      "avg_ptc": 2551.25
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Antares",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4350.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Patagonia",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4955.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Miller",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3650.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Maradona",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3900.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Bierhaus",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.2,
+      "avg_ptc": 3305.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Guinness",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.1,
+      "avg_dinamica": 0.1,
+      "avg_ptc": 3690.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Estrella De Galicia",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3200.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Peroni",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4900.0
+    },
+    {
+      "cadena": "Dia",
+      "marca": "Dia",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2383,
+      "avg_dinamica": 0.2383,
+      "avg_ptc": 1790.0
+    }
+  ],
+  "fights": [
+    {
+      "name": "1890 / Bajo Cero vs Ortuzar / Cordoba",
+      "cmq": [
+        "1890",
+        "Bajo Cero"
+      ],
+      "comp": [
+        "Ortuzar",
+        "Cordoba"
+      ],
+      "seg": "Value"
+    },
+    {
+      "name": "Brahma vs Amstel",
+      "cmq": [
+        "Brahma"
+      ],
+      "comp": [
+        "Amstel"
+      ],
+      "seg": "Core"
+    },
+    {
+      "name": "Quilmes vs Schneider",
+      "cmq": [
+        "Quilmes"
+      ],
+      "comp": [
+        "Schneider"
+      ],
+      "seg": "Core"
+    },
+    {
+      "name": "Andes Origen vs Imperial",
+      "cmq": [
+        "Andes Origen",
+        "Andes"
+      ],
+      "comp": [
+        "Imperial"
+      ],
+      "seg": "Core+"
+    },
+    {
+      "name": "Andes vs Miller",
+      "cmq": [
+        "Andes Origen",
+        "Andes"
+      ],
+      "comp": [
+        "Miller"
+      ],
+      "seg": "Core+"
+    },
+    {
+      "name": "Michelob Ultra vs Miller",
+      "cmq": [
+        "Michelob Ultra"
+      ],
+      "comp": [
+        "Miller"
+      ],
+      "seg": "Core+"
+    },
+    {
+      "name": "Budweiser vs Amstel",
+      "cmq": [
+        "Budweiser"
+      ],
+      "comp": [
+        "Amstel"
+      ],
+      "seg": "Core"
+    },
+    {
+      "name": "Stella vs Pampa / Heineken / Grolsch",
+      "cmq": [
+        "Stella Artois",
+        "Stella Artois 0"
+      ],
+      "comp": [
+        "Pampa",
+        "Heineken",
+        "Grolsch"
+      ],
+      "seg": "Premium"
+    }
+  ],
+  "meta": {
+    "generado": "2026-08-20 11:34:36",
+    "sku_rows": 183,
+    "registros_validos": 183,
+    "dias": 1,
+    "cadenas": [
+      "Carrefour",
+      "Dia"
+    ],
+    "plataforma": "Supermercados online"
+  }
+}
