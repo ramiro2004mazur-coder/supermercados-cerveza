@@ -9,6 +9,13 @@ pagina web para listar productos de una categoria. VTEX pagina de a
 _from/_to (maximo 50 items por page) y devuelve el total en el header
 "resources: X-Y/TOTAL".
 
+IMPORTANTE: el parametro "sc" (sales channel) es obligatorio. Sin el,
+Carrefour a veces devuelve items sin la clave "sellers" en absoluto (sin
+error, sin precio, sin nada) — se detecto porque el scraper fallaba de
+forma intermitente con "producto sin seller" en TODOS los productos de
+una corrida, y volvia a andar bien en la corrida siguiente. No era un
+problema de red ni de retry: forzando sc=1 se reproduce siempre bien.
+
 Se filtran productos sin stock (AvailableQuantity <= 0 o precio <= 0) y
 packs/combos (six-packs, "x6", "+ vaso/copa/botella"), igual criterio que
 usa el scraper de Rappi para no mezclar precio-por-pack con precio unitario.
@@ -71,17 +78,29 @@ def _get_with_retries(s, url, params, retries=3):
 
 def fetch_category(s, base_url, category_path, max_pages=MAX_PAGES):
     """Trae todos los productos de una categoria VTEX, paginando por
-    _from/_to segun el total que devuelve el header 'resources'."""
+    _from/_to segun el total que devuelve el header 'resources'.
+
+    Algunas tiendas (visto en Carrefour) a veces devuelven items sin la
+    clave "sellers" en absoluto si no se manda el sales channel ("sc")
+    -- sin error, solo sin precio. Otras tiendas (Jumbo/Disco/Vea) en
+    cambio devuelven 400 Bad Request si se manda sc=1 a la fuerza (no
+    es su sales channel). Por eso no se hardcodea: se pide la primera
+    pagina normal y, si viene sin sellers, se reintenta esa pagina (y
+    las siguientes) agregando sc=1."""
     url = f"{base_url}/api/catalog_system/pub/products/search/{category_path}"
     items = []
     seen_ids = set()
     total = None
+    use_sc = False
     for page in range(max_pages):
         frm = page * PAGE_SIZE
         to = frm + PAGE_SIZE - 1
         if total is not None and frm > total:
             break
-        r = _get_with_retries(s, url, {"map": "c,c", "_from": frm, "_to": to})
+        params = {"map": "c,c", "_from": frm, "_to": to}
+        if use_sc:
+            params["sc"] = 1
+        r = _get_with_retries(s, url, params)
         if r.status_code not in (200, 206):
             r.raise_for_status()
         if total is None:
@@ -92,6 +111,13 @@ def fetch_category(s, base_url, category_path, max_pages=MAX_PAGES):
         data = r.json()
         if not data:
             break
+        if not use_sc and data[0].get("items") and not data[0]["items"][0].get("sellers"):
+            use_sc = True
+            params["sc"] = 1
+            r = _get_with_retries(s, url, params)
+            if r.status_code not in (200, 206):
+                r.raise_for_status()
+            data = r.json()
         for p in data:
             pid = p.get("productId")
             if pid in seen_ids:

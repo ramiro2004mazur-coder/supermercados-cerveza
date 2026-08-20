@@ -91,6 +91,24 @@
       "volumen_l": 0.473
     },
     {
+      "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza blanca Stella Artois 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4025.0,
+          "ptc": 1962.19,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
       "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-975-ml",
       "cadena": "Carrefour",
       "marca": "Stella Artois",
@@ -143,6 +161,24 @@
         }
       },
       "volumen_l": 0.33
+    },
+    {
+      "id": "carrefour-andes-origen-cerveza-rubia-andes-origen-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza rubia Andes Origen 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3195.0,
+          "ptc": 1557.56,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
+        }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-quilmes-cerveza-negra-quilmes-stout-473-ml",
@@ -379,6 +415,24 @@
       "volumen_l": 0.71
     },
     {
+      "id": "carrefour-andes-origen-cerveza-blanca-andes-origen-oro-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza blanca Andes Origen Oro 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3195.0,
+          "ptc": 1437.75,
+          "dinamica": 0.55,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
       "id": "carrefour-apolo-cerveza-rubia-apolo-1-lt",
       "cadena": "Carrefour",
       "marca": "Apolo",
@@ -464,6 +518,24 @@
           "ptc": 1941.75,
           "dinamica": 0.25,
           "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "carrefour-stella-artois-cerveza-negra-stella-artois-noire-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Stella Artois",
+      "sku": "Cerveza negra Stella Artois Noire 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4025.0,
+          "ptc": 3018.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
         }
       },
       "volumen_l": 0.473
@@ -901,6 +973,24 @@
       "volumen_l": 0.33
     },
     {
+      "id": "carrefour-andes-origen-cerveza-rubia-andes-origen-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "sku": "Cerveza rubia Andes Origen Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3335.0,
+          "ptc": 1625.81,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
       "id": "carrefour-imperial-cerveza-imperial-ipa-473-ml",
       "cadena": "Carrefour",
       "marca": "Imperial",
@@ -973,24 +1063,6 @@
       "volumen_l": 1.0
     },
     {
-      "id": "carrefour-quilmes-cerveza-rubia-clasica-quilmes-1-lt",
-      "cadena": "Carrefour",
-      "marca": "Quilmes",
-      "sku": "Cerveza rubia clásica Quilmes 1 lt",
-      "calibre": "710/730",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 916.0,
-          "ptc": 687.0,
-          "dinamica": 0.25,
-          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
-        }
-      },
-      "volumen_l": 1.0
-    },
-    {
       "id": "carrefour-pampa-brewing-cerveza-lager-pampa-brewing-en-lata-473-ml",
       "cadena": "Carrefour",
       "marca": "Pampa Brewing",
@@ -1022,6 +1094,24 @@
           "ptc": 3500.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "carrefour-corona-cerveza-sin-alcohol-0-0-corona-en-lata-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Corona",
+      "sku": "Cerveza sin alcohol 0.0 Corona en lata 473 ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3600.0,
+          "ptc": 1638.0,
+          "dinamica": 0.545,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable CORONA"
         }
       },
       "volumen_l": 0.473
@@ -1387,6 +1477,24 @@
       "volumen_l": 0.473
     },
     {
+      "id": "carrefour-rabieta-cerveza-rubia-rabieta-ipa-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Rabieta",
+      "sku": "Cerveza rubia Rabieta Ipa 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4149.0,
+          "ptc": 2696.85,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable RABIETA"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
       "id": "carrefour-warsteiner-cerveza-rubia-warsteiner-473-ml",
       "cadena": "Carrefour",
       "marca": "Warsteiner",
@@ -1670,6 +1778,24 @@
           "ptc": 4509.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "carrefour-rabieta-cerveza-roja-rabieta-irish-ale-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Rabieta",
+      "sku": "Cerveza roja Rabieta Irish Ale 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3699.0,
+          "ptc": 2404.35,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable RABIETA"
         }
       },
       "volumen_l": 0.473
@@ -3511,24 +3637,6 @@
       "volumen_l": 0.33
     },
     {
-      "id": "jumbo-corona-cerveza-lager-sin-alcohol-473-cc-corona",
-      "cadena": "Jumbo",
-      "marca": "Corona",
-      "sku": "Cerveza Lager Sin Alcohol 473 Cc Corona",
-      "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 3189.0,
-          "ptc": 3189.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.473
-    },
-    {
       "id": "jumbo-heineken-cerveza-lager-sin-alcohol-473-cc-heineken",
       "cadena": "Jumbo",
       "marca": "Heineken",
@@ -3743,6 +3851,24 @@
         }
       },
       "volumen_l": 0.71
+    },
+    {
+      "id": "jumbo-warsteiner-cerveza-rubia-473-ml-warsteiner",
+      "cadena": "Jumbo",
+      "marca": "Warsteiner",
+      "sku": "Cerveza Rubia 473 Ml Warsteiner",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3477.0,
+          "ptc": 3477.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "jumbo-imperial-cerveza-cream-stout-473-cc-imperial",
@@ -4267,24 +4393,6 @@
       "volumen_l": 0.34
     },
     {
-      "id": "jumbo-warsteiner-cerveza-rubia-473-ml-warsteiner",
-      "cadena": "Jumbo",
-      "marca": "Warsteiner",
-      "sku": "Cerveza Rubia 473 Ml Warsteiner",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 3477.0,
-          "ptc": 3477.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.473
-    },
-    {
       "id": "jumbo-budweiser-cerveza-rubia-1-lts-budweiser",
       "cadena": "Jumbo",
       "marca": "Budweiser",
@@ -4717,6 +4825,24 @@
       "volumen_l": 0.925
     },
     {
+      "id": "jumbo-quilmes-cerveza-stout-473-cc-quilmes",
+      "cadena": "Jumbo",
+      "marca": "Quilmes",
+      "sku": "Cerveza Stout 473 Cc Quilmes",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2711.0,
+          "ptc": 2711.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
       "id": "jumbo-pampa-brewing-cerveza-lager-473-cc-pampa-brewing",
       "cadena": "Jumbo",
       "marca": "Pampa Brewing",
@@ -4854,24 +4980,6 @@
         "2026-08-20": {
           "fleje": 4100.0,
           "ptc": 4100.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.473
-    },
-    {
-      "id": "jumbo-imperial-cerveza-apa-473-cc-imperial",
-      "cadena": "Jumbo",
-      "marca": "Imperial",
-      "sku": "Cerveza APA 473 Cc Imperial",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 3322.0,
-          "ptc": 3322.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -5077,24 +5185,6 @@
       "volumen_l": 0.6
     },
     {
-      "id": "jumbo-royal-dutch-cerveza-lager-0-0-330-ml-royal-dutch",
-      "cadena": "Jumbo",
-      "marca": "Royal Dutch",
-      "sku": "Cerveza Lager 0.0% 330 Ml Royal Dutch",
-      "calibre": "330/355",
-      "grupo": "Sin clasificar",
-      "segmento": "Sin clasificar",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 2600.0,
-          "ptc": 2600.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.33
-    },
-    {
       "id": "jumbo-salta-cautiva-cerveza-session-ipa-473-cc-salta-cautiva",
       "cadena": "Jumbo",
       "marca": "Salta Cautiva",
@@ -5201,24 +5291,6 @@
         }
       },
       "volumen_l": null
-    },
-    {
-      "id": "jumbo-tsingtao-cerveza-stout-330-ml-tsingtao",
-      "cadena": "Jumbo",
-      "marca": "Tsingtao",
-      "sku": "Cerveza Stout 330 Ml Tsingtao",
-      "calibre": "330/355",
-      "grupo": "Sin clasificar",
-      "segmento": "Sin clasificar",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 5426.37,
-          "ptc": 5426.37,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.33
     },
     {
       "id": "jumbo-karlsbrau-cerveza-helles-500-ml-karlsbrau",
@@ -5401,22 +5473,22 @@
       "volumen_l": 0.5
     },
     {
-      "id": "jumbo-imperial-cerveza-golden-710-cc-imperial",
+      "id": "jumbo-schneider-cerveza-rubia-473-ml-schneider",
       "cadena": "Jumbo",
-      "marca": "Imperial",
-      "sku": "Cerveza Golden 710 Cc Imperial",
-      "calibre": "710/730",
+      "marca": "Schneider",
+      "sku": "Cerveza Rubia 473 Ml Schneider",
+      "calibre": "473",
       "grupo": "Competencia",
-      "segmento": "Core+",
+      "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 4463.0,
-          "ptc": 4463.0,
+          "fleje": 2595.0,
+          "ptc": 2595.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
       },
-      "volumen_l": 0.71
+      "volumen_l": 0.473
     },
     {
       "id": "disco-corona-cerveza-sin-alcohol-330-cc-corona",
@@ -5941,6 +6013,24 @@
       "volumen_l": 0.473
     },
     {
+      "id": "disco-andes-origen-cerveza-ipa-473ml-andes-origen",
+      "cadena": "Disco",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Ipa 473ml Andes Origen",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 20012.0,
+          "ptc": 20012.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
       "id": "disco-andes-cerveza-rubia-1-lts-andes",
       "cadena": "Disco",
       "marca": "Andes",
@@ -6101,6 +6191,24 @@
         }
       },
       "volumen_l": 0.5
+    },
+    {
+      "id": "disco-corona-cerveza-rubia-473-cc-corona",
+      "cadena": "Disco",
+      "marca": "Corona",
+      "sku": "Cerveza Rubia 473 Cc Corona",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4999.0,
+          "ptc": 4999.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "disco-antares-cerveza-lager-473-cc-antares",
@@ -6348,6 +6456,24 @@
         "2026-08-20": {
           "fleje": 3581.0,
           "ptc": 3581.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "disco-andes-cerveza-ipa-andina-473-cc-andes",
+      "cadena": "Disco",
+      "marca": "Andes",
+      "sku": "Cerveza Ipa Andina 473 Cc Andes",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3605.0,
+          "ptc": 3605.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -7435,10 +7561,10 @@
       "volumen_l": 0.33
     },
     {
-      "id": "disco-tsingtao-cerveza-rubia-500-ml-tsingtao",
+      "id": "disco-tsingtao-cerveza-tsingtao-lata-500ml",
       "cadena": "Disco",
       "marca": "Tsingtao",
-      "sku": "Cerveza Rubia 500 Ml Tsingtao",
+      "sku": "Cerveza Tsingtao Lata 500ml",
       "calibre": "600",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
@@ -7469,42 +7595,6 @@
         }
       },
       "volumen_l": 0.5
-    },
-    {
-      "id": "disco-andes-origen-cerveza-ipa-473ml-andes-origen",
-      "cadena": "Disco",
-      "marca": "Andes Origen",
-      "sku": "Cerveza Ipa 473ml Andes Origen",
-      "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 20012.0,
-          "ptc": 20012.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.473
-    },
-    {
-      "id": "disco-andes-cerveza-ipa-andina-473-cc-andes",
-      "cadena": "Disco",
-      "marca": "Andes",
-      "sku": "Cerveza Ipa Andina 473 Cc Andes",
-      "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 3605.0,
-          "ptc": 3605.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.473
     },
     {
       "id": "vea-quilmes-cerveza-lager-710-cc-quilmes",
@@ -8425,6 +8515,24 @@
       "volumen_l": 0.34
     },
     {
+      "id": "vea-schneider-cerveza-rubia-1000-ml-schneider",
+      "cadena": "Vea",
+      "marca": "Schneider",
+      "sku": "Cerveza Rubia 1000 Ml Schneider",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4567.0,
+          "ptc": 4567.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
       "id": "vea-imperial-cerveza-extra-lager-473-cc-imperial",
       "cadena": "Vea",
       "marca": "Imperial",
@@ -8549,6 +8657,24 @@
         }
       },
       "volumen_l": 0.33
+    },
+    {
+      "id": "vea-quilmes-cerveza-ipa-473-cc-quilmes",
+      "cadena": "Vea",
+      "marca": "Quilmes",
+      "sku": "Cerveza IPA 473 Cc Quilmes",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2607.0,
+          "ptc": 2607.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "vea-grolsch-cerveza-ipa-473-cc-grolsch",
@@ -8731,24 +8857,6 @@
       "volumen_l": 0.473
     },
     {
-      "id": "vea-schneider-cerveza-rubia-1000-ml-schneider",
-      "cadena": "Vea",
-      "marca": "Schneider",
-      "sku": "Cerveza Rubia 1000 Ml Schneider",
-      "calibre": "710/730",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 4567.0,
-          "ptc": 4567.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 1.0
-    },
-    {
       "id": "vea-miller-cerveza-rubia-600-cc-miller",
       "cadena": "Vea",
       "marca": "Miller",
@@ -8783,24 +8891,6 @@
         }
       },
       "volumen_l": 0.473
-    },
-    {
-      "id": "vea-imperial-cerveza-golden-ale-330-cc-imperial",
-      "cadena": "Vea",
-      "marca": "Imperial",
-      "sku": "Cerveza Golden Ale 330 Cc Imperial",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 3477.0,
-          "ptc": 3477.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        }
-      },
-      "volumen_l": 0.33
     },
     {
       "id": "vea-rabieta-cerveza-helles-munich-473-cc-rabieta",
@@ -8945,6 +9035,24 @@
         }
       },
       "volumen_l": 0.473
+    },
+    {
+      "id": "vea-imperial-cerveza-golden-ale-330-cc-imperial",
+      "cadena": "Vea",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden Ale 330 Cc Imperial",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3477.0,
+          "ptc": 3477.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "vea-bierhaus-cerveza-chalalager-473-ml-bierhaus",
@@ -9181,22 +9289,5764 @@
       "volumen_l": null
     },
     {
-      "id": "jumbo-quilmes-cerveza-stout-473-cc-quilmes",
-      "cadena": "Jumbo",
-      "marca": "Quilmes",
-      "sku": "Cerveza Stout 473 Cc Quilmes",
+      "id": "coto-warsteiner-cerveza-pilsener-warsteiner-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Warsteiner",
+      "sku": "Cerveza Pilsener WARSTEINER Lata 473 Cc",
       "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Core",
+      "grupo": "Competencia",
+      "segmento": "Value",
       "dates": {
         "2026-08-20": {
-          "fleje": 2711.0,
-          "ptc": 2711.0,
+          "fleje": 3485.0,
+          "ptc": 3485.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
+    },
+    {
+      "id": "coto-heineken-cerveza-lager-heineken-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Lager HEINEKEN Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4030.0,
+          "ptc": 3022.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-corona-cerveza-corona-porron-330-cc",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza CORONA Porron 330 Cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4550.0,
+          "ptc": 3412.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-amstel-cerveza-lager-pura-malta-amstel-473ml",
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "sku": "Cerveza Lager Pura Malta Amstel 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2725.0,
+          "ptc": 2725.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-isenbeck-cerveza-isenbeck-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Isenbeck",
+      "sku": "Cerveza ISENBECK Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2126.0,
+          "ptc": 1381.9,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-grolsch-cerveza-lager-grolsch-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Grolsch",
+      "sku": "Cerveza Lager GROLSCH Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 2551.25,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-1890-cerveza-rubia-intensa-1890-473ml",
+      "cadena": "Coto",
+      "marca": "1890",
+      "sku": "Cerveza Rubia Intensa 1890 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2224.0,
+          "ptc": 2224.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-corona-cerveza-corona-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza CORONA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7291.0,
+          "ptc": 5468.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-stella-artois-cerveza-stella-artois-330cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois 330cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4079.0,
+          "ptc": 4079.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-schneider-cerveza-lager-schneider-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Lager SCHNEIDER Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2615.0,
+          "ptc": 2615.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-munich-cerveza-royal-munich-330ml",
+      "cadena": "Coto",
+      "marca": "Munich",
+      "sku": "Cerveza Royal Munich 330ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2400.0,
+          "ptc": 2400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-heineken-cerveza-lager-heineken-porron-330-cc",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Lager HEINEKEN Porron 330 Cc",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4195.0,
+          "ptc": 3146.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-imperial-cerveza-golden-lager-imperial-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden Lager Imperial Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 2328.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-heineken-cerveza-lager-heineken-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Lager HEINEKEN Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6865.0,
+          "ptc": 5148.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-ortuzar-cerveza-premium-lager-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Premium Lager Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2138.0,
+          "ptc": 2138.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-lager-stella-artois-botella-975-cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Lager STELLA ARTOIS Botella 975 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6822.0,
+          "ptc": 5116.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.975
+    },
+    {
+      "id": "coto-grolsch-cerveza-grolsch-botella-925-cc",
+      "cadena": "Coto",
+      "marca": "Grolsch",
+      "sku": "Cerveza GROLSCH Botella 925 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6755.0,
+          "ptc": 4390.75,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.925
+    },
+    {
+      "id": "coto-heineken-cerveza-heineken-lata-710-cc",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Heineken Lata 710 CC",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5995.0,
+          "ptc": 4496.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-warsteiner-cerveza-warsteiner-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Warsteiner",
+      "sku": "Cerveza WARSTEINER Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6320.0,
+          "ptc": 6320.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-schneider-cerveza-schneider-lata-710-cc",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Schneider Lata 710 CC",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3815.0,
+          "ptc": 3815.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-imperial-cerveza-imperial-cream-stout-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Imperial Cream Stout Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 2471.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-salta-cerveza-session-ipa-salta-473ml",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Session Ipa Salta 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-quilmes-cerveza-quilmes-porron-340-cc",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza QUILMES Porron 340 Cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1640.0,
+          "ptc": 1640.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.34
+    },
+    {
+      "id": "coto-pampa-brewing-cerveza-artesanal-honey-ale-pampa-brewing-co-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Artesanal Honey Ale Pampa Brewing Co Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2850.0,
+          "ptc": 2850.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-imperial-cerveza-lager-imperial-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Lager IMPERIAL Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 2328.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-amstel-cerveza-lager-amstel-710ml",
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "sku": "Cerveza Lager Amstel 710ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-pampa-brewing-cerveza-ipa-pampa-brewing-co-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Ipa PAMPA BREWING CO Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-michelob-cerveza-superior-suave-michelob-2838ml",
+      "cadena": "Coto",
+      "marca": "Michelob",
+      "sku": "Cerveza Superior Suave Michelob 2838ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 17331.0,
+          "ptc": 11265.15,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 2.838
+    },
+    {
+      "id": "coto-peroni-cerveza-rubia-peroni-bot-330-ml",
+      "cadena": "Coto",
+      "marca": "Peroni",
+      "sku": "Cerveza Rubia Peroni Bot 330 Ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5243.0,
+          "ptc": 5243.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-patagonia-cerveza-amber-lager-patagonia-botella-730-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Amber Lager PATAGONIA Botella 730 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7056.0,
+          "ptc": 3528.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-brahma-cerveza-brahma-chopp-porron-340-cc",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza BRAHMA Chopp Porron 340 Cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1749.0,
+          "ptc": 1749.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.34
+    },
+    {
+      "id": "coto-imperial-cerveza-golden-lager-imperial-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden Lager Imperial Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5230.0,
+          "ptc": 3922.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-imperial-cerveza-ipa-imperial-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Ipa Imperial Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 2471.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-blue-moon-cerveza-belgian-white-blue-moon-473ml",
+      "cadena": "Coto",
+      "marca": "Blue Moon",
+      "sku": "Cerveza Belgian White Blue Moon 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4685.0,
+          "ptc": 4685.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-patagonia-cerveza-session-ipa-patagonia-botella-730-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Session Ipa PATAGONIA Botella 730 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7056.0,
+          "ptc": 3528.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-michelob-cerveza-ultra-sin-gluten-michelob-275ml",
+      "cadena": "Coto",
+      "marca": "Michelob",
+      "sku": "Cerveza ultra sin gluten MICHELOB 275ml",
+      "calibre": "275",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2756.0,
+          "ptc": 1791.4,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.275
+    },
+    {
+      "id": "coto-brahma-cerveza-chopp-brahma-710ml",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Chopp Brahma 710ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3924.0,
+          "ptc": 3924.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-imperial-cerveza-apa-imperial-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Apa IMPERIAL Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 2471.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-salta-cerveza-cautiva-rubia-salta-473-cmq",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Cautiva Rubia SALTA 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-quilmes-cerveza-clasica-quilmes-710ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Clásica Quilmes 710ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3706.0,
+          "ptc": 2408.9,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-pampa-brewing-cerveza-amber-ale-pampa-brewing-co-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Amber Ale PAMPA BREWING CO Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2850.0,
+          "ptc": 2850.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-amstel-cerveza-lager-amstel-1000ml",
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "sku": "Cerveza Lager Amstel 1000ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4795.0,
+          "ptc": 4795.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-andes-cerveza-andes-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Andes Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5732.0,
+          "ptc": 4299.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-pampa-brewing-cerveza-dorada-pampa-brewing-co-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Dorada PAMPA BREWING CO Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2850.0,
+          "ptc": 2850.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-bot-stella-arto-bot-710-cmq",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Bot . Stella Arto Bot 710 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5970.0,
+          "ptc": 4477.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-stella-artois-cerveza-rubia-pure-gold-stella-artois-330cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza rubia Pure Gold STELLA ARTOIS 330cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4189.0,
+          "ptc": 2722.85,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-grolsch-cerveza-ipa-grolsch-473ml",
+      "cadena": "Coto",
+      "marca": "Grolsch",
+      "sku": "Cerveza Ipa Grolsch 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4140.0,
+          "ptc": 2691.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-brahma-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza BRAHMA Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4798.0,
+          "ptc": 4798.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-miller-cerveza-genuine-draft-miller-473ml",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza Genuine Draft Miller 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3485.0,
+          "ptc": 2265.25,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-patagonia-cerveza-vera-ipa-patagonia-bot-730-cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Vera Ipa Patagonia Bot 730 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7056.0,
+          "ptc": 3528.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-pampa-brewing-cerveza-nitro-cream-stout-pampa-brewing-co-bot-473-cmq",
+      "cadena": "Coto",
+      "marca": "Pampa Brewing",
+      "sku": "Cerveza Nitro Cream Stout Pampa Brewing Co Bot 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-imperial-cerveza-extra-lager-imperial-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Extra Lager IMPERIAL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5230.0,
+          "ptc": 3922.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-corona-cerveza-sin-alcohol-0-0-corona-330ml",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza Sin Alcohol 0.0% CORONA 330ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3500.0,
+          "ptc": 2198.7,
+          "dinamica": 0.3718,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-patagonia-cerveza-lager-del-sur-patagonia-730cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Lager Del Sur Patagonia 730cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7056.0,
+          "ptc": 3528.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-salta-cerveza-cautiva-roja-salta-473-cmq",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Cautiva Roja SALTA 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-blue-moon-cerveza-belgian-white-blue-moon-355cc",
+      "cadena": "Coto",
+      "marca": "Blue Moon",
+      "sku": "Cerveza Belgian White Blue Moon 355cc",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5210.0,
+          "ptc": 5210.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.355
+    },
+    {
+      "id": "coto-schneider-cerveza-schneider-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Schneider Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2725.0,
+          "ptc": 2725.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bierhaus-cerveza-golden-state-bierhaus-473ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Golden State Bierhaus 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3140.0,
+          "ptc": 3140.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-salta-cerveza-fresh-lager-salta-473cc",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Fresh Lager Salta 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-schneider-cerveza-lager-schneider-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Lager SCHNEIDER Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2494.0,
+          "ptc": 2494.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-bierhaus-cerveza-scotch-ness-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Scotch Ness Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3140.0,
+          "ptc": 3140.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-kunstmann-cerveza-session-ipa-kunstmann-lat-470-cmq",
+      "cadena": "Coto",
+      "marca": "Kunstmann",
+      "sku": "Cerveza Session Ipa Kunstmann Lat 470 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4575.0,
+          "ptc": 4575.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-quilmes-cerveza-stout-quilmes-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Stout QUILMES Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 4580.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-imperial-cerveza-roja-imperial-473-ml",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza roja Imperial 473 ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3295.0,
+          "ptc": 2471.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-miller-cerveza-genuine-draft-miller-330ml",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza Genuine Draft Miller 330ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3815.0,
+          "ptc": 2478.61,
+          "dinamica": 0.3503,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-quilmes-cerveza-lager-quilmes-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Lager Quilmes Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3767.0,
+          "ptc": 3767.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-antares-cerveza-ipa-sin-alcohol-antares-473ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Ipa Sin Alcohol Antares 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3555.0,
+          "ptc": 3555.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-budweiser-cerveza-budweiser-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza BUDWEISER Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5016.0,
+          "ptc": 3762.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-imperial-cerveza-ipa-imperial-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Ipa IMPERIAL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5670.0,
+          "ptc": 4252.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-stella-artois-cerveza-sin-alcohol-0-0-stella-artois-330cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Sin Alcohol 0.0 Stella Artois 330cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3210.0,
+          "ptc": 2086.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-rabieta-cerveza-ipa-rabieta-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Ipa RABIETA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4150.0,
+          "ptc": 4150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-kunstmann-cerveza-torobayo-kunstmann-lat-470-cmq",
+      "cadena": "Coto",
+      "marca": "Kunstmann",
+      "sku": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4575.0,
+          "ptc": 4575.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-imperial-cerveza-golden-imperial-330cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden Imperial 330cc",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3485.0,
+          "ptc": 2613.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-quilmes-cerveza-quilmes-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza QUILMES Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 4580.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-imperial-cerveza-lager-imperial-lata-710-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Lager Imperial Lata 710 CC",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4470.0,
+          "ptc": 3352.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-heineken-cerveza-0-0-heineken-473cc",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza 0.0% Heineken 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 2325.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-porter-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Porter Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3170.0,
+          "ptc": 3170.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-imperial-cerveza-golden-imperial-lat-710-cmq",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden Imperial Lat 710 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4470.0,
+          "ptc": 3352.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-antares-cerveza-xpa-extra-pale-ale-antares-473ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza XPA extra Pale Ale ANTARES 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4514.0,
+          "ptc": 4514.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-miller-cerveza-miller-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza MILLER Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6320.0,
+          "ptc": 4108.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-antares-cerveza-ipa-antares-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Ipa ANTARES Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3841.0,
+          "ptc": 3841.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-scottish-export-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Scottish Export Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3075.0,
+          "ptc": 3075.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-golden-ale-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Golden Ale Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3075.0,
+          "ptc": 3075.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-honey-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Honey Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3075.0,
+          "ptc": 3075.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-red-honey-rabieta-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Red Honey RABIETA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3700.0,
+          "ptc": 3700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-honey-antares-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Honey ANTARES Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4514.0,
+          "ptc": 4514.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-ipa-lupulada-antares-473ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Ipa Lupulada Antares 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4514.0,
+          "ptc": 4514.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-dubbel-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Dubbel Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3170.0,
+          "ptc": 3170.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-session-ipa-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Session Ipa Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3540.0,
+          "ptc": 3540.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-miller-cerveza-miller-lata-710-cc",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza Miller Lata 710 CC",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5175.0,
+          "ptc": 3363.75,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-ortuzar-cerveza-premium-lager-ortuzar-710ml",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza premium lager ORTUZAR 710ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3399.0,
+          "ptc": 3399.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-bierhaus-cerveza-sweetheart-honey-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Sweetheart Honey Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3140.0,
+          "ptc": 3140.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-lager-antares-473ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Lager ANTARES 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3837.0,
+          "ptc": 3837.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-asahi-cerveza-super-dry-asahi-330-ml",
+      "cadena": "Coto",
+      "marca": "Asahi",
+      "sku": "Cerveza Super Dry Asahi 330 Ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5243.0,
+          "ptc": 5243.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-bierhaus-cerveza-chalaland-hemp-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Chalaland Hemp Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4870.0,
+          "ptc": 4870.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-origen-cerveza-rubia-oro-andes-origen-1000ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza rubia oro ANDES ORIGEN 1000ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5406.0,
+          "ptc": 4054.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-ortuzar-cerveza-german-pils-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza German Pils Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3170.0,
+          "ptc": 3170.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-golden-ale-rabieta-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Golden Ale RABIETA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3700.0,
+          "ptc": 3700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-red-rabieta-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Red RABIETA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3700.0,
+          "ptc": 3700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-palermo-cerveza-palermo-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Palermo",
+      "sku": "Cerveza PALERMO Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-andes-origen-cerveza-ipa-andina-andes-origen-1000ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza ipa andina ANDES ORIGEN 1000ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5732.0,
+          "ptc": 4299.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-stella-artois-cerveza-premium-lager-stella-artois-2840ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Premium Lager Stella Artois 2840ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 23880.0,
+          "ptc": 17910.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 2.84
+    },
+    {
+      "id": "coto-imperial-cerveza-cream-stout-imperial-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Cream Stout IMPERIAL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5670.0,
+          "ptc": 4252.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-antares-cerveza-playa-grande-antares-473ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Playa Grande ANTARES 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4514.0,
+          "ptc": 4514.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-stella-artois-pure-gold-premium-lager-473ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois Pure Gold Premium Lager 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4138.0,
+          "ptc": 2689.7,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-ortuzar-cerveza-poker-con-bourbon-ortuzar-473cc",
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "sku": "Cerveza Poker Con Bourbon Ortuzar 473cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3540.0,
+          "ptc": 3540.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-kolsch-antares-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Kolsch ANTARES Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4514.0,
+          "ptc": 4514.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-sin-alcohol-stella-artois-2838cmq",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Sin Alcohol Stella Artois 2838cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 19860.0,
+          "ptc": 12909.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-bavaria-cerveza-lata-bavaria-500-ml",
+      "cadena": "Coto",
+      "marca": "Bavaria",
+      "sku": "Cerveza Lata Bavaria 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3890.0,
+          "ptc": 3890.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-cusquena-cerveza-porr-golden-lager-cusquena-bot-330-ml",
+      "cadena": "Coto",
+      "marca": "Cusqueña",
+      "sku": "Cerveza Porr Golden Lager Cusqueña Bot 330 Ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-quilmes-cerveza-ipa-quilmes-1l",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Ipa Quilmes 1l",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4580.0,
+          "ptc": 4580.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-bierhaus-cerveza-vulcano-red-ipa-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Vulcano Red Ipa Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4015.0,
+          "ptc": 4015.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-quilmes-cerveza-blanca-quilmes-sin-alcohol-473-cc-6-u",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Blanca QUILMES Sin Alcohol 473 Cc. 6 U.",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 12720.0,
+          "ptc": 8268.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-iguana-cerveza-pilsener-iguana-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Iguana",
+      "sku": "Cerveza Pilsener IGUANA Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-bierhaus-cerveza-piggy-apa-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Piggy Apa Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4015.0,
+          "ptc": 4015.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bierhaus-cerveza-chala-lager-bierhaus-473ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Chala Lager Bierhaus 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4015.0,
+          "ptc": 4015.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-munich-helles-rabieta-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Munich Helles Rabieta Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3700.0,
+          "ptc": 3700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-trio-cerveza-extra-stout-trio-500ml",
+      "cadena": "Coto",
+      "marca": "Trio",
+      "sku": "Cerveza Extra Stout Trio 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7829.0,
+          "ptc": 7829.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-bitburger-cerveza-bitburger-porron-330cc",
+      "cadena": "Coto",
+      "marca": "Bitburger",
+      "sku": "Cerveza Bitburger Porron 330cc",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4690.0,
+          "ptc": 4690.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-antares-cerveza-antares-espiritu-lager-330ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Antares Espíritu Lager 330ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3607.0,
+          "ptc": 3607.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-weidmann-cerveza-pilsener-weidmann-lata-500-cc",
+      "cadena": "Coto",
+      "marca": "Weidmann",
+      "sku": "Cerveza Pilsener Weidmann Lata 500 CC",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7129.0,
+          "ptc": 7129.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-miller-cerveza-porron-miller-bot-600-cmq",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza Porrón Miller Bot 600 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5720.0,
+          "ptc": 3718.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-oranjeboom-cerveza-lager-oranjeboom-original-lata-500-cc",
+      "cadena": "Coto",
+      "marca": "Oranjeboom",
+      "sku": "Cerveza Lager ORANJEBOOM Original Lata 500 Cc",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6739.0,
+          "ptc": 6739.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-monastere-cerveza-blond-monastere-500ml",
+      "cadena": "Coto",
+      "marca": "Monastere",
+      "sku": "Cerveza Blond Monastere 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 8549.0,
+          "ptc": 8549.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-weidmann-cerveza-weidmann-lata-500-cc",
+      "cadena": "Coto",
+      "marca": "Weidmann",
+      "sku": "Cerveza WEIDMANN Lata 500 Cc",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 471.0,
+          "ptc": 471.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-x-mark-cerveza-sabor-cannabis-x-mark-500ml",
+      "cadena": "Coto",
+      "marca": "X Mark",
+      "sku": "Cerveza sabor Cannabis X MARK 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 8719.0,
+          "ptc": 8719.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-goose-cerveza-lager-goose-710ml",
+      "cadena": "Coto",
+      "marca": "Goose",
+      "sku": "Cerveza Lager Goose 710ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5000.0,
+          "ptc": 5000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-lit-cerveza-lager-lit-light-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Lit",
+      "sku": "Cerveza Lager LIT Light Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1959.0,
+          "ptc": 1959.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-mexican-lager-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Mexican Lager PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2348.0,
+          "ptc": 2348.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-siete-cholas-cerveza-siete-cholas-lager-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Siete Cholas",
+      "sku": "Cerveza SIETE CHOLAS Lager Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-oktoberfest-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Oktoberfest PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2348.0,
+          "ptc": 2348.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-kolsch-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Kolsch PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2348.0,
+          "ptc": 2348.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-siete-cholas-cerveza-siete-cholas-american-ipa-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Siete Cholas",
+      "sku": "Cerveza SIETE CHOLAS American Ipa Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3750.0,
+          "ptc": 3750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-lit-cerveza-irish-red-ale-lit-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Lit",
+      "sku": "Cerveza Irish Red Ale Lit Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1959.0,
+          "ptc": 1959.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-brahma-cerveza-brahma-473ml",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Brahma 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1603.0,
+          "ptc": 1603.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-leuven-stella-artois-473ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Leuven Stella Artois 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2600.0,
+          "ptc": 2600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-quilmes-cerveza-porron-quilmes-340c",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Porron QUILMES 340c",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 660.0,
+          "ptc": 660.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-stella-artois-cerveza-lager-stella-artois-porron-330-cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Lager STELLA ARTOIS Porron 330 Cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 281.4,
+          "ptc": 281.4,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-quilmes-cerveza-red-lager-quilmes-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Red Lager QUILMES Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 254.65,
+          "ptc": 254.65,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-lager-stella-artois-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Lager STELLA ARTOIS Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6000.0,
+          "ptc": 6000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-budweiser-cerveza-musica-budweiser-473ml",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza Música Budweiser 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1700.0,
+          "ptc": 1275.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-goose-cerveza-lager-goose-730ml",
+      "cadena": "Coto",
+      "marca": "Goose",
+      "sku": "Cerveza Lager Goose 730ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5109.0,
+          "ptc": 5109.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-stella-artois-cerveza-stella-artois-noire-410ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois Noire 410ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1449.0,
+          "ptc": 1449.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.41
+    },
+    {
+      "id": "coto-quilmes-cerveza-doble-malta-quilmes-473ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Doble Malta Quilmes 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2300.0,
+          "ptc": 2300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-musica-2023-brahma-473ml",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Música 2023 Brahma 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1700.0,
+          "ptc": 1700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-imperial-cerveza-amber-lager-imperial-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Amber Lager Imperial Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 268.0,
+          "ptc": 268.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-noire-stella-artois-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Noire STELLA ARTOIS Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 422.6,
+          "ptc": 422.6,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-temple-cerveza-scottish-lager-temple-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Temple",
+      "sku": "Cerveza Scottish Lager TEMPLE Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-tripel-rabieta-473ml",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Tripel Rabieta 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3146.0,
+          "ptc": 3146.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-leuven-stella-artois-975ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Leuven Stella Artois 975ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4600.0,
+          "ptc": 4600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.975
+    },
+    {
+      "id": "coto-stella-artois-cerveza-belgium-stella-artois-410ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Belgium Stella Artois 410ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1449.0,
+          "ptc": 1449.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.41
+    },
+    {
+      "id": "coto-patagonia-cerveza-patagonia-amber-lager-355cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Patagonia Amber Lager 355cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1347.0,
+          "ptc": 1347.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-iguana-cerveza-iguana-473ml",
+      "cadena": "Coto",
+      "marca": "Iguana",
+      "sku": "Cerveza Iguana 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1830.0,
+          "ptc": 1830.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bierhaus-cerveza-mexican-lager-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Mexican Lager Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2450.0,
+          "ptc": 2450.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-blanche-stella-arto-473-cmq",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Blanche Stella Arto 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3500.0,
+          "ptc": 3500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-rabieta-cerveza-quadrupel-rabieta-473ml",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Quadrupel Rabieta 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3146.0,
+          "ptc": 3146.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-chachingo-cerveza-amber-lager-chachingo-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Chachingo",
+      "sku": "Cerveza Amber Lager CHACHINGO Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 327.0,
+          "ptc": 327.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-imperial-cerveza-amber-lager-imperial-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Amber Lager IMPERIAL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 515.0,
+          "ptc": 515.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-rabieta-cerveza-dubbel-rabieta-473ml",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Dubbel Rabieta 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3146.0,
+          "ptc": 3146.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-schneider-cerveza-black-lager-schneider-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Black Lager Schneider Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 920.0,
+          "ptc": 920.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-budweiser-cerveza-budweiser-porron-340-cc",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser Porron 340 CC",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 900.0,
+          "ptc": 900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.34
+    },
+    {
+      "id": "coto-patagonia-cerveza-ipa-estelar-patagonia-473ml",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Ipa Estelar Patagonia 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-patagonia-cerveza-lager-patagonia-lata-269-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Lager PATAGONIA Lata 269 Cc",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 332.23,
+          "ptc": 332.23,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.269
+    },
+    {
+      "id": "coto-patagonia-cerveza-pilsener-patagonia-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Pilsener Patagonia Lata 473 CC",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3716.0,
+          "ptc": 3716.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-red-ipa-rabieta-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Red Ipa RABIETA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3750.0,
+          "ptc": 3750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-gosse-cerveza-ipa-gosse-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Gosse",
+      "sku": "Cerveza Ipa GOSSE Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3180.0,
+          "ptc": 3180.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-chachingo-cerveza-ipa-chachingo-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Chachingo",
+      "sku": "Cerveza Ipa CHACHINGO Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 357.0,
+          "ptc": 357.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-imperial-cerveza-amber-lager-imperial-lata-710-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Amber Lager IMPERIAL Lata 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 715.0,
+          "ptc": 715.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-stella-artois-cerveza-stella-artois-270-ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Stella Artois 270 Ml",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 578.0,
+          "ptc": 578.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.27
+    },
+    {
+      "id": "coto-antares-cerveza-antares-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Antares Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 587.41,
+          "ptc": 587.41,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-schneider-cerveza-afa-schneider-473ml",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Afa Schneider 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1512.0,
+          "ptc": 1512.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-patagonia-cerveza-amber-lager-patagonia-1l",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Amber Lager Patagonia 1l",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3093.0,
+          "ptc": 3093.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-imperial-cerveza-lager-imperial-botella-500-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Lager Imperial Botella 500 CC",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 192.92,
+          "ptc": 192.92,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-patagonia-cerveza-weisse-patagonia-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Weisse Patagonia Lata 473 CC",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 430.5,
+          "ptc": 430.5,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-quilmes-cerveza-bock-quilmes-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Bock QUILMES Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2833.0,
+          "ptc": 2833.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-schneider-cerveza-red-schneider-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "sku": "Cerveza Red Schneider Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 860.0,
+          "ptc": 860.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-dorada-brahma-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Dorada Brahma Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1299.0,
+          "ptc": 1299.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-patagonia-cerveza-lager-patagonia-botella-730-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Lager Patagonia Botella 730 CC",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 809.09,
+          "ptc": 809.09,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-stella-artois-cerveza-noire-stella-artois-lat-269-ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Noire Stella Artois Lat 269 Ml",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 227.12,
+          "ptc": 227.12,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.269
+    },
+    {
+      "id": "coto-rabieta-cerveza-rabieta-wee-heavy-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza RABIETA Wee Heavy Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3750.0,
+          "ptc": 3750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-dorada-brahma-1l",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Dorada Brahma 1l",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2900.0,
+          "ptc": 2900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-rabieta-cerveza-apa-rabieta-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Apa RABIETA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3750.0,
+          "ptc": 3750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-chachingo-cerveza-botanic-lager-chachingo-740ml",
+      "cadena": "Coto",
+      "marca": "Chachingo",
+      "sku": "Cerveza Botanic Lager Chachingo 740ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4671.0,
+          "ptc": 4671.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.74
+    },
+    {
+      "id": "coto-goose-cerveza-hazy-ipa-goose-473-ml",
+      "cadena": "Coto",
+      "marca": "Goose",
+      "sku": "Cerveza Hazy Ipa Goose 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 648.92,
+          "ptc": 648.92,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-corona-cerveza-corona-410ml",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza Corona 410ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3555.0,
+          "ptc": 3555.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.41
+    },
+    {
+      "id": "coto-bieckert-cerveza-hazy-ipa-costa-bieckert-473ml",
+      "cadena": "Coto",
+      "marca": "Bieckert",
+      "sku": "Cerveza Hazy Ipa Costa Bieckert 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3195.0,
+          "ptc": 3195.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-amstel-cerveza-pilsener-amstel-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "sku": "Cerveza Pilsener AMSTEL Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 269.5,
+          "ptc": 269.5,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-grolsch-cerveza-pilsener-grolsch-porron-450-cc",
+      "cadena": "Coto",
+      "marca": "Grolsch",
+      "sku": "Cerveza Pilsener GROLSCH Porron 450 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 420.0,
+          "ptc": 420.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.45
+    },
+    {
+      "id": "coto-starberg-cerveza-lager-starberg-500ml",
+      "cadena": "Coto",
+      "marca": "Starberg",
+      "sku": "Cerveza Lager Starberg 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2461.0,
+          "ptc": 2461.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-amstel-cerveza-lager-amstel-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "sku": "Cerveza Lager AMSTEL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2573.0,
+          "ptc": 2573.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-patagonia-cerveza-coco-lager-patagonia-355cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Coco Lager Patagonia 355cc",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1907.0,
+          "ptc": 1907.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.355
+    },
+    {
+      "id": "coto-miller-cerveza-miller-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza MILLER Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1950.0,
+          "ptc": 1950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bieckert-cerveza-bapa-bieckert-473-ml",
+      "cadena": "Coto",
+      "marca": "Bieckert",
+      "sku": "Cerveza Bapa Bieckert 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3195.0,
+          "ptc": 3195.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-juicy-ipa-lupulo-antares-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Juicy Ipa/Lúpulo Antares Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 399.0,
+          "ptc": 399.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-quilmes-cerveza-quilmes-1890-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza QUILMES 1890 Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 294.45,
+          "ptc": 294.45,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-kunstmann-cerveza-hoppy-lager-kunstmann-470-cmq",
+      "cadena": "Coto",
+      "marca": "Kunstmann",
+      "sku": "Cerveza Hoppy Lager Kunstmann 470 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3195.0,
+          "ptc": 3195.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-quilmes-cerveza-quilmes-lat-354-ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Quilmes Lat 354 Ml",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 112.05,
+          "ptc": 112.05,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.354
+    },
+    {
+      "id": "coto-van-pur-cerveza-lager-van-pur-lata-500-cc",
+      "cadena": "Coto",
+      "marca": "Van Pur",
+      "sku": "Cerveza Lager VAN PUR Lata 500 Cc",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 220.0,
+          "ptc": 220.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-rabieta-cerveza-ipa-rabieta-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Ipa RABIETA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3600.0,
+          "ptc": 3600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-rabieta-cerveza-golden-lager-rabieta-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Golden Lager RABIETA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2400.0,
+          "ptc": 2400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-bieckert-cerveza-bapa-bieckert-630ml",
+      "cadena": "Coto",
+      "marca": "Bieckert",
+      "sku": "Cerveza Bapa Bieckert 630ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4500.0,
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.63
+    },
+    {
+      "id": "coto-temple-cerveza-honey-temple-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Temple",
+      "sku": "Cerveza Honey TEMPLE Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-budweiser-cerveza-budweiser-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser Botella 710 CC",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 572.09,
+          "ptc": 572.09,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-bieckert-cerveza-urbana-pilsen-bieckert-473-ml",
+      "cadena": "Coto",
+      "marca": "Bieckert",
+      "sku": "Cerveza Urbana Pilsen Bieckert 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3195.0,
+          "ptc": 3195.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-pilsener-brahma-chopp-botella-970-cc",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Pilsener BRAHMA Chopp Botella 970 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 384.0,
+          "ptc": 384.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.97
+    },
+    {
+      "id": "coto-imperial-cerveza-apa-imperial-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Apa IMPERIAL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4420.0,
+          "ptc": 4420.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-konig-cerveza-konig-330ml",
+      "cadena": "Coto",
+      "marca": "Konig",
+      "sku": "Cerveza Konig 330ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5950.0,
+          "ptc": 5950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-sol-cerveza-sol-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Sol",
+      "sku": "Cerveza SOL Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2535.0,
+          "ptc": 2535.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-cerveza-andes-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Andes Lata 473 CC",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 119.5,
+          "ptc": 119.5,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-red-ipa-rabieta-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Red Ipa RABIETA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 3100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-antares-cerveza-stout-antares-porron-500-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Stout Antares Porron 500 CC",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 400.0,
+          "ptc": 400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-quilmes-cerveza-edicion-hinchada-quilmes-x-6u-473ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Edición Hinchada Quilmes X 6u. 473ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 7796.0,
+          "ptc": 7796.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-temple-cerveza-wolf-ipa-temple-1l",
+      "cadena": "Coto",
+      "marca": "Temple",
+      "sku": "Cerveza Wolf Ipa Temple 1l",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4042.0,
+          "ptc": 4042.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-andes-cerveza-black-lager-andes-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Black Lager Andes Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5000.0,
+          "ptc": 5000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-antares-cerveza-antares-porron-500-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Antares Porron 500 CC",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 426.0,
+          "ptc": 426.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-palermo-cerveza-palermo-473-ml",
+      "cadena": "Coto",
+      "marca": "Palermo",
+      "sku": "Cerveza Palermo 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1830.0,
+          "ptc": 1830.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-temple-cerveza-cosmica-temple-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Temple",
+      "sku": "Cerveza Cósmica Temple Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2079.0,
+          "ptc": 2079.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-quilmes-cerveza-doble-malta-quilmes-lat-410-ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Doble Malta Quilmes Lat 410 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 411.84,
+          "ptc": 411.84,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.41
+    },
+    {
+      "id": "coto-kostritzer-cerveza-negra-kostritzer-porron-330cc",
+      "cadena": "Coto",
+      "marca": "Kostritzer",
+      "sku": "Cerveza Negra Kostritzer Porron 330cc",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5899.0,
+          "ptc": 5899.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-temple-cerveza-indie-golden-temple-473ml",
+      "cadena": "Coto",
+      "marca": "Temple",
+      "sku": "Cerveza Indie Golden Temple 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-musica-2023-brahma-1l",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Música 2023 Brahma 1l",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2900.0,
+          "ptc": 2900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-patagonia-cerveza-lager-del-sur-patagonia-473cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Lager Del Sur Patagonia 473cc",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4725.0,
+          "ptc": 2480.5,
+          "dinamica": 0.475,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-budweiser-cerveza-budweiser-lat-410-ml",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser Lat 410 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 393.31,
+          "ptc": 393.31,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.41
+    },
+    {
+      "id": "coto-andes-origen-cerveza-ipa-roja-andes-origen-473-ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Ipa Roja ANDES Origen 473 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1499.0,
+          "ptc": 1499.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-isenbeck-cerveza-isenbeck-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Isenbeck",
+      "sku": "Cerveza ISENBECK Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 164.0,
+          "ptc": 164.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-antares-cerveza-ipa-edicion-25-anos-antares-473ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Ipa Edición 25 Años Antares 473ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3645.0,
+          "ptc": 3645.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-corona-cerveza-corona-lata-269-cc",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza CORONA Lata 269 Cc",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1000.0,
+          "ptc": 1000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.269
+    },
+    {
+      "id": "coto-warsteiner-cerveza-warsteiner-barril-5-l",
+      "cadena": "Coto",
+      "marca": "Warsteiner",
+      "sku": "Cerveza Warsteiner Barril 5 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 58000.0,
+          "ptc": 58000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 5.0
+    },
+    {
+      "id": "coto-patagonia-cerveza-amber-lager-patagonia-lat-410-cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Amber Lager Patagonia Lat 410 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1818.0,
+          "ptc": 1818.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-sol-cerveza-sol-porron-330-cc",
+      "cadena": "Coto",
+      "marca": "Sol",
+      "sku": "Cerveza SOL Porron 330 Cc",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2675.0,
+          "ptc": 2675.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-rabieta-cerveza-oktoberfest-rabieta-710-ml",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Oktoberfest Rabieta 710 Ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 588.24,
+          "ptc": 588.24,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-amstel-cerveza-pilsener-amstel-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "sku": "Cerveza Pilsener AMSTEL Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 447.0,
+          "ptc": 447.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-rabieta-cerveza-rabieta-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza RABIETA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-chachingo-cerveza-pale-ale-chachingo-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Chachingo",
+      "sku": "Cerveza Pale Ale CHACHINGO Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 317.0,
+          "ptc": 317.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-rabieta-wee-heavy-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza RABIETA Wee Heavy Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 3100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-rabieta-cerveza-red-rabieta-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Red RABIETA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-bajo-cero-cerveza-quilmes-bajo-cero-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Bajo Cero",
+      "sku": "Cerveza QUILMES Bajo Cero Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1649.0,
+          "ptc": 1649.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-grolsch-cerveza-red-ale-grolsch-473-ml",
+      "cadena": "Coto",
+      "marca": "Grolsch",
+      "sku": "Cerveza Red Ale Grolsch 473 Ml",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3300.0,
+          "ptc": 3300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-rabieta-cerveza-apa-rabieta-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "sku": "Cerveza Apa RABIETA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3100.0,
+          "ptc": 3100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-imperial-cerveza-ipa-imperial-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Ipa IMPERIAL Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 231.4,
+          "ptc": 231.4,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-bajo-cero-cerveza-quilmes-bajo-cero-botella-970-cc",
+      "cadena": "Coto",
+      "marca": "Bajo Cero",
+      "sku": "Cerveza QUILMES Bajo Cero Botella 970 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 153.83,
+          "ptc": 153.83,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.97
+    },
+    {
+      "id": "coto-salta-cerveza-negra-salta-473-cmq",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Negra Salta 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1872.0,
+          "ptc": 1872.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-antares-cerveza-scotch-antares-porron-500-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Scotch ANTARES Porron 500 Cc",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4055.0,
+          "ptc": 4055.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-ipa-beta-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Ipa Beta PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2670.0,
+          "ptc": 2670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-sol-cerveza-sol-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Sol",
+      "sku": "Cerveza Sol Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5300.0,
+          "ptc": 5300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-yerevan-cerveza-lager-premium-yerevan-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Yerevan",
+      "sku": "Cerveza Lager Premium Yerevan Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 708.0,
+          "ptc": 708.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-miller-cerveza-miller-botella-330-cc",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza MILLER Botella 330 Cc",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3020.0,
+          "ptc": 3020.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-27-cerveza-eazy-27-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "27",
+      "sku": "Cerveza Eazy 27 Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3586.0,
+          "ptc": 3586.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-oranjeboom-cerveza-oranjeboom-lata-500-cc",
+      "cadena": "Coto",
+      "marca": "Oranjeboom",
+      "sku": "Cerveza ORANJEBOOM Lata 500 Cc",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 467.0,
+          "ptc": 467.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-oranjeboom-cerveza-radler-oranjeboom-lata-500-cc",
+      "cadena": "Coto",
+      "marca": "Oranjeboom",
+      "sku": "Cerveza Radler ORANJEBOOM Lata 500 Cc",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 259.0,
+          "ptc": 259.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-patagonia-cerveza-abrazo-de-oso-patagonia-473-ml",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Abrazo De Oso PATAGONIA 473 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 509.36,
+          "ptc": 509.36,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-porter-antares-porron-500-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Porter ANTARES Porron 500 Cc",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2869.0,
+          "ptc": 2869.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-patagonia-cerveza-bohemian-pilsener-patagonia-botella-730-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Bohemian Pilsener PATAGONIA Botella 730 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6200.0,
+          "ptc": 6200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-patagonia-cerveza-bohemian-patagonia-1l",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Bohemian Patagonia 1l",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3093.0,
+          "ptc": 3093.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-patagonia-cerveza-vera-ipa-patagonia-410-cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Vera Ipa Patagonia 410 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 535.98,
+          "ptc": 535.98,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-bazinga-session-ipa-penon-del-aguila-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Bazinga Session Ipa Peñon Del Aguila Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1588.0,
+          "ptc": 1588.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-patagonia-cerveza-weisse-patagonia-botella-730-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Weisse PATAGONIA Botella 730 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 6200.0,
+          "ptc": 6200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.73
+    },
+    {
+      "id": "coto-antares-cerveza-antares-botella-500-cc",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza ANTARES Botella 500 Cc",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4423.0,
+          "ptc": 4423.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-quilmes-cerveza-doble-malta-quilmes-bot-1-ltr",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Doble Malta Quilmes Bot 1 Ltr",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2624.0,
+          "ptc": 2624.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-miller-cerveza-genuine-draft-miller-1000ml",
+      "cadena": "Coto",
+      "marca": "Miller",
+      "sku": "Cerveza Genuine Draft Miller 1000ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3550.0,
+          "ptc": 3550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-honigbier-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Honigbier PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2348.0,
+          "ptc": 2348.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-waldbier-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Waldbier PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2445.0,
+          "ptc": 2445.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-hefeweizen-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Hefeweizen PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2348.0,
+          "ptc": 2348.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-salta-cerveza-blend-salta-473-cmq",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Blend SALTA 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2650.0,
+          "ptc": 2650.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-patagonia-cerveza-kune-patagonia-botella-710-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Küné PATAGONIA Botella 710 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 876.0,
+          "ptc": 876.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-cacao-ipa-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Cacao Ipa PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 253.79,
+          "ptc": 253.79,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-origen-cerveza-vendimia-andes-origen-473-ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Vendimia Andes Origen 473 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 406.18,
+          "ptc": 406.18,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-kilikia-cerveza-lager-beer-kilikia-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Kilikia",
+      "sku": "Cerveza Lager Beer KILIKIA Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 603.0,
+          "ptc": 603.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-siete-cholas-cerveza-honey-siete-cholas-473ml",
+      "cadena": "Coto",
+      "marca": "Siete Cholas",
+      "sku": "Cerveza Honey Siete Cholas 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-salta-cerveza-cautiva-rubia-salta-retornable-1-l",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Cautiva Rubia SALTA Retornable 1 L",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4450.0,
+          "ptc": 4450.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-patagonia-cerveza-apa-travesia-surena-patagonia-410-cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Apa Travesía Sureña Patagonia 410 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 614.63,
+          "ptc": 614.63,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-imperial-cerveza-roja-imperial-1-ltr",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Roja Imperial 1 Ltr",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4420.0,
+          "ptc": 4420.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-konig-cerveza-lata-konig-500ml",
+      "cadena": "Coto",
+      "marca": "Konig",
+      "sku": "Cerveza Lata Konig 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5750.0,
+          "ptc": 5750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-andes-origen-cerveza-fresquita-andes-origen-473-ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Fresquita Andes Origen 473 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2800.0,
+          "ptc": 2800.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-heineken-cerveza-150-anos-heineken-710ml",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza 150 Años Heineken 710ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3465.0,
+          "ptc": 3465.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-patagonia-cerveza-sendero-sur-patagonia-473-ml",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Sendero Sur Patagonia 473 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 681.77,
+          "ptc": 681.77,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-kronenburg-cerveza-blanc-1664-kronenburg-330-ml",
+      "cadena": "Coto",
+      "marca": "Kronenburg",
+      "sku": "Cerveza Blanc 1664 Kronenburg 330 Ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 648.63,
+          "ptc": 648.63,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-andes-cerveza-miel-andes-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Miel ANDES Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 136.5,
+          "ptc": 136.5,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-patagonia-cerveza-24-7-patagonia-lat-410-cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza 24.7 Patagonia Lat 410 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1618.0,
+          "ptc": 1618.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-hertog-jan-cerveza-arcener-tripel-hertog-jan-porron-500-cc",
+      "cadena": "Coto",
+      "marca": "Hertog Jan",
+      "sku": "Cerveza Arcener Tripel HERTOG JAN Porron 500 Cc",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 13250.0,
+          "ptc": 13250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-warsteiner-cerveza-warsteiner-bot-980-ml",
+      "cadena": "Coto",
+      "marca": "Warsteiner",
+      "sku": "Cerveza WARSTEINER Bot 980 Ml",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3770.0,
+          "ptc": 3770.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.98
+    },
+    {
+      "id": "coto-patagonia-cerveza-bohemian-patagonia-lat-410-cmq",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Bohemian Patagonia Lat 410 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1818.0,
+          "ptc": 1818.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-brahma-cerveza-bot-dorada-origina-brahma-bot-710-cmq",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Bot Dorada Origina Brahma Bot 710 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3961.0,
+          "ptc": 3961.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-patagonia-cerveza-abrazo-d-oso-x-patagonia-pak-2838-ml",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Abrazo D Oso X Patagonia Pak 2838 Ml",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2858.17,
+          "ptc": 2858.17,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 2.838
+    },
+    {
+      "id": "coto-chachingo-cerveza-grape-ale-chachingo-740ml",
+      "cadena": "Coto",
+      "marca": "Chachingo",
+      "sku": "Cerveza Grape Ale CHACHINGO 740ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4671.0,
+          "ptc": 4671.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.74
+    },
+    {
+      "id": "coto-arsenalnoye-cerveza-bot-cooler-lager-arsenalnoye-bot-470-ml",
+      "cadena": "Coto",
+      "marca": "Arsenalnoye",
+      "sku": "Cerveza Bot Cooler Lager Arsenalnoye Bot 470 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 455.0,
+          "ptc": 455.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.47
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-lata-schwarzeier-penon-del-aguila-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Lata Schwarzeier Peñon Del Aguila Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2348.0,
+          "ptc": 2348.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-michelob-cerveza-superior-light-michelob-lat-410-cmq",
+      "cadena": "Coto",
+      "marca": "Michelob",
+      "sku": "Cerveza Superior Light Michelob Lat 410 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1299.0,
+          "ptc": 1299.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-kostritzer-cerveza-lata-negra-kostritzer-500ml",
+      "cadena": "Coto",
+      "marca": "Kostritzer",
+      "sku": "Cerveza Lata Negra Köstritzer 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 5499.0,
+          "ptc": 5499.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-andes-cerveza-weissbier-andes-botella-970-cc",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Weissbier ANDES Botella 970 Cc",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 767.49,
+          "ptc": 767.49,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.97
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-gose-sandia-limada-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Gose Sandia Limada PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2670.0,
+          "ptc": 2670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-sin-alcohol-0-stella-arto-bot-330-cmq",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Sin Alcohol 0. Stella Arto Bot 330 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1000.0,
+          "ptc": 1000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-arandano-sour-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Arándano Sour PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2670.0,
+          "ptc": 2670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-siete-cholas-cerveza-porter-siete-chola-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Siete Cholas",
+      "sku": "Cerveza Porter Siete Chola Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2000.0,
+          "ptc": 2000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-american-amber-penon-del-aguila-lat-473-cmq",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza American Amber Peñon Del Aguila Lat 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2670.0,
+          "ptc": 2670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-carlsberg-cerveza-carlsberg-lat-500-cmq",
+      "cadena": "Coto",
+      "marca": "Carlsberg",
+      "sku": "Cerveza Carlsberg Lat 500 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 552.66,
+          "ptc": 552.66,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-blue-moon-cerveza-belgian-white-blue-moon-473-cmq",
+      "cadena": "Coto",
+      "marca": "Blue Moon",
+      "sku": "Cerveza Belgian White Blue Moon 473 Cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2575.0,
+          "ptc": 2575.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-andes-cerveza-criolla-andes-orige-lat-413-ml",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Criolla Andes Orige Lat 413 Ml",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 136.5,
+          "ptc": 136.5,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.413
+    },
+    {
+      "id": "coto-8-6-cerveza-lata-black-8-6-500-ml",
+      "cadena": "Coto",
+      "marca": "8.6",
+      "sku": "Cerveza Lata Black 8.6 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1283.98,
+          "ptc": 1283.98,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-andes-origen-cerveza-rojita-andes-origen-lat-269-cmq",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Rojita Andes Origen Lat 269 Cmq",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 409.0,
+          "ptc": 409.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-penon-del-aguila-cerveza-maracuya-sour-penon-del-aguila-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "sku": "Cerveza Maracuyá Sour PEÑON DEL AGUILA Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2670.0,
+          "ptc": 2670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-warsteiner-cerveza-con-limon-warsteiner-500ml",
+      "cadena": "Coto",
+      "marca": "Warsteiner",
+      "sku": "Cerveza con limón WARSTEINER 500ml",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3360.0,
+          "ptc": 3360.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-kilikia-cerveza-elitar-kilikia-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Kilikia",
+      "sku": "Cerveza Elitar Kilikia Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 603.0,
+          "ptc": 603.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-8-6-cerveza-lata-extreme-8-6-500-ml",
+      "cadena": "Coto",
+      "marca": "8.6",
+      "sku": "Cerveza Lata Extreme 8.6 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1222.84,
+          "ptc": 1222.84,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-andes-cerveza-andes-fresquita-1-ltr",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Andes Fresquita 1 Ltr",
+      "calibre": "S/C",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3600.0,
+          "ptc": 3600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-arsenalnoye-cerveza-tradicional-arsenalnoye-470-ml",
+      "cadena": "Coto",
+      "marca": "Arsenalnoye",
+      "sku": "Cerveza Tradicional Arsenalnoye 470 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 57.15,
+          "ptc": 57.15,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.47
+    },
+    {
+      "id": "coto-heineken-cerveza-150-anos-heineken-300ml",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza 150 Años Heineken 300ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1801.0,
+          "ptc": 1801.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.3
+    },
+    {
+      "id": "coto-antares-cerveza-bot-scotch-antares-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Bot Scotch Antares Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 309.0,
+          "ptc": 309.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-antares-cerveza-bot-kolsch-antares-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Bot Kolsch Antares Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 309.0,
+          "ptc": 309.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-kilikia-cerveza-dark-kilikia-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Kilikia",
+      "sku": "Cerveza Dark Kilikia Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 603.0,
+          "ptc": 603.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-8-6-cerveza-lata-gold-8-6-500-ml",
+      "cadena": "Coto",
+      "marca": "8.6",
+      "sku": "Cerveza Lata Gold 8.6 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1283.98,
+          "ptc": 1283.98,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-la-pinta-de-la-paz-cerveza-la-pinta-de-la-paz-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "La Pinta De La Paz",
+      "sku": "Cerveza LA PINTA DE LA PAZ Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 119.5,
+          "ptc": 119.5,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-bot-honey-beer-antares-bot-500-ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Bot Honey Beer Antares Bot 500 Ml",
+      "calibre": "600",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 359.0,
+          "ptc": 359.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-salta-cerveza-bot-cautiva-roja-salta-1-ltr",
+      "cadena": "Coto",
+      "marca": "Salta",
+      "sku": "Cerveza Bot Cautiva Roja SALTA 1 Ltr",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 4450.0,
+          "ptc": 4450.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-heineken-cerveza-heineken-edicion-150-anos-1l",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Heineken Edición 150 Años 1l",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 3738.0,
+          "ptc": 3738.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-santa-fe-cerveza-santa-fe-frost-botella-1-l",
+      "cadena": "Coto",
+      "marca": "Santa Fe",
+      "sku": "Cerveza SANTA FE Frost Botella 1 L",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 131.44,
+          "ptc": 131.44,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-abstemia-cerveza-sin-alcohol-ipa-abstemia-473-ml",
+      "cadena": "Coto",
+      "marca": "Abstemia",
+      "sku": "Cerveza Sin Alcohol Ipa Abstemia 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1499.7,
+          "ptc": 1499.7,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-heineken-cerveza-sin-alcohol-heineken-355cmq",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Sin Alcohol Heineken 355cmq",
+      "calibre": "S/C",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 2090.0,
+          "ptc": 1567.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-imperial-cerveza-sin-alcohol-roja-imperial-355ml",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Sin Alcohol Roja Imperial 355ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1340.0,
+          "ptc": 1005.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.355
+    },
+    {
+      "id": "coto-imperial-cerveza-sin-alcohol-golden-imperial-355ml",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Sin Alcohol Golden Imperial 355ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-20": {
+          "fleje": 1340.0,
+          "ptc": 1340.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.355
     }
   ],
   "dates": [
@@ -9204,6 +15054,7 @@
   ],
   "cadenas": [
     "Carrefour",
+    "Coto",
     "Dia",
     "Disco",
     "Jumbo",
@@ -9229,8 +15080,8 @@
       "dias": 1,
       "dias_dinamica": 1,
       "max_dinamica": 0.545,
-      "avg_dinamica": 0.49833333333333335,
-      "avg_ptc": 2653.0
+      "avg_dinamica": 0.51,
+      "avg_ptc": 2399.25
     },
     {
       "cadena": "Carrefour",
@@ -9251,8 +15102,8 @@
       "dias": 1,
       "dias_dinamica": 1,
       "max_dinamica": 0.5775,
-      "avg_dinamica": 0.5420833333333334,
-      "avg_ptc": 2197.2283333333335
+      "avg_dinamica": 0.501875,
+      "avg_ptc": 2270.53875
     },
     {
       "cadena": "Carrefour",
@@ -9262,8 +15113,19 @@
       "dias": 1,
       "dias_dinamica": 1,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.2625,
-      "avg_ptc": 2111.84375
+      "avg_dinamica": 0.2642857142857143,
+      "avg_ptc": 2315.3928571428573
+    },
+    {
+      "cadena": "Carrefour",
+      "marca": "Andes Origen",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.55,
+      "avg_dinamica": 0.5232142857142856,
+      "avg_ptc": 2127.4385714285713
     },
     {
       "cadena": "Carrefour",
@@ -9330,17 +15192,6 @@
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
       "avg_ptc": 1990.0
-    },
-    {
-      "cadena": "Carrefour",
-      "marca": "Andes Origen",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dias": 1,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.55,
-      "avg_dinamica": 0.521875,
-      "avg_ptc": 2567.7375
     },
     {
       "cadena": "Carrefour",
@@ -9505,7 +15356,7 @@
       "dias_dinamica": 1,
       "max_dinamica": 0.35,
       "avg_dinamica": 0.35,
-      "avg_ptc": 2404.35
+      "avg_ptc": 2477.475
     },
     {
       "cadena": "Carrefour",
@@ -9923,7 +15774,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4733.4
+      "avg_ptc": 5119.5
     },
     {
       "cadena": "Jumbo",
@@ -10066,7 +15917,18 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3723.3333333333335
+      "avg_ptc": 3441.25
+    },
+    {
+      "cadena": "Jumbo",
+      "marca": "Warsteiner",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4930.5
     },
     {
       "cadena": "Jumbo",
@@ -10077,7 +15939,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3992.714285714286
+      "avg_ptc": 4009.4166666666665
     },
     {
       "cadena": "Jumbo",
@@ -10133,17 +15995,6 @@
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
       "avg_ptc": 4180.0
-    },
-    {
-      "cadena": "Jumbo",
-      "marca": "Warsteiner",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 4930.5
     },
     {
       "cadena": "Jumbo",
@@ -10268,17 +16119,6 @@
     },
     {
       "cadena": "Jumbo",
-      "marca": "Royal Dutch",
-      "grupo": "Sin clasificar",
-      "segmento": "Sin clasificar",
-      "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 2600.0
-    },
-    {
-      "cadena": "Jumbo",
       "marca": "Tsingtao",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
@@ -10286,7 +16126,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 6525.633333333334
+      "avg_ptc": 7075.264999999999
     },
     {
       "cadena": "Jumbo",
@@ -10330,7 +16170,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4110.0
+      "avg_ptc": 4406.333333333333
     },
     {
       "cadena": "Disco",
@@ -10474,6 +16314,17 @@
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
       "avg_ptc": 3500.0
+    },
+    {
+      "cadena": "Disco",
+      "marca": "Andes Origen",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 20012.0
     },
     {
       "cadena": "Disco",
@@ -10729,17 +16580,6 @@
       "avg_ptc": 3900.0
     },
     {
-      "cadena": "Disco",
-      "marca": "Andes Origen",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 20012.0
-    },
-    {
       "cadena": "Vea",
       "marca": "Quilmes",
       "grupo": "CMQ",
@@ -10748,7 +16588,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3328.6
+      "avg_ptc": 3208.3333333333335
     },
     {
       "cadena": "Vea",
@@ -11068,6 +16908,710 @@
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
       "avg_ptc": 2599.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Warsteiner",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 14987.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.16666666666666666,
+      "avg_ptc": 3190.027777777778
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Corona",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.3718,
+      "avg_dinamica": 0.17436000000000001,
+      "avg_ptc": 3126.8900000000003
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Amstel",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2455.75
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Isenbeck",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.175,
+      "avg_ptc": 772.95
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Grolsch",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.20999999999999996,
+      "avg_ptc": 2670.6
+    },
+    {
+      "cadena": "Coto",
+      "marca": "1890",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2224.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.1131578947368421,
+      "avg_ptc": 3899.903684210526
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Schneider",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2134.4285714285716
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Munich",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2400.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.1590909090909091,
+      "avg_ptc": 2423.5713636363635
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Ortuzar",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3135.2
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Salta",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3230.25
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.04375,
+      "avg_ptc": 2944.368125
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Pampa Brewing",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2970.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Michelob",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.2333333333333333,
+      "avg_ptc": 4785.183333333333
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Peroni",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5243.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.5,
+      "avg_dinamica": 0.099,
+      "avg_ptc": 2378.0092
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2521.8
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Blue Moon",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4156.666666666667
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Andes",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.03571428571428571,
+      "avg_ptc": 2008.4271428571428
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Miller",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.3503,
+      "avg_dinamica": 0.2187875,
+      "avg_ptc": 3056.70125
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3598.125
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Kunstmann",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4115.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Antares",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2759.5705000000003
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.1,
+      "avg_ptc": 1380.48
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Rabieta",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3238.2231578947367
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Asahi",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5243.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.08333333333333333,
+      "avg_ptc": 2244.6133333333332
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Palermo",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2877.5
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Bavaria",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3890.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Cusqueña",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4200.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Iguana",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2877.5
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Trio",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 7829.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Bitburger",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4690.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Weidmann",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3800.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Oranjeboom",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2488.3333333333335
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Monastere",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 8549.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "X Mark",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 8719.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Goose",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3585.9733333333334
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Lit",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1959.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Peñon del Aguila",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2266.0564285714286
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Siete Cholas",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3062.5
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Temple",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3864.2
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Chachingo",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2068.6
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Gosse",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3180.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Bieckert",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3521.25
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Starberg",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2461.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Van Pur",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 220.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Konig",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5850.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Sol",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3503.3333333333335
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Kostritzer",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5699.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Bajo Cero",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 901.415
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Yerevan",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 708.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "27",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3586.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Kilikia",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 603.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Kronenburg",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 648.63
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Hertog Jan",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 13250.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Arsenalnoye",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 256.075
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Carlsberg",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 552.66
+    },
+    {
+      "cadena": "Coto",
+      "marca": "8.6",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1263.6000000000001
+    },
+    {
+      "cadena": "Coto",
+      "marca": "La Pinta De La Paz",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 119.5
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Santa Fe",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 131.44
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Abstemia",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1499.7
     }
   ],
   "fights": [
@@ -11160,12 +17704,13 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-20 17:21:57",
-    "sku_rows": 511,
-    "registros_validos": 511,
+    "generado": "2026-08-20 17:44:16",
+    "sku_rows": 836,
+    "registros_validos": 836,
     "dias": 1,
     "cadenas": [
       "Carrefour",
+      "Coto",
       "Dia",
       "Disco",
       "Jumbo",

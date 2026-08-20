@@ -1,9 +1,11 @@
 """
-scrape.py — scraper de precios de cerveza en supermercados online (VTEX)
+scrape.py — scraper de precios de cerveza en supermercados online
 --------------------------------------------------------------------------
-Recorre las cadenas configuradas en chains.py (Carrefour y Dia por ahora,
-ver README) via el API publico de catalogo de VTEX, sin login. Guarda un
-unico CSV combinado por corrida con una fila por SKU y cadena.
+Recorre las cadenas configuradas en chains.py. La mayoria corre sobre
+VTEX (motor "vtex", via su API publico de catalogo); Coto usa un motor
+distinto ("coto", Constructor.io) — ver docstrings de vtex_client.py y
+coto_client.py. Guarda un unico CSV combinado por corrida con una fila
+por SKU y cadena.
 
 Si una cadena entera falla (red, HTTP, o devuelve 0 productos) se loguea
 y se sigue con las demas — no corta la corrida completa por una cadena
@@ -30,20 +32,29 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+import coto_client
+import vtex_client
 from brands import marca_de
 from chains import CHAINS
-from vtex_client import fetch_category, productos_a_filas, session
 
 TZ = ZoneInfo("America/Argentina/Buenos_Aires")
 DEFAULT_OUT_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
 CSV_FIELDS = ["cadena", "marca", "descripcion", "calibre", "fleje", "precio", "descuento", "promo_nominal"]
 
 
-def scrape_cadena(s, chain):
-    productos = fetch_category(s, chain["base_url"], chain["category_path"])
+def scrape_cadena(chain):
+    if chain["motor"] == "coto":
+        s = coto_client.session()
+        resultados = coto_client.fetch_search(s, chain["search_term"])
+        if not resultados:
+            return [], [f"[{chain['cadena']}] 0 productos devueltos por la API"]
+        return coto_client.productos_a_filas(chain["cadena"], resultados, marca_de)
+
+    s = vtex_client.session()
+    productos = vtex_client.fetch_category(s, chain["base_url"], chain["category_path"])
     if not productos:
         return [], [f"[{chain['cadena']}] 0 productos devueltos por la API"]
-    return productos_a_filas(chain["cadena"], productos, marca_de)
+    return vtex_client.productos_a_filas(chain["cadena"], productos, marca_de)
 
 
 def guardar_csv(rows, out_dir, fecha):
@@ -66,17 +77,17 @@ def main():
     fecha = args.fecha or datetime.now(TZ).strftime("%Y-%m-%d")
 
     print("=" * 55)
-    print("  Scraper supermercados-cerveza (motor: VTEX)")
+    print("  Scraper supermercados-cerveza")
     print(f"  Cadenas: {', '.join(c['cadena'] for c in CHAINS)}  |  Fecha: {fecha}")
     print("=" * 55)
 
-    s = session()
     all_rows, all_errores, cadenas_ok = [], [], []
 
     for chain in CHAINS:
-        print(f"\n[INFO] Scrapeando {chain['cadena']} ({chain['base_url']}) ...")
+        origen = chain.get("base_url") or chain["motor"]
+        print(f"\n[INFO] Scrapeando {chain['cadena']} ({origen}) ...")
         try:
-            rows, errores = scrape_cadena(s, chain)
+            rows, errores = scrape_cadena(chain)
         except requests.HTTPError as e:
             code = e.response.status_code if e.response is not None else "?"
             errores = [f"[{chain['cadena']}] ERROR HTTP {code}: {e}"]

@@ -67,7 +67,7 @@ def marca_de(product_name, vtex_brand=None):
     for marca, pattern in NAME_BRAND_PATTERNS:
         if re.search(pattern, nombre):
             return marca
-    brand = (vtex_brand or "").strip()
+    brand = str(vtex_brand).strip() if vtex_brand else ""
     if brand and brand.lower() not in ("generico", "genérico", "sin marca"):
         # VTEX a veces devuelve la marca en mayusculas (ej. "IMPERIAL"); se
         # normaliza a Title Case para no duplicar grupos en el dashboard

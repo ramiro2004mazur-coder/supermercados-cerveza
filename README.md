@@ -9,14 +9,15 @@ y [rappi-nunez](https://github.com/ramiro2004mazur-coder/rappi-nunez)
 (mismo criterio de categoría, formato de datos parecido, plataformas
 distintas).
 
-## Estado actual: Carrefour, Día, Jumbo, Disco y Vea
+## Estado actual: 6 de 7 cadenas
 
 Arranque incremental pedido por el negocio: primero se validó
 scraping → guardado → dashboard con Carrefour + Día, después se sumó el
-resto de las cadenas VTEX de una. Hoy el scraper cubre **5 de las 7
-cadenas** — faltan Coto y La Anónima.
+resto de a una. Hoy el scraper cubre **Carrefour, Día, Jumbo, Disco,
+Vea y Coto** — solo falta La Anónima, que tiene anti-bot real
+confirmado (ver abajo).
 
-## Por qué las VTEX primero (y lo que encontré al inspeccionar las 7)
+## Por qué en este orden (y lo que encontré al inspeccionar las 7)
 
 Antes de programar nada inspeccioné las 7 páginas reales:
 
@@ -27,8 +28,8 @@ Antes de programar nada inspeccioné las 7 páginas reales:
 | **Jumbo** | VTEX | Ninguno | ✅ Scraper activo |
 | **Disco** | VTEX | Ninguno | ✅ Scraper activo |
 | **Vea** | VTEX | Ninguno | ✅ Scraper activo |
-| Coto | Plataforma propia (no VTEX, JSF + Constructor.io) | Sin bloqueo evidente en la inspección inicial, pero la navegación por categoría es 100% AJAX (`/sitios/cdigi/constructor/search`), falta terminar de mapear la API | ⏸ Pendiente |
-| La Anónima | Desconocida | La carga devolvió **403 Forbidden** en la primera visita — no está confirmado todavía si es anti-bot real o otra causa | ⏸ Pendiente, avisar antes de invertir tiempo si resulta ser un bloqueo duro |
+| **Coto** | Plataforma propia (ATG/Endeca) + Constructor.io como buscador | Ninguno — Constructor.io expone una API publica con key embebida en su JS, pensada para ser llamada desde el navegador | ✅ Scraper activo |
+| La Anónima | Desconocida | **Confirmado**: bloquea con 403 ante patrones de request no estandar (ej. agregar un query param de paginación dispara el bloqueo aunque la carga inicial normal funcione) | ⏸ Pendiente, es un bloqueo real — avisar antes de invertir mas tiempo |
 
 Carrefour, Día, Jumbo, Disco y Vea corren todos sobre **VTEX** y exponen
 el mismo API público de catálogo
@@ -36,9 +37,33 @@ el mismo API público de catálogo
 y sin bloqueo anti-bot para este endpoint. Es el mismo patrón que usan
 las propias páginas para listar productos — no es un endpoint "secreto".
 Gracias a esto, `scraper/vtex_client.py` es **genérico**: sumar cada
-cadena nueva fue agregar 3 líneas a `scraper/chains.py`, no escribir un
-scraper nuevo (a diferencia de PedidosYa/Rappi, que necesitaron motores
-completamente distintos por cadena).
+cadena nueva VTEX fue agregar unas líneas a `scraper/chains.py`, no
+escribir un scraper nuevo (a diferencia de PedidosYa/Rappi, que
+necesitaron motores completamente distintos por cadena).
+
+Coto no es VTEX (plataforma propia, vieja, tipo ATG/Endeca), pero usa
+**Constructor.io** como motor de búsqueda/browse de productos —
+encontré la API key pública (`key_r6xzz4IAoTWcipni`) embebida en el JS
+de la propia página, la misma que usa el buscador del sitio. Coto
+devuelve precio **por sucursal** (34 sucursales por producto) en vez de
+un precio único por cadena como VTEX; se fijó la sucursal 181
+(Saavedra, CABA) como referencia — ninguna sucursal del barrio Núñez
+(108, 170) tiene lista de precios online, así que se usó la más
+cercana de las que sí la tienen, con cobertura completa del catálogo.
+Ver `scraper/coto_client.py`.
+
+### Bug de VTEX encontrado en Carrefour: `sellers` ausente sin el sales channel
+
+De forma intermitente (2 de 5 corridas de prueba), Carrefour devolvía
+**todos** los productos sin la clave `"sellers"` en el JSON — sin
+error, sin precio, sin nada, y la corrida siguiente volvía a andar
+bien. No era timeout ni bloqueo (status 200 normal). La causa: sin el
+parámetro `sc` (sales channel) VTEX a veces omite el precio por
+completo. Agregar `sc=1` a mano lo arregla, **pero rompe Jumbo/Disco/Vea**
+con 400 Bad Request (ese `sc` no es válido para esas tiendas). Por eso
+`scraper/vtex_client.py` no lo hardcodea: pide la primera página normal
+y, si viene sin `sellers`, reintenta esa página (y las siguientes)
+agregando `sc=1` — autodetección por tienda, no config manual.
 
 ### Bug de datos encontrado en Jumbo/Disco/Vea (grupo Cencosud)
 
@@ -59,15 +84,16 @@ visto en datos reales (Carrefour) fue 40%, es decir ratio ~1.67x. Las
 promos por cantidad ("2do al X%", ver más abajo) no dependen de
 `ListPrice`, así que este fix no las afecta.
 
-Coto y La Anónima quedan para cuando les toque el turno.
+La Anónima queda para cuando se decida invertir tiempo en su anti-bot.
 
 ## Estructura
 
 ```
-scraper/chains.py          config de cadenas soportadas (dominio + path de categoria VTEX)
+scraper/chains.py          config de cadenas soportadas (motor vtex|coto + params por cadena)
 scraper/vtex_client.py     cliente generico del API de catalogo VTEX (paginado, filtra packs/sin stock)
-scraper/brands.py          deteccion de marca por nombre de producto (el campo "brand" de VTEX no es confiable)
-scraper/scrape.py          orquesta todas las cadenas, guarda 1 CSV combinado por corrida
+scraper/coto_client.py     cliente de Coto via Constructor.io (precio por sucursal, ver arriba)
+scraper/brands.py          deteccion de marca por nombre de producto (el campo "brand" no es confiable)
+scraper/scrape.py          orquesta todas las cadenas (elige motor por chain), guarda 1 CSV combinado
 data/history.json          historico consolidado, fuente de verdad (1 fecha = 1 lectura por cadena+SKU)
 data/catalog.json          clasificacion marca/sku -> grupo (CMQ/Competencia) y segmento
 data/fights_config.json    "luchas" CMQ vs competencia, accesos rapidos de la pestana Comparar
@@ -141,7 +167,7 @@ misma sin importar dónde se vendió.
 2. **Settings → Pages → Source: "Deploy from a branch" → Branch: `main` / `docs`.**
    Cada vez que el workflow commitea un cambio en `docs/data.json`,
    GitHub Pages se re-despliega solo.
-3. Revisar `data/catalog.json`: se pre-cargó clasificando ~150 de 183
+3. Revisar `data/catalog.json`: se pre-cargó clasificando ~500 de 842
    SKUs detectados en la primera corrida (los mismos ~30 nombres de
    marca CMQ/Competencia que ya usan pedidosya-nunez/rappi-nunez). El
    resto (marcas artesanales/importadas: República Artesanal,
@@ -171,15 +197,16 @@ python3 scripts/build_dashboard_data.py
 1. ~~Carrefour~~ ✅
 2. ~~Día~~ ✅
 3. ~~Jumbo / Disco / Vea~~ ✅ — mismo motor VTEX, agregadas a `scraper/chains.py`.
-4. Coto — plataforma propia (JSF + Constructor.io), falta terminar de
-   mapear la API de búsqueda por categoría antes de programar el scraper.
-5. La Anónima — devolvió 403 en la primera visita, falta confirmar si es
-   un bloqueo anti-bot real antes de invertir tiempo.
+4. ~~Coto~~ ✅ — motor nuevo (`scraper/coto_client.py`) via Constructor.io.
+5. La Anónima — 403 confirmado como anti-bot real (bloquea ante ciertos
+   patrones de request), falta decidir cuánto esfuerzo vale la pena
+   invertir (headers/cookies/session más realistas, rate limiting más
+   conservador, o directamente dejarla afuera).
 
 ## Dashboard vs Rappi/PedidosYa
 
 Por ahora el dashboard de este repo solo compara las cadenas de
-supermercado entre sí (Carrefour vs Día vs las que se vayan sumando).
+supermercado entre sí (cada una en su propia página, ver sidebar).
 Integrar los canales de delivery (Rappi, PedidosYa) en una misma vista
 queda para una fase futura, una vez que el dashboard de supermercados
 esté sólido con las 7 cadenas.
