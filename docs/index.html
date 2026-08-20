@@ -30,6 +30,20 @@ header .spacer{flex:1}
 button.tglbtn{background:var(--panel2);border:1px solid var(--line);color:var(--ink);
   border-radius:8px;padding:6px 12px;cursor:pointer;font-size:12px}
 
+.layout{display:flex;align-items:flex-start}
+.sidebar{width:190px;flex-shrink:0;position:sticky;top:53px;padding:20px 12px;
+  height:calc(100vh - 53px);overflow-y:auto}
+.sidebar .lbl{color:var(--muted);font-size:10.5px;text-transform:uppercase;letter-spacing:.5px;
+  font-weight:700;padding:0 8px 8px}
+.sidebar button{display:flex;align-items:center;justify-content:space-between;width:100%;
+  text-align:left;background:transparent;border:1px solid transparent;color:var(--muted);
+  padding:10px 12px;border-radius:8px;cursor:pointer;font-size:13.5px;font-weight:700;margin-bottom:4px}
+.sidebar button:hover{background:var(--panel2);color:var(--ink)}
+.sidebar button.active{background:var(--cmqbg);color:var(--blue);border-color:var(--blue)}
+.sidebar button .n{color:var(--muted);font-size:11px;font-weight:600}
+.sidebar button.active .n{color:var(--blue)}
+.content{flex:1;min-width:0}
+
 .banner{margin:14px 20px 0;background:var(--warnbg);border:1px solid var(--warnline);color:var(--ink);
   border-radius:10px;padding:10px 16px;font-size:12.5px;line-height:1.5}
 .banner b{color:var(--red)}
@@ -71,7 +85,7 @@ th.sortable{cursor:pointer}
 th.sortable:hover{color:var(--ink)}
 td{padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap;vertical-align:middle}
 tbody tr:hover{background:var(--panel2)}
-.prodcell{position:sticky;left:0;background:var(--panel);z-index:1;min-width:230px;max-width:320px;
+.prodcell{position:sticky;left:0;background:var(--panel);z-index:1;min-width:260px;max-width:360px;
   white-space:normal;cursor:pointer}
 tbody tr:hover .prodcell{background:var(--panel2)}
 .prodname{font-weight:700;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
@@ -108,9 +122,6 @@ tbody tr:hover .prodcell{background:var(--panel2)}
 
 .statgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;
   margin-bottom:16px}
-.stat-card{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px}
-.stat-card .k{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.4px}
-.stat-card .v{font-size:20px;font-weight:700;margin-top:4px}
 svg.chart{width:100%;height:260px;display:block}
 
 .heatcell{width:64px;height:34px;text-align:center;font-size:11px;font-weight:700;border-radius:4px}
@@ -125,7 +136,7 @@ svg.chart{width:100%;height:260px;display:block}
 .empty{color:var(--muted);text-align:center;padding:40px}
 .delta.up{color:var(--red)}
 .delta.down{color:var(--green)}
-@media (max-width:900px){.metrics{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:900px){.metrics{grid-template-columns:repeat(3,1fr)}.sidebar{width:140px}}
 </style>
 </head>
 <body>
@@ -135,100 +146,102 @@ svg.chart{width:100%;height:260px;display:block}
   <button class="tglbtn" id="themeBtn">☀ / ☾</button>
 </header>
 
-<div class="banner" id="banner"></div>
-<div class="metrics" id="metrics"></div>
+<div class="layout">
+  <aside class="sidebar">
+    <div class="lbl">Cadenas</div>
+    <div id="cadenaNav"></div>
+  </aside>
 
-<nav class="tabs" id="tabs">
-  <button data-tab="tabla" class="active">Evolución por SKU</button>
-  <button data-tab="preciol">Precio/L</button>
-  <button data-tab="comparar">Comparar</button>
-  <button data-tab="heatmap">Heatmap dinámica</button>
-  <button data-tab="cambios">Cambios</button>
-  <button data-tab="insights">Insights</button>
-</nav>
+  <div class="content">
+    <div class="banner" id="banner"></div>
+    <div class="metrics" id="metrics"></div>
 
-<main>
-  <section class="panel" id="view-tabla">
-    <div class="filters">
-      <input type="text" id="search" placeholder="Buscar cerveza…">
-      <select id="marcaSelect"><option value="">Todas las marcas</option></select>
-      <select id="tamanoSelect"><option value="">Todos los tamaños</option></select>
-      <select id="segmentoSelect"><option value="">Todos los segmentos</option></select>
-      <label class="cb"><input type="checkbox" id="onlyComparables"> comparables</label>
-      <label class="cb"><input type="checkbox" id="onlyOferta"> en oferta</label>
-      <label class="cb"><input type="checkbox" id="agrupar"> agrupar</label>
-    </div>
-    <div class="chip-group" id="cadenaChips"></div>
-    <div class="chip-group" id="marcaChips"></div>
-    <div class="tablewrap"><table id="mainTable"><thead></thead><tbody></tbody></table></div>
-    <div class="hint" id="countHint"></div>
-    <div class="detail" id="skuDetail" style="display:none">
-      <h3 id="skuDetailTitle"></h3>
-      <svg class="chart" id="skuChart"></svg>
-    </div>
-  </section>
+    <nav class="tabs" id="tabs">
+      <button data-tab="tabla" class="active">Evolución por SKU</button>
+      <button data-tab="preciol">Precio/L</button>
+      <button data-tab="comparar">Comparar</button>
+      <button data-tab="heatmap">Heatmap dinámica</button>
+      <button data-tab="cambios">Cambios</button>
+      <button data-tab="insights">Insights</button>
+    </nav>
 
-  <section class="panel" id="view-preciol" style="display:none">
-    <div class="hint" style="margin:0 0 10px">Mismos filtros que "Evolución por SKU" — precio por litro, para comparar tamaños y marcas distintas en igualdad de condiciones.</div>
-    <div class="tablewrap"><table id="lTable"><thead></thead><tbody></tbody></table></div>
-    <div class="hint" id="lHint"></div>
-  </section>
+    <main>
+      <section class="panel" id="view-tabla">
+        <div class="filters">
+          <input type="text" id="search" placeholder="Buscar cerveza…">
+          <select id="marcaSelect"><option value="">Todas las marcas</option></select>
+          <select id="tamanoSelect"><option value="">Todos los tamaños</option></select>
+          <select id="segmentoSelect"><option value="">Todos los segmentos</option></select>
+          <label class="cb"><input type="checkbox" id="onlyComparables"> comparables</label>
+          <label class="cb"><input type="checkbox" id="onlyOferta"> en oferta</label>
+          <label class="cb"><input type="checkbox" id="agrupar"> agrupar</label>
+        </div>
+        <div class="chip-group" id="marcaChips"></div>
+        <div class="tablewrap"><table id="mainTable"><thead></thead><tbody></tbody></table></div>
+        <div class="hint" id="countHint"></div>
+        <div class="detail" id="skuDetail" style="display:none">
+          <h3 id="skuDetailTitle"></h3>
+          <svg class="chart" id="skuChart"></svg>
+        </div>
+      </section>
 
-  <section class="panel" id="view-comparar" style="display:none">
-    <div class="fight-btns" id="fightBtns"></div>
-    <div class="filters">
-      <input type="text" id="compareSearch" placeholder="Filtrar la lista para elegir SKUs…">
-    </div>
-    <div class="compare-picker" id="comparePicker"></div>
-    <div class="legend" id="compareLegend"></div>
-    <svg class="chart" id="compareChart"></svg>
-    <div class="hint">Elegí cualquier cantidad de SKUs (de cualquier marca o cadena) para superponer su evolución de PTC, o usá un enfrentamiento predefinido arriba.</div>
-  </section>
+      <section class="panel" id="view-preciol" style="display:none">
+        <div class="hint" style="margin:0 0 10px">Mismos filtros que "Evolución por SKU" — precio por litro, para comparar tamaños y marcas distintas en igualdad de condiciones.</div>
+        <div class="tablewrap"><table id="lTable"><thead></thead><tbody></tbody></table></div>
+        <div class="hint" id="lHint"></div>
+      </section>
 
-  <section class="panel" id="view-heatmap" style="display:none">
-    <div class="hint" style="margin:0 0 10px">Dinámica promedio por marca y cadena, día a día. Más rojo = mayor descuento efectivo.</div>
-    <div class="tablewrap"><table id="heatTable"><thead></thead><tbody></tbody></table></div>
-  </section>
+      <section class="panel" id="view-comparar" style="display:none">
+        <div class="fight-btns" id="fightBtns"></div>
+        <div class="filters">
+          <input type="text" id="compareSearch" placeholder="Filtrar la lista para elegir SKUs…">
+        </div>
+        <div class="compare-picker" id="comparePicker"></div>
+        <div class="legend" id="compareLegend"></div>
+        <svg class="chart" id="compareChart"></svg>
+        <div class="hint">Elegí cualquier cantidad de SKUs de esta cadena para superponer su evolución de PTC, o usá un enfrentamiento predefinido arriba.</div>
+      </section>
 
-  <section class="panel" id="view-cambios" style="display:none">
-    <div id="cambiosContent"></div>
-  </section>
+      <section class="panel" id="view-heatmap" style="display:none">
+        <div class="hint" style="margin:0 0 10px">Dinámica promedio por marca, día a día. Más rojo = mayor descuento efectivo.</div>
+        <div class="tablewrap"><table id="heatTable"><thead></thead><tbody></tbody></table></div>
+      </section>
 
-  <section class="panel" id="view-insights" style="display:none">
-    <div class="insight-cards" id="insightCards"></div>
-  </section>
-</main>
+      <section class="panel" id="view-cambios" style="display:none">
+        <div id="cambiosContent"></div>
+      </section>
+
+      <section class="panel" id="view-insights" style="display:none">
+        <div class="insight-cards" id="insightCards"></div>
+      </section>
+    </main>
+  </div>
+</div>
 
 <script>
 const CHART_COLORS = ['c1','c2','c3','c4','c5','c6','c7','c8'];
 let DATA = null;
 let FIGHT_MARCAS = new Set();
+let activeCadena = null;
 let sortState = {tabla:{k:'marca',dir:1}};
-let filters = {cadenas:new Set(), grupoChips:new Set(), marcaChips:new Set(),
+let filters = {grupoChips:new Set(), marcaChips:new Set(),
   marcaSel:'', tamanoSel:'', segmentoSel:'', search:'', onlyOferta:false,
   onlyComparables:false, agrupar:false};
 let compareIds = new Set();
 
 fetch('data.json').then(r=>r.json()).then(d=>{
   DATA = d;
-  filters.cadenas = new Set(d.cadenas);
+  activeCadena = d.cadenas[0];
   (d.fights||[]).forEach(f=>{ (f.cmq||[]).forEach(m=>FIGHT_MARCAS.add(m)); (f.comp||[]).forEach(m=>FIGHT_MARCAS.add(m)); });
 
-  document.getElementById('banner').innerHTML =
-    `Precios públicos de <b>${d.cadenas.join(' + ')}</b>. Packs/combos y productos sin stock se excluyen. ` +
-    `Promos "2do al X%" se calculan como descuento efectivo promedio por unidad, no el % nominal de la promo. ` +
-    `1 lectura diaria (~10:15 ART).`;
-
-  buildCadenaChips();
-  buildMarcaChips();
-  buildSelects();
-  buildFightButtons();
-  renderMetrics();
-  renderTabla();
+  buildCadenaNav();
+  onCadenaChanged();
 }).catch(e=>{
   document.getElementById('banner').innerHTML = 'Error cargando data.json: ' + e;
 });
 
+function cadenaPivot(){ return DATA.pivot.filter(p=>p.cadena===activeCadena); }
+function cadenaStats(){ return DATA.stats.filter(s=>s.cadena===activeCadena); }
 function lastDate(){ return DATA.dates[DATA.dates.length-1]; }
 function prevDate(){ return DATA.dates.length>1 ? DATA.dates[DATA.dates.length-2] : null; }
 function latestVals(p){ const d=lastDate(); return (d && p.dates[d]) ? p.dates[d] : null; }
@@ -239,20 +252,51 @@ function grupoTag(g){
   return `<span class="tag ${cls}">${g}</span>`;
 }
 
-function buildCadenaChips(){
-  const wrap = document.getElementById('cadenaChips');
+function buildCadenaNav(){
+  const wrap = document.getElementById('cadenaNav');
   wrap.innerHTML = '';
   DATA.cadenas.forEach(c=>{
-    const el = document.createElement('div');
-    el.className = 'chip on';
-    el.textContent = c;
-    el.onclick = ()=>{
-      if(filters.cadenas.has(c)){ filters.cadenas.delete(c); el.classList.remove('on'); }
-      else { filters.cadenas.add(c); el.classList.add('on'); }
-      renderAll();
+    const n = DATA.pivot.filter(p=>p.cadena===c).length;
+    const btn = document.createElement('button');
+    btn.className = 'active' === c ? '' : '';
+    btn.innerHTML = `<span>${c}</span><span class="n">${n}</span>`;
+    if(c === activeCadena) btn.classList.add('active');
+    btn.onclick = ()=>{
+      activeCadena = c;
+      wrap.querySelectorAll('button').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      onCadenaChanged();
     };
-    wrap.appendChild(el);
+    wrap.appendChild(btn);
   });
+}
+
+function onCadenaChanged(){
+  filters = {grupoChips:new Set(), marcaChips:new Set(), marcaSel:'', tamanoSel:'',
+    segmentoSel:'', search:'', onlyOferta:false, onlyComparables:false, agrupar:false};
+  compareIds = new Set();
+  document.getElementById('search').value = '';
+  document.getElementById('onlyOferta').checked = false;
+  document.getElementById('onlyComparables').checked = false;
+  document.getElementById('agrupar').checked = false;
+
+  document.getElementById('banner').innerHTML =
+    `Precios públicos de <b>${activeCadena}</b>. Packs/combos y productos sin stock se excluyen. ` +
+    `Promos "2do al X%" se calculan como descuento efectivo promedio por unidad, no el % nominal de la promo. ` +
+    `1 lectura diaria (~10:15 ART).`;
+
+  buildMarcaChips();
+  buildSelects();
+  buildFightButtons();
+  renderMetrics();
+  renderTabla();
+  const activeTab = document.querySelector('#tabs button.active');
+  const t = activeTab ? activeTab.dataset.tab : 'tabla';
+  if(t==='comparar') renderComparePicker();
+  if(t==='preciol') renderPrecioL();
+  if(t==='heatmap') renderHeatmap();
+  if(t==='cambios') renderCambios();
+  if(t==='insights') renderInsights();
 }
 
 function buildMarcaChips(){
@@ -271,7 +315,7 @@ function buildMarcaChips(){
     wrap.appendChild(el);
   });
   const counts = {};
-  DATA.pivot.forEach(p=>{ counts[p.marca] = (counts[p.marca]||0)+1; });
+  cadenaPivot().forEach(p=>{ counts[p.marca] = (counts[p.marca]||0)+1; });
   const topMarcas = Object.keys(counts).sort((a,b)=>counts[b]-counts[a]).slice(0,14);
   topMarcas.forEach(m=>{
     const el = document.createElement('div');
@@ -287,13 +331,18 @@ function buildMarcaChips(){
 }
 
 function buildSelects(){
-  const marcas = [...new Set(DATA.pivot.map(p=>p.marca))].sort();
-  const tamanos = [...new Set(DATA.pivot.map(p=>p.calibre))].sort();
-  const segmentos = [...new Set(DATA.pivot.map(p=>p.segmento))].sort();
+  const pivot = cadenaPivot();
+  const marcas = [...new Set(pivot.map(p=>p.marca))].sort();
+  const tamanos = [...new Set(pivot.map(p=>p.calibre))].sort();
+  const segmentos = [...new Set(pivot.map(p=>p.segmento))].sort();
   const fill = (id, vals)=>{
     const sel = document.getElementById(id);
+    sel.innerHTML = `<option value="">${sel.dataset.allLabel}</option>`;
     vals.forEach(v=>{ const o=document.createElement('option'); o.value=v; o.textContent=v; sel.appendChild(o); });
   };
+  document.getElementById('marcaSelect').dataset.allLabel = 'Todas las marcas';
+  document.getElementById('tamanoSelect').dataset.allLabel = 'Todos los tamaños';
+  document.getElementById('segmentoSelect').dataset.allLabel = 'Todos los segmentos';
   fill('marcaSelect', marcas);
   fill('tamanoSelect', tamanos);
   fill('segmentoSelect', segmentos);
@@ -303,19 +352,21 @@ function buildSelects(){
   document.getElementById('onlyOferta').onchange = e=>{ filters.onlyOferta = e.target.checked; renderAll(); };
   document.getElementById('onlyComparables').onchange = e=>{ filters.onlyComparables = e.target.checked; renderAll(); };
   document.getElementById('agrupar').onchange = e=>{ filters.agrupar = e.target.checked; renderTabla(); };
-  document.getElementById('search').addEventListener('input', e=>{ filters.search = e.target.value.trim().toLowerCase(); renderAll(); });
+  document.getElementById('search').oninput = e=>{ filters.search = e.target.value.trim().toLowerCase(); renderAll(); };
 }
 
 function buildFightButtons(){
   const wrap = document.getElementById('fightBtns');
-  wrap.innerHTML = (DATA.fights||[]).map((f,i)=>`<button class="fight-btn" data-fi="${i}">${f.name}</button>`).join('');
+  const marcasHere = new Set(cadenaPivot().map(p=>p.marca));
+  const fights = (DATA.fights||[]).filter(f=>[...f.cmq||[], ...f.comp||[]].some(m=>marcasHere.has(m)));
+  wrap.innerHTML = fights.map(f=>`<button class="fight-btn" data-name="${f.name}">${f.name}</button>`).join('')
+    || '<span class="hint" style="margin:0">Sin enfrentamientos predefinidos con marcas presentes en esta cadena.</span>';
   wrap.querySelectorAll('button').forEach(btn=>{
     btn.onclick = ()=>{
-      const f = DATA.fights[+btn.dataset.fi];
+      const f = DATA.fights.find(x=>x.name===btn.dataset.name);
       const marcas = new Set([...(f.cmq||[]), ...(f.comp||[])]);
-      compareIds = new Set(DATA.pivot.filter(p=>marcas.has(p.marca)).map(p=>p.id));
+      compareIds = new Set(cadenaPivot().filter(p=>marcas.has(p.marca)).map(p=>p.id));
       renderComparePicker();
-      drawCompareChart();
     };
   });
 }
@@ -339,7 +390,7 @@ document.getElementById('tabs').addEventListener('click', e=>{
 document.getElementById('themeBtn').onclick = ()=>document.body.classList.toggle('light');
 
 function passesFilters(p){
-  if(!filters.cadenas.has(p.cadena)) return false;
+  if(p.cadena !== activeCadena) return false;
   if(filters.grupoChips.size && !filters.grupoChips.has(p.grupo)) return false;
   if(filters.marcaChips.size && !filters.marcaChips.has(p.marca)) return false;
   if(filters.marcaSel && p.marca !== filters.marcaSel) return false;
@@ -365,12 +416,13 @@ function renderAll(){
 
 function renderMetrics(){
   const rows = filteredRows();
+  const total = cadenaPivot().length;
   const enOferta = rows.filter(p=>{ const v=latestVals(p); return v && v.dinamica>0; }).length;
-  const comparables = new Set(DATA.pivot.filter(p=>FIGHT_MARCAS.has(p.marca)).map(p=>p.marca)).size;
+  const comparables = new Set(cadenaPivot().filter(p=>FIGHT_MARCAS.has(p.marca)).map(p=>p.marca)).size;
   const gen = DATA.meta.generado || '';
   const wrap = document.getElementById('metrics');
   wrap.innerHTML = [
-    ['SKUs totales', DATA.meta.sku_rows],
+    ['SKUs totales', total],
     ['Días', DATA.meta.dias],
     ['Mostrando', rows.length],
     ['En oferta', enOferta],
@@ -379,16 +431,14 @@ function renderMetrics(){
   ].map(([k,v],i)=>`<div class="metric"><div class="k">${k}</div><div class="v${i===5?' small':''}">${v}</div></div>`).join('');
 }
 
-function buildTableHead(theadEl, extraCols){
-  const dates = DATA.dates;
+function buildTableHead(theadEl){
   theadEl.innerHTML = `<tr>
     <th class="prodcell">Producto</th>
-    ${dates.map(d=>`<th style="text-align:right">${d.slice(5)}</th>`).join('')}
+    ${DATA.dates.map(d=>`<th style="text-align:right">${d.slice(5)}</th>`).join('')}
   </tr>`;
 }
 
-function priceCellHtml(v, opts){
-  opts = opts || {};
+function priceCellHtml(v){
   if(!v) return `<td class="pricecell empty">—</td>`;
   const off = v.dinamica > 0;
   const title = v.promo_nominal ? ` title="${v.promo_nominal.replace(/"/g,'')}"` : '';
@@ -398,6 +448,13 @@ function priceCellHtml(v, opts){
       <span class="ptc ${off?'off':''}">${fmtMoney(v.ptc)}</span>
       ${off ? `<span class="offpct">-${fmtPct(v.dinamica)}</span>` : ''}
     </div>
+  </td>`;
+}
+
+function prodCellHtml(p){
+  return `<td class="prodcell">
+    <div class="prodname">${grupoTag(p.grupo)} ${p.sku}</div>
+    <div class="proddesc">${p.marca} · ${p.segmento}</div>
   </td>`;
 }
 
@@ -412,9 +469,9 @@ function renderTabla(){
   if(filters.agrupar){
     const groups = {};
     rows.forEach(p=>{
-      if(!groups[p.marca]) groups[p.marca] = {marca:p.marca, grupo:p.grupo, segmento:p.segmento, cadenas:new Set(), byDate:{}};
+      if(!groups[p.marca]) groups[p.marca] = {marca:p.marca, grupo:p.grupo, segmento:p.segmento, n:0, byDate:{}};
       const g = groups[p.marca];
-      g.cadenas.add(p.cadena);
+      g.n += 1;
       DATA.dates.forEach(d=>{
         const v = p.dates[d];
         if(!v) return;
@@ -434,7 +491,7 @@ function renderTabla(){
       return `<tr>
         <td class="prodcell">
           <div class="prodname">${grupoTag(g.grupo)} ${g.marca}</div>
-          <div class="proddesc">${[...g.cadenas].join(', ')} · ${g.segmento}</div>
+          <div class="proddesc">${g.n} SKU(s) · ${g.segmento}</div>
         </td>
         ${cells}
       </tr>`;
@@ -454,15 +511,9 @@ function renderTabla(){
 
   tbody.innerHTML = rows.map(p=>{
     const cells = DATA.dates.map(d=>priceCellHtml(p.dates[d])).join('');
-    return `<tr data-id="${p.id}">
-      <td class="prodcell">
-        <div class="prodname"><span class="tag cad">${p.cadena}</span> ${grupoTag(p.grupo)} ${p.marca}</div>
-        <div class="proddesc">${p.sku}</div>
-      </td>
-      ${cells}
-    </tr>`;
+    return `<tr data-id="${p.id}">${prodCellHtml(p)}${cells}</tr>`;
   }).join('');
-  document.getElementById('countHint').textContent = `${rows.length} de ${DATA.pivot.length} filas`;
+  document.getElementById('countHint').textContent = `${rows.length} de ${cadenaPivot().length} filas`;
   tbody.querySelectorAll('tr').forEach(tr=>{ tr.onclick = ()=> showSkuDetail(tr.dataset.id); });
 }
 
@@ -471,9 +522,9 @@ function showSkuDetail(id){
   if(!p) return;
   const wrap = document.getElementById('skuDetail');
   wrap.style.display = '';
-  document.getElementById('skuDetailTitle').textContent = `${p.cadena} · ${p.marca} — ${p.sku}`;
+  document.getElementById('skuDetailTitle').textContent = `${p.marca} — ${p.sku}`;
   drawLineChart(document.getElementById('skuChart'), [{
-    label: p.cadena, color: 'var(--blue)',
+    label: p.marca, color: 'var(--blue)',
     points: DATA.dates.map(d => p.dates[d] ? p.dates[d].ptc : null),
   }], DATA.dates);
   wrap.scrollIntoView({behavior:'smooth', block:'nearest'});
@@ -496,8 +547,8 @@ function renderPrecioL(){
     }).join('');
     return `<tr>
       <td class="prodcell">
-        <div class="prodname"><span class="tag cad">${p.cadena}</span> ${grupoTag(p.grupo)} ${p.marca}</div>
-        <div class="proddesc">${p.sku} · ${(p.volumen_l*1000).toFixed(0)} ml</div>
+        <div class="prodname">${grupoTag(p.grupo)} ${p.sku}</div>
+        <div class="proddesc">${p.marca} · ${(p.volumen_l*1000).toFixed(0)} ml</div>
       </td>
       ${cells}
     </tr>`;
@@ -510,14 +561,14 @@ function renderPrecioL(){
 function renderComparePicker(){
   const list = document.getElementById('comparePicker');
   const q = document.getElementById('compareSearch').value.trim().toLowerCase();
-  const rows = DATA.pivot.filter(p=>{
+  const rows = cadenaPivot().filter(p=>{
     if(!q) return true;
-    return (p.cadena+' '+p.marca+' '+p.sku).toLowerCase().includes(q);
+    return (p.marca+' '+p.sku).toLowerCase().includes(q);
   }).slice(0, 300);
   list.innerHTML = rows.map(p=>`
     <label>
       <input type="checkbox" data-id="${p.id}" ${compareIds.has(p.id)?'checked':''}>
-      <span class="tag cad">${p.cadena}</span> ${p.marca} — ${p.sku}
+      ${p.marca} — ${p.sku}
     </label>
   `).join('');
   list.querySelectorAll('input').forEach(cb=>{
@@ -535,7 +586,7 @@ function drawCompareChart(){
     const p = DATA.pivot.find(x=>x.id===id);
     if(!p) return null;
     return {
-      label: `${p.cadena} · ${p.marca} ${p.sku}`,
+      label: `${p.marca} ${p.sku}`,
       color: `var(--${CHART_COLORS[i % CHART_COLORS.length]})`,
       points: DATA.dates.map(d => p.dates[d] ? p.dates[d].ptc : null),
     };
@@ -588,13 +639,12 @@ function renderHeatmap(){
   const rows = filteredRows();
   const groups = {};
   rows.forEach(p=>{
-    const key = p.cadena + ' · ' + p.marca;
-    if(!groups[key]) groups[key] = {label:key, grupo:p.grupo, byDate:{}};
+    if(!groups[p.marca]) groups[p.marca] = {label:p.marca, grupo:p.grupo, byDate:{}};
     DATA.dates.forEach(d=>{
       const v = p.dates[d];
       if(!v) return;
-      if(!groups[key].byDate[d]) groups[key].byDate[d] = {sum:0, n:0};
-      groups[key].byDate[d].sum += v.dinamica; groups[key].byDate[d].n += 1;
+      if(!groups[p.marca].byDate[d]) groups[p.marca].byDate[d] = {sum:0, n:0};
+      groups[p.marca].byDate[d].sum += v.dinamica; groups[p.marca].byDate[d].n += 1;
     });
   });
   const glist = Object.values(groups).sort((a,b)=>{
@@ -604,7 +654,7 @@ function renderHeatmap(){
   });
   const thead = document.querySelector('#heatTable thead');
   const tbody = document.querySelector('#heatTable tbody');
-  thead.innerHTML = `<tr><th class="prodcell">Marca / cadena</th>${DATA.dates.map(d=>`<th style="text-align:center">${d.slice(5)}</th>`).join('')}</tr>`;
+  thead.innerHTML = `<tr><th class="prodcell">Marca</th>${DATA.dates.map(d=>`<th style="text-align:center">${d.slice(5)}</th>`).join('')}</tr>`;
   if(!glist.length){
     tbody.innerHTML = `<tr><td class="empty" colspan="${DATA.dates.length+1}">Sin filas para los filtros actuales</td></tr>`;
     return;
@@ -644,7 +694,7 @@ function renderCambios(){
       <thead><tr><th class="prodcell">Producto</th><th style="text-align:right">${d1}</th><th style="text-align:right">${d2}</th><th style="text-align:right">Cambio</th></tr></thead>
       <tbody>${rows.map(r=>`
         <tr>
-          <td class="prodcell"><div class="prodname"><span class="tag cad">${r.p.cadena}</span> ${grupoTag(r.p.grupo)} ${r.p.marca}</div><div class="proddesc">${r.p.sku}</div></td>
+          ${prodCellHtml(r.p)}
           <td class="pricecell">${fmtMoney(r.a.ptc)}</td>
           <td class="pricecell">${fmtMoney(r.b.ptc)}</td>
           <td class="pricecell"><span class="delta ${r.deltaPct>0?'up':'down'}">${r.deltaPct>0?'+':''}${(r.deltaPct*100).toFixed(1)}%</span></td>
@@ -657,50 +707,37 @@ function renderCambios(){
 function renderInsights(){
   const el = document.getElementById('insightCards');
   const cards = [];
+  const stats = cadenaStats();
+  const pivot = cadenaPivot();
 
-  const cmqStats = DATA.stats.filter(s=>s.grupo==='CMQ');
-  const compStats = DATA.stats.filter(s=>s.grupo==='Competencia');
+  const cmqStats = stats.filter(s=>s.grupo==='CMQ');
+  const compStats = stats.filter(s=>s.grupo==='Competencia');
   const topCmq = cmqStats.slice().sort((a,b)=>b.avg_dinamica-a.avg_dinamica)[0];
   const topComp = compStats.slice().sort((a,b)=>b.avg_dinamica-a.avg_dinamica)[0];
-  if(topCmq) cards.push({h:'Mayor dinámica — CMQ', big:fmtPct(topCmq.avg_dinamica), sub:`${topCmq.marca} en ${topCmq.cadena}`});
-  if(topComp) cards.push({h:'Mayor dinámica — Competencia', big:fmtPct(topComp.avg_dinamica), sub:`${topComp.marca} en ${topComp.cadena}`});
+  if(topCmq) cards.push({h:'Mayor dinámica — CMQ', big:fmtPct(topCmq.avg_dinamica), sub:topCmq.marca});
+  if(topComp) cards.push({h:'Mayor dinámica — Competencia', big:fmtPct(topComp.avg_dinamica), sub:topComp.marca});
 
-  const byMarca = {};
-  DATA.stats.forEach(s=>{
-    if(!byMarca[s.marca]) byMarca[s.marca] = [];
-    byMarca[s.marca].push(s);
-  });
-  const brechas = Object.entries(byMarca)
-    .filter(([m,arr])=>arr.length>1)
-    .map(([m,arr])=>{
-      const max = Math.max(...arr.map(a=>a.avg_ptc));
-      const min = Math.min(...arr.map(a=>a.avg_ptc));
-      const maxRow = arr.find(a=>a.avg_ptc===max), minRow = arr.find(a=>a.avg_ptc===min);
-      return {marca:m, brecha: max-min, pct: min ? (max-min)/min : 0, maxRow, minRow};
-    })
-    .sort((a,b)=>b.pct-a.pct)
-    .slice(0,5);
+  const hoy = pivot.map(p=>({p, v:latestVals(p)})).filter(x=>x.v && x.v.dinamica>0)
+    .sort((a,b)=>b.v.dinamica-a.v.dinamica);
   cards.push({
-    h:'Mayor brecha entre cadenas (misma marca)',
-    big: brechas[0] ? fmtPct(brechas[0].pct) : '-',
-    sub: brechas[0] ? `${brechas[0].marca}: ${brechas[0].minRow.cadena} $${Math.round(brechas[0].minRow.avg_ptc)} vs ${brechas[0].maxRow.cadena} $${Math.round(brechas[0].maxRow.avg_ptc)}` : 'Sin datos',
-    list: brechas.slice(1).map(b=>`${b.marca}: ${fmtPct(b.pct)} de diferencia (${b.minRow.cadena} vs ${b.maxRow.cadena})`),
+    h:'Mayor descuento hoy',
+    big: hoy[0] ? fmtPct(hoy[0].v.dinamica) : '-',
+    sub: hoy[0] ? `${hoy[0].p.marca} — ${hoy[0].p.sku}` : 'Sin ofertas activas',
+    list: hoy.slice(1,4).map(x=>`${fmtPct(x.v.dinamica)} — ${x.p.marca} ${x.p.sku}`),
   });
 
-  const conPromoQty = DATA.pivot.filter(p=>{ const v=latestVals(p); return v && v.promo_nominal; });
-  const porCadena = {};
-  conPromoQty.forEach(p=>{ porCadena[p.cadena] = (porCadena[p.cadena]||0)+1; });
+  const conPromoQty = pivot.filter(p=>{ const v=latestVals(p); return v && v.promo_nominal; });
   cards.push({
     h:'SKUs con promo por cantidad activa hoy',
     big: conPromoQty.length,
-    sub: Object.entries(porCadena).map(([c,n])=>`${c}: ${n}`).join(' · ') || 'Ninguna',
+    sub: conPromoQty.length ? `de ${pivot.length} SKUs trackeados en ${activeCadena}` : 'Ninguna promo de este tipo hoy',
   });
 
-  const enOfertaTotal = DATA.pivot.filter(p=>{ const v=latestVals(p); return v && v.dinamica>0; }).length;
+  const enOfertaTotal = pivot.filter(p=>{ const v=latestVals(p); return v && v.dinamica>0; }).length;
   cards.push({
-    h:'SKUs en oferta hoy (todas las cadenas)',
-    big: `${enOfertaTotal} / ${DATA.pivot.length}`,
-    sub: `${((enOfertaTotal/DATA.pivot.length)*100).toFixed(0)}% del catálogo trackeado`,
+    h:'SKUs en oferta hoy',
+    big: `${enOfertaTotal} / ${pivot.length}`,
+    sub: `${pivot.length ? ((enOfertaTotal/pivot.length)*100).toFixed(0) : 0}% del catálogo trackeado en ${activeCadena}`,
   });
 
   el.innerHTML = cards.map(c=>`
