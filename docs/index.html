@@ -97,11 +97,6 @@ tbody tr:hover .prodcell{background:var(--panel2)}
 .pricecell .ptc.off{color:var(--green)}
 .pricecell .offpct{color:var(--red);font-size:11px;font-weight:700}
 .pricecell.empty{color:var(--line)}
-.tag{display:inline-block;padding:2px 8px;border-radius:999px;font-size:10.5px;font-weight:700}
-.tag.cmq{background:var(--cmqbg);color:var(--blue)}
-.tag.comp{background:var(--compbg);color:var(--accent)}
-.tag.sc{background:var(--panel3);color:var(--muted)}
-.tag.cad{background:var(--panel3);color:var(--ink);border:1px solid var(--line);font-weight:700}
 
 .tablewrap{max-height:66vh;overflow:auto;border:1px solid var(--line);border-radius:8px}
 .hint{color:var(--muted);font-size:12px;margin-top:10px}
@@ -247,10 +242,6 @@ function prevDate(){ return DATA.dates.length>1 ? DATA.dates[DATA.dates.length-2
 function latestVals(p){ const d=lastDate(); return (d && p.dates[d]) ? p.dates[d] : null; }
 function fmtMoney(v){ return (v==null) ? '-' : '$' + Number(v).toLocaleString('es-AR',{maximumFractionDigits:0}); }
 function fmtPct(v){ return (v==null) ? '-' : (v*100).toFixed(0) + '%'; }
-function grupoTag(g){
-  const cls = g==='CMQ' ? 'cmq' : g==='Competencia' ? 'comp' : 'sc';
-  return `<span class="tag ${cls}">${g}</span>`;
-}
 
 function buildCadenaNav(){
   const wrap = document.getElementById('cadenaNav');
@@ -453,7 +444,7 @@ function priceCellHtml(v){
 
 function prodCellHtml(p){
   return `<td class="prodcell">
-    <div class="prodname">${grupoTag(p.grupo)} ${p.sku}</div>
+    <div class="prodname">${p.sku}</div>
     <div class="proddesc">${p.marca} · ${p.segmento}</div>
   </td>`;
 }
@@ -490,7 +481,7 @@ function renderTabla(){
       }).join('');
       return `<tr>
         <td class="prodcell">
-          <div class="prodname">${grupoTag(g.grupo)} ${g.marca}</div>
+          <div class="prodname">${g.marca}</div>
           <div class="proddesc">${g.n} SKU(s) · ${g.segmento}</div>
         </td>
         ${cells}
@@ -547,7 +538,7 @@ function renderPrecioL(){
     }).join('');
     return `<tr>
       <td class="prodcell">
-        <div class="prodname">${grupoTag(p.grupo)} ${p.sku}</div>
+        <div class="prodname">${p.sku}</div>
         <div class="proddesc">${p.marca} · ${(p.volumen_l*1000).toFixed(0)} ml</div>
       </td>
       ${cells}
@@ -669,7 +660,7 @@ function renderHeatmap(){
       const fg = alpha > 0.35 ? '#fff' : 'var(--muted)';
       return `<td><div class="heatcell" style="background:${bg};color:${fg}">${(avg*100).toFixed(0)}%</div></td>`;
     }).join('');
-    return `<tr><td class="prodcell"><div class="prodname">${grupoTag(g.grupo)} ${g.label}</div></td>${cells}</tr>`;
+    return `<tr><td class="prodcell"><div class="prodname">${g.label}</div></td>${cells}</tr>`;
   }).join('');
 }
 
