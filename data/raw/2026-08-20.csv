@@ -41,7 +41,6 @@ Carrefour;Budweiser;Cerveza rubia Budweiser 1 lt;1000 ml;5015.0;3761.25;25;2do a
 Carrefour;Quilmes;Cerveza negra Quilmes Stout 1 lt;1000 ml;4580.0;3435.0;25;2do al 50% Max 48 unidades Combinable QUILMES
 Carrefour;Schneider;Cerveza blanca Schneider Limón Remix en lata 473 ml;473 ml;2725.0;2725.0;0;
 Carrefour;Imperial;Cerveza sin alcohol Imperial Golden 0% en lata 473 ml;473 ml;2100.0;2100.0;0;
-Carrefour;Antares;Cerveza ipa citrica Antares sin alcohol 473 ml;473 ml;3553.0;3553.0;0;
 Carrefour;Denninghoffs;Cerveza negra Denninghoff schwarz barril 5 lts;-;36990.0;36990.0;0;
 Carrefour;Patagonia;Cerveza Patagonia Lager del Sur 730 ml;730 ml;7055.0;5291.25;25;2do al 50% Max 48 unidades Combinable PATAGONIA
 Carrefour;Patagonia;Cerveza blanca Patagonia Lager del Sur 473 ml;473 ml;4960.0;3720.0;25;2do al 50% Max 48 unidades Combinable PATAGONIA
@@ -188,40 +187,40 @@ Dia;Salta Cautiva;Cerveza Fresh Lager Salta Cautiva 473 Ml.;473 ml;3100.0;3100.0
 Dia;Stella Artois;Cerveza Pure Gold Stella Artois 330 Ml.;330 ml;4185.0;3000.0;28;
 Dia;Dia;Cerveza Dorada Lata Dia 473 Ml.;473 ml;2350.0;1790.0;24;
 Dia;Budweiser;Cerveza Budweiser Lata 473 ml.;473 ml;1550.0;1550.0;0;
-Jumbo;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3600.0;3600.0;0;
-Jumbo;Corona;Cerveza Rubia 330ml Corona;330 ml;4550.0;4550.0;0;
-Jumbo;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;7050.0;7050.0;0;
-Jumbo;Corona;Cerveza Rubia 710 Ml Corona;710 ml;7490.0;7490.0;0;
-Jumbo;Stella Artois;Cerveza Lager Pure Gold 473 Cc Stella Artois;473 ml;3390.0;3390.0;0;
-Jumbo;Michelob;Cerveza Ultra Lager 275 Ml Michelob;275 ml;3000.0;3000.0;0;
-Jumbo;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;2350.0;2350.0;0;
-Jumbo;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3706.0;3706.0;0;
-Jumbo;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;3000.0;0;
-Jumbo;Patagonia;Cerveza IPA Sabor Sauco 730 Cc Patagonia;730 ml;7298.0;7298.0;0;
-Jumbo;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7298.0;7298.0;0;
+Jumbo;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3600.0;2340.0;35;35% CORONA | Ofertas Internas
+Jumbo;Corona;Cerveza Rubia 330ml Corona;330 ml;4550.0;2957.5;35;35% Almacen | Ecommerce
+Jumbo;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;7050.0;5287.5;25;25% STELLA ARTOIS | Ofertas Internas
+Jumbo;Corona;Cerveza Rubia 710 Ml Corona;710 ml;7490.0;4868.5;35;35% CORONA | Ofertas Internas
+Jumbo;Stella Artois;Cerveza Lager Pure Gold 473 Cc Stella Artois;473 ml;3390.0;2203.5;35;35% STELLA ARTOIS | Ofertas Internas
+Jumbo;Michelob;Cerveza Ultra Lager 275 Ml Michelob;275 ml;3000.0;1950.0;35;35% MICHELOB | Ofertas Internas
+Jumbo;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;2350.0;1175.0;50;2x1 BEER LANDVIK | Ofertas Internas
+Jumbo;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3706.0;2408.9;35;35% Almacen | Ecommerce
+Jumbo;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;1950.0;35;35% MICHELOB | Ofertas Internas
+Jumbo;Patagonia;Cerveza IPA Sabor Sauco 730 Cc Patagonia;730 ml;7298.0;5473.5;25;25% PATAGONIA | Ofertas Internas
+Jumbo;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7298.0;5473.5;25;25% PATAGONIA | Ofertas Internas
 Jumbo;Heineken;Cerveza Rubia 1 Lts Heineken;-;6851.0;6851.0;0;
-Jumbo;Stella Artois;Cerveza Pure Gold Lager 330 Ml Stella Artois;330 ml;4505.0;4505.0;0;
+Jumbo;Stella Artois;Cerveza Pure Gold Lager 330 Ml Stella Artois;330 ml;4505.0;2928.25;35;35% STELLA ARTOIS | Ofertas Internas
 Jumbo;Heineken;Cerveza Lager Sin Alcohol 473 Cc Heineken;473 ml;3374.0;3374.0;0;
-Jumbo;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7298.0;7298.0;0;
+Jumbo;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7298.0;5473.5;25;25% PATAGONIA | Ofertas Internas
 Jumbo;Amstel;Cerveza Lager 473 Cc Amstel;473 ml;2803.0;2803.0;0;
 Jumbo;Blue Moon;Cerveza Belgian White 473 Cc Blue Moon;473 ml;4723.0;4723.0;0;
-Jumbo;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7298.0;7298.0;0;
+Jumbo;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7298.0;5473.5;25;25% PATAGONIA | Ofertas Internas
 Jumbo;Pampa Brewing;Cerveza IPA 473 Cc Pampa Brewing;473 ml;3550.0;3550.0;0;
-Jumbo;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2282.0;2282.0;0;
+Jumbo;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2282.0;1483.3;35;35% QUILMES | Ofertas Internas
 Jumbo;Antares;Cerveza IPA 473 Cc Antares;473 ml;4800.0;4800.0;0;
 Jumbo;Kunstmann;Cerveza Kunstmann Ipa Session 470cc;470 ml;4567.0;4567.0;0;
 Jumbo;Antares;Cerveza Session IPA Caravana 473 Ml Antares;473 ml;4800.0;4800.0;0;
-Jumbo;Andes Origen;Cerveza Ipa 473ml Andes Origen;473 ml;19646.0;19646.0;0;
-Jumbo;Schneider;Cerveza Rubia 710 Cc Schneider;710 ml;3800.0;3800.0;0;
-Jumbo;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3477.0;3477.0;0;
+Jumbo;Andes Origen;Cerveza Ipa 473ml Andes Origen;473 ml;19646.0;14734.5;25;25% ANDES | Ofertas Internas
+Jumbo;Schneider;Cerveza Rubia 710 Cc Schneider;710 ml;3800.0;2280.0;40;40% Almacen | Ecommerce
+Jumbo;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3477.0;2260.05;35;35% Almacen | Ecommerce
 Jumbo;Imperial;Cerveza Cream Stout 473 Cc Imperial;473 ml;3322.0;3322.0;0;
-Jumbo;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4580.0;4580.0;0;
+Jumbo;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4580.0;3435.0;25;25% QUILMES | Ofertas Internas
 Jumbo;Heineken;Cerveza Rubia 473 Ml Heineken;473 ml;4050.0;4050.0;0;
-Jumbo;Andes;Cerveza Golden Lager 1 Lts Andes;-;5787.0;5787.0;0;
-Jumbo;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;2803.0;2803.0;0;
+Jumbo;Andes;Cerveza Golden Lager 1 Lts Andes;-;5787.0;3761.55;35;35% ANDES | Ofertas Internas
+Jumbo;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;2803.0;1681.8;40;40% Almacen | Ecommerce
 Jumbo;Imperial;Cerveza Golden Sin Alcohol 473 Cc Imperial;473 ml;2284.0;2284.0;0;
-Jumbo;Brahma;Cerveza Rubia 710 Cc Brahma;710 ml;4088.0;4088.0;0;
-Jumbo;Corona;Cerveza Rubia 473 Cc Corona;473 ml;4838.0;4838.0;0;
+Jumbo;Brahma;Cerveza Rubia 710 Cc Brahma;710 ml;4088.0;2657.2;35;35% Almacen | Ecommerce
+Jumbo;Corona;Cerveza Rubia 473 Cc Corona;473 ml;4838.0;3144.7;35;35% Almacen | Ecommerce
 Jumbo;Antares;Cerveza Lager 473 Cc Antares;473 ml;4100.0;4100.0;0;
 Jumbo;Peroni;Cerveza Pilsen 330 Ml Peroni;330 ml;5600.0;5600.0;0;
 Jumbo;Amstel;Cerveza Lager 710 Ml Amstel;710 ml;3996.0;3996.0;0;
@@ -238,22 +237,22 @@ Jumbo;Imperial;Cerveza Imperial Golden 473cc;473 ml;3166.0;3166.0;0;
 Jumbo;Rabieta;Cerveza American IPA 473 Cc Rabieta;473 ml;4500.0;4500.0;0;
 Jumbo;Imperial;Cerveza Imperial Rubia 710cc;710 ml;4463.0;4463.0;0;
 Jumbo;Heineken;Cerveza Rubia 710 Cc Heineken;710 ml;6050.0;6050.0;0;
-Jumbo;Andes;Cerveza IPA 1 Lts Andes;-;5935.0;5935.0;0;
+Jumbo;Andes;Cerveza IPA 1 Lts Andes;-;5935.0;4451.25;25;25% ANDES | Ofertas Internas
 Jumbo;Blue Moon;Cerveza Belgian White 355 Cc Blue Moon;355 ml;5242.0;5242.0;0;
-Jumbo;Andes;Cerveza Rubia 1 Lts Andes;-;5777.0;5777.0;0;
-Jumbo;Andes;Cerveza Roja 1 Lts Andes;-;5935.0;5935.0;0;
-Jumbo;Quilmes;Cerveza Rubia 340 Cc Quilmes;340 ml;1674.0;1674.0;0;
-Jumbo;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5188.0;5188.0;0;
+Jumbo;Andes;Cerveza Rubia 1 Lts Andes;-;5777.0;4332.75;25;25% ANDES | Ofertas Internas
+Jumbo;Andes;Cerveza Roja 1 Lts Andes;-;5935.0;4451.25;25;25% ANDES | Ofertas Internas
+Jumbo;Quilmes;Cerveza Rubia 340 Cc Quilmes;340 ml;1674.0;1255.5;25;25% QUILMES | Ofertas Internas
+Jumbo;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5188.0;3891.0;25;25% BUDWEISER | Ofertas Internas
 Jumbo;Imperial;Cerveza Extra Lager 473 Cc Imperial;473 ml;3166.0;3166.0;0;
 Jumbo;Grolsch;Cerveza Pilsner 473 Cc Grolsch;473 ml;3996.0;3996.0;0;
 Jumbo;Brahma;Cerveza Brahma Chopp Lata 473mlx6;-;16683.0;16683.0;0;
-Jumbo;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;2018.0;2018.0;0;
-Jumbo;Quilmes;Cerveza Rubia 473 Cc Quilmes;473 ml;2588.0;2588.0;0;
-Jumbo;Bajo Cero;Cerveza Bajo Cero 1 Lts Quilmes;-;3971.0;3971.0;0;
+Jumbo;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;2018.0;1311.7;35;35% Almacen | Ecommerce
+Jumbo;Quilmes;Cerveza Rubia 473 Cc Quilmes;473 ml;2588.0;1682.2;35;35% Almacen | Ecommerce
+Jumbo;Bajo Cero;Cerveza Bajo Cero 1 Lts Quilmes;-;3971.0;2978.25;25;25% QUILMES | Ofertas Internas
 Jumbo;Miller;Cerveza Lager 330 Cc Miller;330 ml;3893.0;3893.0;0;
 Jumbo;Miller;Cerveza Genuine Draft 473 Ml Miller;473 ml;3477.0;3477.0;0;
 Jumbo;Bierhaus;Cerveza Chalalager 473 Ml Bierhaus;473 ml;4300.0;4300.0;0;
-Jumbo;Quilmes;Cerveza IPA 473 Cc Quilmes;473 ml;2711.0;2711.0;0;
+Jumbo;Quilmes;Cerveza IPA 473 Cc Quilmes;473 ml;2711.0;2033.25;25;25% QUILMES | Ofertas Internas
 Jumbo;Heineken;Cerveza 0.0 330 Ml Heineken;330 ml;3270.0;3270.0;0;
 Jumbo;Guinness;Cerveza Extra Stout 473 Ml Guinness;473 ml;4500.0;4500.0;0;
 Jumbo;Antares;Cerveza Kolsch 473 Ml Antares;473 ml;4750.0;4750.0;0;
@@ -261,13 +260,12 @@ Jumbo;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4567.0;4567.0;0;
 Jumbo;Imperial;Cerveza Imperial Golden 1 L;1000 ml;5242.0;5242.0;0;
 Jumbo;Rabieta;Cerveza Red Honey 473 Cc Rabieta;473 ml;4100.0;4100.0;0;
 Jumbo;Asahi;Cerveza Super Dry 330 Ml Asahi;330 ml;5600.0;5600.0;0;
-Jumbo;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3501.0;3501.0;0;
+Jumbo;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3501.0;2625.75;25;25% ANDES | Ofertas Internas
 Jumbo;Imperial;Cerveza IPA 473 Cc Imperial;473 ml;3322.0;3322.0;0;
-Jumbo;Andes;Cerveza Negra 473 Cc Andes;473 ml;3501.0;3501.0;0;
-Jumbo;Andes;Cerveza Rubia 473 Cc Andes;473 ml;3500.0;3500.0;0;
+Jumbo;Andes;Cerveza Negra 473 Cc Andes;473 ml;3501.0;2625.75;25;25% ANDES | Ofertas Internas
+Jumbo;Andes;Cerveza Rubia 473 Cc Andes;473 ml;3500.0;2625.0;25;25% ANDES | Ofertas Internas
 Jumbo;Singha;Cerveza Lager 330 Ml Singha;330 ml;3500.0;3500.0;0;
 Jumbo;Grolsch;Cerveza Pilsner 925 Cc Grolsch;925 ml;6747.0;6747.0;0;
-Jumbo;Quilmes;Cerveza Stout 473 Cc Quilmes;473 ml;2711.0;2711.0;0;
 Jumbo;Pampa Brewing;Cerveza Lager 473 Cc Pampa Brewing;473 ml;3850.0;3850.0;0;
 Jumbo;Salta Cautiva;Cerveza Lager 473 Cc Salta Cautiva;473 ml;3166.0;3166.0;0;
 Jumbo;Estrella Del Sur;Cerveza Pilsen 500 Ml Estrella del Sur;500 ml;2550.0;2550.0;0;
@@ -277,76 +275,76 @@ Jumbo;Salta Cautiva;Cerveza Salta Cautiva Roja 473 Ml;473 ml;3166.0;3166.0;0;
 Jumbo;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;3150.0;3150.0;0;
 Jumbo;Rabieta;Cerveza Golden Ale 473 Cc Rabieta;473 ml;4100.0;4100.0;0;
 Jumbo;Imperial;Cerveza Imperial Roja 473cc;473 ml;3322.0;3322.0;0;
-Jumbo;Andes;Cerveza Roja 473 Cc Andes;473 ml;3501.0;3501.0;0;
+Jumbo;Andes;Cerveza Roja 473 Cc Andes;473 ml;3501.0;2625.75;25;25% ANDES | Ofertas Internas
 Jumbo;Imperial;Cerveza Ipa 1 Lts Imperial;-;5657.0;5657.0;0;
 Jumbo;Bavaria;Cerveza Rubia 500 Ml Bavaria;500 ml;4200.0;4200.0;0;
 Jumbo;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6384.0;6384.0;0;
 Jumbo;Brahma;Cerveza Brahma Chopp Rubia 1lt Ret;1000 ml;4976.0;4976.0;0;
-Jumbo;Budweiser;Cerveza Rubia 473 Ml Budweiser;473 ml;2966.0;2966.0;0;
+Jumbo;Budweiser;Cerveza Rubia 473 Ml Budweiser;473 ml;2966.0;2224.5;25;25% BUDWEISER | Ofertas Internas
 Jumbo;Imperial;Cerveza Imperial Rubia 1 L;1000 ml;5242.0;5242.0;0;
 Jumbo;Cusqueña;Cerveza Rubia 330 Cc Cusqueña;330 ml;3750.0;3750.0;0;
 Jumbo;Brahma;Cerveza Rubia 340 Cc Brahma;340 ml;1883.0;1883.0;0;
 Jumbo;Miller;Cerveza Rubia 600 Cc Miller;600 ml;5813.0;5813.0;0;
 Jumbo;Salta Cautiva;Cerveza Session Ipa 473 Cc Salta Cautiva;473 ml;3166.0;3166.0;0;
-Jumbo;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4350.0;4350.0;0;
+Jumbo;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4350.0;3262.5;25;25% BUDWEISER | Ofertas Internas
 Jumbo;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;4100.0;4100.0;0;
 Jumbo;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;4100.0;4100.0;0;
 Jumbo;Tsingtao;Cerveza Lager 640 Ml Tsingtao;640 ml;8750.0;8750.0;0;
-Jumbo;Miller;Cerveza Rubia 1 Lts Miller;-;6384.0;6384.0;0;
+Jumbo;Miller;Cerveza Rubia 1 Lts Miller;-;6384.0;4468.8;30;30% MILLER | Ofertas Internas
 Jumbo;Karlsbräu;Cerveza Helles 500 Ml Karlsbräu;500 ml;3700.0;3700.0;0;
 Jumbo;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3477.0;3477.0;0;
 Jumbo;Salta Cautiva;Cerveza Salta Cautiva Rubia 1lt Ret;1000 ml;5242.0;5242.0;0;
 Jumbo;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3166.0;3166.0;0;
 Jumbo;Miller;Cerveza Rubia 710 Cc Miller;710 ml;5242.0;5242.0;0;
-Jumbo;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4567.0;4567.0;0;
+Jumbo;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4567.0;3196.9;30;30% SCHNEIDER | Ofertas Internas
 Jumbo;Imperial;Cerveza Imperial Stout 1lt;1000 ml;5450.0;5450.0;0;
 Jumbo;Iguana;Cerveza Pilsener 1 Lts Iguana;-;3944.0;3944.0;0;
 Jumbo;Tsingtao;Cerveza Lager 330 Ml Tsingtao;330 ml;5400.53;5400.53;0;
 Jumbo;Bitburger;Cerveza Lager 500 Ml Bitburger;500 ml;5700.0;5700.0;0;
-Jumbo;Schneider;Cerveza Rubia 473 Ml Schneider;473 ml;2595.0;2595.0;0;
-Disco;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3672.0;3672.0;0;
-Disco;Corona;Cerveza Rubia 330ml Corona;330 ml;4548.0;4548.0;0;
-Disco;Stella Artois;Cerveza Lager Pure Gold 473 Cc Stella Artois;473 ml;3390.0;3390.0;0;
+Jumbo;Schneider;Cerveza Rubia 473 Ml Schneider;473 ml;2595.0;1557.0;40;40% Almacen | Ecommerce
+Disco;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3672.0;2386.8;35;35% CORONA | Ofertas Internas
+Disco;Corona;Cerveza Rubia 330ml Corona;330 ml;4548.0;2956.2;35;35% Almacen | Ecommerce
+Disco;Stella Artois;Cerveza Lager Pure Gold 473 Cc Stella Artois;473 ml;3390.0;2203.5;35;35% STELLA ARTOIS | Ofertas Internas
 Disco;Heineken;Cerveza Lager Sin Alcohol 473 Cc Heineken;473 ml;3425.0;3425.0;0;
-Disco;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;2450.0;2450.0;0;
-Disco;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3672.0;3672.0;0;
-Disco;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;7368.0;7368.0;0;
-Disco;Stella Artois;Cerveza Pure Gold Lager 330 Ml Stella Artois;330 ml;4664.0;4664.0;0;
+Disco;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;2450.0;1225.0;50;2x1 BEER LANDVIK | Ofertas Internas
+Disco;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3672.0;2386.8;35;35% Almacen | Ecommerce
+Disco;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;7368.0;5526.0;25;25% STELLA ARTOIS | Ofertas Internas
+Disco;Stella Artois;Cerveza Pure Gold Lager 330 Ml Stella Artois;330 ml;4664.0;3031.6;35;35% STELLA ARTOIS | Ofertas Internas
 Disco;Amstel;Cerveza Lager 473 Cc Amstel;473 ml;3010.0;3010.0;0;
-Disco;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;3000.0;0;
+Disco;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;1950.0;35;35% MICHELOB | Ofertas Internas
 Disco;Antares;Cerveza IPA 473 Cc Antares;473 ml;4900.0;4900.0;0;
 Disco;Antares;Cerveza Session IPA Caravana 473 Ml Antares;473 ml;4850.0;4850.0;0;
-Disco;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4536.0;4536.0;0;
-Disco;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7613.0;7613.0;0;
+Disco;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4536.0;3402.0;25;25% QUILMES | Ofertas Internas
+Disco;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7613.0;5709.75;25;25% PATAGONIA | Ofertas Internas
 Disco;Heineken;Cerveza Rubia 1 Lts Heineken;-;7474.0;7474.0;0;
-Disco;Andes;Cerveza Golden Lager 1 Lts Andes;-;5950.0;5950.0;0;
-Disco;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;3010.0;3010.0;0;
+Disco;Andes;Cerveza Golden Lager 1 Lts Andes;-;5950.0;3867.5;35;35% ANDES | Ofertas Internas
+Disco;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;3010.0;1806.0;40;40% Almacen | Ecommerce
 Disco;Imperial;Cerveza Golden Sin Alcohol 473 Cc Imperial;473 ml;2491.0;2491.0;0;
 Disco;Antares;Cerveza IPA Sin Alcohol 473 Cc Antares;473 ml;4200.0;4200.0;0;
-Disco;Brahma;Cerveza Rubia 710 Cc Brahma;710 ml;4192.0;4192.0;0;
-Disco;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7613.0;7613.0;0;
+Disco;Brahma;Cerveza Rubia 710 Cc Brahma;710 ml;4192.0;2724.8;35;35% Almacen | Ecommerce
+Disco;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7613.0;5709.75;25;25% PATAGONIA | Ofertas Internas
 Disco;Heineken;Cerveza 0.0 330 Ml Heineken;330 ml;3529.0;3529.0;0;
 Disco;Pampa Brewing;Cerveza Nitro Cream Stout 473 Cc Pampa Brewing;473 ml;3650.0;3650.0;0;
-Disco;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7613.0;7613.0;0;
+Disco;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7613.0;5709.75;25;25% PATAGONIA | Ofertas Internas
 Disco;Pampa Brewing;Cerveza IPA 473 Cc Pampa Brewing;473 ml;3650.0;3650.0;0;
 Disco;Antares;Cerveza Scotch 473 Ml Antares;473 ml;4900.0;4900.0;0;
 Disco;Antares;Cerveza Honey 473 Ml Antares;473 ml;4850.0;4850.0;0;
-Disco;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2282.0;2282.0;0;
+Disco;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2282.0;1483.3;35;35% QUILMES | Ofertas Internas
 Disco;Imperial;Cerveza Imperial Golden 473cc;473 ml;3374.0;3374.0;0;
-Disco;Andes Origen;Cerveza Ipa 473ml Andes Origen;473 ml;20012.0;20012.0;0;
-Disco;Andes;Cerveza Rubia 1 Lts Andes;-;5989.0;5989.0;0;
-Disco;Andes;Cerveza Roja 1 Lts Andes;-;6200.0;6200.0;0;
+Disco;Andes Origen;Cerveza Ipa 473ml Andes Origen;473 ml;20012.0;15009.0;25;25% ANDES | Ofertas Internas
+Disco;Andes;Cerveza Rubia 1 Lts Andes;-;5989.0;4491.75;25;25% ANDES | Ofertas Internas
+Disco;Andes;Cerveza Roja 1 Lts Andes;-;6200.0;4650.0;25;25% ANDES | Ofertas Internas
 Disco;Imperial;Cerveza Cream Stout 473 Cc Imperial;473 ml;3581.0;3581.0;0;
 Disco;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6851.0;6851.0;0;
-Disco;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4923.0;4923.0;0;
+Disco;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4923.0;3692.25;25;25% QUILMES | Ofertas Internas
 Disco;Grolsch;Cerveza Pilsner 925 Cc Grolsch;925 ml;7318.0;7318.0;0;
-Disco;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;2125.0;2125.0;0;
-Disco;Quilmes;Cerveza Rubia 473 Cc Quilmes;473 ml;2565.0;2565.0;0;
+Disco;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;2125.0;1381.25;35;35% Almacen | Ecommerce
+Disco;Quilmes;Cerveza Rubia 473 Cc Quilmes;473 ml;2565.0;1667.25;35;35% Almacen | Ecommerce
 Disco;Karlsbräu;Cerveza Pilsen 500 Ml Karlsbräu;500 ml;3800.0;3800.0;0;
-Disco;Corona;Cerveza Rubia 473 Cc Corona;473 ml;4999.0;4999.0;0;
+Disco;Corona;Cerveza Rubia 473 Cc Corona;473 ml;4999.0;3249.35;35;35% Almacen | Ecommerce
 Disco;Antares;Cerveza Lager 473 Cc Antares;473 ml;4200.0;4200.0;0;
 Disco;Salta Cautiva;Cerveza Session Ipa 473 Cc Salta Cautiva;473 ml;3374.0;3374.0;0;
-Disco;Bajo Cero;Cerveza Bajo Cero 1 Lts Quilmes;-;4075.0;4075.0;0;
+Disco;Bajo Cero;Cerveza Bajo Cero 1 Lts Quilmes;-;4075.0;3056.25;25;25% QUILMES | Ofertas Internas
 Disco;Miller;Cerveza Genuine Draft 473 Ml Miller;473 ml;3841.0;3841.0;0;
 Disco;Amstel;Cerveza Lager 710 Ml Amstel;710 ml;4256.0;4256.0;0;
 Disco;Blue Moon;Cerveza Belgian White 473 Cc Blue Moon;473 ml;5086.0;5086.0;0;
@@ -358,15 +356,15 @@ Disco;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;3250.0;3250.0;
 Disco;Antares;Cerveza Kolsch 473 Ml Antares;473 ml;4900.0;4900.0;0;
 Disco;Heineken;Cerveza Rubia 710 Cc Heineken;710 ml;6250.0;6250.0;0;
 Disco;Imperial;Cerveza Imperial Roja 473cc;473 ml;3581.0;3581.0;0;
-Disco;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3605.0;3605.0;0;
-Disco;Andes;Cerveza IPA 1 Lts Andes;-;6200.0;6200.0;0;
+Disco;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3605.0;2703.75;25;25% ANDES | Ofertas Internas
+Disco;Andes;Cerveza IPA 1 Lts Andes;-;6200.0;4650.0;25;25% ANDES | Ofertas Internas
 Disco;Imperial;Cerveza IPA 473 Cc Imperial;473 ml;3581.0;3581.0;0;
-Disco;Andes;Cerveza Negra 473 Cc Andes;473 ml;3605.0;3605.0;0;
-Disco;Andes;Cerveza Roja 473 Cc Andes;473 ml;3605.0;3605.0;0;
+Disco;Andes;Cerveza Negra 473 Cc Andes;473 ml;3605.0;2703.75;25;25% ANDES | Ofertas Internas
+Disco;Andes;Cerveza Roja 473 Cc Andes;473 ml;3605.0;2703.75;25;25% ANDES | Ofertas Internas
 Disco;Blue Moon;Cerveza Belgian White 355 Cc Blue Moon;355 ml;5657.0;5657.0;0;
-Disco;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3841.0;3841.0;0;
-Disco;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5188.0;5188.0;0;
-Disco;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4982.0;4982.0;0;
+Disco;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3841.0;2496.65;35;35% Almacen | Ecommerce
+Disco;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5188.0;3891.0;25;25% BUDWEISER | Ofertas Internas
+Disco;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4982.0;3487.4;30;30% SCHNEIDER | Ofertas Internas
 Disco;Imperial;Cerveza Extra Lager 473 Cc Imperial;473 ml;3374.0;3374.0;0;
 Disco;Grolsch;Cerveza Pilsner 473 Cc Grolsch;473 ml;4256.0;4256.0;0;
 Disco;Brahma;Cerveza Brahma Chopp Lata 473mlx6;-;17674.0;17674.0;0;
@@ -377,7 +375,7 @@ Disco;Royal Dutch;Cerveza Lager Extra Smooth 500 Ml Royal Dutch;500 ml;3850.0;38
 Disco;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3841.0;3841.0;0;
 Disco;Miller;Cerveza Lager 330 Cc Miller;330 ml;4152.0;4152.0;0;
 Disco;Andes;Cerveza Rubia 710 Cc Andes;710 ml;4982.0;4982.0;0;
-Disco;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4454.0;4454.0;0;
+Disco;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4454.0;3340.5;25;25% BUDWEISER | Ofertas Internas
 Disco;Antares;Cerveza Playa Grande 473 Cc Antares;473 ml;4900.0;4900.0;0;
 Disco;Grolsch;Cerveza IPA 473 Cc Grolsch;473 ml;4515.0;4515.0;0;
 Disco;Guinness;Cerveza Extra Stout 473 Ml Guinness;473 ml;4600.0;4600.0;0;
@@ -390,14 +388,14 @@ Disco;Imperial;Cerveza APA 473 Cc Imperial;473 ml;3581.0;3581.0;0;
 Disco;Imperial;Cerveza Ipa 1 Lts Imperial;-;6176.0;6176.0;0;
 Disco;Imperial;Cerveza Imperial Rubia 1 L;1000 ml;5657.0;5657.0;0;
 Disco;Pampa Brewing;Cerveza Lager 473 Cc Pampa Brewing;473 ml;3950.0;3950.0;0;
-Disco;Patagonia;Cerveza Lager del Sur 473 Cc Patagonia;473 ml;5450.0;5450.0;0;
+Disco;Patagonia;Cerveza Lager del Sur 473 Cc Patagonia;473 ml;5450.0;4087.5;25;25% PATAGONIA | Ofertas Internas
 Disco;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3374.0;3374.0;0;
 Disco;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;4200.0;4200.0;0;
 Disco;Rabieta;Cerveza Golden Ale 473 Cc Rabieta;473 ml;4200.0;4200.0;0;
 Disco;Miller;Cerveza Rubia 710 Cc Miller;710 ml;5605.0;5605.0;0;
 Disco;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4982.0;4982.0;0;
-Disco;Budweiser;Cerveza Rubia 473 Ml Budweiser;473 ml;3070.0;3070.0;0;
-Disco;Miller;Cerveza Rubia 1 Lts Miller;-;6851.0;6851.0;0;
+Disco;Budweiser;Cerveza Rubia 473 Ml Budweiser;473 ml;3070.0;2302.5;25;25% BUDWEISER | Ofertas Internas
+Disco;Miller;Cerveza Rubia 1 Lts Miller;-;6851.0;4795.7;30;30% MILLER | Ofertas Internas
 Disco;Salta Cautiva;Cerveza Lager 473 Cc Salta Cautiva;473 ml;3374.0;3374.0;0;
 Disco;Karlsbräu;Cerveza Helles 500 Ml Karlsbräu;500 ml;3800.0;3800.0;0;
 Disco;Karlsbräu;Cerveza Lager 500 Ml Karlsbräu;500 ml;3800.0;3800.0;0;
@@ -405,10 +403,10 @@ Disco;Royal Dutch;Cerveza Lager 330 Ml Royal Dutch;330 ml;4250.0;4250.0;0;
 Disco;Royal Dutch;Cerveza Lager 0.0% 330 Ml Royal Dutch;330 ml;2700.0;2700.0;0;
 Disco;Duff;Cerveza Lager 330 Cc Duff;330 ml;3750.0;3750.0;0;
 Disco;Bierhaus;Cerveza IPA Chalaland 473 Ml Bierhaus;473 ml;5300.0;5300.0;0;
-Disco;Quilmes;Cerveza IPA 1 Lts Quilmes;-;5029.0;5029.0;0;
+Disco;Quilmes;Cerveza IPA 1 Lts Quilmes;-;5029.0;3771.75;25;25% QUILMES | Ofertas Internas
 Disco;Beepure;Cerveza Blonde 500 Cc Beepure;500 ml;4400.0;4400.0;0;
 Disco;Salta Cautiva;Cerveza Salta Cautiva Roja 473 Ml;473 ml;3374.0;3374.0;0;
-Disco;Stella Artois;Cerveza Stella Artois Rubia 710 Ml;710 ml;6350.0;6350.0;0;
+Disco;Stella Artois;Cerveza Stella Artois Rubia 710 Ml;710 ml;6350.0;4127.5;35;35% STELLA ARTOIS | Ofertas Internas
 Disco;Flensburger;Cerveza Gold 330 Cc Flensburger;330 ml;5550.0;5550.0;0;
 Disco;Santa Fe;Cerveza Rubia 473 Cc Santa Fe;473 ml;2855.0;2855.0;0;
 Disco;Rabieta;Cerveza Red Honey 473 Cc Rabieta;473 ml;4200.0;4200.0;0;
@@ -421,45 +419,46 @@ Disco;Tsingtao;Cerveza Lager 330 Ml Tsingtao;330 ml;5400.53;5400.53;0;
 Disco;Cusqueña;Cerveza Rubia 330 Cc Cusqueña;330 ml;3900.0;3900.0;0;
 Disco;Tsingtao;Cerveza Tsingtao Lata 500ml;500 ml;5700.0;5700.0;0;
 Disco;Bitburger;Cerveza Lager 500 Ml Bitburger;500 ml;5850.0;5850.0;0;
-Vea;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3706.0;3706.0;0;
-Vea;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;1899.0;1899.0;0;
-Vea;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;6838.0;6838.0;0;
-Vea;Corona;Cerveza Rubia 710 Ml Corona;710 ml;7490.0;7490.0;0;
-Vea;Brahma;Cerveza Rubia 710 Cc Brahma;710 ml;3930.0;3930.0;0;
+Disco;Schneider;Cerveza Rubia 473 Ml Schneider;473 ml;2855.0;1713.0;40;40% Almacen | Ecommerce
+Vea;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3706.0;2408.9;35;35% Almacen | Ecommerce
+Vea;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;1899.0;949.5;50;2x1 BEER LANDVIK | Ofertas Internas
+Vea;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;6838.0;5128.5;25;25% STELLA ARTOIS | Ofertas Internas
+Vea;Corona;Cerveza Rubia 710 Ml Corona;710 ml;7490.0;4868.5;35;35% CORONA | Ofertas Internas
+Vea;Brahma;Cerveza Rubia 710 Cc Brahma;710 ml;3930.0;2554.5;35;35% Almacen | Ecommerce
 Vea;Heineken;Cerveza Lager Sin Alcohol 473 Cc Heineken;473 ml;3166.0;3166.0;0;
-Vea;Bajo Cero;Cerveza Bajo Cero 1 Lts Quilmes;-;3814.0;3814.0;0;
-Vea;Schneider;Cerveza Rubia 710 Cc Schneider;710 ml;3799.0;3799.0;0;
-Vea;Corona;Cerveza Rubia 330ml Corona;330 ml;4550.0;4550.0;0;
-Vea;Andes;Cerveza Golden Lager 1 Lts Andes;-;5677.0;5677.0;0;
+Vea;Bajo Cero;Cerveza Bajo Cero 1 Lts Quilmes;-;3814.0;2860.5;25;25% QUILMES | Ofertas Internas
+Vea;Schneider;Cerveza Rubia 710 Cc Schneider;710 ml;3799.0;2279.4;40;40% Almacen | Ecommerce
+Vea;Corona;Cerveza Rubia 330ml Corona;330 ml;4550.0;2957.5;35;35% Almacen | Ecommerce
+Vea;Andes;Cerveza Golden Lager 1 Lts Andes;-;5677.0;3690.05;35;35% ANDES | Ofertas Internas
 Vea;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7035.0;7035.0;0;
-Vea;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3600.0;3600.0;0;
-Vea;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;2990.0;2990.0;0;
+Vea;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3600.0;2340.0;35;35% CORONA | Ofertas Internas
+Vea;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;2990.0;1943.5;35;35% MICHELOB | Ofertas Internas
 Vea;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7035.0;7035.0;0;
-Vea;Andes;Cerveza IPA 1 Lts Andes;-;5723.0;5723.0;0;
-Vea;Andes;Cerveza Rubia 1 Lts Andes;-;5565.0;5565.0;0;
-Vea;Andes;Cerveza Roja 1 Lts Andes;-;5723.0;5723.0;0;
+Vea;Andes;Cerveza IPA 1 Lts Andes;-;5723.0;4292.25;25;25% ANDES | Ofertas Internas
+Vea;Andes;Cerveza Rubia 1 Lts Andes;-;5565.0;4173.75;25;25% ANDES | Ofertas Internas
+Vea;Andes;Cerveza Roja 1 Lts Andes;-;5723.0;4292.25;25;25% ANDES | Ofertas Internas
 Vea;Patagonia;Cerveza IPA Sabor Sauco 730 Cc Patagonia;730 ml;7035.0;7035.0;0;
-Vea;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5029.0;5029.0;0;
-Vea;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4580.0;4580.0;0;
+Vea;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5029.0;3771.75;25;25% BUDWEISER | Ofertas Internas
+Vea;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4580.0;3435.0;25;25% QUILMES | Ofertas Internas
 Vea;Brahma;Cerveza Brahma Chopp Rubia 1lt Ret;1000 ml;4817.0;4817.0;0;
 Vea;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7035.0;7035.0;0;
 Vea;Heineken;Cerveza Rubia 1 Lts Heineken;-;6851.0;6851.0;0;
-Vea;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;1965.0;1965.0;0;
+Vea;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;1965.0;1277.25;35;35% Almacen | Ecommerce
 Vea;Heineken;Cerveza Rubia 473 Ml Heineken;473 ml;4099.0;4099.0;0;
-Vea;Michelob;Cerveza Ultra Lager 275 Ml Michelob;275 ml;2990.0;2990.0;0;
-Vea;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;2803.0;2803.0;0;
+Vea;Michelob;Cerveza Ultra Lager 275 Ml Michelob;275 ml;2990.0;1943.5;35;35% MICHELOB | Ofertas Internas
+Vea;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;2803.0;1681.8;40;40% Almacen | Ecommerce
 Vea;Imperial;Cerveza Golden Sin Alcohol 473 Cc Imperial;473 ml;2284.0;2284.0;0;
 Vea;Salta Cautiva;Cerveza Session Ipa 473 Cc Salta Cautiva;473 ml;3166.0;3166.0;0;
 Vea;Amstel;Cerveza Lager 473 Cc Amstel;473 ml;2803.0;2803.0;0;
 Vea;Miller;Cerveza Genuine Draft 473 Ml Miller;473 ml;3477.0;3477.0;0;
 Vea;Amstel;Cerveza Lager 1 Lts Amstel;-;4775.0;4775.0;0;
-Vea;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2130.0;2130.0;0;
+Vea;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2130.0;1384.5;35;35% QUILMES | Ofertas Internas
 Vea;Heineken;Cerveza Rubia 710 Cc Heineken;710 ml;6099.0;6099.0;0;
-Vea;Andes Origen;Cerveza Ipa 473ml Andes Origen;473 ml;19124.0;19124.0;0;
+Vea;Andes Origen;Cerveza Ipa 473ml Andes Origen;473 ml;19124.0;14343.0;25;25% ANDES | Ofertas Internas
 Vea;Imperial;Cerveza Ipa 1 Lts Imperial;-;5657.0;5657.0;0;
-Vea;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3477.0;3477.0;0;
+Vea;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3477.0;2260.05;35;35% Almacen | Ecommerce
 Vea;Imperial;Cerveza Cream Stout 473 Cc Imperial;473 ml;3322.0;3322.0;0;
-Vea;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4605.0;4605.0;0;
+Vea;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4605.0;3453.75;25;25% QUILMES | Ofertas Internas
 Vea;Grolsch;Cerveza Pilsner 925 Cc Grolsch;925 ml;6747.0;6747.0;0;
 Vea;Grolsch;Cerveza Pilsner 473 Cc Grolsch;473 ml;3996.0;3996.0;0;
 Vea;Amstel;Cerveza Lager 710 Ml Amstel;710 ml;3996.0;3996.0;0;
@@ -471,8 +470,8 @@ Vea;Antares;Cerveza Session IPA Caravana 473 Ml Antares;473 ml;4499.0;4499.0;0;
 Vea;Imperial;Cerveza Imperial Golden 1 L;1000 ml;5242.0;5242.0;0;
 Vea;Imperial;Cerveza Imperial Rubia 710cc;710 ml;4463.0;4463.0;0;
 Vea;Imperial;Cerveza IPA 473 Cc Imperial;473 ml;3322.0;3322.0;0;
-Vea;Quilmes;Cerveza Rubia 340 Cc Quilmes;340 ml;1622.0;1622.0;0;
-Vea;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4567.0;4567.0;0;
+Vea;Quilmes;Cerveza Rubia 340 Cc Quilmes;340 ml;1622.0;1216.5;25;25% QUILMES | Ofertas Internas
+Vea;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4567.0;3196.9;30;30% SCHNEIDER | Ofertas Internas
 Vea;Imperial;Cerveza Extra Lager 473 Cc Imperial;473 ml;3166.0;3166.0;0;
 Vea;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6384.0;6384.0;0;
 Vea;Imperial;Cerveza Imperial Rubia 1 L;1000 ml;5242.0;5242.0;0;
@@ -480,7 +479,7 @@ Vea;Brahma;Cerveza Brahma Chopp Lata 473mlx6;-;16370.0;16370.0;0;
 Vea;Antares;Cerveza IPA Sin Alcohol 473 Cc Antares;473 ml;3999.0;3999.0;0;
 Vea;Antares;Cerveza Lager 473 Cc Antares;473 ml;3999.0;3999.0;0;
 Vea;Miller;Cerveza Lager 330 Cc Miller;330 ml;3893.0;3893.0;0;
-Vea;Quilmes;Cerveza IPA 473 Cc Quilmes;473 ml;2607.0;2607.0;0;
+Vea;Quilmes;Cerveza IPA 473 Cc Quilmes;473 ml;2607.0;1955.25;25;25% QUILMES | Ofertas Internas
 Vea;Grolsch;Cerveza IPA 473 Cc Grolsch;473 ml;4152.0;4152.0;0;
 Vea;Blue Moon;Cerveza Belgian White 473 Cc Blue Moon;473 ml;4723.0;4723.0;0;
 Vea;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3166.0;3166.0;0;
@@ -489,8 +488,8 @@ Vea;Antares;Cerveza Scotch 473 Ml Antares;473 ml;4499.0;4499.0;0;
 Vea;Antares;Cerveza Kolsch 473 Ml Antares;473 ml;4499.0;4499.0;0;
 Vea;Antares;Cerveza Honey 473 Ml Antares;473 ml;4499.0;4499.0;0;
 Vea;Imperial;Cerveza APA 473 Cc Imperial;473 ml;3322.0;3322.0;0;
-Vea;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3396.0;3396.0;0;
-Vea;Andes;Cerveza Roja 473 Cc Andes;473 ml;3396.0;3396.0;0;
+Vea;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3396.0;2547.0;25;25% ANDES | Ofertas Internas
+Vea;Andes;Cerveza Roja 473 Cc Andes;473 ml;3396.0;2547.0;25;25% ANDES | Ofertas Internas
 Vea;Miller;Cerveza Rubia 600 Cc Miller;600 ml;5709.0;5709.0;0;
 Vea;Pampa Brewing;Cerveza Lager 473 Cc Pampa Brewing;473 ml;3690.0;3690.0;0;
 Vea;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;3890.0;3890.0;0;
@@ -509,12 +508,12 @@ Vea;Guinness;Cerveza Extra Stout 473 Ml Guinness;473 ml;4290.0;4290.0;0;
 Vea;Bierhaus;Cerveza Bierhaus Honey 473 Ml;473 ml;3250.0;3250.0;0;
 Vea;Bierhaus;Cerveza Red Ipa 473 Ml Bierhaus;473 ml;4200.0;4200.0;0;
 Vea;Bierhaus;Cerveza IPA Super Star 473 Ml Bierhaus;473 ml;4200.0;4200.0;0;
-Vea;Temple;Cerveza IPA 473 Cc Temple;473 ml;4987.0;4987.0;0;
+Vea;Temple;Cerveza IPA 473 Cc Temple;473 ml;4987.0;3241.55;35;35% TEMPLE | Ofertas Internas
 Vea;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4567.0;4567.0;0;
 Vea;Kunstmann;Cerveza Kunstmann Ipa Session 470cc;470 ml;4567.0;4567.0;0;
 Vea;Santa Fe;Cerveza Rubia 473 Cc Santa Fe;473 ml;2599.0;2599.0;0;
 Vea;Imperial;Cerveza Imperial Stout 1lt;1000 ml;5450.0;5450.0;0;
-Vea;Miller;Cerveza Rubia 1 Lts Miller;-;6384.0;6384.0;0;
+Vea;Miller;Cerveza Rubia 1 Lts Miller;-;6384.0;4468.8;30;30% MILLER | Ofertas Internas
 Coto;Warsteiner;Cerveza Pilsener WARSTEINER Lata 473 Cc;473 ml;3485;3485;0;
 Coto;Heineken;Cerveza Lager HEINEKEN Lata 473 Cc;473 ml;4030;3022.5;25;25%Dto
 Coto;Corona;Cerveza CORONA Porron 330 Cc;330 ml;4550;3412.5;25;25%Dto

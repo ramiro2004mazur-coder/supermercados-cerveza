@@ -65,6 +65,26 @@ con 400 Bad Request (ese `sc` no es válido para esas tiendas). Por eso
 y, si viene sin `sellers`, reintenta esa página (y las siguientes)
 agregando `sc=1` — autodetección por tienda, no config manual.
 
+### Cencosud no usa las promos estandar de VTEX
+
+Jumbo/Disco/Vea mostraban 0% de dinámica en el dashboard aunque la
+propia web sí tiene descuentos reales (ej. Corona 330ml -35%,
+$4.550 → $2.957,5). No era un bug del sanity-check de `ListPrice` (ver
+abajo) — el motivo es que Cencosud arma sus promociones por **fuera**
+del motor estándar de VTEX: `Teasers`/`DiscountHighLight` vienen
+siempre vacíos, y el descuento real vive en un endpoint interno propio
+(`_v/search-promotions`, parte de una app "cmedia-integration-cencosud").
+
+Se encontró interceptando los `fetch()` reales que hace la página (no
+está documentado en ningún lado): hay que mandarle un **seller de
+sucursal/depósito específico por cadena** (no el `sellerId: "1"` que
+trae el catálogo) — ej. Jumbo usa `jumboargentinaj5202martinez`. Con
+eso, `{seller, skus: [...]}` devuelve el descuento real por SKU
+(`effectiveDiscount`), en lotes de hasta ~20 SKUs por request. Confirmado
+que funciona sin cookies/sesión (fijo, no depende de geolocalización).
+Ver `vtex_client.fetch_promotions` y el campo `promo_seller` en
+`chains.py`.
+
 ### Bug de datos encontrado en Jumbo/Disco/Vea (grupo Cencosud)
 
 El campo `ListPrice` que devuelve el API de estas 3 cadenas viene **roto**:

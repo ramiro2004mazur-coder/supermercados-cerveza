@@ -1264,14 +1264,6 @@
     "segmento": "Core"
   },
   {
-    "id": "quilmes-cerveza-stout-473-cc-quilmes",
-    "marca": "Quilmes",
-    "sku": "Cerveza Stout 473 Cc Quilmes",
-    "calibre": "473",
-    "grupo": "CMQ",
-    "segmento": "Core"
-  },
-  {
     "id": "quilmes-cerveza-stout-quilmes-botella-1-l",
     "marca": "Quilmes",
     "sku": "Cerveza Stout QUILMES Botella 1 L",
@@ -2035,14 +2027,6 @@
     "id": "antares-cerveza-blanca-antares-playa-grande-473-ml",
     "marca": "Antares",
     "sku": "Cerveza blanca Antares Playa Grande 473 ml",
-    "calibre": "473",
-    "grupo": "Competencia",
-    "segmento": "Super Premium"
-  },
-  {
-    "id": "antares-cerveza-ipa-citrica-antares-sin-alcohol-473-ml",
-    "marca": "Antares",
-    "sku": "Cerveza ipa citrica Antares sin alcohol 473 ml",
     "calibre": "473",
     "grupo": "Competencia",
     "segmento": "Super Premium"

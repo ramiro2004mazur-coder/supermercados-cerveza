@@ -28,6 +28,18 @@ para activar la promo, pct = % OFF que se aplica a la ultima unidad. Se
 calcula el precio efectivo promedio por unidad (ver `parse_qty_promo` /
 `aplicar_promo_qty`) en vez de reportar 0% de descuento, que es lo que
 hacia el scraper antes de esto.
+
+Promos de Jumbo/Disco/Vea (Cencosud): NO usan el motor de promos
+estandar de VTEX (Teasers/DiscountHighLight vienen vacios, ListPrice es
+basura, ver LISTPRICE_SANITY_RATIO). Cencosud armo su propio sistema
+por fuera de VTEX: un endpoint interno `_v/search-promotions` (parte de
+una app custom "cmedia-integration-cencosud"), que devuelve el
+descuento real por SKU si se le manda el "seller" correcto -- no es el
+sellerId "1" que trae el catalogo, es un id de sucursal/deposito
+distinto por cadena (ej. Jumbo: "jumboargentinaj5202martinez"). Se
+encontro interceptando los fetch() reales que hace la propia pagina.
+Confirmado que funciona sin cookies/sesion (es fijo, no depende de
+geolocalizacion). Ver `fetch_promotions`.
 """
 
 import re
@@ -49,6 +61,7 @@ PACK_RE = re.compile(
 )
 PROMO_QTY_RE = re.compile(r"-Reg-(\d+)-(\d+)-")
 LISTPRICE_SANITY_RATIO = 3.0   # ver nota en producto_a_fila: ListPrice roto en Jumbo/Disco/Vea
+PROMO_BATCH_SIZE = 15          # /_v/search-promotions da 500 con lotes mas grandes (~20+)
 
 
 def session():
@@ -130,6 +143,35 @@ def fetch_category(s, base_url, category_path, max_pages=MAX_PAGES):
     return items
 
 
+def fetch_promotions(s, base_url, seller, item_ids):
+    """Trae los descuentos reales de Cencosud (Jumbo/Disco/Vea) via el
+    endpoint interno `_v/search-promotions`, en lotes (ver PROMO_BATCH_SIZE).
+    Devuelve {itemId: (effectiveDiscount_0a1, nombre_promo)}. Si el
+    endpoint falla para un lote (ej. algun itemId invalido tira 500 para
+    todo el lote), se loguea y se sigue sin esos descuentos -- es un
+    enriquecimiento, no debe tumbar la corrida."""
+    url = f"{base_url}/_v/search-promotions"
+    out = {}
+    for i in range(0, len(item_ids), PROMO_BATCH_SIZE):
+        batch = item_ids[i:i + PROMO_BATCH_SIZE]
+        try:
+            r = s.post(url, json={"seller": seller, "skus": batch}, timeout=20)
+            if r.status_code != 200:
+                continue
+            promos = ((r.json().get("promotions") or {}).get("generic") or {}).get("promotions") or {}
+            for item_id, p in promos.items():
+                try:
+                    disc = float(p.get("effectiveDiscount") or 0)
+                except (TypeError, ValueError):
+                    continue
+                if disc > 0:
+                    out[item_id] = (disc, re.sub(r"\s+", " ", p.get("name") or "").strip())
+        except requests.RequestException:
+            continue
+        time.sleep(0.2)
+    return out
+
+
 def es_pack(product_name):
     return bool(PACK_RE.search(product_name or ""))
 
@@ -172,7 +214,7 @@ def aplicar_promo_qty(precio_base, min_qty, pct):
     return precio_base * ((min_qty - 1) + (1 - pct / 100)) / min_qty
 
 
-def producto_a_fila(cadena, product, marca_de_fn):
+def producto_a_fila(cadena, product, marca_de_fn, promotions=None):
     nombre = (product.get("productName") or "").strip()
     if not nombre:
         raise ValueError(f"producto sin nombre (productId={product.get('productId')})")
@@ -208,6 +250,12 @@ def producto_a_fila(cadena, product, marca_de_fn):
     if qty_promo:
         min_qty, pct, promo_nominal = qty_promo
         precio = round(aplicar_promo_qty(precio, min_qty, pct), 2)
+    elif promotions and it.get("itemId") in promotions:
+        # descuento del sistema propio de Cencosud (ver fetch_promotions),
+        # no viene en Teasers/DiscountHighLight como en Carrefour
+        disc, nombre_promo = promotions[it["itemId"]]
+        precio = round(fleje * (1 - disc), 2)
+        promo_nominal = nombre_promo
 
     descuento = int(round(max(1 - precio / fleje, 0.0) * 100)) if fleje else 0
 
@@ -223,13 +271,13 @@ def producto_a_fila(cadena, product, marca_de_fn):
     }
 
 
-def productos_a_filas(cadena, productos, marca_de_fn):
+def productos_a_filas(cadena, productos, marca_de_fn, promotions=None):
     """Igual contrato que el resto de los scrapers: 1 producto que falla
     al parsearse se loguea y no corta la corrida."""
     rows, errores = [], []
     for p in productos:
         try:
-            row = producto_a_fila(cadena, p, marca_de_fn)
+            row = producto_a_fila(cadena, p, marca_de_fn, promotions=promotions)
             if row is not None:
                 rows.append(row)
         except Exception as e:  # noqa: BLE001 - por diseno: nunca cortar la corrida por 1 SKU

@@ -54,7 +54,17 @@ def scrape_cadena(chain):
     productos = vtex_client.fetch_category(s, chain["base_url"], chain["category_path"])
     if not productos:
         return [], [f"[{chain['cadena']}] 0 productos devueltos por la API"]
-    return vtex_client.productos_a_filas(chain["cadena"], productos, marca_de)
+
+    promotions = None
+    if chain.get("promo_seller"):
+        item_ids = [
+            p["items"][0]["itemId"]
+            for p in productos
+            if p.get("items") and p["items"][0].get("itemId")
+        ]
+        promotions = vtex_client.fetch_promotions(s, chain["base_url"], chain["promo_seller"], item_ids)
+
+    return vtex_client.productos_a_filas(chain["cadena"], productos, marca_de, promotions=promotions)
 
 
 def guardar_csv(rows, out_dir, fecha):
