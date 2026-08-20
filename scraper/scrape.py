@@ -36,7 +36,7 @@ from vtex_client import fetch_category, productos_a_filas, session
 
 TZ = ZoneInfo("America/Argentina/Buenos_Aires")
 DEFAULT_OUT_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
-CSV_FIELDS = ["cadena", "marca", "descripcion", "calibre", "fleje", "precio", "descuento"]
+CSV_FIELDS = ["cadena", "marca", "descripcion", "calibre", "fleje", "precio", "descuento", "promo_nominal"]
 
 
 def scrape_cadena(s, chain):

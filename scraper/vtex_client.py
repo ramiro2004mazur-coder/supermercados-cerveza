@@ -12,6 +12,15 @@ _from/_to (maximo 50 items por page) y devuelve el total en el header
 Se filtran productos sin stock (AvailableQuantity <= 0 o precio <= 0) y
 packs/combos (six-packs, "x6", "+ vaso/copa/botella"), igual criterio que
 usa el scraper de Rappi para no mezclar precio-por-pack con precio unitario.
+
+Promos por cantidad ("2do al X% OFF", detectado en Carrefour): no se
+reflejan en Price/ListPrice, solo aparecen en commertialOffer.Teasers /
+PromotionTeasers con un nombre tipo "PROMO-2do al 50% ... -Reg-2-50-...".
+El sufijo "-Reg-{qty}-{pct}-" es machine-parseable: qty = cantidad minima
+para activar la promo, pct = % OFF que se aplica a la ultima unidad. Se
+calcula el precio efectivo promedio por unidad (ver `parse_qty_promo` /
+`aplicar_promo_qty`) en vez de reportar 0% de descuento, que es lo que
+hacia el scraper antes de esto.
 """
 
 import re
@@ -31,6 +40,7 @@ PACK_RE = re.compile(
     r"\bpack\b|\bcombo\b|\bsix\s*pack\b|\bx\s*\d+\b|\+\s*(copa|vaso|botella|regalo)",
     re.I,
 )
+PROMO_QTY_RE = re.compile(r"-Reg-(\d+)-(\d+)-")
 
 
 def session():
@@ -92,6 +102,34 @@ def calibre_de(product_name):
     return f"{int(round(ml))} ml"
 
 
+def parse_qty_promo(offer):
+    """Busca una promo tipo 'Nva unidad al X% OFF' en Teasers/PromotionTeasers
+    y devuelve (cantidad_minima, pct_off, nombre_nominal) o None si no hay.
+    Solo se toma la primera promo de este tipo que aparezca (no se vieron
+    SKUs con mas de una en la inspeccion inicial de Carrefour)."""
+    teasers = offer.get("PromotionTeasers") or offer.get("Teasers") or []
+    for t in teasers:
+        name = t.get("Name") or t.get("<Name>k__BackingField") or ""
+        m = PROMO_QTY_RE.search(name)
+        if not m:
+            continue
+        min_qty, pct = int(m.group(1)), int(m.group(2))
+        if min_qty < 2 or not (0 < pct <= 100):
+            continue
+        nominal = name.split("-Reg-")[0].replace("PROMO-", "").strip()
+        return min_qty, pct, nominal
+    return None
+
+
+def aplicar_promo_qty(precio_base, min_qty, pct):
+    """Precio efectivo promedio por unidad si se compra la cantidad minima
+    de la promo: (min_qty - 1) unidades al precio de lista + 1 unidad al
+    (100 - pct)% de descuento, todo dividido por min_qty.
+    Ej. Price=2589, '2do al 50%' -> (2589 + 2589*0.5) / 2 = 1941.75
+    (25% de descuento efectivo, no el 50% nominal de la promo)."""
+    return precio_base * ((min_qty - 1) + (1 - pct / 100)) / min_qty
+
+
 def producto_a_fila(cadena, product, marca_de_fn):
     nombre = (product.get("productName") or "").strip()
     if not nombre:
@@ -118,6 +156,13 @@ def producto_a_fila(cadena, product, marca_de_fn):
     marca = marca_de_fn(nombre, product.get("brand"))
     if not fleje or fleje < precio:
         fleje = precio
+
+    promo_nominal = ""
+    qty_promo = parse_qty_promo(offer)
+    if qty_promo:
+        min_qty, pct, promo_nominal = qty_promo
+        precio = round(aplicar_promo_qty(precio, min_qty, pct), 2)
+
     descuento = int(round(max(1 - precio / fleje, 0.0) * 100)) if fleje else 0
 
     return {
@@ -128,6 +173,7 @@ def producto_a_fila(cadena, product, marca_de_fn):
         "fleje": fleje,
         "precio": precio,
         "descuento": descuento,
+        "promo_nominal": promo_nominal,
     }
 
 

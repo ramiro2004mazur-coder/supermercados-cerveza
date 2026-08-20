@@ -12,9 +12,11 @@
         "2026-08-20": {
           "fleje": 1290.0,
           "ptc": 1290.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-republica-artesanal-cerveza-honey-republica-artesanal-en-lata-473-ml",
@@ -28,9 +30,11 @@
         "2026-08-20": {
           "fleje": 1290.0,
           "ptc": 1290.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-republica-artesanal-cerveza-amber-republica-artesanal-en-lata-473-ml",
@@ -44,9 +48,11 @@
         "2026-08-20": {
           "fleje": 1290.0,
           "ptc": 1290.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-corona-cerveza-blanca-sin-alcohol-corona-0-0-330-ml",
@@ -59,10 +65,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3600.0,
-          "ptc": 2520.0,
-          "dinamica": 0.3
+          "ptc": 1638.0,
+          "dinamica": 0.545,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable CORONA"
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-michelob-ultra-cerveza-light-michelob-ultra-473-ml",
@@ -75,10 +83,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 2725.0,
-          "ptc": 2725.0,
-          "dinamica": 0.0
+          "ptc": 1771.25,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable MICHELOB"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-975-ml",
@@ -91,10 +101,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 6819.0,
-          "ptc": 4432.35,
-          "dinamica": 0.35
+          "ptc": 3324.26,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
         }
-      }
+      },
+      "volumen_l": 0.975
     },
     {
       "id": "carrefour-quilmes-cerveza-blanca-quilmes-sin-alcohol-473-ml",
@@ -107,10 +119,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 2150.0,
-          "ptc": 2150.0,
-          "dinamica": 0.0
+          "ptc": 1397.5,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-corona-cerveza-rubia-corona-330-ml",
@@ -123,10 +137,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4550.0,
-          "ptc": 3185.0,
-          "dinamica": 0.3
+          "ptc": 2388.75,
+          "dinamica": 0.475,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable CORONA"
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-quilmes-cerveza-negra-quilmes-stout-473-ml",
@@ -139,10 +155,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 2589.0,
-          "ptc": 2589.0,
-          "dinamica": 0.0
+          "ptc": 1941.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-stella-artois-cerveza-pure-gold-stella-artois-en-lata-473-ml",
@@ -155,10 +173,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4139.0,
-          "ptc": 2483.4,
-          "dinamica": 0.4
+          "ptc": 1862.55,
+          "dinamica": 0.55,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-bajo-cero-cerveza-blanca-quilmes-bajo-cero-en-lata-473-ml",
@@ -172,9 +192,11 @@
         "2026-08-20": {
           "fleje": 1619.0,
           "ptc": 1619.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-quilmes-cerveza-blanca-quilmes-1890-retornable-1-lt",
@@ -187,10 +209,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3769.0,
-          "ptc": 3769.0,
-          "dinamica": 0.0
+          "ptc": 2826.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-0-0-473-ml",
@@ -203,10 +227,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3400.0,
-          "ptc": 2210.0,
-          "dinamica": 0.35
+          "ptc": 1436.5,
+          "dinamica": 0.5775,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable STELLA ARTOIS"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-corona-cerveza-rubia-corona-710-ml",
@@ -219,10 +245,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 7490.0,
-          "ptc": 5243.0,
-          "dinamica": 0.3
+          "ptc": 3932.25,
+          "dinamica": 0.475,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable CORONA"
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-mecklenburger-cerveza-mecklenburger-pilsener-500-ml",
@@ -236,9 +264,11 @@
         "2026-08-20": {
           "fleje": 1790.0,
           "ptc": 1790.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "carrefour-brahma-cerveza-rubia-brahma-354-ml",
@@ -251,10 +281,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 1669.0,
-          "ptc": 1669.0,
-          "dinamica": 0.0
+          "ptc": 1251.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable BRAHMA"
         }
-      }
+      },
+      "volumen_l": 0.354
     },
     {
       "id": "carrefour-stella-artois-cerveza-pure-gold-stella-artois-en-porron-330-ml",
@@ -267,10 +299,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4189.0,
-          "ptc": 2513.4,
-          "dinamica": 0.4
+          "ptc": 1885.05,
+          "dinamica": 0.55,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-denninghoffs-cerveza-denninghoff-weizen-dunkel-barril-5-lts",
@@ -284,9 +318,11 @@
         "2026-08-20": {
           "fleje": 36990.0,
           "ptc": 36990.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": null
     },
     {
       "id": "carrefour-heineken-cerveza-sin-alcohol-heineken-en-lata-473-ml",
@@ -300,9 +336,11 @@
         "2026-08-20": {
           "fleje": 3100.0,
           "ptc": 3100.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-mecklenburger-cerveza-sin-alcohol-mecklenburger-500-ml",
@@ -316,9 +354,11 @@
         "2026-08-20": {
           "fleje": 1690.0,
           "ptc": 1690.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "carrefour-brahma-cerveza-blanca-brahma-en-lata-710-ml",
@@ -331,10 +371,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3925.0,
-          "ptc": 3925.0,
-          "dinamica": 0.0
+          "ptc": 2943.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable BRAHMA"
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-apolo-cerveza-rubia-apolo-1-lt",
@@ -348,9 +390,11 @@
         "2026-08-20": {
           "fleje": 1990.0,
           "ptc": 1990.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-330-ml",
@@ -363,10 +407,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4079.0,
-          "ptc": 2651.35,
-          "dinamica": 0.35
+          "ptc": 1988.51,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-andes-origen-cerveza-rubia-andes-origen-710-ml",
@@ -379,10 +425,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4630.0,
-          "ptc": 3009.5,
-          "dinamica": 0.35
+          "ptc": 2257.12,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-stella-artois-cerveza-blanca-stella-artois-710-ml",
@@ -395,10 +443,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 5970.0,
-          "ptc": 3582.0,
-          "dinamica": 0.4
+          "ptc": 2686.5,
+          "dinamica": 0.55,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable STELLA ARTOIS"
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-quilmes-cerveza-blanca-quilmes-ipa-473-ml",
@@ -411,26 +461,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 2589.0,
-          "ptc": 2589.0,
-          "dinamica": 0.0
+          "ptc": 1941.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
-    },
-    {
-      "id": "carrefour-stella-artois-cerveza-negra-stella-artois-noire-473-ml",
-      "cadena": "Carrefour",
-      "marca": "Stella Artois",
-      "sku": "Cerveza negra Stella Artois Noire 473 ml",
-      "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-20": {
-          "fleje": 4025.0,
-          "ptc": 4025.0,
-          "dinamica": 0.0
-        }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-guinness-cerveza-guinnes-extra-stout-473-ml",
@@ -444,9 +480,11 @@
         "2026-08-20": {
           "fleje": 4149.0,
           "ptc": 4149.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-patagonia-cerveza-vera-ipa-patagonia-730-ml",
@@ -459,10 +497,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 7055.0,
-          "ptc": 7055.0,
-          "dinamica": 0.0
+          "ptc": 5291.25,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable PATAGONIA"
         }
-      }
+      },
+      "volumen_l": 0.73
     },
     {
       "id": "carrefour-pampa-brewing-cerveza-pampa-brewing-ipa-473-ml",
@@ -476,9 +516,11 @@
         "2026-08-20": {
           "fleje": 3300.0,
           "ptc": 3300.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-patagonia-cerveza-roja-patagonia-amber-lager-730-ml",
@@ -491,10 +533,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 7055.0,
-          "ptc": 7055.0,
-          "dinamica": 0.0
+          "ptc": 5291.25,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable PATAGONIA"
         }
-      }
+      },
+      "volumen_l": 0.73
     },
     {
       "id": "carrefour-andes-cerveza-andes-ipa-retornable-1-lt",
@@ -507,10 +551,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 5729.0,
-          "ptc": 3723.85,
-          "dinamica": 0.35
+          "ptc": 2792.89,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-patagonia-cerveza-roja-patagonia-amber-lager-473-ml",
@@ -523,10 +569,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4960.0,
-          "ptc": 4960.0,
-          "dinamica": 0.0
+          "ptc": 3720.0,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable PATAGONIA"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-andes-origen-cerveza-roja-andes-origen-1-lt",
@@ -539,10 +587,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 5729.0,
-          "ptc": 3723.85,
-          "dinamica": 0.35
+          "ptc": 2792.89,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-andes-origen-cerveza-rubia-andes-origen-1-lt",
@@ -555,10 +605,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 5569.0,
-          "ptc": 3619.85,
-          "dinamica": 0.35
+          "ptc": 2714.89,
+          "dinamica": 0.5125,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-budweiser-cerveza-rubia-budweiser-1-lt",
@@ -571,10 +623,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 5015.0,
-          "ptc": 5015.0,
-          "dinamica": 0.0
+          "ptc": 3761.25,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable BUDWEISER"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-quilmes-cerveza-negra-quilmes-stout-1-lt",
@@ -587,10 +641,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4580.0,
-          "ptc": 4580.0,
-          "dinamica": 0.0
+          "ptc": 3435.0,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-schneider-cerveza-blanca-schneider-limon-remix-en-lata-473-ml",
@@ -604,9 +660,11 @@
         "2026-08-20": {
           "fleje": 2725.0,
           "ptc": 2725.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-imperial-cerveza-sin-alcohol-imperial-golden-0-en-lata-473-ml",
@@ -620,9 +678,11 @@
         "2026-08-20": {
           "fleje": 2100.0,
           "ptc": 2100.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-antares-cerveza-ipa-citrica-antares-sin-alcohol-473-ml",
@@ -636,9 +696,11 @@
         "2026-08-20": {
           "fleje": 3553.0,
           "ptc": 3553.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-denninghoffs-cerveza-negra-denninghoff-schwarz-barril-5-lts",
@@ -652,9 +714,11 @@
         "2026-08-20": {
           "fleje": 36990.0,
           "ptc": 36990.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": null
     },
     {
       "id": "carrefour-patagonia-cerveza-patagonia-lager-del-sur-730-ml",
@@ -667,10 +731,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 7055.0,
-          "ptc": 7055.0,
-          "dinamica": 0.0
+          "ptc": 5291.25,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable PATAGONIA"
         }
-      }
+      },
+      "volumen_l": 0.73
     },
     {
       "id": "carrefour-patagonia-cerveza-blanca-patagonia-lager-del-sur-473-ml",
@@ -683,10 +749,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4960.0,
-          "ptc": 4960.0,
-          "dinamica": 0.0
+          "ptc": 3720.0,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable PATAGONIA"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-bajo-cero-cerveza-rubia-quilmes-bajo-cero-retornable-1-lt",
@@ -699,10 +767,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3769.0,
-          "ptc": 3769.0,
-          "dinamica": 0.0
+          "ptc": 2826.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-amstel-cerveza-blanca-amstel-lager-pura-malta-473-ml",
@@ -716,9 +786,11 @@
         "2026-08-20": {
           "fleje": 2725.0,
           "ptc": 2725.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-budweiser-cerveza-blanca-budweiser-710-ml",
@@ -731,10 +803,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4139.0,
-          "ptc": 4139.0,
-          "dinamica": 0.0
+          "ptc": 3104.25,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable BUDWEISER"
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-quilmes-cerveza-quilmes-ipa-retornable-1-lt",
@@ -747,10 +821,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4580.0,
-          "ptc": 4580.0,
-          "dinamica": 0.0
+          "ptc": 3435.0,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-imperial-cerveza-roja-imperial-473-ml",
@@ -764,9 +840,11 @@
         "2026-08-20": {
           "fleje": 3295.0,
           "ptc": 3295.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-pampa-brewing-cerveza-pampa-brewing-honey-473-ml",
@@ -780,9 +858,11 @@
         "2026-08-20": {
           "fleje": 3000.0,
           "ptc": 3000.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-pampa-cerveza-pampa-golden-ale-473-ml",
@@ -796,9 +876,11 @@
         "2026-08-20": {
           "fleje": 3000.0,
           "ptc": 3000.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-mecklenburger-cerveza-rubia-mecklenburger-pilsener-330-ml",
@@ -812,9 +894,11 @@
         "2026-08-20": {
           "fleje": 1190.0,
           "ptc": 1190.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-imperial-cerveza-imperial-ipa-473-ml",
@@ -828,9 +912,11 @@
         "2026-08-20": {
           "fleje": 3295.0,
           "ptc": 3295.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-brahma-cerveza-rubia-brahma-340-ml",
@@ -843,10 +929,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 1749.0,
-          "ptc": 1749.0,
-          "dinamica": 0.0
+          "ptc": 1311.75,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable BRAHMA"
         }
-      }
+      },
+      "volumen_l": 0.34
     },
     {
       "id": "carrefour-quilmes-cerveza-rubia-clasica-quilmes-340-ml",
@@ -859,10 +947,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 1640.0,
-          "ptc": 1640.0,
-          "dinamica": 0.0
+          "ptc": 1230.0,
+          "dinamica": 0.25,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 0.34
     },
     {
       "id": "carrefour-heineken-cerveza-rubia-heineken-retornable-1-lt",
@@ -876,9 +966,11 @@
         "2026-08-20": {
           "fleje": 6865.0,
           "ptc": 6865.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-quilmes-cerveza-rubia-clasica-quilmes-1-lt",
@@ -891,10 +983,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 4580.0,
-          "ptc": 916.0,
-          "dinamica": 0.8
+          "ptc": 687.0,
+          "dinamica": 0.85,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable QUILMES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-pampa-brewing-cerveza-lager-pampa-brewing-en-lata-473-ml",
@@ -908,9 +1002,11 @@
         "2026-08-20": {
           "fleje": 3000.0,
           "ptc": 3000.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-estrella-de-galicia-cerveza-lager-estrella-galicia-en-lata-473-ml",
@@ -924,9 +1020,11 @@
         "2026-08-20": {
           "fleje": 3500.0,
           "ptc": 3500.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-andes-origen-cerveza-rubio-oro-andes-origen-botella-retornable-1-lt",
@@ -939,10 +1037,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 5569.0,
-          "ptc": 3341.4,
-          "dinamica": 0.4
+          "ptc": 2506.05,
+          "dinamica": 0.55,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable ANDES"
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-blue-moon-cerveza-blanca-blue-moon-blegian-473-ml",
@@ -956,9 +1056,11 @@
         "2026-08-20": {
           "fleje": 4685.0,
           "ptc": 4685.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-amstel-cerveza-blanca-amstel-lager-710-ml",
@@ -972,9 +1074,11 @@
         "2026-08-20": {
           "fleje": 3925.0,
           "ptc": 3925.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-imperial-golden-473-ml",
@@ -988,9 +1092,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-heineken-cerveza-rubia-heineken-710-ml",
@@ -1004,9 +1110,11 @@
         "2026-08-20": {
           "fleje": 5995.0,
           "ptc": 5995.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-imperial-473-ml",
@@ -1020,9 +1128,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-imperial-cerveza-negra-imperial-cream-stout-1-lt",
@@ -1036,9 +1146,11 @@
         "2026-08-20": {
           "fleje": 5450.0,
           "ptc": 5450.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-heineken-cerveza-rubia-heineken-330-ml",
@@ -1052,9 +1164,11 @@
         "2026-08-20": {
           "fleje": 4195.0,
           "ptc": 4195.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-estrella-de-galicia-cerveza-sin-gluten-estrella-galicia-en-lata-330-ml",
@@ -1068,9 +1182,11 @@
         "2026-08-20": {
           "fleje": 3000.0,
           "ptc": 3000.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-estrella-de-galicia-cerveza-sin-alcohol-0-0-estrella-galicia-en-lata-330-ml",
@@ -1084,9 +1200,11 @@
         "2026-08-20": {
           "fleje": 3200.0,
           "ptc": 3200.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-lager-imperial-en-botella-retornable-1-lt",
@@ -1100,9 +1218,11 @@
         "2026-08-20": {
           "fleje": 5230.0,
           "ptc": 5230.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-salta-cautiva-cerveza-salta-cautiva-session-ipa-473-ml",
@@ -1116,9 +1236,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-amstel-cerveza-blanca-amstel-lager-edicion-limitada-retornable-1-lt",
@@ -1132,9 +1254,11 @@
         "2026-08-20": {
           "fleje": 4795.0,
           "ptc": 4795.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-miller-cerveza-blanca-miller-genuine-draft-473-ml",
@@ -1148,9 +1272,11 @@
         "2026-08-20": {
           "fleje": 3485.0,
           "ptc": 3485.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-imperial-golden-710-ml",
@@ -1164,9 +1290,11 @@
         "2026-08-20": {
           "fleje": 4470.0,
           "ptc": 4470.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-salta-cautiva-cerveza-roja-salta-cautiva-473-ml",
@@ -1180,9 +1308,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-miller-cerveza-rubia-miller-710-ml",
@@ -1196,9 +1326,11 @@
         "2026-08-20": {
           "fleje": 5175.0,
           "ptc": 5175.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-imperial-lager-710-ml",
@@ -1212,9 +1344,11 @@
         "2026-08-20": {
           "fleje": 4470.0,
           "ptc": 4470.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-imperial-apa-473-ml",
@@ -1228,9 +1362,11 @@
         "2026-08-20": {
           "fleje": 3295.0,
           "ptc": 3295.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-rabieta-cerveza-roja-rabieta-honey-473-ml",
@@ -1243,10 +1379,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3699.0,
-          "ptc": 3699.0,
-          "dinamica": 0.0
+          "ptc": 2404.35,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable RABIETA"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-warsteiner-cerveza-rubia-warsteiner-473-ml",
@@ -1260,9 +1398,11 @@
         "2026-08-20": {
           "fleje": 3485.0,
           "ptc": 3485.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-grolsch-cerveza-rubia-golsch-retornable-925-ml",
@@ -1276,9 +1416,11 @@
         "2026-08-20": {
           "fleje": 6755.0,
           "ptc": 6755.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.925
     },
     {
       "id": "carrefour-grolsch-cerveza-blanca-golsch-473-ml",
@@ -1292,9 +1434,11 @@
         "2026-08-20": {
           "fleje": 3925.0,
           "ptc": 3925.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-imperial-cerveza-rubia-imperial-ipa-1-lt",
@@ -1308,9 +1452,11 @@
         "2026-08-20": {
           "fleje": 5670.0,
           "ptc": 5670.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-schneider-cerveza-rubia-schneider-1-lt",
@@ -1324,9 +1470,11 @@
         "2026-08-20": {
           "fleje": 4580.0,
           "ptc": 4580.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-salta-cautiva-cerveza-lager-salta-cautiva-fresh-en-lata-473-ml",
@@ -1340,9 +1488,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-imperial-cerveza-blanca-imperia-golden-porron-330-ml",
@@ -1356,9 +1506,11 @@
         "2026-08-20": {
           "fleje": 3485.0,
           "ptc": 3485.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-blue-moon-cerveza-belgian-white-blue-moon-porron-355-ml",
@@ -1372,9 +1524,11 @@
         "2026-08-20": {
           "fleje": 5209.0,
           "ptc": 5209.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.355
     },
     {
       "id": "carrefour-antares-cerveza-artesanal-antares-espiritu-lager-473-ml",
@@ -1388,9 +1542,11 @@
         "2026-08-20": {
           "fleje": 3800.0,
           "ptc": 3800.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-miller-cerveza-blanca-miller-edicion-limitada-330-ml",
@@ -1404,9 +1560,11 @@
         "2026-08-20": {
           "fleje": 3815.0,
           "ptc": 3815.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-grolsch-cerveza-grolsch-ipa-473-ml",
@@ -1420,9 +1578,11 @@
         "2026-08-20": {
           "fleje": 4140.0,
           "ptc": 4140.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-salta-cautiva-cerveza-blanca-salta-cautiva-473-ml",
@@ -1436,9 +1596,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-rabieta-cerveza-rabieta-helles-munich-473-ml",
@@ -1451,10 +1613,12 @@
       "dates": {
         "2026-08-20": {
           "fleje": 3699.0,
-          "ptc": 3699.0,
-          "dinamica": 0.0
+          "ptc": 2404.35,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% Max 48 unidades Combinable RABIETA"
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-kunstmann-cerveza-kunstmann-ipa-473-ml",
@@ -1468,9 +1632,11 @@
         "2026-08-20": {
           "fleje": 4575.0,
           "ptc": 4575.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-kunstmann-cerveza-roja-torobayo-kunstmann-473-ml",
@@ -1484,9 +1650,11 @@
         "2026-08-20": {
           "fleje": 4575.0,
           "ptc": 4575.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-antares-cerveza-rubia-antares-caravana-ipa-473-ml",
@@ -1500,9 +1668,11 @@
         "2026-08-20": {
           "fleje": 4509.0,
           "ptc": 4509.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-warsteiner-cerveza-rubia-warsteiner-retornable-1-lt",
@@ -1516,9 +1686,11 @@
         "2026-08-20": {
           "fleje": 6320.0,
           "ptc": 6320.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-miller-cerveza-rubia-miller-1-lt",
@@ -1532,9 +1704,11 @@
         "2026-08-20": {
           "fleje": 6320.0,
           "ptc": 6320.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "carrefour-antares-cerveza-artesanal-ipa-antares-xpa-473-ml",
@@ -1548,9 +1722,11 @@
         "2026-08-20": {
           "fleje": 4515.0,
           "ptc": 4515.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-antares-cerveza-artesanal-ipa-new-antares-en-lata-473-cc",
@@ -1564,9 +1740,11 @@
         "2026-08-20": {
           "fleje": 4509.0,
           "ptc": 4509.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-barbaroja-cerveza-barbaroja-frutada-330-ml",
@@ -1580,9 +1758,11 @@
         "2026-08-20": {
           "fleje": 3209.0,
           "ptc": 3209.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-antares-cerveza-blanca-antares-playa-grande-473-ml",
@@ -1596,9 +1776,11 @@
         "2026-08-20": {
           "fleje": 4509.0,
           "ptc": 4509.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-bierhaus-cerveza-bierhaus-red-ipa-473-ml",
@@ -1612,9 +1794,11 @@
         "2026-08-20": {
           "fleje": 4015.0,
           "ptc": 4015.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-antares-cerveza-artesanal-antares-scotch-473-ml",
@@ -1628,9 +1812,11 @@
         "2026-08-20": {
           "fleje": 4509.0,
           "ptc": 4509.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-antares-cerveza-artesanal-antares-honey-473-ml",
@@ -1644,9 +1830,11 @@
         "2026-08-20": {
           "fleje": 4509.0,
           "ptc": 4509.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-asahi-cerveza-blanca-dry-asahi-porron-330-ml",
@@ -1660,9 +1848,11 @@
         "2026-08-20": {
           "fleje": 5239.0,
           "ptc": 5239.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "carrefour-antares-cerveza-artesanal-antares-kolsch-473-ml",
@@ -1676,9 +1866,11 @@
         "2026-08-20": {
           "fleje": 4509.0,
           "ptc": 4509.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "carrefour-salta-cautiva-cerveza-blanca-salta-cautiva-retornable-1-lt",
@@ -1692,9 +1884,11 @@
         "2026-08-20": {
           "fleje": 5239.0,
           "ptc": 5239.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "dia-oslava-cerveza-lager-oslava-473-lt",
@@ -1708,9 +1902,11 @@
         "2026-08-20": {
           "fleje": 1450.0,
           "ptc": 1100.0,
-          "dinamica": 0.2414
+          "dinamica": 0.2414,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 473.0
     },
     {
       "id": "dia-oslava-cerveza-lager-oslava-1-lt",
@@ -1724,9 +1920,11 @@
         "2026-08-20": {
           "fleje": 1990.0,
           "ptc": 1990.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "dia-st-wendeler-cerveza-rubia-st-wendeler-500-ml",
@@ -1740,9 +1938,11 @@
         "2026-08-20": {
           "fleje": 2100.0,
           "ptc": 1250.0,
-          "dinamica": 0.4048
+          "dinamica": 0.4048,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "dia-isenbeck-cerveza-isenbeck-473-ml",
@@ -1756,9 +1956,11 @@
         "2026-08-20": {
           "fleje": 2090.0,
           "ptc": 1250.0,
-          "dinamica": 0.4019
+          "dinamica": 0.4019,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-andes-origen-cerveza-andes-origen-ipa-andina-lata-473-ml",
@@ -1772,9 +1974,11 @@
         "2026-08-20": {
           "fleje": 3085.0,
           "ptc": 2313.75,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-schneider-cerveza-schneider-rubia-710-ml",
@@ -1788,9 +1992,11 @@
         "2026-08-20": {
           "fleje": 3790.0,
           "ptc": 2274.0,
-          "dinamica": 0.4
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-schneider-cerveza-schneider-rubia-473-ml",
@@ -1804,9 +2010,11 @@
         "2026-08-20": {
           "fleje": 2610.0,
           "ptc": 2610.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-361-cerveza-rubia-361-710-ml",
@@ -1820,9 +2028,11 @@
         "2026-08-20": {
           "fleje": 2400.0,
           "ptc": 1900.0,
-          "dinamica": 0.2083
+          "dinamica": 0.2083,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-brul-cerveza-rubia-brul-1-lt",
@@ -1836,9 +2046,11 @@
         "2026-08-20": {
           "fleje": 3800.0,
           "ptc": 3250.0,
-          "dinamica": 0.1447
+          "dinamica": 0.1447,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "dia-corona-cerveza-lata-corona-473-ml",
@@ -1852,9 +2064,11 @@
         "2026-08-20": {
           "fleje": 4650.0,
           "ptc": 2775.0,
-          "dinamica": 0.4032
+          "dinamica": 0.4032,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-st-wendeler-cerveza-ipa-st-wendeler-500-ml",
@@ -1868,9 +2082,11 @@
         "2026-08-20": {
           "fleje": 2513.0,
           "ptc": 2513.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "dia-quilmes-cerveza-0-0-sin-alcohol-quilmes-473-ml",
@@ -1884,9 +2100,11 @@
         "2026-08-20": {
           "fleje": 2145.0,
           "ptc": 2145.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-michelob-ultra-cerveza-ultra-michelob-473-ml",
@@ -1900,9 +2118,11 @@
         "2026-08-20": {
           "fleje": 2640.0,
           "ptc": 1716.0,
-          "dinamica": 0.35
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-amstel-cerveza-lager-amstel-473-ml",
@@ -1916,9 +2136,11 @@
         "2026-08-20": {
           "fleje": 2720.0,
           "ptc": 2720.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-stella-artois-cerveza-stella-artois-lata-473-ml",
@@ -1932,9 +2154,11 @@
         "2026-08-20": {
           "fleje": 3400.0,
           "ptc": 2210.0,
-          "dinamica": 0.35
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-amstel-cerveza-amstel-710-ml",
@@ -1948,9 +2172,11 @@
         "2026-08-20": {
           "fleje": 3920.0,
           "ptc": 3920.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-andes-cerveza-roja-andes-en-lata-473-ml",
@@ -1964,9 +2190,11 @@
         "2026-08-20": {
           "fleje": 3085.0,
           "ptc": 2313.75,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-st-wendeler-cerveza-lager-st-wendeler-500-ml",
@@ -1980,9 +2208,11 @@
         "2026-08-20": {
           "fleje": 2100.0,
           "ptc": 1250.0,
-          "dinamica": 0.4048
+          "dinamica": 0.4048,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "dia-andes-cerveza-andes-rubia-en-lata-473-ml",
@@ -1996,9 +2226,11 @@
         "2026-08-20": {
           "fleje": 2950.0,
           "ptc": 2212.5,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-grolsch-cerveza-lata-grolsch-473-cc",
@@ -2012,9 +2244,11 @@
         "2026-08-20": {
           "fleje": 3925.0,
           "ptc": 2551.25,
-          "dinamica": 0.35
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-brahma-cerveza-brahma-lata-473-ml",
@@ -2028,9 +2262,11 @@
         "2026-08-20": {
           "fleje": 2710.0,
           "ptc": 2050.0,
-          "dinamica": 0.2435
+          "dinamica": 0.2435,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-quilmes-cerveza-quilmes-cristal-en-lata-473-ml",
@@ -2044,9 +2280,11 @@
         "2026-08-20": {
           "fleje": 2588.0,
           "ptc": 1900.0,
-          "dinamica": 0.2658
+          "dinamica": 0.2658,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-corona-cerveza-0-0-corona-473-ml",
@@ -2060,9 +2298,11 @@
         "2026-08-20": {
           "fleje": 3600.0,
           "ptc": 2850.0,
-          "dinamica": 0.2083
+          "dinamica": 0.2083,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-brahma-cerveza-brahma-710-ml",
@@ -2076,9 +2316,11 @@
         "2026-08-20": {
           "fleje": 3915.0,
           "ptc": 3250.0,
-          "dinamica": 0.1699
+          "dinamica": 0.1699,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-bajo-cero-cerveza-bajo-cero-quilmes-473-ml",
@@ -2092,9 +2334,11 @@
         "2026-08-20": {
           "fleje": 1618.0,
           "ptc": 1618.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-quilmes-cerveza-quilmes-710-ml",
@@ -2108,9 +2352,11 @@
         "2026-08-20": {
           "fleje": 3700.0,
           "ptc": 2700.0,
-          "dinamica": 0.2703
+          "dinamica": 0.2703,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-heineken-cerveza-0-0-alcohol-heineken-473-ml",
@@ -2124,9 +2370,11 @@
         "2026-08-20": {
           "fleje": 3380.0,
           "ptc": 2392.5,
-          "dinamica": 0.2922
+          "dinamica": 0.2922,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-salta-cautiva-cerveza-ipa-salta-cautiva-473-ml",
@@ -2140,9 +2388,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-budweiser-cerveza-musica-budweiser-473-ml",
@@ -2156,9 +2406,11 @@
         "2026-08-20": {
           "fleje": 2800.0,
           "ptc": 2190.0,
-          "dinamica": 0.2179
+          "dinamica": 0.2179,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-stella-artois-cerveza-vintage-stella-artois-473-ml",
@@ -2172,9 +2424,11 @@
         "2026-08-20": {
           "fleje": 4020.0,
           "ptc": 3150.0,
-          "dinamica": 0.2164
+          "dinamica": 0.2164,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-budweiser-cerveza-budweiser-lata-710-ml",
@@ -2188,9 +2442,11 @@
         "2026-08-20": {
           "fleje": 4115.0,
           "ptc": 3300.0,
-          "dinamica": 0.1981
+          "dinamica": 0.1981,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-st-wendeler-cerveza-trigo-st-wendeler-500-ml",
@@ -2204,9 +2460,11 @@
         "2026-08-20": {
           "fleje": 2501.0,
           "ptc": 2501.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "dia-imperial-cerveza-imperial-stout-lata-473-ml",
@@ -2220,9 +2478,11 @@
         "2026-08-20": {
           "fleje": 3295.0,
           "ptc": 3295.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-heineken-cerveza-heineken-lata-710-ml",
@@ -2236,9 +2496,11 @@
         "2026-08-20": {
           "fleje": 5995.0,
           "ptc": 4496.25,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-imperial-cerveza-ipa-imperial-lata-473-ml",
@@ -2252,9 +2514,11 @@
         "2026-08-20": {
           "fleje": 3295.0,
           "ptc": 3295.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-st-wendeler-cerveza-negra-st-wendeler-500-ml",
@@ -2268,9 +2532,11 @@
         "2026-08-20": {
           "fleje": 2501.0,
           "ptc": 2501.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.5
     },
     {
       "id": "dia-imperial-cerveza-golden-imperial-473-ml",
@@ -2284,9 +2550,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-heineken-cerveza-heineken-lata-473-ml",
@@ -2300,9 +2568,11 @@
         "2026-08-20": {
           "fleje": 4000.0,
           "ptc": 3000.0,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-corona-cerveza-corona-botella-no-retornable-710-ml",
@@ -2316,9 +2586,11 @@
         "2026-08-20": {
           "fleje": 6560.0,
           "ptc": 4920.0,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-brahma-cerveza-rubia-brahma-lata-354-ml",
@@ -2332,9 +2604,11 @@
         "2026-08-20": {
           "fleje": 1928.0,
           "ptc": 1410.0,
-          "dinamica": 0.2687
+          "dinamica": 0.2687,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.354
     },
     {
       "id": "dia-pampa-cerveza-brewing-honey-pampa-473-ml",
@@ -2348,9 +2622,11 @@
         "2026-08-20": {
           "fleje": 3000.0,
           "ptc": 2700.0,
-          "dinamica": 0.1
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-pampa-cerveza-brewing-ipa-pampa-473-ml",
@@ -2364,9 +2640,11 @@
         "2026-08-20": {
           "fleje": 3300.0,
           "ptc": 3300.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-pampa-cerveza-brewing-dorada-pampa-473ml",
@@ -2380,9 +2658,11 @@
         "2026-08-20": {
           "fleje": 3000.0,
           "ptc": 2700.0,
-          "dinamica": 0.1
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-imperial-cerveza-golden-0-0-imper-473-ml",
@@ -2396,9 +2676,11 @@
         "2026-08-20": {
           "fleje": 2290.0,
           "ptc": 2290.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-stella-artois-cerveza-stella-artois-710-ml",
@@ -2412,9 +2694,11 @@
         "2026-08-20": {
           "fleje": 5970.0,
           "ptc": 4990.0,
-          "dinamica": 0.1642
+          "dinamica": 0.1642,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.71
     },
     {
       "id": "dia-warsteiner-cerveza-warsteiner-473-ml",
@@ -2428,9 +2712,11 @@
         "2026-08-20": {
           "fleje": 3925.0,
           "ptc": 2551.25,
-          "dinamica": 0.35
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-antares-cerveza-session-ipa-antares-473-ml",
@@ -2444,9 +2730,11 @@
         "2026-08-20": {
           "fleje": 4700.0,
           "ptc": 4700.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-antares-cerveza-honey-lata-antares-473-ml",
@@ -2460,9 +2748,11 @@
         "2026-08-20": {
           "fleje": 4700.0,
           "ptc": 4700.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-salta-cautiva-cerveza-rubia-salta-cautiva-en-lata-473-ml",
@@ -2476,9 +2766,11 @@
         "2026-08-20": {
           "fleje": 3100.0,
           "ptc": 3100.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-imperial-cerveza-imperial-amber-lager-lata-473-ml",
@@ -2492,9 +2784,11 @@
         "2026-08-20": {
           "fleje": 3295.0,
           "ptc": 3295.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-patagonia-cerveza-patagonia-amber-lager-en-lata-473-ml",
@@ -2508,9 +2802,11 @@
         "2026-08-20": {
           "fleje": 4955.0,
           "ptc": 4955.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-imperial-cerveza-imperial-lata-473-ml",
@@ -2524,9 +2820,11 @@
         "2026-08-20": {
           "fleje": 3105.0,
           "ptc": 3105.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-corona-cerveza-corona-botella-no-retornable-330-ml",
@@ -2540,9 +2838,11 @@
         "2026-08-20": {
           "fleje": 4060.0,
           "ptc": 3045.0,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-miller-cerveza-lata-miller-473-ml",
@@ -2556,9 +2856,11 @@
         "2026-08-20": {
           "fleje": 3485.0,
           "ptc": 3485.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-heineken-cerveza-porron-heineken-330-ml",
@@ -2572,9 +2874,11 @@
         "2026-08-20": {
           "fleje": 4195.0,
           "ptc": 2662.5,
-          "dinamica": 0.3653
+          "dinamica": 0.3653,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-maradona-cerveza-rubia-maradona-1-lt",
@@ -2588,9 +2892,11 @@
         "2026-08-20": {
           "fleje": 3900.0,
           "ptc": 3900.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 1.0
     },
     {
       "id": "dia-bierhaus-cerveza-ipa-argent-bierhaus-473-ml",
@@ -2604,9 +2910,11 @@
         "2026-08-20": {
           "fleje": 4135.0,
           "ptc": 3101.25,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-bierhaus-cerveza-honey-lazybee-bierhaus-473-ml",
@@ -2620,9 +2928,11 @@
         "2026-08-20": {
           "fleje": 3235.0,
           "ptc": 2426.25,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-guinness-cerveza-extra-stout-guinness-473-ml",
@@ -2636,9 +2946,11 @@
         "2026-08-20": {
           "fleje": 4300.0,
           "ptc": 3870.0,
-          "dinamica": 0.1
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-antares-cerveza-lager-antares-473-ml",
@@ -2652,9 +2964,11 @@
         "2026-08-20": {
           "fleje": 4000.0,
           "ptc": 4000.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-schneider-cerveza-schneider-retornable-970-ml",
@@ -2668,9 +2982,11 @@
         "2026-08-20": {
           "fleje": 999.0,
           "ptc": 999.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.97
     },
     {
       "id": "dia-estrella-de-galicia-cerveza-sin-gluten-estrella-galicia-330-ml",
@@ -2684,9 +3000,11 @@
         "2026-08-20": {
           "fleje": 3200.0,
           "ptc": 3200.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-michelob-ultra-cerveza-ultra-michelob-ultra-27-ml",
@@ -2700,9 +3018,11 @@
         "2026-08-20": {
           "fleje": 2665.0,
           "ptc": 1293.5,
-          "dinamica": 0.5146
+          "dinamica": 0.5146,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.027
     },
     {
       "id": "dia-guinness-cerveza-hop-house-lager-guinness-473-ml",
@@ -2716,9 +3036,11 @@
         "2026-08-20": {
           "fleje": 3900.0,
           "ptc": 3510.0,
-          "dinamica": 0.1
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-miller-cerveza-porron-miller-330-ml",
@@ -2732,9 +3054,11 @@
         "2026-08-20": {
           "fleje": 3815.0,
           "ptc": 3815.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-antares-cerveza-ipa-sin-alcohol-antares-473-ml",
@@ -2748,9 +3072,11 @@
         "2026-08-20": {
           "fleje": 4000.0,
           "ptc": 4000.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-bierhaus-cerveza-ipa-chalaland-bierhaus-473-ml",
@@ -2764,9 +3090,11 @@
         "2026-08-20": {
           "fleje": 5015.0,
           "ptc": 3761.25,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-estrella-de-galicia-cerveza-0-0-tostada-estrella-galicia-330-ml",
@@ -2780,9 +3108,11 @@
         "2026-08-20": {
           "fleje": 3200.0,
           "ptc": 3200.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-stella-artois-cerveza-stella-artois-en-lata-473-ml",
@@ -2796,9 +3126,11 @@
         "2026-08-20": {
           "fleje": 1149.0,
           "ptc": 799.0,
-          "dinamica": 0.3046
+          "dinamica": 0.3046,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-bierhaus-cerveza-red-ipa-timeless-bierhaus-473-ml",
@@ -2812,9 +3144,11 @@
         "2026-08-20": {
           "fleje": 4135.0,
           "ptc": 3101.25,
-          "dinamica": 0.25
+          "dinamica": 0.25,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-bierhaus-cerveza-ipa-superstar-bierhaus-473-ml",
@@ -2828,9 +3162,11 @@
         "2026-08-20": {
           "fleje": 4135.0,
           "ptc": 4135.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-peroni-cerveza-peroni-330-ml",
@@ -2844,9 +3180,11 @@
         "2026-08-20": {
           "fleje": 4900.0,
           "ptc": 4900.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-schneider-cerveza-lemon-remix-schneider-473-ml",
@@ -2860,9 +3198,11 @@
         "2026-08-20": {
           "fleje": 2720.0,
           "ptc": 2720.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-salta-cautiva-cerveza-fresh-lager-salta-cautiva-473-ml",
@@ -2876,9 +3216,11 @@
         "2026-08-20": {
           "fleje": 3100.0,
           "ptc": 3100.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-stella-artois-cerveza-pure-gold-stella-artois-330-ml",
@@ -2892,9 +3234,11 @@
         "2026-08-20": {
           "fleje": 4185.0,
           "ptc": 3000.0,
-          "dinamica": 0.2832
+          "dinamica": 0.2832,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.33
     },
     {
       "id": "dia-dia-cerveza-dorada-lata-dia-473-ml",
@@ -2908,9 +3252,11 @@
         "2026-08-20": {
           "fleje": 2350.0,
           "ptc": 1790.0,
-          "dinamica": 0.2383
+          "dinamica": 0.2383,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     },
     {
       "id": "dia-budweiser-cerveza-budweiser-lata-473-ml",
@@ -2924,9 +3270,11 @@
         "2026-08-20": {
           "fleje": 1550.0,
           "ptc": 1550.0,
-          "dinamica": 0.0
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
-      }
+      },
+      "volumen_l": 0.473
     }
   ],
   "dates": [
@@ -2955,9 +3303,9 @@
       "segmento": "Super Premium",
       "dias": 1,
       "dias_dinamica": 1,
-      "max_dinamica": 0.3,
-      "avg_dinamica": 0.3,
-      "avg_ptc": 3649.3333333333335
+      "max_dinamica": 0.545,
+      "avg_dinamica": 0.49833333333333335,
+      "avg_ptc": 2653.0
     },
     {
       "cadena": "Carrefour",
@@ -2965,10 +3313,10 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 2725.0
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.35,
+      "avg_ptc": 1771.25
     },
     {
       "cadena": "Carrefour",
@@ -2977,9 +3325,9 @@
       "segmento": "Premium",
       "dias": 1,
       "dias_dinamica": 1,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.32142857142857145,
-      "avg_ptc": 3128.214285714286
+      "max_dinamica": 0.5775,
+      "avg_dinamica": 0.5420833333333334,
+      "avg_ptc": 2197.2283333333335
     },
     {
       "cadena": "Carrefour",
@@ -2988,9 +3336,9 @@
       "segmento": "Core",
       "dias": 1,
       "dias_dinamica": 1,
-      "max_dinamica": 0.8,
-      "avg_dinamica": 0.1,
-      "avg_ptc": 2851.625
+      "max_dinamica": 0.85,
+      "avg_dinamica": 0.3375,
+      "avg_ptc": 2111.84375
     },
     {
       "cadena": "Carrefour",
@@ -2998,10 +3346,10 @@
       "grupo": "CMQ",
       "segmento": "Value",
       "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 2694.0
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.125,
+      "avg_ptc": 2222.875
     },
     {
       "cadena": "Carrefour",
@@ -3020,10 +3368,10 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 2447.6666666666665
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 1835.75
     },
     {
       "cadena": "Carrefour",
@@ -3065,9 +3413,9 @@
       "segmento": "Core+",
       "dias": 1,
       "dias_dinamica": 1,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.3625,
-      "avg_ptc": 3423.65
+      "max_dinamica": 0.55,
+      "avg_dinamica": 0.521875,
+      "avg_ptc": 2567.7375
     },
     {
       "cadena": "Carrefour",
@@ -3086,10 +3434,10 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 6217.0
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 4662.75
     },
     {
       "cadena": "Carrefour",
@@ -3109,9 +3457,9 @@
       "segmento": "Core+",
       "dias": 1,
       "dias_dinamica": 1,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.35,
-      "avg_ptc": 3723.85
+      "max_dinamica": 0.5125,
+      "avg_dinamica": 0.5125,
+      "avg_ptc": 2792.89
     },
     {
       "cadena": "Carrefour",
@@ -3119,10 +3467,10 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 4577.0
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 3432.75
     },
     {
       "cadena": "Carrefour",
@@ -3229,10 +3577,10 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 3699.0
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.35,
+      "avg_ptc": 2404.35
     },
     {
       "cadena": "Carrefour",
@@ -3732,9 +4080,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-20 11:34:36",
-    "sku_rows": 183,
-    "registros_validos": 183,
+    "generado": "2026-08-20 12:05:23",
+    "sku_rows": 182,
+    "registros_validos": 182,
     "dias": 1,
     "cadenas": [
       "Carrefour",

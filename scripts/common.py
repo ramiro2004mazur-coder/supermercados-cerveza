@@ -16,7 +16,7 @@ CATALOG_PATH = DATA_DIR / "catalog.json"
 FIGHTS_PATH = DATA_DIR / "fights_config.json"
 DASHBOARD_DATA_PATH = DOCS_DIR / "data.json"
 
-CSV_FIELDS = ["cadena", "marca", "descripcion", "calibre", "fleje", "precio", "descuento"]
+CSV_FIELDS = ["cadena", "marca", "descripcion", "calibre", "fleje", "precio", "descuento", "promo_nominal"]
 
 # Buckets de calibre usados por el dashboard (mismo criterio que
 # pedidosya-nunez/rappi-nunez, para que las 3 fuentes sean comparables).

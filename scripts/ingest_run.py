@@ -116,6 +116,7 @@ def main():
                     "fleje": fleje,
                     "ptc": precio,
                     "dinamica": dinamica,
+                    "promo_nominal": (row.get("promo_nominal") or "").strip(),
                 }
                 ok += 1
             except Exception as e:  # noqa: BLE001 - una fila mala no debe tumbar la corrida

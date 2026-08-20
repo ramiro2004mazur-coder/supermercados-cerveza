@@ -6,6 +6,7 @@ marca+cadena y el listado de cadenas/fechas disponibles.
 Se corre despues de cada ingest_run.py.
 """
 
+import re
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -19,6 +20,21 @@ from common import (  # noqa: E402
     load_json,
     save_json,
 )
+
+ML_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s*(ml|cc|lt|l)\b", re.I)
+
+
+def volumen_l_de(sku_text):
+    """Extrae el volumen exacto en litros del nombre del producto (ej.
+    '473 ml' -> 0.473), para la pestana Precio/L. El calibre bucketeado
+    del pivot (ej. '710/730') es un rango, no sirve para esta cuenta."""
+    m = ML_RE.search(sku_text or "")
+    if not m:
+        return None
+    num = float(m.group(1).replace(",", "."))
+    unit = m.group(2).lower()
+    ml = num * 1000 if unit in ("l", "lt") else num
+    return round(ml / 1000, 4) if ml > 0 else None
 
 
 def build_stats(pivot):
@@ -60,6 +76,9 @@ def main():
     pivot = history["pivot"]
     dates = sorted(history.get("dates") or {d for p in pivot for d in p["dates"]})
     cadenas = sorted({p["cadena"] for p in pivot})
+
+    for p in pivot:
+        p["volumen_l"] = volumen_l_de(p["sku"])
 
     registros_validos = sum(len(p["dates"]) for p in pivot)
 
