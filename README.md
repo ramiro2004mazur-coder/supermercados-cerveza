@@ -9,13 +9,14 @@ y [rappi-nunez](https://github.com/ramiro2004mazur-coder/rappi-nunez)
 (mismo criterio de categoría, formato de datos parecido, plataformas
 distintas).
 
-## Estado actual: Carrefour + Día (validación del approach)
+## Estado actual: Carrefour, Día, Jumbo, Disco y Vea
 
-Arranque incremental pedido por el negocio: primero validar
-scraping → guardado → dashboard con 2 cadenas reales, después sumar el
-resto de a una. Hoy el scraper cubre **Carrefour** y **Día**.
+Arranque incremental pedido por el negocio: primero se validó
+scraping → guardado → dashboard con Carrefour + Día, después se sumó el
+resto de las cadenas VTEX de una. Hoy el scraper cubre **5 de las 7
+cadenas** — faltan Coto y La Anónima.
 
-## Por qué Carrefour y Día primero (y lo que encontré al inspeccionar las 7)
+## Por qué las VTEX primero (y lo que encontré al inspeccionar las 7)
 
 Antes de programar nada inspeccioné las 7 páginas reales:
 
@@ -23,24 +24,42 @@ Antes de programar nada inspeccioné las 7 páginas reales:
 |---|---|---|---|
 | **Carrefour** | VTEX | Ninguno (Cloudflare presente pero sin challenge) | ✅ Scraper activo |
 | **Día** | VTEX | Ninguno | ✅ Scraper activo |
-| Jumbo | VTEX | Ninguno (confirmado al inspeccionar) | 🔜 Roadmap — mismo motor, solo agregar a `chains.py` |
-| Disco | VTEX | Ninguno (confirmado al inspeccionar) | 🔜 Roadmap — ídem |
-| Vea | VTEX | Ninguno (confirmado al inspeccionar) | 🔜 Roadmap — ídem |
-| Coto | Plataforma propia (no VTEX) | Sin bloqueo evidente en la inspección inicial, pero falta revisión a fondo (estructura de API/HTML distinta) | ⏸ Pendiente de inspección detallada |
-| La Anónima | Desconocida | La carga devolvió **403 Forbidden** en la primera visita — no está confirmado todavía si es anti-bot real o otra causa | ⏸ Pendiente de inspección detallada, avisar antes de invertir tiempo si resulta ser un bloqueo duro |
+| **Jumbo** | VTEX | Ninguno | ✅ Scraper activo |
+| **Disco** | VTEX | Ninguno | ✅ Scraper activo |
+| **Vea** | VTEX | Ninguno | ✅ Scraper activo |
+| Coto | Plataforma propia (no VTEX, JSF + Constructor.io) | Sin bloqueo evidente en la inspección inicial, pero la navegación por categoría es 100% AJAX (`/sitios/cdigi/constructor/search`), falta terminar de mapear la API | ⏸ Pendiente |
+| La Anónima | Desconocida | La carga devolvió **403 Forbidden** en la primera visita — no está confirmado todavía si es anti-bot real o otra causa | ⏸ Pendiente, avisar antes de invertir tiempo si resulta ser un bloqueo duro |
 
 Carrefour, Día, Jumbo, Disco y Vea corren todos sobre **VTEX** y exponen
 el mismo API público de catálogo
 (`/api/catalog_system/pub/products/search/...`), sin login, sin API key
 y sin bloqueo anti-bot para este endpoint. Es el mismo patrón que usan
 las propias páginas para listar productos — no es un endpoint "secreto".
-Gracias a esto, `scraper/vtex_client.py` es **genérico**: sumar Jumbo,
-Disco o Vea debería ser agregar 3 líneas a `scraper/chains.py`, no
-escribir un scraper nuevo (a diferencia de PedidosYa/Rappi, que
-necesitaron motores completamente distintos por cadena).
+Gracias a esto, `scraper/vtex_client.py` es **genérico**: sumar cada
+cadena nueva fue agregar 3 líneas a `scraper/chains.py`, no escribir un
+scraper nuevo (a diferencia de PedidosYa/Rappi, que necesitaron motores
+completamente distintos por cadena).
 
-Coto y La Anónima quedan para cuando les toque el turno — no bloquean el
-arranque con Carrefour/Día.
+### Bug de datos encontrado en Jumbo/Disco/Vea (grupo Cencosud)
+
+El campo `ListPrice` que devuelve el API de estas 3 cadenas viene **roto**:
+es sistemáticamente ~82.6x el precio real (`Price`) en casi todo el
+catálogo — no es un descuento genuino, es basura de origen (probablemente
+un precio de referencia viejo nunca actualizado). Si se usaba tal cual,
+el dashboard mostraba "-99% de descuento" en case todo el catálogo de
+esas 3 cadenas. Se detectó comparando varios SKUs a mano contra lo que
+muestra la propia web (que no muestra tachado/descuento para esos
+productos, solo el precio actual).
+
+Fix en `scraper/vtex_client.py` (`LISTPRICE_SANITY_RATIO`): si
+`ListPrice` supera 3x el `Price` actual, se descarta como no confiable y
+se usa `Price` como `fleje` (0% de descuento "de lista", no se inventa
+uno). El límite de 3x da margen de sobra: el descuento plano más grande
+visto en datos reales (Carrefour) fue 40%, es decir ratio ~1.67x. Las
+promos por cantidad ("2do al X%", ver más abajo) no dependen de
+`ListPrice`, así que este fix no las afecta.
+
+Coto y La Anónima quedan para cuando les toque el turno.
 
 ## Estructura
 
@@ -151,11 +170,9 @@ python3 scripts/build_dashboard_data.py
 
 1. ~~Carrefour~~ ✅
 2. ~~Día~~ ✅
-3. Jumbo / Disco / Vea — mismo motor VTEX ya confirmado, se agregan a
-   `scraper/chains.py` (falta relevar el `category_path` exacto y
-   revisar el catálogo de marcas encontradas en cada una).
-4. Coto — plataforma propia, falta inspección a fondo de su estructura
-   antes de programar el scraper.
+3. ~~Jumbo / Disco / Vea~~ ✅ — mismo motor VTEX, agregadas a `scraper/chains.py`.
+4. Coto — plataforma propia (JSF + Constructor.io), falta terminar de
+   mapear la API de búsqueda por categoría antes de programar el scraper.
 5. La Anónima — devolvió 403 en la primera visita, falta confirmar si es
    un bloqueo anti-bot real antes de invertir tiempo.
 

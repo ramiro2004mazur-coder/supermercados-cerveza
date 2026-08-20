@@ -41,6 +41,7 @@ PACK_RE = re.compile(
     re.I,
 )
 PROMO_QTY_RE = re.compile(r"-Reg-(\d+)-(\d+)-")
+LISTPRICE_SANITY_RATIO = 3.0   # ver nota en producto_a_fila: ListPrice roto en Jumbo/Disco/Vea
 
 
 def session():
@@ -51,6 +52,21 @@ def session():
         "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
     })
     return s
+
+
+def _get_with_retries(s, url, params, retries=3):
+    """Reintenta con backoff ante timeouts/errores de red transitorios
+    (ej. el `Read timed out` que a veces tira Disco) — no confundir con
+    un bloqueo real, que devuelve un status HTTP, no una excepcion de red."""
+    last_exc = None
+    for attempt in range(retries):
+        try:
+            return s.get(url, params=params, timeout=25)
+        except requests.RequestException as e:
+            last_exc = e
+            if attempt < retries - 1:
+                time.sleep(1.5 * (attempt + 1))
+    raise last_exc
 
 
 def fetch_category(s, base_url, category_path, max_pages=MAX_PAGES):
@@ -65,7 +81,7 @@ def fetch_category(s, base_url, category_path, max_pages=MAX_PAGES):
         to = frm + PAGE_SIZE - 1
         if total is not None and frm > total:
             break
-        r = s.get(url, params={"map": "c,c", "_from": frm, "_to": to}, timeout=25)
+        r = _get_with_retries(s, url, {"map": "c,c", "_from": frm, "_to": to})
         if r.status_code not in (200, 206):
             r.raise_for_status()
         if total is None:
@@ -154,7 +170,11 @@ def producto_a_fila(cadena, product, marca_de_fn):
         return None  # pack/combo, no es precio unitario
 
     marca = marca_de_fn(nombre, product.get("brand"))
-    if not fleje or fleje < precio:
+    if not fleje or fleje < precio or fleje > precio * LISTPRICE_SANITY_RATIO:
+        # ListPrice roto/inconsistente (visto en Jumbo/Disco/Vea: viene
+        # ~82x el precio real en casi todo el catalogo, no es un
+        # descuento genuino) -> se descarta y se usa el precio actual
+        # como fleje (0% de descuento "de lista", no se inventa uno).
         fleje = precio
 
     promo_nominal = ""

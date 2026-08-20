@@ -19,4 +19,19 @@ CHAINS = [
         "base_url": "https://diaonline.supermercadosdia.com.ar",
         "category_path": "bebidas/cervezas",
     },
+    {
+        "cadena": "Jumbo",
+        "base_url": "https://www.jumbo.com.ar",
+        "category_path": "bebidas/cervezas",
+    },
+    {
+        "cadena": "Disco",
+        "base_url": "https://www.disco.com.ar",
+        "category_path": "bebidas/cervezas",
+    },
+    {
+        "cadena": "Vea",
+        "base_url": "https://www.vea.com.ar",
+        "category_path": "bebidas/cervezas",
+    },
 ]
