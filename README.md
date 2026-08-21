@@ -52,6 +52,40 @@ un precio único por cadena como VTEX; se fijó la sucursal 181
 cercana de las que sí la tienen, con cobertura completa del catálogo.
 Ver `scraper/coto_client.py`.
 
+### Coto tiene listados "fantasma" con precio desactualizado (~47% del catálogo)
+
+Reportado: Budweiser 710ml mostraba $572 en el dashboard, precio real
+en la página $3.100. No era un bug de parseo (no hay selector CSS de
+por medio, ya veníamos leyendo el JSON de Constructor.io) — el índice
+de búsqueda de Coto tiene **productos duplicados**: el mismo SKU físico
+aparece dos veces con `id` distinto ("Cerveza Budweiser Botella 710 CC"
+vs "Cerveza Budweiser 710ml"), uno viejo con precio nunca actualizado
+y otro vigente. Confirmado que el patrón es sistémico, no un caso
+aislado: barriendo las 473 búsquedas de "cerveza", **222 (47%)**
+comparten la misma huella — precio idéntico en las ~32 sucursales, sin
+`discounts` activo y sin `store_availability` declarado. Se agregó
+`parece_obsoleto()` en `coto_client.py` que descarta (y loguea, no
+silencia) cualquier resultado que cumpla las 3 condiciones a la vez —
+Coto pasó de 326 a ~211 filas útiles, pero ahora son confiables.
+
+De paso se sacó un filtro anterior ("descartar si la sucursal 181 no
+está en `store_availability`") que resultó estar **causando** parte del
+problema: ese filtro tiraba el SKU *correcto* de Budweiser (su
+`store_availability` no incluye la 181 aunque su precio para esa
+sucursal es válido) mientras dejaba pasar el obsoleto (que tiene
+`store_availability` vacío, no dispara ningún filtro).
+
+### Sanity check de precio vs. histórico (todas las cadenas)
+
+Pedido explícito para detectar este tipo de caso a futuro sin
+depender de que alguien lo note a mano: `scripts/ingest_run.py` ahora
+compara cada precio nuevo contra la última lectura previa de ese mismo
+SKU. Si cae más del 50% o sube más del 100% de un corte al otro, no se
+descarta (podría ser una promo real muy agresiva) pero se marca
+`"sospechoso": true` en esa fecha del pivot y se loguea en
+`data/logs/ingest_warnings.log` — el dashboard lo resalta con un ⚠ y
+fondo de alerta en la celda. Aplica a las 6 cadenas, no solo a Coto.
+
 ### Bug de VTEX encontrado en Carrefour: `sellers` ausente sin el sales channel
 
 De forma intermitente (2 de 5 corridas de prueba), Carrefour devolvía

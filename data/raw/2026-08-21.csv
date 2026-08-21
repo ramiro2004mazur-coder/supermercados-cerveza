@@ -81,7 +81,6 @@ Carrefour;Rabieta;Cerveza Rabieta Helles Munich 473 ml;473 ml;3699.0;2404.35;35;
 Carrefour;Miller;Cerveza rubia miller 710 ml;710 ml;5175.0;5175.0;0;
 Carrefour;Imperial;Cerveza rubia Imperial Lager 710 ml;710 ml;4470.0;4470.0;0;
 Carrefour;Imperial;Cerveza rubia Imperial Apa 473 ml;473 ml;3295.0;3295.0;0;
-Carrefour;Rabieta;Cerveza roja Rabieta Irish Ale 473 ml;473 ml;3699.0;2404.35;35;2do al 70% Max 48 unidades Combinable RABIETA
 Carrefour;Rabieta;Cerveza rubia Rabieta Ipa 473 ml;473 ml;4149.0;2696.85;35;2do al 70% Max 48 unidades Combinable RABIETA
 Carrefour;Warsteiner;Cerveza rubia Warsteiner 473 ml;473 ml;3485.0;3485.0;0;
 Carrefour;Grolsch;Cerveza rubia Golsch retornable 925 ml;925 ml;6755.0;6755.0;0;
@@ -110,10 +109,10 @@ Carrefour;Antares;Cerveza artesanal Antares Scotch 473 ml;473 ml;4509.0;4509.0;0
 Carrefour;Antares;Cerveza artesanal Antares Kolsch 473 ml;473 ml;4509.0;4509.0;0;
 Carrefour;Asahi;Cerveza blanca Dry Asahi porrón 330 ml;330 ml;5239.0;5239.0;0;
 Carrefour;Salta Cautiva;Cerveza blanca Salta Cautiva retornable 1 lt;1000 ml;5239.0;5239.0;0;
+Dia;Isenbeck;Cerveza Isenbeck 473 Ml.;473 ml;2090.0;1250.0;40;
 Dia;Oslava;Cerveza Lager Oslava 473 Lt.;473000 ml;1450.0;1100.0;24;
 Dia;Oslava;Cerveza Lager Oslava 1 Lt.;1000 ml;1990.0;1990.0;0;
 Dia;St Wendeler;Cerveza Rubia St. Wendeler 500 ml.;500 ml;2100.0;1250.0;40;
-Dia;Isenbeck;Cerveza Isenbeck 473 Ml.;473 ml;2090.0;1250.0;40;
 Dia;Andes Origen;Cerveza Andes Origen IPA Andina Lata 473 Ml.;473 ml;3085.0;2313.75;25;
 Dia;Schneider;Cerveza Schneider Rubia 710 Ml.;710 ml;3790.0;2274.0;40;
 Dia;Schneider;Cerveza Schneider Rubia 473 Ml.;473 ml;2610.0;2610.0;0;
@@ -168,11 +167,11 @@ Dia;Heineken;Cerveza Porron Heineken 330 Ml.;330 ml;4195.0;2662.5;37;
 Dia;Maradona;Cerveza Rubia Maradona 1 Lt.;1000 ml;3900.0;3900.0;0;
 Dia;Bierhaus;Cerveza Ipa Argent Bierhaus 473 Ml.;473 ml;4135.0;3101.25;25;
 Dia;Bierhaus;Cerveza Honey Lazybee Bierhaus 473 Ml.;473 ml;3235.0;2426.25;25;
+Dia;Michelob Ultra;Cerveza Ultra Michelob Ultra 27 Ml.;27 ml;2665.0;1293.5;51;
 Dia;Guinness;Cerveza Extra Stout Guinness 473 Ml.;473 ml;4300.0;3870.0;10;
 Dia;Antares;Cerveza Lager Antares 473 Ml.;473 ml;4000.0;4000.0;0;
 Dia;Schneider;Cerveza Schneider Retornable 970 ml.;970 ml;999.0;999.0;0;
 Dia;Estrella De Galicia;Cerveza Sin Gluten Estrella Galicia 330 Ml.;330 ml;3200.0;3200.0;0;
-Dia;Michelob Ultra;Cerveza Ultra Michelob Ultra 27 Ml.;27 ml;2665.0;1293.5;51;
 Dia;Guinness;Cerveza Hop House Lager Guinness 473 Ml.;473 ml;3900.0;3510.0;10;
 Dia;Antares;Cerveza Ipa Sin Alcohol Antares 473 Ml.;473 ml;4000.0;4000.0;0;
 Dia;Bierhaus;Cerveza Ipa Chalaland Bierhaus 473 Ml.;473 ml;5015.0;3761.25;25;
@@ -264,6 +263,7 @@ Jumbo;Asahi;Cerveza Super Dry 330 Ml Asahi;330 ml;5600.0;4200.0;25;25% ASAHI | O
 Jumbo;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3501.0;2625.75;25;25% ANDES | Ofertas Internas
 Jumbo;Imperial;Cerveza IPA 473 Cc Imperial;473 ml;3322.0;2491.5;25;25% IMPERIAL | Ofertas Trafico
 Jumbo;Singha;Cerveza Lager 330 Ml Singha;330 ml;3500.0;3500.0;0;
+Jumbo;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6384.0;4149.6;35;35% WARSTEINER | Ofertas Trafico
 Jumbo;Pampa Brewing;Cerveza Lager 473 Cc Pampa Brewing;473 ml;3850.0;3850.0;0;
 Jumbo;Salta Cautiva;Cerveza Lager 473 Cc Salta Cautiva;473 ml;3166.0;2057.9;35;35% SALTA | Ofertas Trafico
 Jumbo;Estrella Del Sur;Cerveza Pilsen 500 Ml Estrella del Sur;500 ml;2550.0;1912.5;25;25% ESTRELLA DEL SUR | Ofertas Trafico
@@ -278,14 +278,12 @@ Jumbo;Imperial;Cerveza APA 473 Cc Imperial;473 ml;3322.0;2491.5;25;25% IMPERIAL 
 Jumbo;Imperial;Cerveza Imperial Roja 473cc;473 ml;3322.0;2491.5;25;25% IMPERIAL | Ofertas Trafico
 Jumbo;Imperial;Cerveza Ipa 1 Lts Imperial;-;5657.0;4242.75;25;25% IMPERIAL | Ofertas Trafico
 Jumbo;Bavaria;Cerveza Rubia 500 Ml Bavaria;500 ml;4200.0;4200.0;0;
-Jumbo;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6384.0;4149.6;35;35% WARSTEINER | Ofertas Trafico
 Jumbo;Brahma;Cerveza Brahma Chopp Rubia 1lt Ret;1000 ml;4976.0;3732.0;25;25% BRAHMA | Ofertas Trafico
 Jumbo;Budweiser;Cerveza Rubia 473 Ml Budweiser;473 ml;2966.0;2224.5;25;25% BUDWEISER | Ofertas Internas
 Jumbo;Imperial;Cerveza Imperial Rubia 1 L;1000 ml;5242.0;3931.5;25;25% IMPERIAL | Ofertas Trafico
 Jumbo;Cusqueña;Cerveza Rubia 330 Cc Cusqueña;330 ml;3750.0;3750.0;0;
 Jumbo;Brahma;Cerveza Rubia 340 Cc Brahma;340 ml;1883.0;1412.25;25;25% BRAHMA | Ofertas Trafico
 Jumbo;Miller;Cerveza Rubia 600 Cc Miller;600 ml;5813.0;4359.75;25;25% MILLER | Ofertas Trafico
-Jumbo;Heineken;Cerveza Rubia 330 Cc Heineken;330 ml;4256.0;4256.0;0;
 Jumbo;Miller;Cerveza Rubia 1 Lts Miller;-;6384.0;4468.8;30;30% MILLER | Ofertas Internas
 Jumbo;Salta Cautiva;Cerveza Session Ipa 473 Cc Salta Cautiva;473 ml;3166.0;2057.9;35;35% SALTA | Ofertas Trafico
 Jumbo;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4350.0;3262.5;25;25% BUDWEISER | Ofertas Internas
@@ -294,7 +292,6 @@ Jumbo;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;4100.0;4100.0;0;
 Jumbo;Tsingtao;Cerveza Lager 640 Ml Tsingtao;640 ml;8750.0;8750.0;0;
 Jumbo;Karlsbräu;Cerveza Helles 500 Ml Karlsbräu;500 ml;3700.0;3700.0;0;
 Jumbo;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3477.0;2607.75;25;25% IMPERIAL | Ofertas Trafico
-Jumbo;Imperial;Cerveza Golden 710 Cc Imperial;710 ml;4463.0;3347.25;25;25% IMPERIAL | Ofertas Trafico
 Jumbo;Salta Cautiva;Cerveza Salta Cautiva Rubia 1lt Ret;1000 ml;5242.0;3407.3;35;35% SALTA | Ofertas Trafico
 Jumbo;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3166.0;2057.9;35;35% SALTA | Ofertas Trafico
 Jumbo;Miller;Cerveza Rubia 710 Cc Miller;710 ml;5242.0;3931.5;25;25% MILLER | Ofertas Trafico
@@ -302,15 +299,17 @@ Jumbo;Birra Moretti;Cerveza Birra Moretti-bot-cc.-330;-;6200.0;6200.0;0;
 Jumbo;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4567.0;3196.9;30;30% SCHNEIDER | Ofertas Internas
 Jumbo;Imperial;Cerveza Imperial Stout 1lt;1000 ml;5450.0;4087.5;25;25% IMPERIAL | Ofertas Trafico
 Jumbo;Iguana;Cerveza Pilsener 1 Lts Iguana;-;3944.0;3944.0;0;
+Jumbo;Tsingtao;Cerveza Lager 330 Ml Tsingtao;330 ml;5400.53;5400.53;0;
+Jumbo;Bitburger;Cerveza Lager 500 Ml Bitburger;500 ml;5700.0;5700.0;0;
 Disco;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3672.0;2386.8;35;35% CORONA | Ofertas Internas
 Disco;Corona;Cerveza Rubia 330ml Corona;330 ml;4548.0;3411.0;25;25% CORONA | Ofertas Internas
 Disco;Heineken;Cerveza Lager Sin Alcohol 473 Cc Heineken;473 ml;3425.0;3425.0;0;
 Disco;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3672.0;2754.0;25;25% QUILMES | Ofertas Internas
+Disco;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;1890.0;37;OFERTA MICHELOB | Ofertas Trafico
 Disco;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;7368.0;4789.2;35;35% STELLA ARTOIS | Ofertas Trafico
 Disco;Stella Artois;Cerveza Pure Gold Lager 330 Ml Stella Artois;330 ml;4664.0;3031.6;35;35% STELLA ARTOIS | Ofertas Internas
 Disco;Corona;Cerveza Lager Sin Alcohol 473 Cc Corona;473 ml;3240.0;2106.0;35;35% CORONA | Ofertas Internas
 Disco;Amstel;Cerveza Lager 473 Cc Amstel;473 ml;3010.0;2257.5;25;25% AMSTEL | Ofertas Trafico
-Disco;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;1890.0;37;OFERTA MICHELOB | Ofertas Trafico
 Disco;Antares;Cerveza IPA 473 Cc Antares;473 ml;4900.0;4900.0;0;
 Disco;Antares;Cerveza Session IPA Caravana 473 Ml Antares;473 ml;4850.0;4850.0;0;
 Disco;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7613.0;4948.45;35;35% PATAGONIA | Ofertas Trafico
@@ -420,6 +419,7 @@ Disco;Tsingtao;Cerveza Lager 330 Ml Tsingtao;330 ml;5400.53;5400.53;0;
 Disco;Cusqueña;Cerveza Rubia 330 Cc Cusqueña;330 ml;3900.0;3900.0;0;
 Disco;Tsingtao;Cerveza Tsingtao Lata 500ml;500 ml;5700.0;5700.0;0;
 Disco;Bitburger;Cerveza Lager 500 Ml Bitburger;500 ml;5850.0;5850.0;0;
+Disco;Schneider;Cerveza Rubia 473 Ml Schneider;473 ml;2855.0;1713.0;40;40% Almacen | Ecommerce
 Vea;Quilmes;Cerveza Lager 710 Cc Quilmes;710 ml;3706.0;2779.5;25;25% QUILMES | Ofertas Internas
 Vea;Landvik;Cerveza Lager 500 Ml Landvik;500 ml;1899.0;1899.0;0;
 Vea;Stella Artois;Cerveza Rubia 975 Ml Stella Artois;975 ml;6838.0;4444.7;35;35% STELLAARTOIS | Ofertas Trafico
@@ -463,7 +463,6 @@ Vea;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4605.0;3453.75;25;25% QUILMES | Oferta
 Vea;Grolsch;Cerveza Pilsner 925 Cc Grolsch;925 ml;6747.0;4385.55;35;35% GROLSCH | Ofertas Trafico
 Vea;Grolsch;Cerveza Pilsner 473 Cc Grolsch;473 ml;3996.0;2597.4;35;35% GROLSCH | Ofertas Trafico
 Vea;Andes;Cerveza Rubia Oro 473 Cc Andes;473 ml;3199.0;2079.35;35;35% ANDES | Ofertas Internas
-Vea;Andes;Cerveza Rubia 710 Cc Andes;710 ml;4664.0;4664.0;0;
 Vea;Amstel;Cerveza Lager 710 Ml Amstel;710 ml;3996.0;2597.4;35;35% AMSTEL | Ofertas Trafico
 Vea;Heineken;Cerveza 0.0 330 Ml Heineken;330 ml;3270.0;3270.0;0;
 Vea;Salta Cautiva;Cerveza Salta Cautiva Rubia 1lt Ret;1000 ml;5242.0;3407.3;35;35% SALTA | Ofertas Trafico
@@ -505,7 +504,6 @@ Vea;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;3890.0;3890.0;0;
 Vea;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;2990.0;2990.0;0;
 Vea;Rabieta;Cerveza Golden Ale 473 Cc Rabieta;473 ml;3890.0;3890.0;0;
 Vea;Miller;Cerveza Rubia 710 Cc Miller;710 ml;5242.0;3931.5;25;25% MILLER | Ofertas Trafico
-Vea;Andes;Cerveza Roja 473 Cc Andes;473 ml;3396.0;2547.0;25;25% ANDES | Ofertas Internas
 Vea;Blue Moon;Cerveza Belgian White 355 Cc Blue Moon;355 ml;5242.0;5242.0;0;
 Vea;Iguana;Cerveza Pilsener 1 Lts Iguana;-;3944.0;3944.0;0;
 Vea;Brahma;Cerveza Rubia 340 Cc Brahma;340 ml;1778.0;1778.0;0;
@@ -514,7 +512,6 @@ Vea;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3477.0;2607.75;25;25% IMP
 Vea;Bierhaus;Cerveza Chalalager 473 Ml Bierhaus;473 ml;4150.0;4150.0;0;
 Vea;Ortuzar;Cerveza German Pils 473 Cc Ortuzar;473 ml;3200.0;3200.0;0;
 Vea;Bierhaus;Cerveza Argentipa 473 Cc Bierhaus;473 ml;4380.79;4380.79;0;
-Vea;Imperial;Cerveza Golden 710 Cc Imperial;710 ml;4463.0;3347.25;25;25% IMPERIAL | Ofertas Trafico
 Vea;Guinness;Cerveza Extra Stout 473 Ml Guinness;473 ml;4290.0;4290.0;0;
 Vea;Bierhaus;Cerveza Bierhaus Honey 473 Ml;473 ml;3250.0;3250.0;0;
 Vea;Bierhaus;Cerveza Red Ipa 473 Ml Bierhaus;473 ml;4200.0;4200.0;0;
@@ -532,6 +529,7 @@ Coto;Corona;Cerveza CORONA Porron 330 Cc;330 ml;4550;3412.5;25;25%Dto
 Coto;Amstel;Cerveza Lager Pura Malta Amstel 473ml;473 ml;2725;2725;0;
 Coto;Isenbeck;Cerveza ISENBECK Lata 473 Cc;473 ml;2126;1381.9;35;35%Dto
 Coto;Grolsch;Cerveza Lager GROLSCH Lata 473 Cc;473 ml;3925;2551.25;35;35%Dto
+Coto;Brahma;Cerveza Lata BRAHMA 350 Cmq;-;1476;1476;0;
 Coto;1890;Cerveza Rubia Intensa 1890 473ml;473 ml;2224;2224;0;
 Coto;Corona;Cerveza CORONA Botella 710 Cc;710 ml;7291;5468.25;25;25%Dto
 Coto;Stella Artois;Cerveza Stella Artois 330cc;330 ml;4079;4079;0;
@@ -569,6 +567,7 @@ Coto;Quilmes;Cerveza Clásica Quilmes 710ml;710 ml;3706;2408.9;35;35%Dto
 Coto;Pampa Brewing;Cerveza Amber Ale PAMPA BREWING CO Lata 473 Cc;473 ml;2850;2850;0;
 Coto;Amstel;Cerveza Lager Amstel 1000ml;1000 ml;4795;4795;0;
 Coto;Andes;Cerveza Andes Botella 1 L;1000 ml;5568;4176.0;25;25%Dto
+Coto;Munich;Cerveza Premium Ultra Munich 269ml;269 ml;1550;1550;0;
 Coto;Pampa Brewing;Cerveza Dorada PAMPA BREWING CO Lata 473 Cc;473 ml;2850;2850;0;
 Coto;Stella Artois;Cerveza Bot . Stella Arto Bot 710 Cmq;-;5970;4477.5;25;25%Dto
 Coto;Stella Artois;Cerveza rubia Pure Gold STELLA ARTOIS 330cc;330 ml;4189;2722.85;35;35%Dto
@@ -578,14 +577,18 @@ Coto;Miller;Cerveza Genuine Draft Miller 473ml;473 ml;3485;2265.25;35;35%Dto
 Coto;Patagonia;Cerveza Vera Ipa Patagonia Bot 730 Cmq;-;7056;3528.0;50;2x1
 Coto;Pampa Brewing;Cerveza Nitro Cream Stout Pampa Brewing Co Bot 473 Cmq;-;3150;3150;0;
 Coto;Imperial;Cerveza Extra Lager IMPERIAL Botella 1 L;1000 ml;5230;3922.5;25;25%Dto
+Coto;Guinness;Cerveza Extra Stout Guinness Lat 473 Ml;473 ml;4150;4150;0;
 Coto;Corona;Cerveza Sin Alcohol 0.0% CORONA 330ml;330 ml;3500;2198.7;37;35%Dto
 Coto;Patagonia;Cerveza Lager Del Sur Patagonia 730cc;730 ml;7056;3528.0;50;2x1
 Coto;Salta;Cerveza Cautiva Roja SALTA 473 Cmq;-;3105;3105;0;
+Coto;Pampa;Cerveza lager PAMPA ARGENTINA 473ml;473 ml;2850;1710.0;40;40%Dto
+Coto;Hermann Muller;Cerveza Lager Classic Hermann Muller 500ml;500 ml;1750;1750;0;
 Coto;Schneider;Cerveza Schneider Lata 473 CC;473 ml;2725;2725;0;
 Coto;Bierhaus;Cerveza Golden State Bierhaus 473ml;473 ml;3140;3140;0;
 Coto;Salta;Cerveza Fresh Lager Salta 473cc;473 ml;3105;3105;0;
 Coto;Blue Moon;Cerveza Belgian White Blue Moon 355cc;355 ml;5210;5210;0;
 Coto;Schneider;Cerveza Lager SCHNEIDER Botella 1 L;1000 ml;4580;4580;0;
+Coto;Imperial;Cerveza Sin Alcohol Golden Imperial 473 CC;473 ml;2100;1575.0;25;25%Dto
 Coto;Kunstmann;Cerveza Session Ipa Kunstmann Lat 470 Cmq;-;4575;4575;0;
 Coto;Bierhaus;Cerveza Scotch Ness Bierhaus 473 Ml;473 ml;3140;3140;0;
 Coto;Andes;Cerveza Andes Botella 1 L;1000 ml;5732;4299.0;25;25%Dto
@@ -599,12 +602,15 @@ Coto;Quilmes;Cerveza Lager Quilmes Botella 1 L;1000 ml;3767;3767;0;
 Coto;Stella Artois;Cerveza Sin Alcohol 0.0 Stella Artois 330cc;330 ml;3210;2086.5;35;35%Dto
 Coto;Rabieta;Cerveza Ipa RABIETA Lata 473 Cc;473 ml;4150;4150;0;
 Coto;Kunstmann;Cerveza Torobayo Kunstmann Lat 470 Cmq;-;4575;4575;0;
+Coto;Andes;Cerveza Andes 1l;1000 ml;4736;4736;0;
 Coto;Imperial;Cerveza Golden Imperial 330cc;330 ml;3485;2613.75;25;25%Dto
 Coto;Quilmes;Cerveza QUILMES Botella 1 L;1000 ml;4580;4580;0;
+Coto;Estrella De Galicia;Cerveza Estrella Galicia Lager 473ml;473 ml;3500;3500;0;
 Coto;Imperial;Cerveza Golden Imperial Lat 710 Cmq;-;4470;3352.5;25;25%Dto
 Coto;Imperial;Cerveza Lager Imperial Lata 710 CC;710 ml;4470;3352.5;25;25%Dto
 Coto;Heineken;Cerveza 0.0% Heineken 473cc;473 ml;3100;2325.0;25;25%Dto
 Coto;Ortuzar;Cerveza Porter Ortuzar 473cc;473 ml;3170;3170;0;
+Coto;Andes;Cerveza Andes Lata 473 CC;473 ml;3194;2395.5;25;25%Dto
 Coto;Antares;Cerveza XPA extra Pale Ale ANTARES 473ml;473 ml;4514;4514;0;
 Coto;Miller;Cerveza MILLER Botella 1 L;1000 ml;6320;4108.0;35;35%Dto
 Coto;Antares;Cerveza Ipa ANTARES Lata 473 Cc;473 ml;4514;4514;0;
@@ -616,6 +622,7 @@ Coto;Antares;Cerveza Honey ANTARES Lata 473 Cc;473 ml;4514;4514;0;
 Coto;Antares;Cerveza Ipa Lupulada Antares 473ml;473 ml;4514;4514;0;
 Coto;Ortuzar;Cerveza Session Ipa Ortuzar 473cc;473 ml;3540;3540;0;
 Coto;Ortuzar;Cerveza Dubbel Ortuzar 473cc;473 ml;3170;3170;0;
+Coto;Santa Fe;Cerveza Santa Fe Lata 473 CC;473 ml;2615;2615;0;
 Coto;Miller;Cerveza Miller Lata 710 CC;710 ml;5175;3363.75;35;35%Dto
 Coto;Ortuzar;Cerveza premium lager ORTUZAR 710ml;710 ml;3399;3399;0;
 Coto;Bierhaus;Cerveza Sweetheart Honey Bierhaus 473 Ml;473 ml;3140;3140;0;
@@ -623,233 +630,107 @@ Coto;Antares;Cerveza Lager ANTARES 473ml;473 ml;3837;3837;0;
 Coto;Bierhaus;Cerveza Chalaland Hemp Bierhaus 473 Ml;473 ml;4870;4870;0;
 Coto;Andes Origen;Cerveza rubia oro ANDES ORIGEN 1000ml;1000 ml;5406;4054.5;25;25%Dto
 Coto;Asahi;Cerveza Super Dry Asahi 330 Ml;330 ml;5243;5243;0;
+Coto;Andes;Cerveza Ipa Andes Lata 473 CC;473 ml;3335;2501.25;25;25%Dto
 Coto;Ortuzar;Cerveza German Pils Ortuzar 473cc;473 ml;3170;3170;0;
 Coto;Rabieta;Cerveza Golden Ale RABIETA Lata 473 Cc;473 ml;3700;3700;0;
+Coto;Andes Origen;Cerveza Rubia Oro Andes Origen 473ml;473 ml;3194;2395.5;25;25%Dto
+Coto;Stella Artois;Cerveza Lager STELLA ARTOIS Lata 473 Cc;473 ml;4026;3019.5;25;25%Dto
+Coto;Budweiser;Cerveza Pilsener BUDWEISER Lata 473 Cc;473 ml;2860;2145.0;25;25%Dto
+Coto;Bierhaus;Cerveza Superstar Ipa Bierhaus 473 Ml;473 ml;4015;4015;0;
 Coto;Rabieta;Cerveza Red RABIETA Lata 473 Cc;473 ml;3700;3700;0;
+Coto;Guinness;Cerveza Lager 13 Guinness 473ml;473 ml;3700;2220.0;40;40%Dto
 Coto;Antares;Cerveza Scotch ANTARES Lata 473 Cc;473 ml;4514;4514;0;
 Coto;Palermo;Cerveza PALERMO Botella 1 L;1000 ml;3925;3925;0;
 Coto;Andes Origen;Cerveza ipa andina ANDES ORIGEN 1000ml;1000 ml;5732;4299.0;25;25%Dto
 Coto;Stella Artois;Cerveza Premium Lager Stella Artois 2840ml;2840 ml;23880;17910.0;25;25%Dto
 Coto;Imperial;Cerveza Cream Stout IMPERIAL Botella 1 L;1000 ml;5670;4252.5;25;25%Dto
+Coto;Bierhaus;Cerveza Argentipa Bierhaus 473 Ml;473 ml;4015;4015;0;
 Coto;Antares;Cerveza Playa Grande ANTARES 473ml;473 ml;4514;4514;0;
 Coto;Stella Artois;Cerveza Stella Artois Pure Gold Premium Lager 473ml;473 ml;4138;2689.7;35;35%Dto
 Coto;Ortuzar;Cerveza Poker Con Bourbon Ortuzar 473cc;473 ml;3540;3540;0;
+Coto;Oranjeboom;Cerveza Premium Lager ORANJEBOOM 250ml;250 ml;4359;4359;0;
 Coto;Antares;Cerveza Kolsch ANTARES Lata 473 Cc;473 ml;4514;4514;0;
+Coto;Patagonia;Cerveza Patagonia Lata 473 CC;473 ml;4961;2480.5;50;2x1
+Coto;Heineken;Cerveza Sin Alcohol 0.0 HEINEKEN 330c;-;3000;2250.0;25;25%Dto
 Coto;Stella Artois;Cerveza Sin Alcohol Stella Artois 2838cmq;-;19860;12909.0;35;35%Dto
 Coto;Cusqueña;Cerveza Porr Golden Lager Cusqueña Bot 330 Ml;330 ml;4200;4200;0;
 Coto;Quilmes;Cerveza Ipa Quilmes 1l;1000 ml;4580;4580;0;
 Coto;Bavaria;Cerveza Lata Bavaria 500 Ml;500 ml;3890;3890;0;
+Coto;Corona;Cerveza CORONA 473ml;473 ml;4586;3439.5;25;25%Dto
 Coto;Bierhaus;Cerveza Vulcano Red Ipa Bierhaus 473 Ml;473 ml;4015;4015;0;
 Coto;Quilmes;Cerveza Blanca QUILMES Sin Alcohol 473 Cc. 6 U.;473 ml;12720;8268.0;35;35%Dto
 Coto;Iguana;Cerveza Pilsener IGUANA Botella 1 L;1000 ml;3925;3925;0;
+Coto;Michelob;Cerveza Suave Michelob 473ml;473 ml;2889;1877.85;35;35%Dto
+Coto;Andes;Cerveza Black Lager Andes Lata 473 CC;473 ml;3335;2501.25;25;25%Dto
 Coto;Bierhaus;Cerveza Piggy Apa Bierhaus 473 Ml;473 ml;4015;4015;0;
 Coto;Bierhaus;Cerveza Chala Lager Bierhaus 473ml;473 ml;4015;4015;0;
+Coto;Andes;Cerveza Red Andes Lata 473 CC;473 ml;3335;2501.25;25;25%Dto
 Coto;Rabieta;Cerveza Munich Helles Rabieta Lat 473 Cmq;-;3700;3700;0;
 Coto;Trio;Cerveza Extra Stout Trio 500ml;500 ml;7829;7829;0;
+Coto;Antares;Cerveza Antares Espíritu Lager 500ml;500 ml;5104;5104;0;
 Coto;Bitburger;Cerveza Bitburger Porron 330cc;330 ml;4690;4690;0;
+Coto;Patagonia;Cerveza Amber Lager Patagonia Lata 473 CC;473 ml;4961;2480.5;50;2x1
 Coto;Antares;Cerveza Antares Espíritu Lager 330ml;330 ml;3607;3607;0;
 Coto;Weidmann;Cerveza Pilsener Weidmann Lata 500 CC;500 ml;7129;7129;0;
+Coto;Andes;Cerveza blanca ANDES 710ml;710 ml;3445;3445;0;
+Coto;Estrella De Galicia;Cerveza Estrella Galicia Sin Gluten 330ml;330 ml;3000;3000;0;
+Coto;Stella Artois;Cerveza Premium Lager Stella Artois 710ml;710 ml;5970;4477.5;25;25%Dto
+Coto;Andes Origen;Cerveza Rubia Andes Origen 710ml;710 ml;4630;3472.5;25;25%Dto
+Coto;8.6;Cerveza Lata Roja 8.6 500 Ml;500 ml;5990;5990;0;
+Coto;Patagonia;Cerveza Vera Ipa Patagonia 473ml;473 ml;4961;2480.5;50;2x1
 Coto;Miller;Cerveza Porrón Miller Bot 600 Cmq;-;5720;3718.0;35;35%Dto
+Coto;Gibraltar;Cerveza English Ipa GIBRALTAR 473ml;473 ml;6600;6600;0;
+Coto;Quilmes;Cerveza Ipa Quilmes 473ml;473 ml;2588;1682.2;35;35%Dto
+Coto;Bitburger;Cerveza Barril Bitburger 5l;5000 ml;70750;70750;0;
 Coto;Monastere;Cerveza Blond Monastere 500ml;500 ml;8549;8549;0;
 Coto;Oranjeboom;Cerveza Lager ORANJEBOOM Original Lata 500 Cc;500 ml;6739;6739;0;
+Coto;Martens;Cerveza Pils 5.2 MARTENS 500ml;500 ml;6979;6979;0;
 Coto;Weidmann;Cerveza WEIDMANN Lata 500 Cc;500 ml;5999;5999;0;
+Coto;Stella Artois;Cerveza Sin Alcohol Stella Artois Lat 473cmq;-;3310;3310;0;
+Coto;Bitburger;Cerveza Lata Premium Bitburger 500ml;500 ml;5390;5390;0;
 Coto;X Mark;Cerveza sabor Cannabis X MARK 500ml;500 ml;8719;8719;0;
+Coto;Quilmes;Cerveza Sin Alcohol 0 QUILMES 473 Ml;473 ml;2120;2120;0;
+Coto;Bristol;Cerveza Ipa Bristol 473ml;473 ml;3000;3000;0;
+Coto;Goose;Cerveza Lager Goose 473ml;473 ml;3587;3587;0;
 Coto;Goose;Cerveza Lager Goose 710ml;710 ml;5000;5000;0;
-Coto;Lit;Cerveza Lager LIT Light Lata 473 Cc;473 ml;1959;1959;0;
-Coto;Siete Cholas;Cerveza SIETE CHOLAS Lager Lat 473 Cmq;-;3250;3250;0;
-Coto;Peñon del Aguila;Cerveza Mexican Lager PEÑON DEL AGUILA Lata 473 Cc;473 ml;2348;2348;0;
-Coto;Peñon del Aguila;Cerveza Kolsch PEÑON DEL AGUILA Lata 473 Cc;473 ml;2348;2348;0;
-Coto;Peñon del Aguila;Cerveza Oktoberfest PEÑON DEL AGUILA Lata 473 Cc;473 ml;2348;2348;0;
-Coto;Siete Cholas;Cerveza SIETE CHOLAS American Ipa Lat 473 Cmq;-;3750;3750;0;
-Coto;Lit;Cerveza Irish Red Ale Lit Lat 473 Cmq;-;1959;1959;0;
-Coto;Stella Artois;Cerveza Leuven Stella Artois 473ml;473 ml;2600;2600;0;
+Coto;Temple;Cerveza Ipa TEMPLE Lata 473 Cc;473 ml;4961;4961;0;
+Coto;Bristol;Cerveza Lager Bristol 473ml;473 ml;2550;2550;0;
+Coto;Bristol;Cerveza Pale Ale Bristol 473ml;473 ml;2550;2550;0;
 Coto;Stella Artois;Cerveza Lager STELLA ARTOIS Botella 1 L;1000 ml;6000;6000;0;
-Coto;Brahma;Cerveza Brahma 473ml;473 ml;1603;1603;0;
-Coto;Quilmes;Cerveza Porron QUILMES 340c;-;660;660;0;
-Coto;Stella Artois;Cerveza Lager STELLA ARTOIS Porron 330 Cc;330 ml;281.4;281.4;0;
-Coto;Stella Artois;Cerveza Noire STELLA ARTOIS Lata 473 Cc;473 ml;422.6;422.6;0;
-Coto;Quilmes;Cerveza Red Lager QUILMES Lata 473 Cc;473 ml;254.65;254.65;0;
-Coto;Stella Artois;Cerveza Leuven Stella Artois 975ml;975 ml;4600;4600;0;
-Coto;Chachingo;Cerveza Amber Lager CHACHINGO Lata 473 Cc;473 ml;327;327;0;
-Coto;Imperial;Cerveza Amber Lager Imperial Lata 473 CC;473 ml;268;268;0;
 Coto;Temple;Cerveza Scottish Lager TEMPLE Lata 473 Cc;473 ml;4400;4400;0;
-Coto;Rabieta;Cerveza Tripel Rabieta 473ml;473 ml;3146;3146;0;
+Coto;Budweiser;Cerveza Budweiser 710ml;710 ml;4142;3106.5;25;25%Dto
 Coto;Antares;Cerveza Ipa Antares Lata 473 CC;473 ml;3841;3841;0;
-Coto;Stella Artois;Cerveza Stella Artois Noire 410ml;410 ml;1449;1449;0;
-Coto;Rabieta;Cerveza Dubbel Rabieta 473ml;473 ml;3146;3146;0;
 Coto;Goose;Cerveza Lager Goose 730ml;730 ml;5109;5109;0;
-Coto;Chachingo;Cerveza Botanic Lager Chachingo 740ml;740 ml;4671;4671;0;
 Coto;Budweiser;Cerveza Música Budweiser 473ml;473 ml;1700;1275.0;25;25%Dto
 Coto;Quilmes;Cerveza Doble Malta Quilmes 473ml;473 ml;2300;2300;0;
-Coto;Rabieta;Cerveza Quadrupel Rabieta 473ml;473 ml;3146;3146;0;
-Coto;Chachingo;Cerveza Ipa CHACHINGO Lata 473 Cc;473 ml;357;357;0;
-Coto;Rabieta;Cerveza Red Ipa RABIETA Lata 473 Cc;473 ml;3750;3750;0;
-Coto;Patagonia;Cerveza Pilsener Patagonia Lata 473 CC;473 ml;3716;3716;0;
-Coto;Schneider;Cerveza Black Lager Schneider Lata 473 CC;473 ml;920;920;0;
 Coto;Iguana;Cerveza Iguana 473ml;473 ml;1830;1830;0;
-Coto;Patagonia;Cerveza Patagonia Amber Lager 355cmq;-;1347;1347;0;
-Coto;Schneider;Cerveza Afa Schneider 473ml;473 ml;1512;1512;0;
-Coto;Rabieta;Cerveza Apa RABIETA Lata 473 Cc;473 ml;3750;3750;0;
-Coto;Antares;Cerveza Antares Lata 473 CC;473 ml;587.41;587.41;0;
 Coto;Patagonia;Cerveza Ipa Estelar Patagonia 473ml;473 ml;4400;4400;0;
-Coto;Imperial;Cerveza Amber Lager IMPERIAL Botella 1 L;1000 ml;515;515;0;
-Coto;Patagonia;Cerveza Amber Lager Patagonia 1l;1000 ml;3093;3093;0;
-Coto;Patagonia;Cerveza Lager PATAGONIA Lata 269 Cc;269 ml;332.23;332.23;0;
-Coto;Stella Artois;Cerveza Belgium Stella Artois 410ml;410 ml;1449;1449;0;
-Coto;Quilmes;Cerveza Edición Hinchada Quilmes X 6u. 473ml;473 ml;7796;7796;0;
 Coto;Stella Artois;Cerveza Blanche Stella Arto 473 Cmq;-;3500;3500;0;
-Coto;Stella Artois;Cerveza Stella Artois 270 Ml;270 ml;578;578;0;
-Coto;Schneider;Cerveza Lager SCHNEIDER Botella 1 L;1000 ml;2494;2494;0;
-Coto;Bierhaus;Cerveza Mexican Lager Bierhaus 473 Ml;473 ml;2450;2450;0;
-Coto;Brahma;Cerveza Música 2023 Brahma 473ml;473 ml;1700;1700;0;
-Coto;Bieckert;Cerveza Hazy Ipa Costa Bieckert 473ml;473 ml;3195;3195;0;
-Coto;Patagonia;Cerveza Weisse Patagonia Lata 473 CC;473 ml;430.5;430.5;0;
-Coto;Goose;Cerveza Hazy Ipa Goose 473 Ml;473 ml;648.92;648.92;0;
 Coto;Gosse;Cerveza Ipa GOSSE Lata 473 Cc;473 ml;3180;3180;0;
-Coto;Rabieta;Cerveza Golden Lager RABIETA Botella 710 Cc;710 ml;2400;2400;0;
-Coto;Imperial;Cerveza Amber Lager IMPERIAL Lata 710 Cc;710 ml;715;715;0;
-Coto;Amstel;Cerveza Lager AMSTEL Botella 1 L;1000 ml;2573;2573;0;
-Coto;Rabieta;Cerveza Ipa RABIETA Botella 710 Cc;710 ml;3600;3600;0;
-Coto;Amstel;Cerveza Pilsener AMSTEL Lata 473 Cc;473 ml;269.5;269.5;0;
-Coto;Temple;Cerveza Wolf Ipa Temple 1l;1000 ml;4042;4042;0;
-Coto;Brahma;Cerveza Dorada Brahma 1l;1000 ml;2900;2900;0;
-Coto;Quilmes;Cerveza Bock QUILMES Botella 1 L;1000 ml;2833;2833;0;
-Coto;Rabieta;Cerveza RABIETA Wee Heavy Lata 473 Cc;473 ml;3750;3750;0;
-Coto;Patagonia;Cerveza Lager Patagonia Botella 730 CC;730 ml;809.09;809.09;0;
-Coto;Bieckert;Cerveza Bapa Bieckert 473 Ml;473 ml;3195;3195;0;
-Coto;Miller;Cerveza MILLER Lata 473 Cc;473 ml;1950;1950;0;
-Coto;Kunstmann;Cerveza Hoppy Lager Kunstmann 470 Cmq;-;3195;3195;0;
 Coto;Temple;Cerveza Honey TEMPLE Lata 473 Cc;473 ml;4400;4400;0;
-Coto;Schneider;Cerveza Red Schneider Lata 473 CC;473 ml;860;860;0;
-Coto;Grolsch;Cerveza Pilsener GROLSCH Porron 450 Cc;450 ml;420;420;0;
-Coto;Patagonia;Cerveza Coco Lager Patagonia 355cc;355 ml;1907;1907;0;
-Coto;Budweiser;Cerveza Budweiser Porron 340 CC;340 ml;900;900;0;
-Coto;Andes;Cerveza Andes Lata 473 CC;473 ml;119.5;119.5;0;
-Coto;Antares;Cerveza Juicy Ipa/Lúpulo Antares Lat 473 Cmq;-;399;399;0;
-Coto;Rabieta;Cerveza Red Ipa RABIETA Botella 710 Cc;710 ml;3100;3100;0;
 Coto;Imperial;Cerveza Apa IMPERIAL Botella 1 L;1000 ml;4420;4420;0;
-Coto;Bieckert;Cerveza Bapa Bieckert 630ml;630 ml;4500;4500;0;
 Coto;Andes;Cerveza Black Lager Andes Botella 1 L;1000 ml;5000;5000;0;
-Coto;Quilmes;Cerveza QUILMES 1890 Botella 1 L;1000 ml;294.45;294.45;0;
-Coto;Stella Artois;Cerveza Noire Stella Artois Lat 269 Ml;269 ml;227.12;227.12;0;
-Coto;Antares;Cerveza Ipa Edición 25 Años Antares 473ml;473 ml;3645;3645;0;
 Coto;Konig;Cerveza Konig 330ml;330 ml;5950;5950;0;
-Coto;Chachingo;Cerveza Pale Ale CHACHINGO Lata 473 Cc;473 ml;317;317;0;
-Coto;Imperial;Cerveza Lager Imperial Botella 500 CC;500 ml;192.92;192.92;0;
-Coto;Kostritzer;Cerveza Negra Kostritzer Porron 330cc;330 ml;5899;5899;0;
-Coto;Warsteiner;Cerveza Warsteiner Barril 5 L;5000 ml;58000;58000;0;
 Coto;Palermo;Cerveza Palermo 473 Ml;473 ml;1830;1830;0;
-Coto;Budweiser;Cerveza Budweiser Botella 710 CC;710 ml;572.09;572.09;0;
-Coto;Antares;Cerveza Stout Antares Porron 500 CC;500 ml;400;400;0;
-Coto;Bieckert;Cerveza Urbana Pilsen Bieckert 473 Ml;473 ml;3195;3195;0;
-Coto;Rabieta;Cerveza Apa RABIETA Botella 710 Cc;710 ml;3100;3100;0;
-Coto;Isenbeck;Cerveza ISENBECK Botella 1 L;1000 ml;164;164;0;
-Coto;Rabieta;Cerveza RABIETA Botella 710 Cc;710 ml;3000;3000;0;
-Coto;Brahma;Cerveza Dorada Brahma Lat 473 Cmq;-;1299;1299;0;
-Coto;Sol;Cerveza SOL Lata 473 Cc;473 ml;2535;2535;0;
-Coto;Amstel;Cerveza Pilsener AMSTEL Botella 1 L;1000 ml;447;447;0;
-Coto;Brahma;Cerveza Pilsener BRAHMA Chopp Botella 970 Cc;970 ml;384;384;0;
+Coto;Stella Artois;Cerveza Negra Prem Noire Stella Arto Lat 473 Ml;473 ml;4026;3019.5;25;25%Dto
 Coto;Starberg;Cerveza Lager Starberg 500ml;500 ml;2461;2461;0;
-Coto;Antares;Cerveza Antares Porron 500 CC;500 ml;426;426;0;
 Coto;Temple;Cerveza Indie Golden Temple 473ml;473 ml;4400;4400;0;
-Coto;Temple;Cerveza Cósmica Temple Lat 473 Cmq;-;2079;2079;0;
-Coto;Andes Origen;Cerveza Ipa Roja ANDES Origen 473 Ml;473 ml;1499;1499;0;
-Coto;Patagonia;Cerveza Amber Lager Patagonia Lat 410 Cmq;-;1818;1818;0;
-Coto;Brahma;Cerveza Música 2023 Brahma 1l;1000 ml;2900;2900;0;
-Coto;Patagonia;Cerveza Bohemian Patagonia 1l;1000 ml;3093;3093;0;
-Coto;Rabieta;Cerveza Oktoberfest Rabieta 710 Ml;710 ml;588.24;588.24;0;
-Coto;Rabieta;Cerveza Red RABIETA Botella 710 Cc;710 ml;3000;3000;0;
-Coto;Quilmes;Cerveza Doble Malta Quilmes Lat 410 Ml;410 ml;411.84;411.84;0;
-Coto;Budweiser;Cerveza Budweiser Lat 410 Ml;410 ml;393.31;393.31;0;
-Coto;Rabieta;Cerveza RABIETA Wee Heavy Botella 710 Cc;710 ml;3100;3100;0;
+Coto;Bierhaus;Cerveza Oktober Fest Bierhaus 473cc;473 ml;3825;3825;0;
 Coto;Grolsch;Cerveza Red Ale Grolsch 473 Ml;473 ml;3300;3300;0;
-Coto;Salta;Cerveza Negra Salta 473 Cmq;-;1872;1872;0;
 Coto;Patagonia;Cerveza Lager Del Sur Patagonia 473cc;473 ml;4725;2480.5;48;2x1
-Coto;Sol;Cerveza Sol Botella 1 L;1000 ml;5300;5300;0;
-Coto;Corona;Cerveza CORONA Lata 269 Cc;269 ml;1000;1000;0;
 Coto;Corona;Cerveza Corona 410ml;410 ml;3555;3555;0;
 Coto;Patagonia;Cerveza Bohemian Pilsener PATAGONIA Botella 730 Cc;730 ml;6200;6200;0;
-Coto;Patagonia;Cerveza Küné PATAGONIA Botella 710 Cc;710 ml;876;876;0;
-Coto;Quilmes;Cerveza Quilmes Lat 354 Ml;354 ml;112.05;112.05;0;
-Coto;Antares;Cerveza Porter ANTARES Porron 500 Cc;500 ml;2869;2869;0;
-Coto;Weidmann;Cerveza Weidmann Lata 500 CC;500 ml;471;471;0;
-Coto;Miller;Cerveza Genuine Draft Miller 1000ml;1000 ml;3550;3550;0;
-Coto;Chachingo;Cerveza Grape Ale CHACHINGO 740ml;740 ml;4671;4671;0;
 Coto;Antares;Cerveza ANTARES Botella 500 Cc;500 ml;4423;4423;0;
-Coto;Sol;Cerveza SOL Porron 330 Cc;330 ml;2675;2675;0;
-Coto;Bajo Cero;Cerveza QUILMES Bajo Cero Botella 1 L;1000 ml;1649;1649;0;
-Coto;Siete Cholas;Cerveza Honey Siete Cholas 473ml;473 ml;3250;3250;0;
 Coto;Antares;Cerveza Scotch ANTARES Porron 500 Cc;500 ml;4055;4055;0;
-Coto;Arsenalnoye;Cerveza Bot Cooler Lager Arsenalnoye Bot 470 Ml;470 ml;455;455;0;
-Coto;Patagonia;Cerveza Abrazo De Oso PATAGONIA 473 Ml;473 ml;509.36;509.36;0;
-Coto;Miller;Cerveza MILLER Botella 330 Cc;330 ml;3020;3020;0;
 Coto;27;Cerveza Eazy 27 Lat 473 Ml;473 ml;3586;3586;0;
 Coto;Andes Origen;Cerveza Fresquita Andes Origen 473 Ml;473 ml;2800;2800;0;
-Coto;Peñon del Aguila;Cerveza Ipa Beta PEÑON DEL AGUILA Lata 473 Cc;473 ml;2670;2670;0;
-Coto;Patagonia;Cerveza Vera Ipa Patagonia 410 Cmq;-;535.98;535.98;0;
 Coto;Patagonia;Cerveza Weisse PATAGONIA Botella 730 Cc;730 ml;6200;6200;0;
-Coto;Andes;Cerveza Miel ANDES Lata 473 Cc;473 ml;136.5;136.5;0;
-Coto;Patagonia;Cerveza Sendero Sur Patagonia 473 Ml;473 ml;681.77;681.77;0;
-Coto;Bajo Cero;Cerveza QUILMES Bajo Cero Botella 970 Cc;970 ml;153.83;153.83;0;
-Coto;Heineken;Cerveza 150 Años Heineken 710ml;710 ml;3465;3465;0;
-Coto;Kostritzer;Cerveza Lata Negra Köstritzer 500ml;500 ml;5499;5499;0;
 Coto;Salta;Cerveza Cautiva Rubia SALTA Retornable 1 L;1000 ml;4450;4450;0;
-Coto;Quilmes;Cerveza Doble Malta Quilmes Bot 1 Ltr;-;2624;2624;0;
-Coto;Patagonia;Cerveza Apa Travesía Sureña Patagonia 410 Cmq;-;614.63;614.63;0;
-Coto;Peñon del Aguila;Cerveza Bazinga Session Ipa Peñon Del Aguila Lat 473 Ml;473 ml;1588;1588;0;
-Coto;Peñon del Aguila;Cerveza Honigbier PEÑON DEL AGUILA Lata 473 Cc;473 ml;2348;2348;0;
-Coto;Peñon del Aguila;Cerveza Waldbier PEÑON DEL AGUILA Lata 473 Cc;473 ml;2445;2445;0;
-Coto;Peñon del Aguila;Cerveza Hefeweizen PEÑON DEL AGUILA Lata 473 Cc;473 ml;2348;2348;0;
-Coto;Peñon del Aguila;Cerveza Cacao Ipa PEÑON DEL AGUILA Lata 473 Cc;473 ml;253.79;253.79;0;
-Coto;Andes Origen;Cerveza Vendimia Andes Origen 473 Ml;473 ml;406.18;406.18;0;
-Coto;Van Pur;Cerveza Lager VAN PUR Lata 500 Cc;500 ml;220;220;0;
-Coto;Yerevan;Cerveza Lager Premium Yerevan Bot 500 Ml;500 ml;708;708;0;
 Coto;Konig;Cerveza Lata Konig 500ml;500 ml;5750;5750;0;
-Coto;Imperial;Cerveza Ipa IMPERIAL Bot 500 Ml;500 ml;231.4;231.4;0;
-Coto;Oranjeboom;Cerveza ORANJEBOOM Lata 500 Cc;500 ml;4079;4079;0;
-Coto;Oranjeboom;Cerveza ORANJEBOOM Lata 500 Cc;500 ml;5300;5300;0;
-Coto;Oranjeboom;Cerveza ORANJEBOOM Lata 500 Cc;500 ml;467;467;0;
-Coto;Oranjeboom;Cerveza Radler ORANJEBOOM Lata 500 Cc;500 ml;259;259;0;
-Coto;Patagonia;Cerveza Bohemian Patagonia Lat 410 Cmq;-;1818;1818;0;
-Coto;Patagonia;Cerveza 24.7 Patagonia Lat 410 Cmq;-;1618;1618;0;
-Coto;Warsteiner;Cerveza WARSTEINER Bot 980 Ml;980 ml;3770;3770;0;
 Coto;Imperial;Cerveza Roja Imperial 1 Ltr;-;4420;4420;0;
-Coto;Arsenalnoye;Cerveza Tradicional Arsenalnoye 470 Ml;470 ml;57.15;57.15;0;
-Coto;Andes;Cerveza Weissbier ANDES Botella 970 Cc;970 ml;767.49;767.49;0;
-Coto;Siete Cholas;Cerveza Porter Siete Chola Lat 473 Cmq;-;2000;2000;0;
 Coto;Salta;Cerveza Blend SALTA 473 Cmq;-;2650;2650;0;
-Coto;Patagonia;Cerveza Abrazo D Oso X Patagonia Pak 2838 Ml;2838 ml;2858.17;2858.17;0;
-Coto;Kilikia;Cerveza Lager Beer KILIKIA Bot 500 Ml;500 ml;603;603;0;
-Coto;Kronenburg;Cerveza Blanc 1664 Kronenburg 330 Ml;330 ml;648.63;648.63;0;
-Coto;Peñon del Aguila;Cerveza Lata Schwarzeier Peñon Del Aguila Lat 473 Ml;473 ml;2348;2348;0;
-Coto;Michelob;Cerveza Superior Light Michelob Lat 410 Cmq;-;1299;1299;0;
-Coto;Hertog Jan;Cerveza Arcener Tripel HERTOG JAN Porron 500 Cc;500 ml;13250;13250;0;
-Coto;Andes;Cerveza Andes Fresquita 1 Ltr;-;3600;3600;0;
-Coto;Peñon del Aguila;Cerveza Gose Sandia Limada PEÑON DEL AGUILA Lata 473 Cc;473 ml;2670;2670;0;
-Coto;Heineken;Cerveza Heineken Edición 150 Años 1l;1000 ml;3738;3738;0;
 Coto;Brahma;Cerveza Bot Dorada Origina Brahma Bot 710 Cmq;-;3961;3961;0;
-Coto;Andes;Cerveza Criolla Andes Orige Lat 413 Ml;413 ml;136.5;136.5;0;
-Coto;Peñon del Aguila;Cerveza American Amber Peñon Del Aguila Lat 473 Cmq;-;2670;2670;0;
-Coto;Andes Origen;Cerveza Rojita Andes Origen Lat 269 Cmq;-;409;409;0;
-Coto;Peñon del Aguila;Cerveza Arándano Sour PEÑON DEL AGUILA Lata 473 Cc;473 ml;2670;2670;0;
-Coto;Stella Artois;Cerveza Sin Alcohol 0. Stella Arto Bot 330 Cmq;-;1000;1000;0;
-Coto;Santa Fe;Cerveza SANTA FE Frost Botella 1 L;1000 ml;131.44;131.44;0;
-Coto;Heineken;Cerveza 150 Años Heineken 300ml;300 ml;1801;1801;0;
-Coto;Peñon del Aguila;Cerveza Maracuyá Sour PEÑON DEL AGUILA Lata 473 Cc;473 ml;2670;2670;0;
-Coto;Warsteiner;Cerveza con limón WARSTEINER 500ml;500 ml;3360;3360;0;
-Coto;Carlsberg;Cerveza Carlsberg Lat 500 Cmq;-;552.66;552.66;0;
-Coto;8.6;Cerveza Lata Black 8.6 500 Ml;500 ml;1283.98;1283.98;0;
-Coto;8.6;Cerveza Lata Gold 8.6 500 Ml;500 ml;1283.98;1283.98;0;
-Coto;Antares;Cerveza Bot Kolsch Antares Bot 500 Ml;500 ml;309;309;0;
-Coto;8.6;Cerveza Lata Extreme 8.6 500 Ml;500 ml;1222.84;1222.84;0;
-Coto;La Pinta De La Paz;Cerveza LA PINTA DE LA PAZ Lata 473 Cc;473 ml;119.5;119.5;0;
-Coto;Kilikia;Cerveza Dark Kilikia Bot 500 Ml;500 ml;603;603;0;
-Coto;Blue Moon;Cerveza Belgian White Blue Moon 473 Cmq;-;2575;2575;0;
 Coto;Salta;Cerveza Bot Cautiva Roja SALTA 1 Ltr;-;4450;4450;0;
-Coto;Kilikia;Cerveza Elitar Kilikia Bot 500 Ml;500 ml;603;603;0;
-Coto;Antares;Cerveza Bot Scotch Antares Bot 500 Ml;500 ml;309;309;0;
-Coto;Antares;Cerveza Bot Honey Beer Antares Bot 500 Ml;500 ml;359;359;0;
-Coto;Abstemia;Cerveza Sin Alcohol Ipa Abstemia 473 Ml;473 ml;1499.7;1499.7;0;
+Coto;Corona;Cerveza Sin Alcohol 0.0% Corona Lat 473 Ml;473 ml;3000;3000;0;
 Coto;Heineken;Cerveza Sin Alcohol Heineken 355cmq;-;2090;1567.5;25;25%Dto
 Coto;Imperial;Cerveza Sin Alcohol Roja Imperial 355ml;355 ml;1340;1005.0;25;25%Dto
-Coto;Imperial;Cerveza Sin Alcohol Golden Imperial 355ml;355 ml;1340;1340;0;

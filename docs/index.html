@@ -97,6 +97,8 @@ tbody tr:hover .prodcell{background:var(--panel2)}
 .pricecell .ptc.off{color:var(--green)}
 .pricecell .offpct{color:var(--red);font-size:11px;font-weight:700}
 .pricecell.empty{color:var(--line)}
+.pricecell.sospechoso{background:var(--warnbg);box-shadow:inset 0 0 0 1px var(--warnline)}
+.warnflag{color:var(--yellow);font-size:11px}
 
 .tablewrap{max-height:66vh;overflow:auto;border:1px solid var(--line);border-radius:8px}
 .hint{color:var(--muted);font-size:12px;margin-top:10px}
@@ -432,12 +434,16 @@ function buildTableHead(theadEl){
 function priceCellHtml(v){
   if(!v) return `<td class="pricecell empty">—</td>`;
   const off = v.dinamica > 0;
-  const title = v.promo_nominal ? ` title="${v.promo_nominal.replace(/"/g,'')}"` : '';
-  return `<td class="pricecell"${title}>
+  const titleParts = [];
+  if(v.promo_nominal) titleParts.push(v.promo_nominal);
+  if(v.sospechoso) titleParts.push('Precio sospechoso: cambio brusco vs. la lectura anterior, revisar antes de confiar');
+  const title = titleParts.length ? ` title="${titleParts.join(' — ').replace(/"/g,'')}"` : '';
+  return `<td class="pricecell${v.sospechoso ? ' sospechoso' : ''}"${title}>
     ${off ? `<div class="fleje">${fmtMoney(v.fleje)}</div>` : ''}
     <div class="ptcrow">
       <span class="ptc ${off?'off':''}">${fmtMoney(v.ptc)}</span>
       ${off ? `<span class="offpct">-${fmtPct(v.dinamica)}</span>` : ''}
+      ${v.sospechoso ? `<span class="warnflag">⚠</span>` : ''}
     </div>
   </td>`;
 }

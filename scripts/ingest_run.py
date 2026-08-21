@@ -13,6 +13,14 @@ una marca es la misma sin importar donde se vendio.
 Nunca revienta por una fila individual mala: la loguea en
 data/logs/ingest_warnings.log y sigue con las demas.
 
+Sanity check de precio vs. historico: si el precio nuevo de un SKU cae
+mas de SOSPECHA_CAIDA (50%) o sube mas de SOSPECHA_SUBA (100%) respecto
+a la ultima lectura de ese mismo SKU, no se descarta (podria ser una
+promo real muy agresiva) pero se marca "sospechoso": true en esa fecha
+del pivot y se loguea — asi el dashboard puede resaltarlo en vez de
+tratarlo como un dato mas. Aplica a cualquier cadena, no solo a la que
+disparo el caso (Coto/Budweiser, ver README).
+
 Uso:
     python3 scripts/ingest_run.py --csv data/raw/2026-08-20.csv --date 2026-08-20
 """
@@ -35,6 +43,27 @@ from common import (  # noqa: E402
     save_json,
     slugify,
 )
+
+SOSPECHA_CAIDA = 0.5    # precio nuevo < 50% del anterior -> sospechoso
+SOSPECHA_SUBA = 2.0     # precio nuevo > 200% del anterior -> sospechoso
+
+
+def detectar_sospechoso(entry, date_key, precio_nuevo):
+    """Compara contra la lectura mas reciente anterior a date_key (no
+    necesariamente ayer -- puede haber huecos). None si no hay historico
+    previo para comparar (SKU nuevo)."""
+    fechas_previas = sorted(d for d in entry["dates"] if d < date_key)
+    if not fechas_previas:
+        return None
+    anterior = entry["dates"][fechas_previas[-1]]["ptc"]
+    if not anterior:
+        return None
+    ratio = precio_nuevo / anterior
+    if ratio < SOSPECHA_CAIDA:
+        return f"cayo {(1-ratio)*100:.0f}% vs {fechas_previas[-1]} (${anterior:.0f} -> ${precio_nuevo:.0f})"
+    if ratio > SOSPECHA_SUBA:
+        return f"subio {(ratio-1)*100:.0f}% vs {fechas_previas[-1]} (${anterior:.0f} -> ${precio_nuevo:.0f})"
+    return None
 
 
 def main():
@@ -63,6 +92,7 @@ def main():
     errores = 0
     nuevos = 0
     ok = 0
+    sospechosos = 0
     with csv_path.open(encoding="utf-8-sig") as f:
         reader = csvmod.DictReader(f, delimiter=";")
         for row in reader:
@@ -112,12 +142,22 @@ def main():
                 precio = float(precio_raw)
                 fleje = float(row.get("fleje") or precio)
                 dinamica = round(max(1 - precio / fleje, 0.0), 4) if fleje else 0.0
-                entry["dates"][date_key] = {
+                motivo_sospecha = detectar_sospechoso(entry, date_key, precio)
+                fecha_entry = {
                     "fleje": fleje,
                     "ptc": precio,
                     "dinamica": dinamica,
                     "promo_nominal": (row.get("promo_nominal") or "").strip(),
                 }
+                if motivo_sospecha:
+                    fecha_entry["sospechoso"] = True
+                    sospechosos += 1
+                    log_warning(
+                        f"{csv_path.name}: precio sospechoso -> "
+                        f"'{cadena} | {marca} | {descripcion}': {motivo_sospecha}",
+                        log_file="ingest_warnings.log",
+                    )
+                entry["dates"][date_key] = fecha_entry
                 ok += 1
             except Exception as e:  # noqa: BLE001 - una fila mala no debe tumbar la corrida
                 errores += 1
@@ -138,8 +178,9 @@ def main():
     save_json(HISTORY_PATH, history)
     save_json(CATALOG_PATH, list(catalog.values()))
 
-    print(f"[OK] {date_key}: {ok} filas ok, {nuevos} SKUs nuevos, {errores} filas con error")
-    if errores:
+    print(f"[OK] {date_key}: {ok} filas ok, {nuevos} SKUs nuevos, {errores} filas con error, "
+          f"{sospechosos} precios sospechosos")
+    if errores or sospechosos:
         print("     ver data/logs/ingest_warnings.log")
 
 

@@ -5254,5 +5254,381 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-lata-brahma-350-cmq",
+    "marca": "Brahma",
+    "sku": "Cerveza Lata BRAHMA 350 Cmq",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "munich-cerveza-premium-ultra-munich-269ml",
+    "marca": "Munich",
+    "sku": "Cerveza Premium Ultra Munich 269ml",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "guinness-cerveza-extra-stout-guinness-lat-473-ml",
+    "marca": "Guinness",
+    "sku": "Cerveza Extra Stout Guinness Lat 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-cerveza-lager-pampa-argentina-473ml",
+    "marca": "Pampa",
+    "sku": "Cerveza lager PAMPA ARGENTINA 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "hermann-muller-cerveza-lager-classic-hermann-muller-500ml",
+    "marca": "Hermann Muller",
+    "sku": "Cerveza Lager Classic Hermann Muller 500ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-sin-alcohol-golden-imperial-473-cc",
+    "marca": "Imperial",
+    "sku": "Cerveza Sin Alcohol Golden Imperial 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-andes-1l",
+    "marca": "Andes",
+    "sku": "Cerveza Andes 1l",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-estrella-galicia-lager-473ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Estrella Galicia Lager 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "santa-fe-cerveza-santa-fe-lata-473-cc",
+    "marca": "Santa Fe",
+    "sku": "Cerveza Santa Fe Lata 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-ipa-andes-lata-473-cc",
+    "marca": "Andes",
+    "sku": "Cerveza Ipa Andes Lata 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-oro-andes-origen-473ml",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Oro Andes Origen 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-lager-stella-artois-lata-473-cc",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Lager STELLA ARTOIS Lata 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "budweiser-cerveza-pilsener-budweiser-lata-473-cc",
+    "marca": "Budweiser",
+    "sku": "Cerveza Pilsener BUDWEISER Lata 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bierhaus-cerveza-superstar-ipa-bierhaus-473-ml",
+    "marca": "Bierhaus",
+    "sku": "Cerveza Superstar Ipa Bierhaus 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "guinness-cerveza-lager-13-guinness-473ml",
+    "marca": "Guinness",
+    "sku": "Cerveza Lager 13 Guinness 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bierhaus-cerveza-argentipa-bierhaus-473-ml",
+    "marca": "Bierhaus",
+    "sku": "Cerveza Argentipa Bierhaus 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "oranjeboom-cerveza-premium-lager-oranjeboom-250ml",
+    "marca": "Oranjeboom",
+    "sku": "Cerveza Premium Lager ORANJEBOOM 250ml",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-lata-473-cc",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Lata 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-sin-alcohol-0-0-heineken-330c",
+    "marca": "Heineken",
+    "sku": "Cerveza Sin Alcohol 0.0 HEINEKEN 330c",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-corona-473ml",
+    "marca": "Corona",
+    "sku": "Cerveza CORONA 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-cerveza-suave-michelob-473ml",
+    "marca": "Michelob",
+    "sku": "Cerveza Suave Michelob 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-black-lager-andes-lata-473-cc",
+    "marca": "Andes",
+    "sku": "Cerveza Black Lager Andes Lata 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-red-andes-lata-473-cc",
+    "marca": "Andes",
+    "sku": "Cerveza Red Andes Lata 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-espiritu-lager-500ml",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Espíritu Lager 500ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-amber-lager-patagonia-lata-473-cc",
+    "marca": "Patagonia",
+    "sku": "Cerveza Amber Lager Patagonia Lata 473 CC",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-blanca-andes-710ml",
+    "marca": "Andes",
+    "sku": "Cerveza blanca ANDES 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-estrella-galicia-sin-gluten-330ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Estrella Galicia Sin Gluten 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-premium-lager-stella-artois-710ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Premium Lager Stella Artois 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-andes-origen-710ml",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Andes Origen 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "8-6-cerveza-lata-roja-8-6-500-ml",
+    "marca": "8.6",
+    "sku": "Cerveza Lata Roja 8.6 500 Ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-vera-ipa-patagonia-473ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Vera Ipa Patagonia 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "gibraltar-cerveza-english-ipa-gibraltar-473ml",
+    "marca": "Gibraltar",
+    "sku": "Cerveza English Ipa GIBRALTAR 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-ipa-quilmes-473ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza Ipa Quilmes 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bitburger-cerveza-barril-bitburger-5l",
+    "marca": "Bitburger",
+    "sku": "Cerveza Barril Bitburger 5l",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "martens-cerveza-pils-5-2-martens-500ml",
+    "marca": "Martens",
+    "sku": "Cerveza Pils 5.2 MARTENS 500ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-sin-alcohol-stella-artois-lat-473cmq",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Sin Alcohol Stella Artois Lat 473cmq",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bitburger-cerveza-lata-premium-bitburger-500ml",
+    "marca": "Bitburger",
+    "sku": "Cerveza Lata Premium Bitburger 500ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-sin-alcohol-0-quilmes-473-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza Sin Alcohol 0 QUILMES 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bristol-cerveza-ipa-bristol-473ml",
+    "marca": "Bristol",
+    "sku": "Cerveza Ipa Bristol 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "goose-cerveza-lager-goose-473ml",
+    "marca": "Goose",
+    "sku": "Cerveza Lager Goose 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "temple-cerveza-ipa-temple-lata-473-cc",
+    "marca": "Temple",
+    "sku": "Cerveza Ipa TEMPLE Lata 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bristol-cerveza-lager-bristol-473ml",
+    "marca": "Bristol",
+    "sku": "Cerveza Lager Bristol 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bristol-cerveza-pale-ale-bristol-473ml",
+    "marca": "Bristol",
+    "sku": "Cerveza Pale Ale Bristol 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "budweiser-cerveza-budweiser-710ml",
+    "marca": "Budweiser",
+    "sku": "Cerveza Budweiser 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-negra-prem-noire-stella-arto-lat-473-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Negra Prem Noire Stella Arto Lat 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bierhaus-cerveza-oktober-fest-bierhaus-473cc",
+    "marca": "Bierhaus",
+    "sku": "Cerveza Oktober Fest Bierhaus 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-sin-alcohol-0-0-corona-lat-473-ml",
+    "marca": "Corona",
+    "sku": "Cerveza Sin Alcohol 0.0% Corona Lat 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

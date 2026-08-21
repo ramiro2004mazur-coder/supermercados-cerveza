@@ -7220,6 +7220,12 @@
           "ptc": 5400.53,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-08-21": {
+          "fleje": 5400.53,
+          "ptc": 5400.53,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.33
@@ -7234,6 +7240,12 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
+          "fleje": 5700.0,
+          "ptc": 5700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-08-21": {
           "fleje": 5700.0,
           "ptc": 5700.0,
           "dinamica": 0.0,
@@ -13732,8 +13744,8 @@
           "promo_nominal": ""
         },
         "2026-08-21": {
-          "fleje": 2494.0,
-          "ptc": 2494.0,
+          "fleje": 4580.0,
+          "ptc": 4580.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -15292,10 +15304,11 @@
           "promo_nominal": ""
         },
         "2026-08-21": {
-          "fleje": 471.0,
-          "ptc": 471.0,
+          "fleje": 5999.0,
+          "ptc": 5999.0,
           "dinamica": 0.0,
-          "promo_nominal": ""
+          "promo_nominal": "",
+          "sospechoso": true
         }
       },
       "volumen_l": 0.5
@@ -15362,12 +15375,6 @@
           "ptc": 1959.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1959.0,
-          "ptc": 1959.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -15382,12 +15389,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2348.0,
-          "ptc": 2348.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2348.0,
           "ptc": 2348.0,
           "dinamica": 0.0,
@@ -15410,12 +15411,6 @@
           "ptc": 3250.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3250.0,
-          "ptc": 3250.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -15430,12 +15425,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2348.0,
-          "ptc": 2348.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2348.0,
           "ptc": 2348.0,
           "dinamica": 0.0,
@@ -15458,12 +15447,6 @@
           "ptc": 2348.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2348.0,
-          "ptc": 2348.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -15478,12 +15461,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 3750.0,
-          "ptc": 3750.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3750.0,
           "ptc": 3750.0,
           "dinamica": 0.0,
@@ -15506,12 +15483,6 @@
           "ptc": 1959.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1959.0,
-          "ptc": 1959.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -15526,12 +15497,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 1603.0,
-          "ptc": 1603.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1603.0,
           "ptc": 1603.0,
           "dinamica": 0.0,
@@ -15554,12 +15519,6 @@
           "ptc": 2600.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2600.0,
-          "ptc": 2600.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -15574,12 +15533,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 660.0,
-          "ptc": 660.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 660.0,
           "ptc": 660.0,
           "dinamica": 0.0,
@@ -15602,12 +15555,6 @@
           "ptc": 281.4,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 281.4,
-          "ptc": 281.4,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.33
@@ -15622,12 +15569,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 254.65,
-          "ptc": 254.65,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 254.65,
           "ptc": 254.65,
           "dinamica": 0.0,
@@ -15722,12 +15663,6 @@
           "ptc": 1449.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1449.0,
-          "ptc": 1449.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.41
@@ -15770,12 +15705,6 @@
           "ptc": 1700.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1700.0,
-          "ptc": 1700.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -15794,12 +15723,6 @@
           "ptc": 268.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 268.0,
-          "ptc": 268.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -15814,12 +15737,6 @@
       "segmento": "Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 422.6,
-          "ptc": 422.6,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 422.6,
           "ptc": 422.6,
           "dinamica": 0.0,
@@ -15866,12 +15783,6 @@
           "ptc": 3146.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3146.0,
-          "ptc": 3146.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -15886,12 +15797,6 @@
       "segmento": "Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 4600.0,
-          "ptc": 4600.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 4600.0,
           "ptc": 4600.0,
           "dinamica": 0.0,
@@ -15914,12 +15819,6 @@
           "ptc": 1449.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1449.0,
-          "ptc": 1449.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.41
@@ -15934,12 +15833,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 1347.0,
-          "ptc": 1347.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1347.0,
           "ptc": 1347.0,
           "dinamica": 0.0,
@@ -15986,12 +15879,6 @@
           "ptc": 2450.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2450.0,
-          "ptc": 2450.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16034,12 +15921,6 @@
           "ptc": 3146.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3146.0,
-          "ptc": 3146.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16054,12 +15935,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 327.0,
-          "ptc": 327.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 327.0,
           "ptc": 327.0,
           "dinamica": 0.0,
@@ -16082,12 +15957,6 @@
           "ptc": 515.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 515.0,
-          "ptc": 515.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -16102,12 +15971,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3146.0,
-          "ptc": 3146.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3146.0,
           "ptc": 3146.0,
           "dinamica": 0.0,
@@ -16130,12 +15993,6 @@
           "ptc": 920.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 920.0,
-          "ptc": 920.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16150,12 +16007,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 900.0,
-          "ptc": 900.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 900.0,
           "ptc": 900.0,
           "dinamica": 0.0,
@@ -16202,12 +16053,6 @@
           "ptc": 332.23,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 332.23,
-          "ptc": 332.23,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.269
@@ -16226,12 +16071,6 @@
           "ptc": 3716.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3716.0,
-          "ptc": 3716.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16246,12 +16085,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3750.0,
-          "ptc": 3750.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3750.0,
           "ptc": 3750.0,
           "dinamica": 0.0,
@@ -16298,12 +16131,6 @@
           "ptc": 357.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 357.0,
-          "ptc": 357.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16318,12 +16145,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 715.0,
-          "ptc": 715.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 715.0,
           "ptc": 715.0,
           "dinamica": 0.0,
@@ -16346,12 +16167,6 @@
           "ptc": 578.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 578.0,
-          "ptc": 578.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.27
@@ -16366,12 +16181,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 587.41,
-          "ptc": 587.41,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 587.41,
           "ptc": 587.41,
           "dinamica": 0.0,
@@ -16394,12 +16203,6 @@
           "ptc": 1512.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1512.0,
-          "ptc": 1512.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16414,12 +16217,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3093.0,
-          "ptc": 3093.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3093.0,
           "ptc": 3093.0,
           "dinamica": 0.0,
@@ -16442,12 +16239,6 @@
           "ptc": 192.92,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 192.92,
-          "ptc": 192.92,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -16462,12 +16253,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 430.5,
-          "ptc": 430.5,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 430.5,
           "ptc": 430.5,
           "dinamica": 0.0,
@@ -16490,12 +16275,6 @@
           "ptc": 2833.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2833.0,
-          "ptc": 2833.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -16510,12 +16289,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 860.0,
-          "ptc": 860.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 860.0,
           "ptc": 860.0,
           "dinamica": 0.0,
@@ -16538,12 +16311,6 @@
           "ptc": 1299.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1299.0,
-          "ptc": 1299.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -16558,12 +16325,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 809.09,
-          "ptc": 809.09,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 809.09,
           "ptc": 809.09,
           "dinamica": 0.0,
@@ -16586,12 +16347,6 @@
           "ptc": 227.12,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 227.12,
-          "ptc": 227.12,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.269
@@ -16606,12 +16361,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3750.0,
-          "ptc": 3750.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3750.0,
           "ptc": 3750.0,
           "dinamica": 0.0,
@@ -16634,12 +16383,6 @@
           "ptc": 2900.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2900.0,
-          "ptc": 2900.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -16654,12 +16397,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3750.0,
-          "ptc": 3750.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3750.0,
           "ptc": 3750.0,
           "dinamica": 0.0,
@@ -16682,12 +16419,6 @@
           "ptc": 4671.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 4671.0,
-          "ptc": 4671.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.74
@@ -16702,12 +16433,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 648.92,
-          "ptc": 648.92,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 648.92,
           "ptc": 648.92,
           "dinamica": 0.0,
@@ -16754,12 +16479,6 @@
           "ptc": 3195.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3195.0,
-          "ptc": 3195.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16778,12 +16497,6 @@
           "ptc": 269.5,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 269.5,
-          "ptc": 269.5,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16798,12 +16511,6 @@
       "segmento": "Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 420.0,
-          "ptc": 420.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 420.0,
           "ptc": 420.0,
           "dinamica": 0.0,
@@ -16850,12 +16557,6 @@
           "ptc": 2573.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2573.0,
-          "ptc": 2573.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -16870,12 +16571,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 1907.0,
-          "ptc": 1907.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1907.0,
           "ptc": 1907.0,
           "dinamica": 0.0,
@@ -16898,12 +16593,6 @@
           "ptc": 1950.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1950.0,
-          "ptc": 1950.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -16918,12 +16607,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 3195.0,
-          "ptc": 3195.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3195.0,
           "ptc": 3195.0,
           "dinamica": 0.0,
@@ -16946,12 +16629,6 @@
           "ptc": 399.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 399.0,
-          "ptc": 399.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -16966,12 +16643,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 294.45,
-          "ptc": 294.45,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 294.45,
           "ptc": 294.45,
           "dinamica": 0.0,
@@ -16994,12 +16665,6 @@
           "ptc": 3195.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3195.0,
-          "ptc": 3195.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -17014,12 +16679,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 112.05,
-          "ptc": 112.05,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 112.05,
           "ptc": 112.05,
           "dinamica": 0.0,
@@ -17042,12 +16701,6 @@
           "ptc": 220.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 220.0,
-          "ptc": 220.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -17062,12 +16715,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3600.0,
-          "ptc": 3600.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3600.0,
           "ptc": 3600.0,
           "dinamica": 0.0,
@@ -17090,12 +16737,6 @@
           "ptc": 2400.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2400.0,
-          "ptc": 2400.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -17110,12 +16751,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 4500.0,
-          "ptc": 4500.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 4500.0,
           "ptc": 4500.0,
           "dinamica": 0.0,
@@ -17162,12 +16797,6 @@
           "ptc": 572.09,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 572.09,
-          "ptc": 572.09,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -17186,12 +16815,6 @@
           "ptc": 3195.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3195.0,
-          "ptc": 3195.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -17206,12 +16829,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 384.0,
-          "ptc": 384.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 384.0,
           "ptc": 384.0,
           "dinamica": 0.0,
@@ -17282,12 +16899,6 @@
           "ptc": 2535.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2535.0,
-          "ptc": 2535.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -17308,10 +16919,11 @@
           "promo_nominal": ""
         },
         "2026-08-21": {
-          "fleje": 119.5,
-          "ptc": 119.5,
-          "dinamica": 0.0,
-          "promo_nominal": ""
+          "fleje": 3194.0,
+          "ptc": 2395.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto",
+          "sospechoso": true
         }
       },
       "volumen_l": 0.473
@@ -17326,12 +16938,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3100.0,
-          "ptc": 3100.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3100.0,
           "ptc": 3100.0,
           "dinamica": 0.0,
@@ -17354,12 +16960,6 @@
           "ptc": 400.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 400.0,
-          "ptc": 400.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -17378,12 +16978,6 @@
           "ptc": 7796.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 7796.0,
-          "ptc": 7796.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -17398,12 +16992,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 4042.0,
-          "ptc": 4042.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 4042.0,
           "ptc": 4042.0,
           "dinamica": 0.0,
@@ -17450,12 +17038,6 @@
           "ptc": 426.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 426.0,
-          "ptc": 426.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -17498,12 +17080,6 @@
           "ptc": 2079.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2079.0,
-          "ptc": 2079.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -17522,12 +17098,6 @@
           "ptc": 411.84,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 411.84,
-          "ptc": 411.84,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.41
@@ -17542,12 +17112,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 5899.0,
-          "ptc": 5899.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 5899.0,
           "ptc": 5899.0,
           "dinamica": 0.0,
@@ -17594,12 +17158,6 @@
           "ptc": 2900.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2900.0,
-          "ptc": 2900.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -17642,12 +17200,6 @@
           "ptc": 393.31,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 393.31,
-          "ptc": 393.31,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.41
@@ -17662,12 +17214,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 1499.0,
-          "ptc": 1499.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1499.0,
           "ptc": 1499.0,
           "dinamica": 0.0,
@@ -17690,12 +17236,6 @@
           "ptc": 164.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 164.0,
-          "ptc": 164.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -17710,12 +17250,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 3645.0,
-          "ptc": 3645.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3645.0,
           "ptc": 3645.0,
           "dinamica": 0.0,
@@ -17738,12 +17272,6 @@
           "ptc": 1000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1000.0,
-          "ptc": 1000.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.269
@@ -17758,12 +17286,6 @@
       "segmento": "Value",
       "dates": {
         "2026-08-20": {
-          "fleje": 58000.0,
-          "ptc": 58000.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 58000.0,
           "ptc": 58000.0,
           "dinamica": 0.0,
@@ -17786,12 +17308,6 @@
           "ptc": 1818.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1818.0,
-          "ptc": 1818.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -17806,12 +17322,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2675.0,
-          "ptc": 2675.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2675.0,
           "ptc": 2675.0,
           "dinamica": 0.0,
@@ -17834,12 +17344,6 @@
           "ptc": 588.24,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 588.24,
-          "ptc": 588.24,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -17854,12 +17358,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 447.0,
-          "ptc": 447.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 447.0,
           "ptc": 447.0,
           "dinamica": 0.0,
@@ -17882,12 +17380,6 @@
           "ptc": 3000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3000.0,
-          "ptc": 3000.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -17902,12 +17394,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 317.0,
-          "ptc": 317.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 317.0,
           "ptc": 317.0,
           "dinamica": 0.0,
@@ -17930,12 +17416,6 @@
           "ptc": 3100.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3100.0,
-          "ptc": 3100.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -17954,12 +17434,6 @@
           "ptc": 3000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3000.0,
-          "ptc": 3000.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -17974,12 +17448,6 @@
       "segmento": "Value",
       "dates": {
         "2026-08-20": {
-          "fleje": 1649.0,
-          "ptc": 1649.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1649.0,
           "ptc": 1649.0,
           "dinamica": 0.0,
@@ -18026,12 +17494,6 @@
           "ptc": 3100.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3100.0,
-          "ptc": 3100.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -18046,12 +17508,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 231.4,
-          "ptc": 231.4,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 231.4,
           "ptc": 231.4,
           "dinamica": 0.0,
@@ -18074,12 +17530,6 @@
           "ptc": 153.83,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 153.83,
-          "ptc": 153.83,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.97
@@ -18094,12 +17544,6 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
-          "fleje": 1872.0,
-          "ptc": 1872.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1872.0,
           "ptc": 1872.0,
           "dinamica": 0.0,
@@ -18146,12 +17590,6 @@
           "ptc": 2670.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2670.0,
-          "ptc": 2670.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -18166,12 +17604,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 5300.0,
-          "ptc": 5300.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 5300.0,
           "ptc": 5300.0,
           "dinamica": 0.0,
@@ -18194,12 +17626,6 @@
           "ptc": 708.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 708.0,
-          "ptc": 708.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -18214,12 +17640,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 3020.0,
-          "ptc": 3020.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3020.0,
           "ptc": 3020.0,
           "dinamica": 0.0,
@@ -18266,12 +17686,6 @@
           "ptc": 467.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 467.0,
-          "ptc": 467.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -18286,12 +17700,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 259.0,
-          "ptc": 259.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 259.0,
           "ptc": 259.0,
           "dinamica": 0.0,
@@ -18314,12 +17722,6 @@
           "ptc": 509.36,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 509.36,
-          "ptc": 509.36,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -18334,12 +17736,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 2869.0,
-          "ptc": 2869.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2869.0,
           "ptc": 2869.0,
           "dinamica": 0.0,
@@ -18386,12 +17782,6 @@
           "ptc": 3093.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3093.0,
-          "ptc": 3093.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -18410,12 +17800,6 @@
           "ptc": 535.98,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 535.98,
-          "ptc": 535.98,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -18430,12 +17814,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 1588.0,
-          "ptc": 1588.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1588.0,
           "ptc": 1588.0,
           "dinamica": 0.0,
@@ -18506,12 +17884,6 @@
           "ptc": 2624.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2624.0,
-          "ptc": 2624.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -18526,12 +17898,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 3550.0,
-          "ptc": 3550.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3550.0,
           "ptc": 3550.0,
           "dinamica": 0.0,
@@ -18554,12 +17920,6 @@
           "ptc": 2348.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2348.0,
-          "ptc": 2348.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -18578,12 +17938,6 @@
           "ptc": 2445.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2445.0,
-          "ptc": 2445.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -18598,12 +17952,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2348.0,
-          "ptc": 2348.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2348.0,
           "ptc": 2348.0,
           "dinamica": 0.0,
@@ -18650,12 +17998,6 @@
           "ptc": 876.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 876.0,
-          "ptc": 876.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -18670,12 +18012,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 253.79,
-          "ptc": 253.79,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 253.79,
           "ptc": 253.79,
           "dinamica": 0.0,
@@ -18698,12 +18034,6 @@
           "ptc": 406.18,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 406.18,
-          "ptc": 406.18,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -18722,12 +18052,6 @@
           "ptc": 603.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 603.0,
-          "ptc": 603.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -18742,12 +18066,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 3250.0,
-          "ptc": 3250.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3250.0,
           "ptc": 3250.0,
           "dinamica": 0.0,
@@ -18790,12 +18108,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 614.63,
-          "ptc": 614.63,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 614.63,
           "ptc": 614.63,
           "dinamica": 0.0,
@@ -18890,12 +18202,6 @@
           "ptc": 3465.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3465.0,
-          "ptc": 3465.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -18910,12 +18216,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 681.77,
-          "ptc": 681.77,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 681.77,
           "ptc": 681.77,
           "dinamica": 0.0,
@@ -18938,12 +18238,6 @@
           "ptc": 648.63,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 648.63,
-          "ptc": 648.63,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.33
@@ -18958,12 +18252,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 136.5,
-          "ptc": 136.5,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 136.5,
           "ptc": 136.5,
           "dinamica": 0.0,
@@ -18986,12 +18274,6 @@
           "ptc": 1618.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1618.0,
-          "ptc": 1618.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -19006,12 +18288,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 13250.0,
-          "ptc": 13250.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 13250.0,
           "ptc": 13250.0,
           "dinamica": 0.0,
@@ -19034,12 +18310,6 @@
           "ptc": 3770.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3770.0,
-          "ptc": 3770.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.98
@@ -19054,12 +18324,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 1818.0,
-          "ptc": 1818.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1818.0,
           "ptc": 1818.0,
           "dinamica": 0.0,
@@ -19106,12 +18370,6 @@
           "ptc": 2858.17,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2858.17,
-          "ptc": 2858.17,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 2.838
@@ -19126,12 +18384,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 4671.0,
-          "ptc": 4671.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 4671.0,
           "ptc": 4671.0,
           "dinamica": 0.0,
@@ -19154,12 +18406,6 @@
           "ptc": 455.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 455.0,
-          "ptc": 455.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.47
@@ -19174,12 +18420,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2348.0,
-          "ptc": 2348.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2348.0,
           "ptc": 2348.0,
           "dinamica": 0.0,
@@ -19202,12 +18442,6 @@
           "ptc": 1299.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1299.0,
-          "ptc": 1299.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -19222,12 +18456,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 5499.0,
-          "ptc": 5499.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 5499.0,
           "ptc": 5499.0,
           "dinamica": 0.0,
@@ -19250,12 +18478,6 @@
           "ptc": 767.49,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 767.49,
-          "ptc": 767.49,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.97
@@ -19270,12 +18492,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2670.0,
-          "ptc": 2670.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2670.0,
           "ptc": 2670.0,
           "dinamica": 0.0,
@@ -19298,12 +18514,6 @@
           "ptc": 1000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1000.0,
-          "ptc": 1000.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -19318,12 +18528,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2670.0,
-          "ptc": 2670.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2670.0,
           "ptc": 2670.0,
           "dinamica": 0.0,
@@ -19346,12 +18550,6 @@
           "ptc": 2000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 2000.0,
-          "ptc": 2000.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -19366,12 +18564,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2670.0,
-          "ptc": 2670.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2670.0,
           "ptc": 2670.0,
           "dinamica": 0.0,
@@ -19394,12 +18586,6 @@
           "ptc": 552.66,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 552.66,
-          "ptc": 552.66,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -19414,12 +18600,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 2575.0,
-          "ptc": 2575.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2575.0,
           "ptc": 2575.0,
           "dinamica": 0.0,
@@ -19442,12 +18622,6 @@
           "ptc": 136.5,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 136.5,
-          "ptc": 136.5,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.413
@@ -19462,12 +18636,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 1283.98,
-          "ptc": 1283.98,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1283.98,
           "ptc": 1283.98,
           "dinamica": 0.0,
@@ -19490,12 +18658,6 @@
           "ptc": 409.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 409.0,
-          "ptc": 409.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": null
@@ -19510,12 +18672,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 2670.0,
-          "ptc": 2670.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 2670.0,
           "ptc": 2670.0,
           "dinamica": 0.0,
@@ -19538,12 +18694,6 @@
           "ptc": 3360.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3360.0,
-          "ptc": 3360.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -19558,12 +18708,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 603.0,
-          "ptc": 603.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 603.0,
           "ptc": 603.0,
           "dinamica": 0.0,
@@ -19586,12 +18730,6 @@
           "ptc": 1222.84,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1222.84,
-          "ptc": 1222.84,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -19606,12 +18744,6 @@
       "segmento": "Core+",
       "dates": {
         "2026-08-20": {
-          "fleje": 3600.0,
-          "ptc": 3600.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 3600.0,
           "ptc": 3600.0,
           "dinamica": 0.0,
@@ -19634,12 +18766,6 @@
           "ptc": 57.15,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 57.15,
-          "ptc": 57.15,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.47
@@ -19654,12 +18780,6 @@
       "segmento": "Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 1801.0,
-          "ptc": 1801.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1801.0,
           "ptc": 1801.0,
           "dinamica": 0.0,
@@ -19682,12 +18802,6 @@
           "ptc": 309.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 309.0,
-          "ptc": 309.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -19702,12 +18816,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 309.0,
-          "ptc": 309.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 309.0,
           "ptc": 309.0,
           "dinamica": 0.0,
@@ -19730,12 +18838,6 @@
           "ptc": 603.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 603.0,
-          "ptc": 603.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.5
@@ -19750,12 +18852,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 1283.98,
-          "ptc": 1283.98,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1283.98,
           "ptc": 1283.98,
           "dinamica": 0.0,
@@ -19778,12 +18874,6 @@
           "ptc": 119.5,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 119.5,
-          "ptc": 119.5,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -19798,12 +18888,6 @@
       "segmento": "Super Premium",
       "dates": {
         "2026-08-20": {
-          "fleje": 359.0,
-          "ptc": 359.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 359.0,
           "ptc": 359.0,
           "dinamica": 0.0,
@@ -19850,12 +18934,6 @@
           "ptc": 3738.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 3738.0,
-          "ptc": 3738.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -19874,12 +18952,6 @@
           "ptc": 131.44,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 131.44,
-          "ptc": 131.44,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 1.0
@@ -19894,12 +18966,6 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-20": {
-          "fleje": 1499.7,
-          "ptc": 1499.7,
-          "dinamica": 0.0,
-          "promo_nominal": ""
-        },
-        "2026-08-21": {
           "fleje": 1499.7,
           "ptc": 1499.7,
           "dinamica": 0.0,
@@ -19970,12 +19036,6 @@
           "ptc": 1340.0,
           "dinamica": 0.0,
           "promo_nominal": ""
-        },
-        "2026-08-21": {
-          "fleje": 1340.0,
-          "ptc": 1340.0,
-          "dinamica": 0.0,
-          "promo_nominal": ""
         }
       },
       "volumen_l": 0.355
@@ -19990,6 +19050,12 @@
       "segmento": "Core",
       "dates": {
         "2026-08-20": {
+          "fleje": 2855.0,
+          "ptc": 1713.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-21": {
           "fleje": 2855.0,
           "ptc": 1713.0,
           "dinamica": 0.4,
@@ -20460,6 +19526,852 @@
         "2026-08-21": {
           "fleje": 4514.0,
           "ptc": 4514.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-brahma-cerveza-lata-brahma-350-cmq",
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "sku": "Cerveza Lata BRAHMA 350 Cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 1476.0,
+          "ptc": 1476.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-munich-cerveza-premium-ultra-munich-269ml",
+      "cadena": "Coto",
+      "marca": "Munich",
+      "sku": "Cerveza Premium Ultra Munich 269ml",
+      "calibre": "275",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 1550.0,
+          "ptc": 1550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.269
+    },
+    {
+      "id": "coto-guinness-cerveza-extra-stout-guinness-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "Guinness",
+      "sku": "Cerveza Extra Stout Guinness Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4150.0,
+          "ptc": 4150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-pampa-cerveza-lager-pampa-argentina-473ml",
+      "cadena": "Coto",
+      "marca": "Pampa",
+      "sku": "Cerveza lager PAMPA ARGENTINA 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2850.0,
+          "ptc": 1710.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-hermann-muller-cerveza-lager-classic-hermann-muller-500ml",
+      "cadena": "Coto",
+      "marca": "Hermann Muller",
+      "sku": "Cerveza Lager Classic Hermann Muller 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 1750.0,
+          "ptc": 1750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-imperial-cerveza-sin-alcohol-golden-imperial-473-cc",
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "sku": "Cerveza Sin Alcohol Golden Imperial 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2100.0,
+          "ptc": 1575.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-cerveza-andes-1l",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Andes 1l",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4736.0,
+          "ptc": 4736.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 1.0
+    },
+    {
+      "id": "coto-estrella-de-galicia-cerveza-estrella-galicia-lager-473ml",
+      "cadena": "Coto",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza Estrella Galicia Lager 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3500.0,
+          "ptc": 3500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-santa-fe-cerveza-santa-fe-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Santa Fe",
+      "sku": "Cerveza Santa Fe Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2615.0,
+          "ptc": 2615.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-cerveza-ipa-andes-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Ipa Andes Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3335.0,
+          "ptc": 2501.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-origen-cerveza-rubia-oro-andes-origen-473ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Rubia Oro Andes Origen 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3194.0,
+          "ptc": 2395.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-stella-artois-cerveza-lager-stella-artois-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Lager STELLA ARTOIS Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4026.0,
+          "ptc": 3019.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-budweiser-cerveza-pilsener-budweiser-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza Pilsener BUDWEISER Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2860.0,
+          "ptc": 2145.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bierhaus-cerveza-superstar-ipa-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Superstar Ipa Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4015.0,
+          "ptc": 4015.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-guinness-cerveza-lager-13-guinness-473ml",
+      "cadena": "Coto",
+      "marca": "Guinness",
+      "sku": "Cerveza Lager 13 Guinness 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3700.0,
+          "ptc": 2220.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bierhaus-cerveza-argentipa-bierhaus-473-ml",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Argentipa Bierhaus 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4015.0,
+          "ptc": 4015.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-oranjeboom-cerveza-premium-lager-oranjeboom-250ml",
+      "cadena": "Coto",
+      "marca": "Oranjeboom",
+      "sku": "Cerveza Premium Lager ORANJEBOOM 250ml",
+      "calibre": "275",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4359.0,
+          "ptc": 4359.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.25
+    },
+    {
+      "id": "coto-patagonia-cerveza-patagonia-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Patagonia Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4961.0,
+          "ptc": 2480.5,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-heineken-cerveza-sin-alcohol-0-0-heineken-330c",
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "sku": "Cerveza Sin Alcohol 0.0 HEINEKEN 330c",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3000.0,
+          "ptc": 2250.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-corona-cerveza-corona-473ml",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza CORONA 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4586.0,
+          "ptc": 3439.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-michelob-cerveza-suave-michelob-473ml",
+      "cadena": "Coto",
+      "marca": "Michelob",
+      "sku": "Cerveza Suave Michelob 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2889.0,
+          "ptc": 1877.85,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-cerveza-black-lager-andes-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Black Lager Andes Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3335.0,
+          "ptc": 2501.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-cerveza-red-andes-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza Red Andes Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3335.0,
+          "ptc": 2501.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-antares-cerveza-antares-espiritu-lager-500ml",
+      "cadena": "Coto",
+      "marca": "Antares",
+      "sku": "Cerveza Antares Espíritu Lager 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 5104.0,
+          "ptc": 5104.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-patagonia-cerveza-amber-lager-patagonia-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Amber Lager Patagonia Lata 473 CC",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4961.0,
+          "ptc": 2480.5,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-andes-cerveza-blanca-andes-710ml",
+      "cadena": "Coto",
+      "marca": "Andes",
+      "sku": "Cerveza blanca ANDES 710ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3445.0,
+          "ptc": 3445.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-estrella-de-galicia-cerveza-estrella-galicia-sin-gluten-330ml",
+      "cadena": "Coto",
+      "marca": "Estrella De Galicia",
+      "sku": "Cerveza Estrella Galicia Sin Gluten 330ml",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
+    },
+    {
+      "id": "coto-stella-artois-cerveza-premium-lager-stella-artois-710ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Premium Lager Stella Artois 710ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 5970.0,
+          "ptc": 4477.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-andes-origen-cerveza-rubia-andes-origen-710ml",
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "sku": "Cerveza Rubia Andes Origen 710ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4630.0,
+          "ptc": 3472.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-8-6-cerveza-lata-roja-8-6-500-ml",
+      "cadena": "Coto",
+      "marca": "8.6",
+      "sku": "Cerveza Lata Roja 8.6 500 Ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 5990.0,
+          "ptc": 5990.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-patagonia-cerveza-vera-ipa-patagonia-473ml",
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "sku": "Cerveza Vera Ipa Patagonia 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4961.0,
+          "ptc": 2480.5,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-gibraltar-cerveza-english-ipa-gibraltar-473ml",
+      "cadena": "Coto",
+      "marca": "Gibraltar",
+      "sku": "Cerveza English Ipa GIBRALTAR 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 6600.0,
+          "ptc": 6600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-quilmes-cerveza-ipa-quilmes-473ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Ipa Quilmes 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2588.0,
+          "ptc": 1682.2,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bitburger-cerveza-barril-bitburger-5l",
+      "cadena": "Coto",
+      "marca": "Bitburger",
+      "sku": "Cerveza Barril Bitburger 5l",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 70750.0,
+          "ptc": 70750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 5.0
+    },
+    {
+      "id": "coto-martens-cerveza-pils-5-2-martens-500ml",
+      "cadena": "Coto",
+      "marca": "Martens",
+      "sku": "Cerveza Pils 5.2 MARTENS 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 6979.0,
+          "ptc": 6979.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-stella-artois-cerveza-sin-alcohol-stella-artois-lat-473cmq",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Sin Alcohol Stella Artois Lat 473cmq",
+      "calibre": "S/C",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3310.0,
+          "ptc": 3310.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": null
+    },
+    {
+      "id": "coto-bitburger-cerveza-lata-premium-bitburger-500ml",
+      "cadena": "Coto",
+      "marca": "Bitburger",
+      "sku": "Cerveza Lata Premium Bitburger 500ml",
+      "calibre": "600",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 5390.0,
+          "ptc": 5390.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.5
+    },
+    {
+      "id": "coto-quilmes-cerveza-sin-alcohol-0-quilmes-473-ml",
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "sku": "Cerveza Sin Alcohol 0 QUILMES 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2120.0,
+          "ptc": 2120.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bristol-cerveza-ipa-bristol-473ml",
+      "cadena": "Coto",
+      "marca": "Bristol",
+      "sku": "Cerveza Ipa Bristol 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-goose-cerveza-lager-goose-473ml",
+      "cadena": "Coto",
+      "marca": "Goose",
+      "sku": "Cerveza Lager Goose 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3587.0,
+          "ptc": 3587.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-temple-cerveza-ipa-temple-lata-473-cc",
+      "cadena": "Coto",
+      "marca": "Temple",
+      "sku": "Cerveza Ipa TEMPLE Lata 473 Cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4961.0,
+          "ptc": 4961.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bristol-cerveza-lager-bristol-473ml",
+      "cadena": "Coto",
+      "marca": "Bristol",
+      "sku": "Cerveza Lager Bristol 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2550.0,
+          "ptc": 2550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bristol-cerveza-pale-ale-bristol-473ml",
+      "cadena": "Coto",
+      "marca": "Bristol",
+      "sku": "Cerveza Pale Ale Bristol 473ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 2550.0,
+          "ptc": 2550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-budweiser-cerveza-budweiser-710ml",
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser 710ml",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4142.0,
+          "ptc": 3106.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "coto-stella-artois-cerveza-negra-prem-noire-stella-arto-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "sku": "Cerveza Negra Prem Noire Stella Arto Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 4026.0,
+          "ptc": 3019.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-bierhaus-cerveza-oktober-fest-bierhaus-473cc",
+      "cadena": "Coto",
+      "marca": "Bierhaus",
+      "sku": "Cerveza Oktober Fest Bierhaus 473cc",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3825.0,
+          "ptc": 3825.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.473
+    },
+    {
+      "id": "coto-corona-cerveza-sin-alcohol-0-0-corona-lat-473-ml",
+      "cadena": "Coto",
+      "marca": "Corona",
+      "sku": "Cerveza Sin Alcohol 0.0% Corona Lat 473 Ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-21": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -21545,7 +21457,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 7633.509999999999
+      "avg_ptc": 7075.264999999999
     },
     {
       "cadena": "Jumbo",
@@ -21574,7 +21486,7 @@
       "marca": "Bitburger",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 1,
+      "dias": 2,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -21698,8 +21610,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.36,
-      "avg_ptc": 2459.96
+      "avg_dinamica": 0.3666666666666667,
+      "avg_ptc": 2335.4666666666667
     },
     {
       "cadena": "Disco",
@@ -22337,7 +22249,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 14987.0
+      "avg_ptc": 12105.714285714286
     },
     {
       "cadena": "Coto",
@@ -22347,8 +22259,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.16666666666666666,
-      "avg_ptc": 3190.027777777778
+      "avg_dinamica": 0.2,
+      "avg_ptc": 3227.766666666667
     },
     {
       "cadena": "Coto",
@@ -22358,8 +22270,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.3718,
-      "avg_dinamica": 0.17436000000000001,
-      "avg_ptc": 3126.8900000000003
+      "avg_dinamica": 0.19373333333333334,
+      "avg_ptc": 3363.211111111111
     },
     {
       "cadena": "Coto",
@@ -22370,7 +22282,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2455.75
+      "avg_ptc": 2908.8333333333335
     },
     {
       "cadena": "Coto",
@@ -22380,8 +22292,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.175,
-      "avg_ptc": 772.95
+      "avg_dinamica": 0.2333333333333333,
+      "avg_ptc": 975.9333333333334
     },
     {
       "cadena": "Coto",
@@ -22391,8 +22303,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.20999999999999996,
-      "avg_ptc": 2670.6
+      "avg_dinamica": 0.23333333333333328,
+      "avg_ptc": 2920.6666666666665
     },
     {
       "cadena": "Coto",
@@ -22413,8 +22325,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.1131578947368421,
-      "avg_ptc": 3899.903684210526
+      "avg_dinamica": 0.1482758620689655,
+      "avg_ptc": 4675.490344827586
     },
     {
       "cadena": "Coto",
@@ -22425,7 +22337,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2134.4285714285716
+      "avg_ptc": 2606.909090909091
     },
     {
       "cadena": "Coto",
@@ -22436,7 +22348,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2400.0
+      "avg_ptc": 2116.6666666666665
     },
     {
       "cadena": "Coto",
@@ -22446,8 +22358,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.1590909090909091,
-      "avg_ptc": 2423.5713636363635
+      "avg_dinamica": 0.18421052631578946,
+      "avg_ptc": 2720.3900000000003
     },
     {
       "cadena": "Coto",
@@ -22469,7 +22381,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3230.25
+      "avg_ptc": 3320.8
     },
     {
       "cadena": "Coto",
@@ -22479,8 +22391,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.04375,
-      "avg_ptc": 2944.368125
+      "avg_dinamica": 0.05833333333333333,
+      "avg_ptc": 3301.4079166666666
     },
     {
       "cadena": "Coto",
@@ -22501,8 +22413,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.2333333333333333,
-      "avg_ptc": 4785.183333333333
+      "avg_dinamica": 0.27999999999999997,
+      "avg_ptc": 5482.42
     },
     {
       "cadena": "Coto",
@@ -22523,8 +22435,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.099,
-      "avg_ptc": 2378.0092
+      "avg_dinamica": 0.15,
+      "avg_ptc": 2813.4160606060605
     },
     {
       "cadena": "Coto",
@@ -22535,7 +22447,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2521.8
+      "avg_ptc": 2832.1428571428573
     },
     {
       "cadena": "Coto",
@@ -22546,7 +22458,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4156.666666666667
+      "avg_ptc": 4473.0
     },
     {
       "cadena": "Coto",
@@ -22556,8 +22468,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.03571428571428571,
-      "avg_ptc": 2008.4271428571428
+      "avg_dinamica": 0.075,
+      "avg_ptc": 2575.349
     },
     {
       "cadena": "Coto",
@@ -22567,8 +22479,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.3503,
-      "avg_dinamica": 0.2187875,
-      "avg_ptc": 3056.70125
+      "avg_dinamica": 0.2692769230769231,
+      "avg_ptc": 3106.709230769231
     },
     {
       "cadena": "Coto",
@@ -22579,7 +22491,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3598.125
+      "avg_ptc": 3720.8333333333335
     },
     {
       "cadena": "Coto",
@@ -22590,7 +22502,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4115.0
+      "avg_ptc": 4299.0
     },
     {
       "cadena": "Coto",
@@ -22601,7 +22513,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2759.5705000000003
+      "avg_ptc": 3260.626129032258
     },
     {
       "cadena": "Coto",
@@ -22611,8 +22523,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.1,
-      "avg_ptc": 1380.48
+      "avg_dinamica": 0.14285714285714285,
+      "avg_ptc": 1705.6285714285714
     },
     {
       "cadena": "Coto",
@@ -22623,7 +22535,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3238.2231578947367
+      "avg_ptc": 3353.1766666666667
     },
     {
       "cadena": "Coto",
@@ -22644,8 +22556,8 @@
       "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.08333333333333333,
-      "avg_ptc": 2244.6133333333332
+      "avg_dinamica": 0.1111111111111111,
+      "avg_ptc": 2735.6866666666665
     },
     {
       "cadena": "Coto",
@@ -22711,7 +22623,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4690.0
+      "avg_ptc": 21380.0
     },
     {
       "cadena": "Coto",
@@ -22722,7 +22634,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3800.0
+      "avg_ptc": 5182.0
     },
     {
       "cadena": "Coto",
@@ -22733,7 +22645,7 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2488.3333333333335
+      "avg_ptc": 3712.6
     },
     {
       "cadena": "Coto",
@@ -22766,14 +22678,14 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3585.9733333333334
+      "avg_ptc": 4075.653333333333
     },
     {
       "cadena": "Coto",
       "marca": "Lit",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22784,7 +22696,7 @@
       "marca": "Peñon del Aguila",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22795,7 +22707,7 @@
       "marca": "Siete Cholas",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22810,14 +22722,14 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3864.2
+      "avg_ptc": 4065.125
     },
     {
       "cadena": "Coto",
       "marca": "Chachingo",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22839,7 +22751,7 @@
       "marca": "Bieckert",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22861,7 +22773,7 @@
       "marca": "Van Pur",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22883,7 +22795,7 @@
       "marca": "Sol",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22894,7 +22806,7 @@
       "marca": "Kostritzer",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22905,7 +22817,7 @@
       "marca": "Bajo Cero",
       "grupo": "CMQ",
       "segmento": "Value",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22916,7 +22828,7 @@
       "marca": "Yerevan",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22938,7 +22850,7 @@
       "marca": "Kilikia",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22949,7 +22861,7 @@
       "marca": "Kronenburg",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22960,7 +22872,7 @@
       "marca": "Hertog Jan",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22971,7 +22883,7 @@
       "marca": "Arsenalnoye",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22982,7 +22894,7 @@
       "marca": "Carlsberg",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -22997,14 +22909,14 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 1263.6000000000001
+      "avg_ptc": 2445.2
     },
     {
       "cadena": "Coto",
       "marca": "La Pinta De La Paz",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -23019,14 +22931,14 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 131.44
+      "avg_ptc": 1373.22
     },
     {
       "cadena": "Coto",
       "marca": "Abstemia",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
@@ -23162,7 +23074,216 @@
       "dias_dinamica": 0,
       "max_dinamica": 0.0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4514.0
+      "avg_ptc": 4809.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Brahma",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1476.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Guinness",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.2,
+      "avg_ptc": 3185.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Pampa",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.4,
+      "avg_ptc": 1710.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Hermann Muller",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 1750.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Imperial",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 1575.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Andes",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.15,
+      "avg_ptc": 3136.95
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Estrella De Galicia",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3250.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Andes Origen",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 2934.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Stella Artois",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.1875,
+      "avg_ptc": 3456.625
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Budweiser",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 2625.75
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Patagonia",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.5,
+      "avg_dinamica": 0.5,
+      "avg_ptc": 2480.5
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Heineken",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 2250.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Corona",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.125,
+      "avg_ptc": 3219.75
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Michelob",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.35,
+      "avg_ptc": 1877.85
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Gibraltar",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 6600.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Quilmes",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.175,
+      "avg_ptc": 1901.1
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Martens",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 6979.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Bristol",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2700.0
+    },
+    {
+      "cadena": "Coto",
+      "marca": "Temple",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4961.0
     }
   ],
   "fights": [
@@ -23255,9 +23376,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-21 10:02:55",
-    "sku_rows": 863,
-    "registros_validos": 1685,
+    "generado": "2026-08-21 10:31:14",
+    "sku_rows": 910,
+    "registros_validos": 1576,
     "dias": 2,
     "cadenas": [
       "Carrefour",

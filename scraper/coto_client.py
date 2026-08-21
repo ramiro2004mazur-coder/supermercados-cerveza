@@ -18,6 +18,28 @@ de contado, sin tarjeta/membresia). Si hay un `discounts[1]` en
 adelante suele ser un extra solo para "Comunidad Coto" (programa de
 fidelidad) — se ignora a proposito, mismo criterio que el resto del
 proyecto de no mezclar descuentos que no ve cualquier comprador.
+
+Listados obsoletos: el indice de Constructor.io de Coto tiene productos
+"fantasma" — SKUs viejos/discontinuados que nunca se purgaron, con un
+precio desactualizado que nunca se volvio a tocar. Ejemplo real
+detectado: "Cerveza Budweiser Botella 710 CC" (precio $572, un ~82% mas
+barato que el precio real $3106 mostrado en la pagina) convivia en la
+misma busqueda con "Cerveza Budweiser 710ml" (el SKU correcto y
+actualizado, mismo producto fisico, EAN distinto). Barrido de todo el
+catalogo de cerveza: **47% de los resultados (222/473)** comparten el
+mismo patron sospechoso: precio identico en TODAS las sucursales +
+`discounts` vacio + `store_availability` vacio. Se trata como listado
+obsoleto y se descarta (ver `parece_obsoleto`) — mejor faltante que
+mal, mismo criterio que el resto del proyecto.
+
+Por el mismo motivo se saco el filtro anterior de "descartar si la
+sucursal de referencia no esta en store_availability": ese filtro
+estaba descartando el SKU *correcto* de Budweiser (su
+store_availability no incluye la sucursal 181 aunque su precio para esa
+sucursal es valido), mientras dejaba pasar el obsoleto (que tiene
+store_availability vacio, no dispara el filtro). store_availability
+resulto ser un campo demasiado inconsistente en los datos de Coto como
+para usarlo de esa forma.
 """
 
 import re
@@ -100,6 +122,24 @@ def _parse_money(text):
         return None
 
 
+def parece_obsoleto(d):
+    """Heuristica para listados fantasma de Coto (ver docstring del
+    modulo): sin disponibilidad declarada, sin descuento activo, y el
+    mismo precio identico en todas las sucursales (>=5, para no
+    disparar con productos que solo tienen unas pocas sucursales
+    cargadas). Las 3 condiciones juntas son necesarias -- cualquiera
+    de ellas sola es comun tambien en productos vigentes (ej. una
+    marca chica sin promo hoy, con precio plano a nivel nacional)."""
+    prices = [p.get("listPrice") for p in (d.get("price") or []) if p.get("listPrice") is not None]
+    if len(prices) < 5:
+        return False
+    return (
+        not d.get("store_availability")
+        and not d.get("discounts")
+        and len(set(prices)) == 1
+    )
+
+
 def producto_a_fila(cadena, result, marca_de_fn, store_id=STORE_ID):
     d = result.get("data") or {}
     nombre = (result.get("value") or d.get("sku_display_name") or "").strip()
@@ -112,9 +152,11 @@ def producto_a_fila(cadena, result, marca_de_fn, store_id=STORE_ID):
     if es_pack(nombre):
         return None
 
-    store_avail = d.get("store_availability")
-    if store_avail and store_id not in store_avail:
-        return None  # sin stock declarado en la sucursal de referencia
+    if parece_obsoleto(d):
+        raise ValueError(
+            f"listado obsoleto sospechoso (precio identico en todas las sucursales, "
+            f"sin disponibilidad ni descuento): {nombre!r}"
+        )
 
     price_entry = next((p for p in (d.get("price") or []) if p.get("store") == store_id), None)
     if not price_entry:
