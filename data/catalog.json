@@ -5182,5 +5182,77 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-golden-imperial-botella-retornable-1-lt",
+    "marca": "Imperial",
+    "sku": "Cerveza golden Imperial botella retornable 1 lt.",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ortuzar-cerveza-poker-con-bourbon-473-ml-ortuzar",
+    "marca": "Ortuzar",
+    "sku": "Cerveza Poker con Bourbon 473 Ml Ortuzar",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-rubia-330-cc-heineken",
+    "marca": "Heineken",
+    "sku": "Cerveza Rubia 330 Cc Heineken",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-golden-710-cc-imperial",
+    "marca": "Imperial",
+    "sku": "Cerveza Golden 710 Cc Imperial",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "birra-moretti-cerveza-birra-moretti-bot-cc-330",
+    "marca": "Birra Moretti",
+    "sku": "Cerveza Birra Moretti-bot-cc.-330",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-lager-sin-alcohol-473-cc-corona",
+    "marca": "Corona",
+    "sku": "Cerveza Lager Sin Alcohol 473 Cc Corona",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-rubia-oro-473-cc-andes",
+    "marca": "Andes",
+    "sku": "Cerveza Rubia Oro 473 Cc Andes",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-stout-473-cc-quilmes",
+    "marca": "Quilmes",
+    "sku": "Cerveza Stout 473 Cc Quilmes",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-scotch-antares-lata-473-cc",
+    "marca": "Antares",
+    "sku": "Cerveza Scotch ANTARES Lata 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
