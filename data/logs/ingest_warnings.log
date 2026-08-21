@@ -654,3 +654,5 @@
 2026-08-21.csv: SKU nuevo sin catalogo -> 'Coto | Stella Artois | Cerveza Negra Prem Noire Stella Arto Lat 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-21.csv: SKU nuevo sin catalogo -> 'Coto | Bierhaus | Cerveza Oktober Fest Bierhaus 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-21.csv: SKU nuevo sin catalogo -> 'Coto | Corona | Cerveza Sin Alcohol 0.0% Corona Lat 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-21.csv: precio sospechoso -> 'Coto | Andes | Cerveza Andes Lata 473 CC': subio 1905% vs 2026-08-20 ($120 -> $2396)
+2026-08-21.csv: precio sospechoso -> 'Coto | Weidmann | Cerveza WEIDMANN Lata 500 Cc': subio 1174% vs 2026-08-20 ($471 -> $5999)
