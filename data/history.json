@@ -1,8 +1,8 @@
 {
   "meta": {
     "plataforma": "Supermercados",
-    "ultima_corrida": "2026-08-24T13:28:48.874249+00:00",
-    "sku_count": 1040,
+    "ultima_corrida": "2026-08-24T14:08:39.056936+00:00",
+    "sku_count": 1041,
     "cadenas": [
       "Carrefour",
       "Coto",
@@ -34722,6 +34722,23 @@
           "ptc": 4899.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        }
+      }
+    },
+    {
+      "id": "carrefour-budweiser-cerveza-rubia-budweiser-473-ml",
+      "cadena": "Carrefour",
+      "marca": "Budweiser",
+      "sku": "Cerveza rubia Budweiser 473 ml",
+      "calibre": "473",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-24": {
+          "fleje": 2860.0,
+          "ptc": 1501.5,
+          "dinamica": 0.475,
+          "promo_nominal": "2do al 50% Max 48 unidades Combinable BUDWEISER"
         }
       }
     }
