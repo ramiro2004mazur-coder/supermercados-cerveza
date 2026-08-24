@@ -5702,5 +5702,757 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-negra-269-cc-stella-artois",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Negra 269 Cc Stella Artois",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bajo-cero-cerveza-rubia-quilmes-bajocero-473-ml",
+    "marca": "Bajo Cero",
+    "sku": "Cerveza Rubia Quilmes Bajocero 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-laton-710-cc",
+    "marca": "Quilmes",
+    "sku": "Cerveza Rubia Quilmes Laton 710 Cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-1890-retornable-1-l",
+    "marca": "Quilmes",
+    "sku": "Cerveza Rubia Quilmes 1890 Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-rubia-corona-cero-alcohol-330-ml",
+    "marca": "Corona",
+    "sku": "Cerveza Rubia Corona Cero Alcohol 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "amstel-cerveza-rubia-amstel-lager-473-ml",
+    "marca": "Amstel",
+    "sku": "Cerveza Rubia Amstel Lager 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-michelob-ultra-bajas-calorias-473-ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza Michelob Ultra Bajas Calorías 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-pura-malta-473-cc",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Pura Malta 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-retornable-975-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Retornable 975 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-sin-alcohol-473-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza Rubia Quilmes Sin Alcohol 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-rubia-lata-heineken-710-ml",
+    "marca": "Heineken",
+    "sku": "Cerveza Rubia Lata Heineken 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-andes-origen-ipa-lata-473ml",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Andes Origen Ipa Lata 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-roja-andes-origen-473-ml",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Roja Andes Origen 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "schneider-cerveza-rubia-schneider-710-ml",
+    "marca": "Schneider",
+    "sku": "Cerveza Rubia Schneider 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-en-lata-heineken-473cc",
+    "marca": "Heineken",
+    "sku": "Cerveza En Lata Heineken 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-rubia-heineken-retornable-1-l",
+    "marca": "Heineken",
+    "sku": "Cerveza Rubia Heineken Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "schneider-cerveza-rubia-schneider-remix-limon-473-ml",
+    "marca": "Schneider",
+    "sku": "Cerveza Rubia Schneider Remix Limón 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-rubia-heineken-sin-alcohol-473-cc",
+    "marca": "Heineken",
+    "sku": "Cerveza Rubia Heineken Sin Alcohol 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-1890-473-cc",
+    "marca": "Quilmes",
+    "sku": "Cerveza Rubia Quilmes 1890 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "amstel-cerveza-rubia-amstel-lager-1-l",
+    "marca": "Amstel",
+    "sku": "Cerveza Rubia Amstel Lager 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-sin-alcohol-330-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Sin Alcohol 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "amstel-cerveza-rubia-amstel-lager-710-ml",
+    "marca": "Amstel",
+    "sku": "Cerveza Rubia Amstel Lager 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-ipa-473-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza Rubia Quilmes Ipa 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-rubia-corona-no-retornable-710-cc",
+    "marca": "Corona",
+    "sku": "Cerveza Rubia Corona No Retornable 710 Cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-rubia-corona-330-cc",
+    "marca": "Corona",
+    "sku": "Cerveza Rubia Corona 330 Cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "grolsch-cerveza-rubia-grolsch-retornable-925-ml",
+    "marca": "Grolsch",
+    "sku": "Cerveza Rubia Grolsch Retornable 925 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-24-7-patagonia-ipa-no-retornable-730-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza 24.7 Patagonia Ipa No Retornable 730 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-andes-origen-ipa-retornable-1-l",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Andes Origen Ipa Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-lata-stout-quilmes-473-cc",
+    "marca": "Quilmes",
+    "sku": "Cerveza Lata Stout Quilmes 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-brahma-chopp-retornable-1-l",
+    "marca": "Brahma",
+    "sku": "Cerveza Brahma Chopp Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "schneider-cerveza-rubia-schneider-retornable-1-l",
+    "marca": "Schneider",
+    "sku": "Cerveza Rubia Schneider Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "budweiser-cerveza-rubia-budweiser-retornable-1-l",
+    "marca": "Budweiser",
+    "sku": "Cerveza Rubia Budweiser Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-brahma-710-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Rubia Brahma 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-rubia-imperial-retornable-1-l",
+    "marca": "Imperial",
+    "sku": "Cerveza Rubia Imperial Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-imperial-golden-retornable-1-l",
+    "marca": "Imperial",
+    "sku": "Cerveza Imperial Golden Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-sin-alcohol-473-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Sin Alcohol 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-vera-ipa-473-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Vera Ipa 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-vera-ipa-new-england-no-retornable-730-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Vera Ipa New England No Retornable 730 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-cerveza-negra-pampa-nitro-cream-stout-473-cc",
+    "marca": "Pampa",
+    "sku": "Cerveza Negra Pampa Nitro Cream Stout 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-brewing-cerveza-pampa-brewing-honey",
+    "marca": "Pampa Brewing",
+    "sku": "Cerveza Pampa Brewing Honey",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-cerveza-brewing-amber-ale-pampa-473-ml",
+    "marca": "Pampa",
+    "sku": "Cerveza Brewing Amber Ale Pampa 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-cerveza-brewing-golden-ale-pampa-473-ml",
+    "marca": "Pampa",
+    "sku": "Cerveza Brewing Golden Ale Pampa 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-rubia-miller-710ml",
+    "marca": "Miller",
+    "sku": "Cerveza Rubia Miller 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "warsteiner-cerveza-rubia-retornable-warsteiner-1-l",
+    "marca": "Warsteiner",
+    "sku": "Cerveza Rubia Retornable Warsteiner 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "grolsch-cerveza-rubia-lata-grolsch-473cc",
+    "marca": "Grolsch",
+    "sku": "Cerveza Rubia Lata Grolsch 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-roja-patagonia-amber-lager-no-retornable-730-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Roja Patagonia Amber Lager No Retornable 730 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-rubia-andes-retornable-1-l",
+    "marca": "Andes",
+    "sku": "Cerveza Rubia Andes Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-rubia-miller-retornable-1-l",
+    "marca": "Miller",
+    "sku": "Cerveza Rubia Miller Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-stout-quilmes-retornable-1-lt",
+    "marca": "Quilmes",
+    "sku": "Cerveza Stout Quilmes Retornable 1 Lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-clasica-quilmes-retornable-1-l",
+    "marca": "Quilmes",
+    "sku": "Cerveza Clasica Quilmes Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-en-lata-brahma-354ml",
+    "marca": "Brahma",
+    "sku": "Cerveza En Lata Brahma 354ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-clasica-quilmes-473ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza Clásica Quilmes 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-pure-gold-330-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Pure Gold 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-rubia-michelob-ultra-sin-gluten-275-ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza Rubia Michelob Ultra Sin Gluten 275 Ml",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-rubia-estrella-galicia-lager-473-ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Rubia Estrella Galicia Lager 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-rubia-heineken-cero-sin-alcohol-330-cc",
+    "marca": "Heineken",
+    "sku": "Cerveza Rubia Heineken Cero Sin Alcohol 330 Cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-rubia-patagonia-lager-del-sur-473-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Rubia Patagonia Lager Del Sur 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-rubia-patagonia-lager-del-sur-no-retornable-730-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Rubia Patagonia Lager Del Sur No Retornable 730 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "isenbeck-cerveza-rubia-isenbeck-473-ml",
+    "marca": "Isenbeck",
+    "sku": "Cerveza Rubia Isenbeck 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-porron-330-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Porrón 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-rubia-miller-genuine-draft-no-retornable-330-ml",
+    "marca": "Miller",
+    "sku": "Cerveza Rubia Miller Genuine Draft No Retornable 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "blue-moon-cerveza-rubia-blue-moon-473-ml",
+    "marca": "Blue Moon",
+    "sku": "Cerveza Rubia Blue Moon 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-ipa-retornable-1-l",
+    "marca": "Quilmes",
+    "sku": "Cerveza Rubia Quilmes Ipa Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-imperial-golden-710-ml",
+    "marca": "Imperial",
+    "sku": "Cerveza Imperial Golden 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "guinness-cerveza-negra-guinness-extra-stout-473-cc",
+    "marca": "Guinness",
+    "sku": "Cerveza Negra Guinness Extra Stout 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cautiva-cerveza-rubia-lata-salta-cautiva-473-cc",
+    "marca": "Salta Cautiva",
+    "sku": "Cerveza Rubia Lata Salta Cautiva 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-rubia-imperial-710-ml",
+    "marca": "Imperial",
+    "sku": "Cerveza Rubia Imperial 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "rabieta-cerveza-red-irish-ale-rabieta-473-cc",
+    "marca": "Rabieta",
+    "sku": "Cerveza Red Irish Ale Rabieta 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-rubia-imperial-ipa-retornable-1-l",
+    "marca": "Imperial",
+    "sku": "Cerveza Rubia Imperial Ipa Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-rubia-heineken-no-retornable-330-ml",
+    "marca": "Heineken",
+    "sku": "Cerveza Rubia Heineken No Retornable 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-brahma-473ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Rubia Brahma 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cautiva-cerveza-rubia-salta-cautiva-fresh-lager-473-ml",
+    "marca": "Salta Cautiva",
+    "sku": "Cerveza Rubia Salta Cautiva Fresh Lager 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "guiness-cerveza-rubia-guiness-hop-house-473-ml",
+    "marca": "Guiness",
+    "sku": "Cerveza Rubia Guiness Hop House 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-rubia-imperial-golden-330-ml",
+    "marca": "Imperial",
+    "sku": "Cerveza Rubia Imperial Golden 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-rubia-antares-espiritu-lager-liviana-473-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Rubia Antares Espíritu Lager Liviana 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cautiva-cerveza-roja-lata-salta-cautiva-473-cc",
+    "marca": "Salta Cautiva",
+    "sku": "Cerveza Roja Lata Salta Cautiva 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-caravana-lata-antares-473-cc",
+    "marca": "Antares",
+    "sku": "Cerveza Caravana Lata Antares 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "rabieta-cerveza-red-honey-rabieta-473-cc",
+    "marca": "Rabieta",
+    "sku": "Cerveza Red Honey Rabieta 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "rabieta-cerveza-golden-ale-rabieta-473-cc",
+    "marca": "Rabieta",
+    "sku": "Cerveza Golden Ale Rabieta 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "rabieta-cerveza-american-ipa-rabieta-473-ml",
+    "marca": "Rabieta",
+    "sku": "Cerveza American Ipa Rabieta 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-retornable-quilmes-clasica-340-cc",
+    "marca": "Quilmes",
+    "sku": "Cerveza Retornable Quilmes Clasica 340 Cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-cerveza-rubia-pampa-lager-473ml",
+    "marca": "Pampa",
+    "sku": "Cerveza Rubia Pampa Lager 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "blue-moon-cerveza-rubia-blue-moon-355-ml",
+    "marca": "Blue Moon",
+    "sku": "Cerveza Rubia Blue Moon 355 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-rubia-miller-600-ml",
+    "marca": "Miller",
+    "sku": "Cerveza Rubia Miller 600 Ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bajo-cero-cerveza-rubia-quilmes-bajo-cero-retornable-1-l",
+    "marca": "Bajo Cero",
+    "sku": "Cerveza Rubia Quilmes Bajo Cero Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "rabieta-cerveza-helles-munich-rabieta-473-ml",
+    "marca": "Rabieta",
+    "sku": "Cerveza Helles Munich Rabieta 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-honey-lata-antares-473-cc",
+    "marca": "Antares",
+    "sku": "Cerveza Honey Lata Antares 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-kolsch-lata-antares-473-cc",
+    "marca": "Antares",
+    "sku": "Cerveza Kolsch Lata Antares 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-scotch-lata-antares-473-cc",
+    "marca": "Antares",
+    "sku": "Cerveza Scotch Lata Antares 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-roja-andes-retornable-1-l",
+    "marca": "Andes",
+    "sku": "Cerveza Roja Andes Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-chopp-retornable-brahma-340-cc",
+    "marca": "Brahma",
+    "sku": "Cerveza Rubia Chopp Retornable Brahma 340 Cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-rubia-antares-xpa-473ml",
+    "marca": "Antares",
+    "sku": "Cerveza Rubia Antares Xpa 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "asahi-cerveza-rubia-asahi-330-ml",
+    "marca": "Asahi",
+    "sku": "Cerveza Rubia Asahi 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-andes-origen-oro-1-l",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Andes Origen Oro 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
