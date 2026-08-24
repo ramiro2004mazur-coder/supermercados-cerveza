@@ -14,6 +14,13 @@ usan el motor de promos estandar de VTEX, sino un endpoint propio
 (`_v/search-promotions`) que exige un seller id de sucursal/deposito
 especifico por cadena (no el sellerId "1" del catalogo) — ver el
 docstring de vtex_client.fetch_promotions para como se encontro.
+
+Mas Online (ex Chango Mas) tambien es VTEX, sin promo_seller propio
+(usa el motor estandar de VTEX, igual que Carrefour/Dia). OJO: su
+categoria de cervezas no cuelga de "bebidas/cervezas" como en el resto
+-- el arbol de categorias de masonline.com.ar tiene "Cervezas" como
+categoria de primer nivel, asi que el category_path correcto es
+"cervezas" a secas (confirmado con /api/catalog_system/pub/category/tree/3).
 """
 
 CHAINS = [
@@ -54,5 +61,11 @@ CHAINS = [
         "cadena": "Coto",
         "motor": "coto",
         "search_term": "cerveza",
+    },
+    {
+        "cadena": "Más Online",
+        "motor": "vtex",
+        "base_url": "https://www.masonline.com.ar",
+        "category_path": "cervezas",
     },
 ]

@@ -14,9 +14,10 @@ y [rappi-nunez](https://github.com/ramiro2004mazur-coder/rappi-nunez)
 (mismo criterio de categoría — solo cerveza, sin packs/combos — y
 espíritu de dashboard), pero para supermercados en vez de delivery.
 
-**Cadenas cubiertas hoy (6 de 7):** Carrefour, Día, Jumbo, Disco, Vea y
-Coto. Falta **La Anónima** — tiene anti-bot real confirmado (403 ante
-ciertos patrones de request), no está scrapeada todavía.
+**Cadenas cubiertas hoy (7 de 8):** Carrefour, Día, Jumbo, Disco, Vea,
+Coto y Más Online (ex Chango Más). Falta **La Anónima** — tiene
+anti-bot real confirmado (403 ante ciertos patrones de request), no
+está scrapeada todavía.
 
 ## 2. Cómo correrlo manualmente
 
@@ -65,9 +66,13 @@ scripts/common.py               helpers compartidos (normalizacion, slugify, buc
 ```
 
 **Dónde está la lógica de parseo de precio por cadena:**
-- VTEX (Carrefour/Día/Jumbo/Disco/Vea): `scraper/vtex_client.py`,
+- VTEX (Carrefour/Día/Jumbo/Disco/Vea/Más Online): `scraper/vtex_client.py`,
   función `producto_a_fila()`. Lee `commertialOffer.Price`/`ListPrice`
-  del API pública de catálogo VTEX.
+  del API pública de catálogo VTEX. Más Online no tiene `promo_seller`
+  propio (usa el motor de promos estándar de VTEX, igual que
+  Carrefour/Día) — la única particularidad es que su categoría de
+  cervezas es `cervezas` a secas, no `bebidas/cervezas` como el resto
+  (ver docstring de `scraper/chains.py`).
 - Coto: `scraper/coto_client.py`, función `producto_a_fila()`. Lee
   `data.price[]` (un precio por sucursal) del buscador Constructor.io.
 
@@ -136,7 +141,9 @@ sube más de 100% (`SOSPECHA_SUBA`), **no se descarta** el dato (podría
 ser una promo real muy agresiva) pero se marca `"sospechoso": true` en
 esa fecha del pivot y se loguea en `data/logs/ingest_warnings.log`. El
 dashboard (`docs/index.html`) resalta esas celdas con fondo de alerta +
-ícono ⚠. No hace falta agregarlo — ya está activo para las 6 cadenas.
+ícono ⚠. No hace falta agregarlo — ya está activo para las 7 cadenas
+(la lógica es genérica por `cadena+marca+descripcion`, no requiere
+nada específico por cadena).
 
 ### Otras convenciones del pipeline
 
@@ -165,6 +172,7 @@ dashboard (`docs/index.html`) resalta esas celdas con fondo de alerta +
 | Disco | VTEX + promos propietarias Cencosud | ✅ Activo |
 | Vea | VTEX + promos propietarias Cencosud | ✅ Activo |
 | Coto | Constructor.io | ✅ Activo (con filtro de listados fantasma) |
+| Más Online | VTEX (sin promo_seller propio) | ✅ Activo |
 | La Anónima | — | ⏸ Pendiente, anti-bot real confirmado |
 
 Para el detalle de cada bug encontrado y cómo se resolvió (con
