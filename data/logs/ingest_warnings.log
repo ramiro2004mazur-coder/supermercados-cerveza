@@ -760,3 +760,7 @@
 2026-08-24.csv: SKU nuevo sin catalogo -> 'Más Online | Asahi | Cerveza Rubia Asahi 330 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-24.csv: SKU nuevo sin catalogo -> 'Más Online | Andes Origen | Cerveza Rubia Andes Origen Oro 1 L' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-24.csv: SKU nuevo sin catalogo -> 'Carrefour | Budweiser | Cerveza rubia Budweiser 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-26.csv: SKU nuevo sin catalogo -> 'Carrefour | Michelob Ultra | Cerveza light Michelob Ultra porrón 275 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-26.csv: SKU nuevo sin catalogo -> 'Jumbo | Imperial | Cerveza Imperial Apa 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-26.csv: SKU nuevo sin catalogo -> 'Jumbo | Tsingtao | Cerveza Stout 330 Ml Tsingtao' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-26.csv: SKU nuevo sin catalogo -> 'Más Online | Imperial | Cerveza Negra Imperial  Stout 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)

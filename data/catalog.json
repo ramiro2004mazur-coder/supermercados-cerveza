@@ -6462,5 +6462,37 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-light-michelob-ultra-porron-275-ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza light Michelob Ultra porrón 275 ml",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-imperial-apa-473cc",
+    "marca": "Imperial",
+    "sku": "Cerveza Imperial Apa 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "tsingtao-cerveza-stout-330-ml-tsingtao",
+    "marca": "Tsingtao",
+    "sku": "Cerveza Stout 330 Ml Tsingtao",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-negra-imperial-stout-473-ml",
+    "marca": "Imperial",
+    "sku": "Cerveza Negra Imperial  Stout 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
