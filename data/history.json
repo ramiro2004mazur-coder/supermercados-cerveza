@@ -1,8 +1,8 @@
 {
   "meta": {
     "plataforma": "Supermercados",
-    "ultima_corrida": "2026-08-27T20:16:01.308899+00:00",
-    "sku_count": 1066,
+    "ultima_corrida": "2026-08-27T23:01:38.762959+00:00",
+    "sku_count": 1067,
     "cadenas": [
       "Carrefour",
       "Coto",
@@ -15813,6 +15813,12 @@
           "ptc": 1557.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-27": {
+          "fleje": 2595.0,
+          "ptc": 2595.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -45011,6 +45017,23 @@
           "fleje": 4739.0,
           "ptc": 3080.35,
           "dinamica": 0.35,
+          "promo_nominal": ""
+        }
+      }
+    },
+    {
+      "id": "disco-heineken-cerveza-rubia-330-cc-heineken",
+      "cadena": "Disco",
+      "marca": "Heineken",
+      "sku": "Cerveza Rubia 330 Cc Heineken",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-27": {
+          "fleje": 4567.0,
+          "ptc": 4567.0,
+          "dinamica": 0.0,
           "promo_nominal": ""
         }
       }

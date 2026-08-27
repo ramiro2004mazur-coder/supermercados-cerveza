@@ -16094,6 +16094,12 @@
           "ptc": 1557.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-27": {
+          "fleje": 2595.0,
+          "ptc": 2595.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -46057,6 +46063,24 @@
         }
       },
       "volumen_l": 0.473
+    },
+    {
+      "id": "disco-heineken-cerveza-rubia-330-cc-heineken",
+      "cadena": "Disco",
+      "marca": "Heineken",
+      "sku": "Cerveza Rubia 330 Cc Heineken",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-27": {
+          "fleje": 4567.0,
+          "ptc": 4567.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        }
+      },
+      "volumen_l": 0.33
     }
   ],
   "dates": [
@@ -46933,8 +46957,8 @@
       "dias": 7,
       "dias_dinamica": 7,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.22272727272727275,
-      "avg_ptc": 2828.759090909091
+      "avg_dinamica": 0.21304347826086958,
+      "avg_ptc": 2818.595652173913
     },
     {
       "cadena": "Jumbo",
@@ -49641,6 +49665,17 @@
       "max_dinamica": 0.35,
       "avg_dinamica": 0.35,
       "avg_ptc": 3080.35
+    },
+    {
+      "cadena": "Disco",
+      "marca": "Heineken",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0.0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 4567.0
     }
   ],
   "fights": [
@@ -49733,9 +49768,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-27 20:16:01",
-    "sku_rows": 1066,
-    "registros_validos": 5544,
+    "generado": "2026-08-27 23:01:38",
+    "sku_rows": 1067,
+    "registros_validos": 5546,
     "dias": 7,
     "cadenas": [
       "Carrefour",
