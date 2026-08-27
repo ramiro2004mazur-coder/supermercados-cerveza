@@ -6494,5 +6494,125 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-brewing-cerveza-pampa-brewing-amber-ale-473-ml",
+    "marca": "Pampa Brewing",
+    "sku": "Cerveza Pampa Brewing Amber Ale 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-brahma-1-lt",
+    "marca": "Brahma",
+    "sku": "Cerveza rubia Brahma 1 lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-clasica-quilmes-1-lt",
+    "marca": "Quilmes",
+    "sku": "Cerveza rubia clásica Quilmes 1 lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "peroni-cerveza-blanca-peroni-porron-330-ml",
+    "marca": "Peroni",
+    "sku": "Cerveza blanca Peroni porrón 330 ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-blanca-qulmes-710-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza blanca Qulmes 710 ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "monastere-cerveza-rubia-monastere-blond-500-ml",
+    "marca": "Monastere",
+    "sku": "Cerveza rubia Monastere Blond 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "weidmann-cerveza-negra-weidmann-pilsener-500-ml",
+    "marca": "Weidmann",
+    "sku": "Cerveza negra Weidmann Pilsener 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-quilmes-473-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza rubia Quilmes 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-pura-malta-lager-estrella-galicia-473-ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Pura Malta Lager Estrella Galicia 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-caravana-473-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Caravana 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "cusquena-cerveza-cusque-a-rubia-330cc",
+    "marca": "Cusqueña",
+    "sku": "Cerveza Cusque+æa Rubia 330cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-playa-grande-473cc",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Playa Grande 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "duff-cervezas-330ml-lata-duff",
+    "marca": "Duff",
+    "sku": "Cervezas 330ml Lata Duff",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-negra-origen-lata-andes-473-cc",
+    "marca": "Andes",
+    "sku": "Cerveza Negra Origen Lata Andes 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-rubia-antares-ipa-sin-alcohol-473-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Rubia Antares Ipa Sin Alcohol 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
