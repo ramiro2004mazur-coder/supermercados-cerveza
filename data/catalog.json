@@ -6614,5 +6614,69 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-sin-alcohol-473-cc-stella-artois",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Sin Alcohol 473 Cc Stella Artois",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-710-cc-stella-artois",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia 710 Cc Stella Artois",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-amber-lager-473-cc-patagonia",
+    "marca": "Patagonia",
+    "sku": "Cerveza Amber Lager 473 Cc Patagonia",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "x-mark-cerveza-saborizada-mojito-x-mark-lata-500ml",
+    "marca": "X-Mark",
+    "sku": "Cerveza Saborizada Mojito X-mark Lata 500ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-vera-ipa-473-cc-patagonia",
+    "marca": "Patagonia",
+    "sku": "Cerveza Vera Ipa 473 Cc Patagonia",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-session-ipa-24-7-473-cc-patagonia",
+    "marca": "Patagonia",
+    "sku": "Cerveza Session IPA 24.7 473 Cc Patagonia",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-473-cc-brahma",
+    "marca": "Brahma",
+    "sku": "Cerveza Rubia 473 Cc Brahma",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-rubia-imperial-ipa-473-ml",
+    "marca": "Imperial",
+    "sku": "Cerveza Rubia Imperial Ipa 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
