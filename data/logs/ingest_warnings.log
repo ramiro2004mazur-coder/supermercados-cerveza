@@ -788,3 +788,4 @@
 2026-08-28.csv: SKU nuevo sin catalogo -> 'Jumbo | Patagonia | Cerveza Session IPA 24.7 473 Cc Patagonia' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-28.csv: SKU nuevo sin catalogo -> 'Jumbo | Brahma | Cerveza Rubia 473 Cc Brahma' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-28.csv: SKU nuevo sin catalogo -> 'Más Online | Imperial | Cerveza Rubia Imperial Ipa 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-28.csv: precio sospechoso -> 'Jumbo | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-08-27 ($4381 -> $2190)

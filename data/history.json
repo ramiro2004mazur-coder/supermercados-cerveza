@@ -1,8 +1,8 @@
 {
   "meta": {
     "plataforma": "Supermercados",
-    "ultima_corrida": "2026-08-28T15:08:37.558317+00:00",
-    "sku_count": 1083,
+    "ultima_corrida": "2026-08-28T23:07:14.686606+00:00",
+    "sku_count": 1085,
     "cadenas": [
       "Carrefour",
       "Coto",
@@ -18097,6 +18097,12 @@
           "ptc": 1950.0,
           "dinamica": 0.35,
           "promo_nominal": "35% Almacen | Ecommerce"
+        },
+        "2026-08-28": {
+          "fleje": 3000.0,
+          "ptc": 1500.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1 MICHELOB | Ofertas Trafico"
         }
       }
     },
@@ -41619,6 +41625,12 @@
           "ptc": 1713.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-28": {
+          "fleje": 2855.0,
+          "ptc": 2141.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% SCHNEIDER | Ofertas Trafico"
         }
       }
     },
@@ -41896,6 +41908,12 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-21": {
+          "fleje": 4463.0,
+          "ptc": 3347.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-08-28": {
           "fleje": 4463.0,
           "ptc": 3347.25,
           "dinamica": 0.25,
@@ -42542,6 +42560,12 @@
           "ptc": 1557.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-28": {
+          "fleje": 2595.0,
+          "ptc": 1816.5,
+          "dinamica": 0.3,
+          "promo_nominal": "30% SCHNEIDER | Ofertas Trafico"
         }
       }
     },
@@ -50487,6 +50511,40 @@
           "ptc": 2474.25,
           "dinamica": 0.25,
           "promo_nominal": ""
+        }
+      }
+    },
+    {
+      "id": "disco-imperial-cerveza-golden-710-cc-imperial",
+      "cadena": "Disco",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden 710 Cc Imperial",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-28": {
+          "fleje": 4827.0,
+          "ptc": 3620.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% IMPERIAL | Ofertas Trafico"
+        }
+      }
+    },
+    {
+      "id": "vea-heineken-cerveza-rubia-330-cc-heineken",
+      "cadena": "Vea",
+      "marca": "Heineken",
+      "sku": "Cerveza Rubia 330 Cc Heineken",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-28": {
+          "fleje": 4256.0,
+          "ptc": 3192.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% HEINEKEN | Ofertas Trafico"
         }
       }
     }

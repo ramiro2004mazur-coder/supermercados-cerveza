@@ -18387,6 +18387,12 @@
           "ptc": 1950.0,
           "dinamica": 0.35,
           "promo_nominal": "35% Almacen | Ecommerce"
+        },
+        "2026-08-28": {
+          "fleje": 3000.0,
+          "ptc": 1500.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1 MICHELOB | Ofertas Trafico"
         }
       },
       "volumen_l": 0.473
@@ -42431,6 +42437,12 @@
           "ptc": 1713.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-28": {
+          "fleje": 2855.0,
+          "ptc": 2141.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% SCHNEIDER | Ofertas Trafico"
         }
       },
       "volumen_l": 0.473
@@ -42715,6 +42727,12 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-08-21": {
+          "fleje": 4463.0,
+          "ptc": 3347.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-08-28": {
           "fleje": 4463.0,
           "ptc": 3347.25,
           "dinamica": 0.25,
@@ -43379,6 +43397,12 @@
           "ptc": 1557.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-08-28": {
+          "fleje": 2595.0,
+          "ptc": 1816.5,
+          "dinamica": 0.3,
+          "promo_nominal": "30% SCHNEIDER | Ofertas Trafico"
         }
       },
       "volumen_l": 0.473
@@ -51548,6 +51572,42 @@
         }
       },
       "volumen_l": 0.473
+    },
+    {
+      "id": "disco-imperial-cerveza-golden-710-cc-imperial",
+      "cadena": "Disco",
+      "marca": "Imperial",
+      "sku": "Cerveza Golden 710 Cc Imperial",
+      "calibre": "710/730",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-28": {
+          "fleje": 4827.0,
+          "ptc": 3620.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% IMPERIAL | Ofertas Trafico"
+        }
+      },
+      "volumen_l": 0.71
+    },
+    {
+      "id": "vea-heineken-cerveza-rubia-330-cc-heineken",
+      "cadena": "Vea",
+      "marca": "Heineken",
+      "sku": "Cerveza Rubia 330 Cc Heineken",
+      "calibre": "330/355",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dates": {
+        "2026-08-28": {
+          "fleje": 4256.0,
+          "ptc": 3192.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% HEINEKEN | Ofertas Trafico"
+        }
+      },
+      "volumen_l": 0.33
     }
   ],
   "dates": [
@@ -52744,8 +52804,8 @@
       "dias": 7,
       "dias_dinamica": 7,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.3771428571428571,
-      "avg_ptc": 1868.5714285714287
+      "avg_dinamica": 0.39249999999999996,
+      "avg_ptc": 1822.5
     },
     {
       "cadena": "Disco",
@@ -52788,8 +52848,8 @@
       "dias": 8,
       "dias_dinamica": 8,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.25833333333333336,
-      "avg_ptc": 2835.5944444444444
+      "avg_dinamica": 0.2578947368421053,
+      "avg_ptc": 2799.0499999999997
     },
     {
       "cadena": "Disco",
@@ -53173,8 +53233,8 @@
       "dias": 8,
       "dias_dinamica": 8,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.2833333333333333,
-      "avg_ptc": 2643.4666666666667
+      "avg_dinamica": 0.284,
+      "avg_ptc": 2610.3880000000004
     },
     {
       "cadena": "Vea",
@@ -54160,11 +54220,11 @@
       "marca": "Imperial",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 2,
-      "dias_dinamica": 1,
+      "dias": 3,
+      "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.125,
-      "avg_ptc": 3334.625
+      "avg_dinamica": 0.16666666666666666,
+      "avg_ptc": 3338.8333333333335
     },
     {
       "cadena": "Jumbo",
@@ -55007,11 +55067,11 @@
       "marca": "Imperial",
       "grupo": "Sin clasificar",
       "segmento": "Sin clasificar",
-      "dias": 1,
-      "dias_dinamica": 0,
-      "max_dinamica": 0.0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 3581.0
+      "dias": 2,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.125,
+      "avg_ptc": 3600.625
     },
     {
       "cadena": "Carrefour",
@@ -55188,6 +55248,17 @@
       "max_dinamica": 0.35,
       "avg_dinamica": 0.35,
       "avg_ptc": 1830.4
+    },
+    {
+      "cadena": "Vea",
+      "marca": "Heineken",
+      "grupo": "Sin clasificar",
+      "segmento": "Sin clasificar",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.25,
+      "avg_ptc": 3192.0
     }
   ],
   "fights": [
@@ -55280,9 +55351,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-28 12:08:40",
-    "sku_rows": 1083,
-    "registros_validos": 6425,
+    "generado": "2026-08-28 23:07:14",
+    "sku_rows": 1085,
+    "registros_validos": 6431,
     "dias": 8,
     "cadenas": [
       "Carrefour",
