@@ -6678,5 +6678,29 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "weidmann-cerveza-pilsener-500-cc-weidmann",
+    "marca": "Weidmann",
+    "sku": "Cerveza Pilsener 500 Cc Weidmann",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "oranjeboom-cerveza-rubia-500-cc-oranjeboom",
+    "marca": "Oranjeboom",
+    "sku": "Cerveza Rubia 500 Cc Oranjeboom",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "weidmann-cerveza-weidmann-rubia-500cc",
+    "marca": "Weidmann",
+    "sku": "Cerveza Weidmann Rubia 500cc",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

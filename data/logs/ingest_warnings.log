@@ -789,3 +789,6 @@
 2026-08-28.csv: SKU nuevo sin catalogo -> 'Jumbo | Brahma | Cerveza Rubia 473 Cc Brahma' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-28.csv: SKU nuevo sin catalogo -> 'Más Online | Imperial | Cerveza Rubia Imperial Ipa 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-28.csv: precio sospechoso -> 'Jumbo | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-08-27 ($4381 -> $2190)
+2026-08-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Weidmann | Cerveza Pilsener 500 Cc Weidmann' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Oranjeboom | Cerveza Rubia 500 Cc Oranjeboom' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Weidmann | Cerveza Weidmann Rubia 500cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
