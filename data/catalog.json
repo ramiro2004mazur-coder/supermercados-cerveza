@@ -6702,5 +6702,21 @@
     "calibre": "600",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-roja-andes-473-ml",
+    "marca": "Andes",
+    "sku": "Cerveza roja Andes 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "x-mark-cerveza-sabor-mojito-500-ml-x-mark",
+    "marca": "X-Mark",
+    "sku": "Cerveza Sabor Mojito 500 Ml X-Mark",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

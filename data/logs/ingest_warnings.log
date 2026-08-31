@@ -792,3 +792,6 @@
 2026-08-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Weidmann | Cerveza Pilsener 500 Cc Weidmann' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Oranjeboom | Cerveza Rubia 500 Cc Oranjeboom' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-08-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Weidmann | Cerveza Weidmann Rubia 500cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-31.csv: SKU nuevo sin catalogo -> 'Carrefour | Andes | Cerveza roja Andes 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-08-31.csv: precio sospechoso -> 'Jumbo | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': subio 100% vs 2026-08-30 ($2190 -> $4381)
+2026-08-31.csv: SKU nuevo sin catalogo -> 'Jumbo | X-Mark | Cerveza Sabor Mojito 500 Ml X-Mark' (agregado como 'Sin clasificar', revisar data/catalog.json)
