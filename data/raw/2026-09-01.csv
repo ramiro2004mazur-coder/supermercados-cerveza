@@ -129,6 +129,7 @@ Dia;Corona;Cerveza 0.0 Corona 473 Ml.;473 ml;3600.0;2850.0;21;
 Dia;Brahma;Cerveza Brahma 710 Ml.;710 ml;3915.0;2550.0;35;
 Dia;361;Cerveza Rubia 361 710 Ml.;710 ml;2400.0;2100.0;12;
 Dia;Brul;Cerveza Rubia Brul 1 Lt.;1000 ml;3800.0;3800.0;0;
+Dia;Bajo Cero;Cerveza Bajo Cero Quilmes 473 Ml.;473 ml;1618.0;1618.0;0;
 Dia;Corona;Cerveza Lata Corona 473 Ml.;473 ml;4650.0;3700.0;20;
 Dia;Quilmes;Cerveza Quilmes 710 Ml.;710 ml;3700.0;2590.0;30;
 Dia;Salta Cautiva;Cerveza Ipa Salta Cautiva 473 Ml.;473 ml;3105.0;3105.0;0;
@@ -146,7 +147,6 @@ Dia;Andes;Cerveza Andes Rubia en lata 473 Ml.;473 ml;3194.0;3194.0;0;
 Dia;St Wendeler;Cerveza Negra St. Wendeler 500 Ml.;500 ml;2501.0;2501.0;0;
 Dia;Quilmes;Cerveza Quilmes Cristal en Lata 473 ml.;473 ml;2588.0;1815.0;30;
 Dia;Imperial;Cerveza Golden 0.0 Imper 473 Ml.;473 ml;2290.0;2290.0;0;
-Dia;Bajo Cero;Cerveza Bajo Cero Quilmes 473 Ml.;473 ml;1618.0;1618.0;0;
 Dia;Heineken;Cerveza 0.0 Alcohol Heineken 473 Ml.;473 ml;3380.0;3190.0;6;
 Dia;Budweiser;Cerveza Musica Budweiser 473 Ml.;473 ml;2800.0;1950.0;30;
 Dia;Stella Artois;Cerveza Vintage Stella Artois 473 Ml.;473 ml;4020.0;3150.0;22;
@@ -211,10 +211,11 @@ Jumbo;Imperial;Cerveza Golden Sin Alcohol 473 Cc Imperial;473 ml;2284.0;1142.0;5
 Jumbo;Estrella Del Sur;Cerveza Pilsen 500 Ml Estrella del Sur;500 ml;2550.0;2550.0;0;
 Jumbo;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7298.0;4743.7;35;35% Super Cenco Days | Ecommerce
 Jumbo;Amstel;Cerveza Lager 473 Cc Amstel;473 ml;2803.0;2326.49;17;6x5 AMSTEL | Ofertas Internas
-Jumbo;Michelob;Cerveza Ultra 473 Cc Michelob;473 ml;3000.0;1950.0;35;35% MICHELOB | Ofertas Internas
 Jumbo;Heineken;Cerveza 0.0 330 Ml Heineken;330 ml;3270.0;1635.0;50;2x1 Super Cenco Days | Ecommerce
 Jumbo;Blue Moon;Cerveza Belgian White 473 Cc Blue Moon;473 ml;4723.0;2833.8;40;2do al 80% Super Cenco Days | Ecommerce
+Jumbo;Pampa Brewing;Cerveza Sabor Honey 473 Cc Pampa Brewing;473 ml;3150.0;1575.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7298.0;4743.7;35;35% Super Cenco Days | Ecommerce
+Jumbo;Bierhaus;Cerveza Bierhaus Honey 473 Ml;473 ml;3350.0;1675.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Bierhaus;Cerveza Scotch Momentum 473 Ml Bierhaus;473 ml;3350.0;1675.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Pampa Brewing;Cerveza IPA 473 Cc Pampa Brewing;473 ml;3550.0;1775.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Antares;Cerveza Scotch 473 Ml Antares;473 ml;4800.0;2400.0;50;4x2 Super Cenco Days | Ecommerce
@@ -236,25 +237,24 @@ Jumbo;Antares;Cerveza Lager 473 Cc Antares;473 ml;4100.0;2050.0;50;4x2 Super Cen
 Jumbo;Peroni;Cerveza Pilsen 330 Ml Peroni;330 ml;5600.0;5600.0;0;
 Jumbo;Miller;Cerveza Lager 330 Cc Miller;330 ml;3893.0;2335.8;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Amstel;Cerveza Lager 710 Ml Amstel;710 ml;3996.0;3996.0;0;
-Jumbo;Grolsch;Cerveza IPA 473 Cc Grolsch;473 ml;4152.0;2491.2;40;2do al 80% Super Cenco Days | Ecommerce
-Jumbo;Pampa Brewing;Cerveza Nitro Cream Stout 473 Cc Pampa Brewing;473 ml;3550.0;1775.0;50;4x2 Super Cenco Days | Ecommerce
-Jumbo;Pampa Brewing;Cerveza Sabor Honey 473 Cc Pampa Brewing;473 ml;3150.0;1575.0;50;4x2 Super Cenco Days | Ecommerce
+Jumbo;Grolsch;Cerveza IPA 473 Cc Grolsch;473 ml;4152.0;4152.0;0;
+Jumbo;Pampa Brewing;Cerveza Nitro Cream Stout 473 Cc Pampa Brewing;473 ml;3550.0;3550.0;0;
+Jumbo;Stella Artois;Cerveza Rubia 710 Cc Stella Artois;710 ml;6200.0;6200.0;0;
 Jumbo;Amstel;Cerveza Lager 1 Lts Amstel;-;4775.0;4775.0;0;
-Jumbo;Bierhaus;Cerveza Bierhaus Honey 473 Ml;473 ml;3350.0;1675.0;50;4x2 Super Cenco Days | Ecommerce
-Jumbo;Bierhaus;Cerveza Red Ipa 473 Ml Bierhaus;473 ml;4300.0;2150.0;50;4x2 Super Cenco Days | Ecommerce
-Jumbo;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;3150.0;1575.0;50;4x2 Super Cenco Days | Ecommerce
-Jumbo;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4567.0;2283.5;50;4x2 Super Cenco Days | Ecommerce
-Jumbo;Imperial;Cerveza Imperial Golden 473cc;473 ml;3166.0;1899.6;40;2do al 80% Super Cenco Days | Ecommerce
-Jumbo;Rabieta;Cerveza American IPA 473 Cc Rabieta;473 ml;4500.0;2250.0;50;4x2 Super Cenco Days | Ecommerce
+Jumbo;Bierhaus;Cerveza Red Ipa 473 Ml Bierhaus;473 ml;4300.0;4300.0;0;
+Jumbo;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;3150.0;3150.0;0;
+Jumbo;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;3150.0;3150.0;0;
+Jumbo;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4567.0;4567.0;0;
+Jumbo;Imperial;Cerveza Imperial Golden 473cc;473 ml;3166.0;3166.0;0;
+Jumbo;Rabieta;Cerveza American IPA 473 Cc Rabieta;473 ml;4500.0;4500.0;0;
 Jumbo;Heineken;Cerveza Rubia 710 Cc Heineken;710 ml;6050.0;6050.0;0;
-Jumbo;Imperial;Cerveza APA 473 Cc Imperial;473 ml;3322.0;1993.2;40;2do al 80% Super Cenco Days | Ecommerce
+Jumbo;Imperial;Cerveza APA 473 Cc Imperial;473 ml;3322.0;3322.0;0;
 Jumbo;Andes;Cerveza IPA 1 Lts Andes;-;5935.0;4451.25;25;25% ANDES | Ofertas Internas
 Jumbo;Imperial;Cerveza IPA 473 Cc Imperial;473 ml;3322.0;1993.2;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Blue Moon;Cerveza Belgian White 355 Cc Blue Moon;355 ml;5242.0;3145.2;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Andes;Cerveza Roja 1 Lts Andes;-;5935.0;4451.25;25;25% ANDES | Ofertas Internas
 Jumbo;Imperial;Cerveza Ipa 1 Lts Imperial;-;5657.0;3394.2;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Imperial;Cerveza Cream Stout 473 Cc Imperial;473 ml;3322.0;1993.2;40;2do al 80% Super Cenco Days | Ecommerce
-Jumbo;Stella Artois;Cerveza Rubia 473 Cc Stella Artois;473 ml;4187.0;3140.25;25;25% STELLA ARTOIS | Ofertas Internas
 Jumbo;Budweiser;Cerveza Rubia 1 Lts Budweiser;-;5350.0;4012.5;25;25% BUDWEISER | Ofertas Internas
 Jumbo;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4580.0;3435.0;25;25% QUILMES | Ofertas Internas
 Jumbo;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4850.0;3637.5;25;25% QUILMES | Ofertas Internas
@@ -280,25 +280,24 @@ Jumbo;Andes;Cerveza Roja 473 Cc Andes;473 ml;3501.0;2625.75;25;25% ANDES | Ofert
 Jumbo;Schneider;Cerveza Rubia 1000 Ml Schneider;1000 ml;4567.0;3196.9;30;30% SCHNEIDER | Ofertas Internas
 Jumbo;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6384.0;3830.4;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Brahma;Cerveza Brahma Chopp Rubia 1lt Ret;1000 ml;4976.0;4976.0;0;
+Jumbo;Quilmes;Cerveza Stout 473 Cc Quilmes;473 ml;2711.0;2033.25;25;25% QUILMES | Ofertas Internas
 Jumbo;Miller;Cerveza Rubia 600 Cc Miller;600 ml;5813.0;3487.8;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Miller;Cerveza Rubia 1 Lts Miller;-;6384.0;4468.8;30;30% MILLER | Ofertas Internas
 Jumbo;Pampa Brewing;Cerveza Lager 473 Cc Pampa Brewing;473 ml;3850.0;1925.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Salta Cautiva;Cerveza Lager 473 Cc Salta Cautiva;473 ml;3166.0;1899.6;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Salta Cautiva;Cerveza Session Ipa 473 Cc Salta Cautiva;473 ml;3166.0;1899.6;40;2do al 80% Super Cenco Days | Ecommerce
-Jumbo;Stella Artois;Cerveza Rubia 710 Cc Stella Artois;710 ml;6183.0;4637.25;25;25% STELLA ARTOIS | Ofertas Internas
 Jumbo;Quilmes;Cerveza IPA 473 Cc Quilmes;473 ml;2711.0;2033.25;25;25% QUILMES | Ofertas Internas
 Jumbo;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3166.0;1899.6;40;2do al 80% Super Cenco Days | Ecommerce
-Jumbo;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;3150.0;1575.0;50;4x2 Super Cenco Days | Ecommerce
+Jumbo;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;4100.0;2050.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Rabieta;Cerveza Golden Ale 473 Cc Rabieta;473 ml;4100.0;2050.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Patagonia;Cerveza Vera Ipa 473 Cc Patagonia;473 ml;5145.0;3344.25;35;35% Super Cenco Days | Ecommerce
+Jumbo;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;4100.0;2050.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Bavaria;Cerveza Rubia 500 Ml Bavaria;500 ml;4200.0;4200.0;0;
 Jumbo;Cusqueña;Cerveza Rubia 330 Cc Cusqueña;330 ml;4450.0;4450.0;0;
 Jumbo;Brahma;Cerveza Rubia 340 Cc Brahma;340 ml;1883.0;1883.0;0;
 Jumbo;Tsingtao;Cerveza Stout 330 Ml Tsingtao;330 ml;5426.37;5426.37;0;
 Jumbo;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4350.0;2827.5;35;35% Super Cenco Days | Ecommerce
 Jumbo;Salta Cautiva;Cerveza Salta Cautiva Roja 473 Ml;473 ml;3166.0;1899.6;40;2do al 80% Super Cenco Days | Ecommerce
-Jumbo;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;4100.0;2050.0;50;4x2 Super Cenco Days | Ecommerce
-Jumbo;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;4100.0;2050.0;50;4x2 Super Cenco Days | Ecommerce
 Jumbo;Patagonia;Cerveza Session IPA 24.7 473 Cc Patagonia;473 ml;5145.0;2572.5;50;2x1 Super Cenco Days | Ecommerce
 Jumbo;Imperial;Cerveza Imperial Stout 1lt;1000 ml;5450.0;3270.0;40;2do al 80% Super Cenco Days | Ecommerce
 Jumbo;Tsingtao;Cerveza Rubia 500 Ml Tsingtao;500 ml;5400.0;5400.0;0;
@@ -315,6 +314,7 @@ Jumbo;Tsingtao;Cerveza Lager 330 Ml Tsingtao;330 ml;5400.53;5400.53;0;
 Jumbo;Weidmann;Cerveza Weidmann Rubia 500cc;500 ml;7500.0;7500.0;0;
 Jumbo;Brahma;Cerveza Rubia 473 Cc Brahma;473 ml;2724.0;2724.0;0;
 Jumbo;Bitburger;Cerveza Lager 500 Ml Bitburger;500 ml;5700.0;5700.0;0;
+Jumbo;Schneider;Cerveza Rubia 473 Ml Schneider;473 ml;2595.0;2595.0;0;
 Disco;Stella Artois;Cerveza Lager Pure Gold 473 Cc Stella Artois;473 ml;3390.0;2034.0;40;40% Super Cenco Days | Ecommerce
 Disco;Heineken;Cerveza Lager Sin Alcohol 473 Cc Heineken;473 ml;3425.0;1712.5;50;2x1 Super Cenco Days | Ecommerce
 Disco;Corona;Cerveza Sin Alcohol 330 Cc Corona;330 ml;3672.0;2203.2;40;40% Super Cenco Days | Ecommerce
@@ -340,13 +340,15 @@ Disco;Imperial;Cerveza Cream Stout 473 Cc Imperial;473 ml;3581.0;2148.6;40;2do a
 Disco;Quilmes;Cerveza Rubia 1 Lts Quilmes;-;4536.0;3402.0;25;25% QUILMES | Ofertas Internas
 Disco;Quilmes;Cerveza Stout 1 Lts Quilmes;-;4923.0;3692.25;25;25% QUILMES | Ofertas Internas
 Disco;Patagonia;Cerveza Amber Lager 730 Cc Patagonia;730 ml;7613.0;4948.45;35;35% Super Cenco Days | Ecommerce
-Disco;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;1850.0;1850.0;0;
 Disco;Schneider;Cerveza Sabor Limón Remix 473 Cc Schneider;473 ml;3010.0;3010.0;0;
 Disco;Patagonia;Cerveza Lager del Sur 730 Cc Patagonia;730 ml;7613.0;4948.45;35;35% Super Cenco Days | Ecommerce
 Disco;Antares;Cerveza Lager 473 Cc Antares;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Pampa Brewing;Cerveza Nitro Cream Stout 473 Cc Pampa Brewing;473 ml;3650.0;1825.0;50;4x2 Super Cenco Days | Ecommerce
+Disco;Pampa Brewing;Cerveza Sabor Honey 473 Cc Pampa Brewing;473 ml;3250.0;1625.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Patagonia;Cerveza Vera IPA 730 Cc Patagonia;730 ml;7613.0;4948.45;35;35% Super Cenco Days | Ecommerce
 Disco;Pampa Brewing;Cerveza IPA 473 Cc Pampa Brewing;473 ml;3650.0;1825.0;50;4x2 Super Cenco Days | Ecommerce
+Disco;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;3250.0;1625.0;50;4x2 Super Cenco Days | Ecommerce
+Disco;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;3250.0;1625.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Antares;Cerveza Kolsch 473 Ml Antares;473 ml;4900.0;2450.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Quilmes;Cerveza Sin Alcohol 473 Cc Quilmes;473 ml;2282.0;1369.2;40;40% Super Cenco Days | Ecommerce
 Disco;Imperial;Cerveza Imperial Rubia 710cc;710 ml;4827.0;2896.2;40;2do al 80% Super Cenco Days | Ecommerce
@@ -363,6 +365,7 @@ Disco;Warsteiner;Cerveza Rubia 1 Lts Warsteiner;-;6851.0;4110.6;40;2do al 80% Su
 Disco;Grolsch;Cerveza Pilsner 925 Cc Grolsch;925 ml;7318.0;4390.8;40;2do al 80% Super Cenco Days | Ecommerce
 Disco;Grolsch;Cerveza Pilsner 473 Cc Grolsch;473 ml;4256.0;2553.6;40;2do al 80% Super Cenco Days | Ecommerce
 Disco;Brahma;Cerveza Brahma Chopp Lata 473mlx6;-;17674.0;17674.0;0;
+Disco;Brahma;Cerveza Rubia 354 Cc Brahma;354 ml;1850.0;1850.0;0;
 Disco;Karlsbräu;Cerveza Pilsen 500 Ml Karlsbräu;500 ml;3800.0;3800.0;0;
 Disco;Andes;Cerveza Rubia Oro 473 Cc Andes;473 ml;3450.0;2070.0;40;40% Super Cenco Days | Ecommerce
 Disco;Salta Cautiva;Cerveza Session Ipa 473 Cc Salta Cautiva;473 ml;3374.0;2024.4;40;2do al 80% Super Cenco Days | Ecommerce
@@ -372,14 +375,13 @@ Disco;Miller;Cerveza Genuine Draft 473 Ml Miller;473 ml;3841.0;3188.03;17;6x5 MI
 Disco;Amstel;Cerveza Lager 710 Ml Amstel;710 ml;4256.0;4256.0;0;
 Disco;Quilmes;Cerveza IPA 473 Cc Quilmes;473 ml;2816.0;2112.0;25;25% QUILMES | Ofertas Internas
 Disco;Grolsch;Cerveza IPA 473 Cc Grolsch;473 ml;4515.0;2709.0;40;2do al 80% Super Cenco Days | Ecommerce
-Disco;Pampa Brewing;Cerveza Sabor Honey 473 Cc Pampa Brewing;473 ml;3250.0;1625.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Salta Cautiva;Cerveza Salta Cautiva Roja 473 Ml;473 ml;3374.0;2024.4;40;2do al 80% Super Cenco Days | Ecommerce
 Disco;Amstel;Cerveza Lager 1 Lts Amstel;-;5242.0;5242.0;0;
 Disco;Bierhaus;Cerveza IPA Super Star 473 Ml Bierhaus;473 ml;4400.0;2200.0;50;4x2 Super Cenco Days | Ecommerce
-Disco;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;3250.0;1625.0;50;4x2 Super Cenco Days | Ecommerce
-Disco;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;3250.0;1625.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4982.0;2491.0;50;4x2 Super Cenco Days | Ecommerce
+Disco;Kunstmann;Cerveza Kunstmann Ipa Session 470cc;470 ml;4982.0;2491.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Imperial;Cerveza Imperial Golden 1 L;1000 ml;5657.0;3394.2;40;2do al 80% Super Cenco Days | Ecommerce
+Disco;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Andes;Cerveza IPA 1 Lts Andes;-;6200.0;4650.0;25;25% ANDES | Ofertas Internas
 Disco;Imperial;Cerveza Ipa 1 Lts Imperial;-;6176.0;3705.6;40;2do al 80% Super Cenco Days | Ecommerce
 Disco;Warsteiner;Cerveza Rubia 473 Ml Warsteiner;473 ml;3841.0;2304.6;40;2do al 80% Super Cenco Days | Ecommerce
@@ -396,8 +398,7 @@ Disco;Andes;Cerveza Rubia 710 Cc Andes;710 ml;4982.0;3238.3;35;35% Super Cenco D
 Disco;Antares;Cerveza Playa Grande 473 Cc Antares;473 ml;4900.0;2450.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Guinness;Cerveza Extra Stout 473 Ml Guinness;473 ml;4600.0;4600.0;0;
 Disco;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3374.0;2024.4;40;2do al 80% Super Cenco Days | Ecommerce
-Disco;Kunstmann;Cerveza Kunstmann Ipa Session 470cc;470 ml;4982.0;2491.0;50;4x2 Super Cenco Days | Ecommerce
-Disco;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
+Disco;Rabieta;Cerveza Red Honey 473 Cc Rabieta;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Andes;Cerveza Ipa Andina 473 Cc Andes;473 ml;3605.0;2703.75;25;25% ANDES | Ofertas Internas
 Disco;Miller;Cerveza Rubia 1 Lts Miller;-;6851.0;4795.7;30;30% MILLER | Ofertas Internas
 Disco;Estrella Del Sur;Cerveza Pilsen 500 Ml Estrella del Sur;500 ml;2600.0;2600.0;0;
@@ -405,7 +406,6 @@ Disco;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3841.0;2304.6;40;2do al
 Disco;Budweiser;Cerveza Rubia 710 Cc Budweiser;710 ml;4454.0;2895.1;35;35% Super Cenco Days | Ecommerce
 Disco;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Rabieta;Cerveza Golden Ale 473 Cc Rabieta;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
-Disco;Rabieta;Cerveza Red Honey 473 Cc Rabieta;473 ml;4200.0;2100.0;50;4x2 Super Cenco Days | Ecommerce
 Disco;Imperial;Cerveza Imperial Stout 1lt;1000 ml;5600.0;3360.0;40;2do al 80% Super Cenco Days | Ecommerce
 Disco;Cusqueña;Cerveza Rubia 330 Cc Cusqueña;330 ml;4550.0;4550.0;0;
 Disco;Karlsbräu;Cerveza Helles 500 Ml Karlsbräu;500 ml;3800.0;3800.0;0;
@@ -495,26 +495,26 @@ Vea;Grolsch;Cerveza IPA 473 Cc Grolsch;473 ml;4152.0;2491.2;40;2do al 80% Super 
 Vea;Salta Cautiva;Cerveza Salta Cautiva Rubia 1lt Ret;1000 ml;5242.0;3145.2;40;2do al 80% Super Cenco Days | Ecommerce
 Vea;Salta Cautiva;Cerveza Salta Cautiva Rubia 473 Ml;473 ml;3166.0;1899.6;40;2do al 80% Super Cenco Days | Ecommerce
 Vea;Pampa Brewing;Cerveza IPA 473 Cc Pampa Brewing;473 ml;3290.0;1645.0;50;4x2 Super Cenco Days | Ecommerce
+Vea;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;2990.0;1495.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Antares;Cerveza Scotch 473 Ml Antares;473 ml;4499.0;2249.5;50;4x2 Super Cenco Days | Ecommerce
 Vea;Antares;Cerveza Kolsch 473 Ml Antares;473 ml;4499.0;2249.5;50;4x2 Super Cenco Days | Ecommerce
 Vea;Blue Moon;Cerveza Belgian White 355 Cc Blue Moon;355 ml;5242.0;3145.2;40;2do al 80% Super Cenco Days | Ecommerce
 Vea;Brahma;Cerveza Brahma Chopp Lata 473mlx6;-;16370.0;16370.0;0;
+Vea;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3477.0;2086.2;40;2do al 80% Super Cenco Days | Ecommerce
 Vea;Patagonia;Cerveza Lager del Sur 473 Cc Patagonia;473 ml;4987.0;3241.55;35;35% Super Cenco Days | Ecommerce
 Vea;Miller;Cerveza Lager 330 Cc Miller;330 ml;3893.0;2335.8;40;2do al 80% Super Cenco Days | Ecommerce
+Vea;Pampa Brewing;Cerveza Nitro Cream Stout 473 Cc Pampa Brewing;473 ml;3290.0;1645.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Stella Artois;Cerveza Rubia 710 Cc Stella Artois;710 ml;5990.0;3893.5;35;35% STELLAARTOIS | Ofertas Internas
-Vea;Pampa Brewing;Cerveza Golden Ale 473 Cc Pampa Brewing;473 ml;2990.0;1495.0;50;4x2 Super Cenco Days | Ecommerce
+Vea;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4567.0;2283.5;50;4x2 Super Cenco Days | Ecommerce
+Vea;Kunstmann;Cerveza Kunstmann Ipa Session 470cc;470 ml;4567.0;2283.5;50;4x2 Super Cenco Days | Ecommerce
 Vea;Iguana;Cerveza Pilsener 1 Lts Iguana;-;3944.0;3944.0;0;
 Vea;Miller;Cerveza Rubia 600 Cc Miller;600 ml;5709.0;3425.4;40;2do al 80% Super Cenco Days | Ecommerce
 Vea;Pampa Brewing;Cerveza Lager 473 Cc Pampa Brewing;473 ml;3690.0;1845.0;50;4x2 Super Cenco Days | Ecommerce
-Vea;Imperial;Cerveza Golden Ale 330 Cc Imperial;330 ml;3477.0;2086.2;40;2do al 80% Super Cenco Days | Ecommerce
-Vea;Pampa Brewing;Cerveza Nitro Cream Stout 473 Cc Pampa Brewing;473 ml;3290.0;1645.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Pampa Brewing;Cerveza Sabor Honey 473 Cc Pampa Brewing;473 ml;2990.0;1495.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Rabieta;Cerveza Helles Munich 473 Cc Rabieta;473 ml;3890.0;1945.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Pampa Brewing;Cerveza Amber Ale 473 Ml Pampa Brewing;473 ml;2990.0;1495.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Rabieta;Cerveza Golden Ale 473 Cc Rabieta;473 ml;3890.0;1945.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Miller;Cerveza Rubia 710 Cc Miller;710 ml;5242.0;5242.0;0;
-Vea;Kunstmann;Cerveza Torobayo Roja 470 Ml Kunstmann;470 ml;4567.0;2283.5;50;4x2 Super Cenco Days | Ecommerce
-Vea;Kunstmann;Cerveza Kunstmann Ipa Session 470cc;470 ml;4567.0;2283.5;50;4x2 Super Cenco Days | Ecommerce
 Vea;Rabieta;Cerveza Red Irish Ale 473 Cc Rabieta;473 ml;3890.0;1945.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Brahma;Cerveza Rubia 340 Cc Brahma;340 ml;1778.0;1778.0;0;
 Vea;Bierhaus;Cerveza Lager Golden State 473 Cc Bierhaus;473 ml;3150.0;1575.0;50;4x2 Super Cenco Days | Ecommerce
@@ -530,14 +530,15 @@ Vea;Santa Fe;Cerveza Rubia 473 Cc Santa Fe;473 ml;2599.0;2599.0;0;
 Vea;Rabieta;Cerveza Red Honey 473 Cc Rabieta;473 ml;3890.0;1945.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Rabieta;Cerveza American IPA 473 Cc Rabieta;473 ml;4290.0;2145.0;50;4x2 Super Cenco Days | Ecommerce
 Vea;Imperial;Cerveza Imperial Stout 1lt;1000 ml;5450.0;3270.0;40;2do al 80% Super Cenco Days | Ecommerce
+Vea;Stella Artois;Cerveza Negra 269 Cc Stella Artois;269 ml;1050.0;1050.0;0;
 Coto;Isenbeck;Cerveza ISENBECK Lata 473 Cc;473 ml;2126;1381.9;35;35%Dto
 Coto;Heineken;Cerveza Lager HEINEKEN Lata 473 Cc;473 ml;4030;4030;0;
 Coto;Corona;Cerveza CORONA Porron 330 Cc;330 ml;4550;2957.5;35;35%Dto
 Coto;Warsteiner;Cerveza Pilsener WARSTEINER Lata 473 Cc;473 ml;3485;2248.52;35;35%Dto
 Coto;Amstel;Cerveza Lager Pura Malta Amstel 473ml;473 ml;2725;1771.25;35;35%Dto
 Coto;Grolsch;Cerveza Lager GROLSCH Lata 473 Cc;473 ml;3925;2551.25;35;35%Dto
-Coto;Brahma;Cerveza Lata BRAHMA 350 Cmq;-;1476;1107.0;25;25%Dto
 Coto;Corona;Cerveza CORONA Botella 710 Cc;710 ml;7291;4739.15;35;35%Dto
+Coto;Brahma;Cerveza Lata BRAHMA 350 Cmq;-;1476;1107.0;25;25%Dto
 Coto;Stella Artois;Cerveza Stella Artois 330cc;330 ml;4079;2651.35;35;35%Dto
 Coto;Imperial;Cerveza Golden Lager Imperial Lata 473 CC;473 ml;3105;2018.25;35;35%Dto
 Coto;Heineken;Cerveza Lager HEINEKEN Porron 330 Cc;330 ml;4195;4195;0;
@@ -546,18 +547,18 @@ Coto;Stella Artois;Cerveza Lager STELLA ARTOIS Botella 975 Cc;975 ml;6822;4434.3
 Coto;Schneider;Cerveza Lager SCHNEIDER Lata 473 Cc;473 ml;2615;1699.75;35;35%Dto
 Coto;Ortuzar;Cerveza Premium Lager Ortuzar 473cc;473 ml;2138;2138;0;
 Coto;1890;Cerveza Rubia Intensa 1890 473ml;473 ml;2224;2224;0;
-Coto;Patagonia;Cerveza Session Ipa PATAGONIA Botella 730 Cc;730 ml;7056;7056;0;
 Coto;Salta;Cerveza Session Ipa Salta 473ml;473 ml;3105;2018.25;35;35%Dto
 Coto;Munich;Cerveza Royal Munich 330ml;330 ml;2400;2400;0;
+Coto;Patagonia;Cerveza Session Ipa PATAGONIA Botella 730 Cc;730 ml;7056;7056;0;
 Coto;Heineken;Cerveza Heineken Lata 710 CC;710 ml;5995;5995;0;
 Coto;Imperial;Cerveza Imperial Cream Stout Lat 473 Ml;473 ml;3295;2141.75;35;35%Dto
-Coto;Patagonia;Cerveza Amber Lager PATAGONIA Botella 730 Cc;730 ml;7056;7056;0;
 Coto;Schneider;Cerveza Schneider Lata 710 CC;710 ml;3815;2479.75;35;35%Dto
+Coto;Patagonia;Cerveza Amber Lager PATAGONIA Botella 730 Cc;730 ml;7056;7056;0;
 Coto;Quilmes;Cerveza QUILMES Porron 340 Cc;340 ml;1640;1230.0;25;25%Dto
-Coto;Miller;Cerveza Genuine Draft Miller 473ml;473 ml;3485;2265.25;35;35%Dto
 Coto;Grolsch;Cerveza GROLSCH Botella 925 Cc;925 ml;6755;4390.75;35;35%Dto
-Coto;Imperial;Cerveza Ipa Imperial Lata 473 CC;473 ml;3295;2141.75;35;35%Dto
+Coto;Miller;Cerveza Genuine Draft Miller 473ml;473 ml;3485;2265.25;35;35%Dto
 Coto;Warsteiner;Cerveza WARSTEINER Botella 1 L;1000 ml;6320;4108.0;35;35%Dto
+Coto;Imperial;Cerveza Ipa Imperial Lata 473 CC;473 ml;3295;2141.75;35;35%Dto
 Coto;Amstel;Cerveza Lager Amstel 710ml;710 ml;3925;2551.25;35;35%Dto
 Coto;Salta;Cerveza Cautiva Rubia SALTA 473 Cmq;-;3105;2018.25;35;35%Dto
 Coto;Pampa Brewing;Cerveza Ipa PAMPA BREWING CO Lata 473 Cc;473 ml;3150;3150;0;
@@ -565,20 +566,20 @@ Coto;Pampa Brewing;Cerveza Artesanal Honey Ale Pampa Brewing Co Lat 473 Cmq;-;28
 Coto;Pampa;Cerveza lager PAMPA ARGENTINA 473ml;473 ml;2850;2850;0;
 Coto;Imperial;Cerveza Lager IMPERIAL Lata 473 Cc;473 ml;3105;2018.25;35;35%Dto
 Coto;Michelob;Cerveza Superior Suave Michelob 2838ml;2838 ml;17331;11265.15;35;35%Dto
-Coto;Stella Artois;Cerveza rubia Pure Gold STELLA ARTOIS 330cc;330 ml;4189;2722.85;35;35%Dto
-Coto;Imperial;Cerveza Apa IMPERIAL Lata 473 Cc;473 ml;3295;2141.75;35;35%Dto
 Coto;Michelob;Cerveza ultra sin gluten MICHELOB 275ml;275 ml;2756;1791.4;35;35%Dto
+Coto;Imperial;Cerveza Apa IMPERIAL Lata 473 Cc;473 ml;3295;2141.75;35;35%Dto
+Coto;Stella Artois;Cerveza rubia Pure Gold STELLA ARTOIS 330cc;330 ml;4189;2722.85;35;35%Dto
 Coto;Imperial;Cerveza Golden Lager Imperial Botella 1 L;1000 ml;5230;3399.5;35;35%Dto
-Coto;Quilmes;Cerveza Clásica Quilmes 710ml;710 ml;3706;2779.5;25;25%Dto
 Coto;Salta;Cerveza Cautiva Roja SALTA 473 Cmq;-;3105;2018.25;35;35%Dto
-Coto;Patagonia;Cerveza Lager Del Sur Patagonia 730cc;730 ml;7056;7056;0;
+Coto;Quilmes;Cerveza Clásica Quilmes 710ml;710 ml;3706;2779.5;25;25%Dto
 Coto;Pampa Brewing;Cerveza Amber Ale PAMPA BREWING CO Lata 473 Cc;473 ml;2850;2850;0;
-Coto;Patagonia;Cerveza Vera Ipa Patagonia Bot 730 Cmq;-;7056;7056;0;
 Coto;Amstel;Cerveza Lager Amstel 1000ml;1000 ml;4795;3116.75;35;35%Dto
+Coto;Patagonia;Cerveza Lager Del Sur Patagonia 730cc;730 ml;7056;7056;0;
 Coto;Pampa Brewing;Cerveza Dorada PAMPA BREWING CO Lata 473 Cc;473 ml;2850;2850;0;
+Coto;Patagonia;Cerveza Vera Ipa Patagonia Bot 730 Cmq;-;7056;7056;0;
 Coto;Peroni;Cerveza Rubia Peroni Bot 330 Ml;330 ml;5243;5243;0;
-Coto;Andes;Cerveza Andes Botella 1 L;1000 ml;5568;3619.2;35;35%Dto
 Coto;Kunstmann;Cerveza Session Ipa Kunstmann Lat 470 Cmq;-;4575;2973.75;35;35%Dto
+Coto;Andes;Cerveza Andes Botella 1 L;1000 ml;5568;3619.2;35;35%Dto
 Coto;Brahma;Cerveza BRAHMA Chopp Porron 340 Cc;340 ml;1749;1311.75;25;25%Dto
 Coto;Stella Artois;Cerveza Bot . Stella Arto Bot 710 Cmq;-;5970;3880.5;35;35%Dto
 Coto;Schneider;Cerveza Lager SCHNEIDER Botella 1 L;1000 ml;4580;2977.0;35;35%Dto
@@ -586,13 +587,13 @@ Coto;Salta;Cerveza Fresh Lager Salta 473cc;473 ml;3105;2018.25;35;35%Dto
 Coto;Corona;Cerveza Sin Alcohol 0.0% CORONA 330ml;330 ml;3500;2198.7;37;35%Dto
 Coto;Schneider;Cerveza Schneider Lata 473 CC;473 ml;2725;1771.25;35;35%Dto
 Coto;Brahma;Cerveza BRAHMA Botella 1 L;1000 ml;4798;3598.5;25;25%Dto
+Coto;Blue Moon;Cerveza Belgian White Blue Moon 473ml;473 ml;4685;3045.25;35;35%Dto
 Coto;Pampa Brewing;Cerveza Nitro Cream Stout Pampa Brewing Co Bot 473 Cmq;-;3150;3150;0;
 Coto;Quilmes;Cerveza QUILMES Botella 1 L;1000 ml;4580;3435.0;25;25%Dto
-Coto;Blue Moon;Cerveza Belgian White Blue Moon 473ml;473 ml;4685;3045.25;35;35%Dto
 Coto;Quilmes;Cerveza Lager Quilmes Botella 1 L;1000 ml;3767;2825.25;25;25%Dto
-Coto;Antares;Cerveza Ipa Sin Alcohol Antares 473ml;473 ml;3555;3555;0;
 Coto;Brahma;Cerveza Chopp Brahma 710ml;710 ml;3924;2943.0;25;25%Dto
 Coto;Guinness;Cerveza Extra Stout Guinness Lat 473 Ml;473 ml;4150;4150;0;
+Coto;Antares;Cerveza Ipa Sin Alcohol Antares 473ml;473 ml;3555;3555;0;
 Coto;Miller;Cerveza Genuine Draft Miller 330ml;330 ml;3815;3815;0;
 Coto;Kunstmann;Cerveza Torobayo Kunstmann Lat 470 Cmq;-;4575;2973.75;35;35%Dto
 Coto;Quilmes;Cerveza Stout QUILMES Botella 1 L;1000 ml;4580;3435.0;25;25%Dto
@@ -605,10 +606,10 @@ Coto;Imperial;Cerveza Lager Imperial Lata 710 CC;710 ml;4470;2905.5;35;35%Dto
 Coto;Miller;Cerveza MILLER Botella 1 L;1000 ml;6320;6320;0;
 Coto;Guinness;Cerveza Lager 13 Guinness 473ml;473 ml;3700;3700;0;
 Coto;Imperial;Cerveza Extra Lager IMPERIAL Botella 1 L;1000 ml;5230;3399.5;35;35%Dto
-Coto;Stella Artois;Cerveza Sin Alcohol 0.0 Stella Artois 330cc;330 ml;3210;2086.5;35;35%Dto
 Coto;Hermann Muller;Cerveza Lager Classic Hermann Muller 500ml;500 ml;1750;1750;0;
-Coto;Antares;Cerveza XPA extra Pale Ale ANTARES 473ml;473 ml;4514;4514;0;
+Coto;Stella Artois;Cerveza Sin Alcohol 0.0 Stella Artois 330cc;330 ml;3210;2086.5;35;35%Dto
 Coto;Andes;Cerveza Andes Lata 473 CC;473 ml;3194;2076.1;35;35%Dto
+Coto;Antares;Cerveza XPA extra Pale Ale ANTARES 473ml;473 ml;4514;4514;0;
 Coto;Imperial;Cerveza Ipa IMPERIAL Botella 1 L;1000 ml;5670;3685.5;35;35%Dto
 Coto;Ortuzar;Cerveza Honey Ortuzar 473cc;473 ml;3075;3075;0;
 Coto;Miller;Cerveza Miller Lata 710 CC;710 ml;5175;5175;0;
@@ -616,15 +617,15 @@ Coto;Ortuzar;Cerveza Scottish Export Ortuzar 473cc;473 ml;3075;3075;0;
 Coto;Ortuzar;Cerveza Porter Ortuzar 473cc;473 ml;3170;3170;0;
 Coto;Ortuzar;Cerveza Golden Ale Ortuzar 473cc;473 ml;3075;3075;0;
 Coto;Budweiser;Cerveza Pilsener BUDWEISER Lata 473 Cc;473 ml;2860;1859.0;35;35%Dto
-Coto;Imperial;Cerveza Sin Alcohol Golden Imperial 473 CC;473 ml;2100;1298.85;38;35%Dto
 Coto;Stella Artois;Cerveza Stella Artois Pure Gold Premium Lager 473ml;473 ml;4138;2689.7;35;35%Dto
-Coto;Rabieta;Cerveza Ipa RABIETA Lata 473 Cc;473 ml;4150;4150;0;
 Coto;Blue Moon;Cerveza Belgian White Blue Moon 355cc;355 ml;5210;3386.5;35;35%Dto
+Coto;Imperial;Cerveza Sin Alcohol Golden Imperial 473 CC;473 ml;2100;1298.85;38;35%Dto
+Coto;Rabieta;Cerveza Ipa RABIETA Lata 473 Cc;473 ml;4150;4150;0;
 Coto;Ortuzar;Cerveza Session Ipa Ortuzar 473cc;473 ml;3540;3540;0;
 Coto;Ortuzar;Cerveza Dubbel Ortuzar 473cc;473 ml;3170;3170;0;
 Coto;Heineken;Cerveza 0.0% Heineken 473cc;473 ml;3100;3100;0;
-Coto;Budweiser;Cerveza BUDWEISER Botella 1 L;1000 ml;5016;3260.4;35;35%Dto
 Coto;Ortuzar;Cerveza premium lager ORTUZAR 710ml;710 ml;3399;3399;0;
+Coto;Budweiser;Cerveza BUDWEISER Botella 1 L;1000 ml;5016;3260.4;35;35%Dto
 Coto;Imperial;Cerveza Golden Imperial Lat 710 Cmq;-;4470;2905.5;35;35%Dto
 Coto;Antares;Cerveza Ipa ANTARES Lata 473 Cc;473 ml;4514;4514;0;
 Coto;Ortuzar;Cerveza German Pils Ortuzar 473cc;473 ml;3170;3170;0;
@@ -652,13 +653,13 @@ Coto;Ortuzar;Cerveza Poker Con Bourbon Ortuzar 473cc;473 ml;3540;3540;0;
 Coto;Antares;Cerveza Lager ANTARES 473ml;473 ml;3837;3837;0;
 Coto;Stella Artois;Cerveza Premium Lager Stella Artois 2840ml;2840 ml;23880;15522.0;35;35%Dto
 Coto;Munich;Cerveza Premium Ultra Munich 269ml;269 ml;1550;1550;0;
-Coto;Rabieta;Cerveza Red RABIETA Lata 473 Cc;473 ml;3700;3700;0;
 Coto;Heineken;Cerveza Sin Alcohol 0.0 HEINEKEN 330c;-;3000;3000;0;
+Coto;Rabieta;Cerveza Red RABIETA Lata 473 Cc;473 ml;3700;3700;0;
 Coto;Antares;Cerveza Playa Grande ANTARES 473ml;473 ml;4514;4514;0;
 Coto;Andes Origen;Cerveza Rubia Oro Andes Origen 473ml;473 ml;3194;2076.1;35;35%Dto
 Coto;Antares;Cerveza Antares Espíritu Lager 330ml;330 ml;3607;3607;0;
-Coto;Bierhaus;Cerveza Piggy Apa Bierhaus 473 Ml;473 ml;4015;4015;0;
 Coto;Stella Artois;Cerveza Sin Alcohol Stella Artois 2838cmq;-;19860;12909.0;35;35%Dto
+Coto;Bierhaus;Cerveza Piggy Apa Bierhaus 473 Ml;473 ml;4015;4015;0;
 Coto;Bavaria;Cerveza Lata Bavaria 500 Ml;500 ml;3890;3890;0;
 Coto;Estrella De Galicia;Cerveza Estrella Galicia Lager 473ml;473 ml;3500;3500;0;
 Coto;Bierhaus;Cerveza Vulcano Red Ipa Bierhaus 473 Ml;473 ml;4015;4015;0;

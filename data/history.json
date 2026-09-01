@@ -1,7 +1,7 @@
 {
   "meta": {
     "plataforma": "Supermercados",
-    "ultima_corrida": "2026-09-01T14:01:05.987711+00:00",
+    "ultima_corrida": "2026-09-01T17:24:07.232258+00:00",
     "sku_count": 1096,
     "cadenas": [
       "Carrefour",
@@ -18227,9 +18227,9 @@
         },
         "2026-09-01": {
           "fleje": 3550.0,
-          "ptc": 1775.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 3550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -18559,9 +18559,9 @@
         },
         "2026-09-01": {
           "fleje": 4300.0,
-          "ptc": 2150.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 4300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -18968,9 +18968,9 @@
         },
         "2026-09-01": {
           "fleje": 3166.0,
-          "ptc": 1899.6,
-          "dinamica": 0.4,
-          "promo_nominal": "2do al 80% Super Cenco Days | Ecommerce"
+          "ptc": 3166.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -19051,9 +19051,9 @@
         },
         "2026-09-01": {
           "fleje": 4500.0,
-          "ptc": 2250.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -20787,9 +20787,9 @@
         },
         "2026-09-01": {
           "fleje": 4567.0,
-          "ptc": 2283.5,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 4567.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -21500,6 +21500,12 @@
           "ptc": 2033.25,
           "dinamica": 0.25,
           "promo_nominal": "25% QUILMES | Ofertas Internas"
+        },
+        "2026-09-01": {
+          "fleje": 2711.0,
+          "ptc": 2033.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -22069,9 +22075,9 @@
         },
         "2026-09-01": {
           "fleje": 3150.0,
-          "ptc": 1575.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -24353,6 +24359,12 @@
           "ptc": 1946.25,
           "dinamica": 0.25,
           "promo_nominal": "25% SCHNEIDER | Ofertas Trafico"
+        },
+        "2026-09-01": {
+          "fleje": 2595.0,
+          "ptc": 2595.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -57141,9 +57153,9 @@
         },
         "2026-09-01": {
           "fleje": 4152.0,
-          "ptc": 2491.2,
-          "dinamica": 0.4,
-          "promo_nominal": "2do al 80% Super Cenco Days | Ecommerce"
+          "ptc": 4152.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -57212,9 +57224,9 @@
         },
         "2026-09-01": {
           "fleje": 3322.0,
-          "ptc": 1993.2,
-          "dinamica": 0.4,
-          "promo_nominal": "2do al 80% Super Cenco Days | Ecommerce"
+          "ptc": 3322.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -63051,6 +63063,12 @@
           "promo_nominal": ""
         },
         "2026-08-26": {
+          "fleje": 1050.0,
+          "ptc": 1050.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-09-01": {
           "fleje": 1050.0,
           "ptc": 1050.0,
           "dinamica": 0.0,
@@ -70114,9 +70132,9 @@
         },
         "2026-09-01": {
           "fleje": 3150.0,
-          "ptc": 1575.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -70271,10 +70289,10 @@
           "promo_nominal": "25% STELLA ARTOIS | Ofertas Internas"
         },
         "2026-09-01": {
-          "fleje": 6183.0,
-          "ptc": 4637.25,
-          "dinamica": 0.25,
-          "promo_nominal": "25% STELLA ARTOIS | Ofertas Internas"
+          "fleje": 6200.0,
+          "ptc": 6200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },

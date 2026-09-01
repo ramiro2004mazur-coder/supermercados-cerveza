@@ -18425,9 +18425,9 @@
         },
         "2026-09-01": {
           "fleje": 3550.0,
-          "ptc": 1775.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 3550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -18761,9 +18761,9 @@
         },
         "2026-09-01": {
           "fleje": 4300.0,
-          "ptc": 2150.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 4300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -19175,9 +19175,9 @@
         },
         "2026-09-01": {
           "fleje": 3166.0,
-          "ptc": 1899.6,
-          "dinamica": 0.4,
-          "promo_nominal": "2do al 80% Super Cenco Days | Ecommerce"
+          "ptc": 3166.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -19259,9 +19259,9 @@
         },
         "2026-09-01": {
           "fleje": 4500.0,
-          "ptc": 2250.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -21017,9 +21017,9 @@
         },
         "2026-09-01": {
           "fleje": 4567.0,
-          "ptc": 2283.5,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 4567.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.47
@@ -21740,6 +21740,12 @@
           "ptc": 2033.25,
           "dinamica": 0.25,
           "promo_nominal": "25% QUILMES | Ofertas Internas"
+        },
+        "2026-09-01": {
+          "fleje": 2711.0,
+          "ptc": 2033.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       },
       "volumen_l": 0.473
@@ -22316,9 +22322,9 @@
         },
         "2026-09-01": {
           "fleje": 3150.0,
-          "ptc": 1575.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -24629,6 +24635,12 @@
           "ptc": 1946.25,
           "dinamica": 0.25,
           "promo_nominal": "25% SCHNEIDER | Ofertas Trafico"
+        },
+        "2026-09-01": {
+          "fleje": 2595.0,
+          "ptc": 2595.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -57953,9 +57965,9 @@
         },
         "2026-09-01": {
           "fleje": 4152.0,
-          "ptc": 2491.2,
-          "dinamica": 0.4,
-          "promo_nominal": "2do al 80% Super Cenco Days | Ecommerce"
+          "ptc": 4152.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -58025,9 +58037,9 @@
         },
         "2026-09-01": {
           "fleje": 3322.0,
-          "ptc": 1993.2,
-          "dinamica": 0.4,
-          "promo_nominal": "2do al 80% Super Cenco Days | Ecommerce"
+          "ptc": 3322.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -63958,6 +63970,12 @@
           "promo_nominal": ""
         },
         "2026-08-26": {
+          "fleje": 1050.0,
+          "ptc": 1050.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-09-01": {
           "fleje": 1050.0,
           "ptc": 1050.0,
           "dinamica": 0.0,
@@ -71153,9 +71171,9 @@
         },
         "2026-09-01": {
           "fleje": 3150.0,
-          "ptc": 1575.0,
-          "dinamica": 0.5,
-          "promo_nominal": "4x2 Super Cenco Days | Ecommerce"
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -71314,10 +71332,10 @@
           "promo_nominal": "25% STELLA ARTOIS | Ofertas Internas"
         },
         "2026-09-01": {
-          "fleje": 6183.0,
-          "ptc": 4637.25,
-          "dinamica": 0.25,
-          "promo_nominal": "25% STELLA ARTOIS | Ofertas Internas"
+          "fleje": 6200.0,
+          "ptc": 6200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.71
@@ -72805,8 +72823,8 @@
       "dias": 12,
       "dias_dinamica": 12,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.2722972972972973,
-      "avg_ptc": 2300.4155405405404
+      "avg_dinamica": 0.27199999999999996,
+      "avg_ptc": 2296.8533333333335
     },
     {
       "cadena": "Jumbo",
@@ -72860,8 +72878,8 @@
       "dias": 12,
       "dias_dinamica": 1,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.046875,
-      "avg_ptc": 3265.625
+      "avg_dinamica": 0.0234375,
+      "avg_ptc": 3342.578125
     },
     {
       "cadena": "Jumbo",
@@ -72882,8 +72900,8 @@
       "dias": 12,
       "dias_dinamica": 7,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.21666666666666665,
-      "avg_ptc": 3577.4833333333336
+      "avg_dinamica": 0.1958333333333333,
+      "avg_ptc": 3672.629166666667
     },
     {
       "cadena": "Jumbo",
@@ -72904,8 +72922,8 @@
       "dias": 12,
       "dias_dinamica": 12,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.21000000000000002,
-      "avg_ptc": 2819.1862499999997
+      "avg_dinamica": 0.20487804878048782,
+      "avg_ptc": 2813.718292682927
     },
     {
       "cadena": "Jumbo",
@@ -72926,8 +72944,8 @@
       "dias": 12,
       "dias_dinamica": 10,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.20253246753246754,
-      "avg_ptc": 3177.461948051948
+      "avg_dinamica": 0.19733766233766234,
+      "avg_ptc": 3194.3138961038962
     },
     {
       "cadena": "Jumbo",
@@ -72970,8 +72988,8 @@
       "dias": 12,
       "dias_dinamica": 4,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.17763157894736842,
-      "avg_ptc": 3259.314210526316
+      "avg_dinamica": 0.17105263157894737,
+      "avg_ptc": 3287.6036842105264
     },
     {
       "cadena": "Jumbo",
@@ -72981,8 +72999,8 @@
       "dias": 12,
       "dias_dinamica": 1,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.041666666666666664,
-      "avg_ptc": 4005.8333333333335
+      "avg_dinamica": 0.03333333333333333,
+      "avg_ptc": 4043.3333333333335
     },
     {
       "cadena": "Jumbo",
@@ -73003,8 +73021,8 @@
       "dias": 12,
       "dias_dinamica": 11,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.3588235294117647,
-      "avg_ptc": 3221.7000000000003
+      "avg_dinamica": 0.3470588235294118,
+      "avg_ptc": 3270.5470588235294
     },
     {
       "cadena": "Jumbo",
@@ -75016,8 +75034,8 @@
       "dias": 9,
       "dias_dinamica": 5,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.24285714285714285,
-      "avg_ptc": 2673.4385714285713
+      "avg_dinamica": 0.225,
+      "avg_ptc": 2785.0635714285713
     },
     {
       "cadena": "Disco",
@@ -75049,8 +75067,8 @@
       "dias": 6,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.11666666666666665,
-      "avg_ptc": 1997.8333333333333
+      "avg_dinamica": 0.09999999999999999,
+      "avg_ptc": 1862.4285714285713
     },
     {
       "cadena": "Vea",
@@ -75803,9 +75821,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-09-01 14:01:06",
+    "generado": "2026-09-01 17:24:07",
     "sku_rows": 1096,
-    "registros_validos": 9811,
+    "registros_validos": 9814,
     "dias": 12,
     "cadenas": [
       "Carrefour",

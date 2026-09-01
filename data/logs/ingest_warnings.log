@@ -798,3 +798,5 @@
 2026-09-01.csv: SKU nuevo sin catalogo -> 'Jumbo | Stella Artois | Cerveza Rubia 473 Cc Stella Artois' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-01.csv: precio sospechoso -> 'Jumbo | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-08-31 ($4381 -> $2190)
 2026-09-01.csv: precio sospechoso -> 'Vea | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-08-31 ($4381 -> $2190)
+2026-09-01.csv: precio sospechoso -> 'Jumbo | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-08-31 ($4381 -> $2190)
+2026-09-01.csv: precio sospechoso -> 'Vea | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-08-31 ($4381 -> $2190)
