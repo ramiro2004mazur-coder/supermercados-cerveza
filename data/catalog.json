@@ -6726,5 +6726,101 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "blue-moon-cerveza-blue-moon-belgian-white-473cc",
+    "marca": "Blue Moon",
+    "sku": "Cerveza Blue Moon Belgian White 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "grolsch-cerveza-grolsch-pilsner-473cc",
+    "marca": "Grolsch",
+    "sku": "Cerveza Grolsch Pilsner 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "blue-moon-cerveza-blue-moon-belgian-white-355cc",
+    "marca": "Blue Moon",
+    "sku": "Cerveza Blue Moon Belgian White 355cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "warsteiner-cerveza-warsteiner-1lt-retornable",
+    "marca": "Warsteiner",
+    "sku": "Cerveza Warsteiner 1lt Retornable",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "tsingtao-cerveza-ipa-330-ml-tsingtao",
+    "marca": "Tsingtao",
+    "sku": "Cerveza Ipa 330 Ml Tsingtao",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-imperial-golden-710cc",
+    "marca": "Imperial",
+    "sku": "Cerveza Imperial Golden 710cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "amstel-cerveza-amstel-lager-1lt-ret",
+    "marca": "Amstel",
+    "sku": "Cerveza Amstel Lager 1lt Ret",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "cusquena-cerveza-trigo-330-cc-cusquena",
+    "marca": "Cusqueña",
+    "sku": "Cerveza Trigo 330 Cc Cusqueña",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "cusquena-cerveza-dark-lager-330-cc-cusquena",
+    "marca": "Cusqueña",
+    "sku": "Cerveza Dark Lager 330 Cc Cusqueña",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-andes-origen-oro-473-ml",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Andes Origen Oro 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-stella-artois-pure-gold-473-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia Stella Artois Pure Gold 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-stella-artois-ow-710ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Stella Artois Ow 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
