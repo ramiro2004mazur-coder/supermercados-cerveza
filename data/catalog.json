@@ -6822,5 +6822,45 @@
     "calibre": "710/730",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-golden-1-lts-imperial",
+    "marca": "Imperial",
+    "sku": "Cerveza Golden 1 Lts Imperial",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ortuzar-cerveza-session-ipa-473-ml-ortuzar",
+    "marca": "Ortuzar",
+    "sku": "Cerveza Session Ipa 473 Ml Ortuzar",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ortuzar-cerveza-golden-473-ml-ortuzar",
+    "marca": "Ortuzar",
+    "sku": "Cerveza Golden 473 Ml Ortuzar",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "monastere-cerveza-double-500-ml-monastere",
+    "marca": "Monastere",
+    "sku": "Cerveza Double 500 Ml Monastere",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "monastere-cerveza-blond-500-cc-monastere",
+    "marca": "Monastere",
+    "sku": "Cerveza Blond 500 Cc Monastere",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
