@@ -819,3 +819,5 @@
 2026-09-03.csv: SKU nuevo sin catalogo -> 'Jumbo | Ortuzar | Cerveza Golden 473 Ml Ortuzar' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-03.csv: SKU nuevo sin catalogo -> 'Jumbo | Monastere | Cerveza Double 500 Ml Monastere' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-03.csv: SKU nuevo sin catalogo -> 'Jumbo | Monastere | Cerveza Blond 500 Cc Monastere' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-04.csv: SKU nuevo sin catalogo -> 'Dia | Stones | Cerveza Maracuya Stone 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-04.csv: SKU nuevo sin catalogo -> 'Dia | Stone | Cerveza Lemon Stone 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)

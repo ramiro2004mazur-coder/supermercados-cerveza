@@ -6862,5 +6862,21 @@
     "calibre": "600",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stones-cerveza-maracuya-stone-473-ml",
+    "marca": "Stones",
+    "sku": "Cerveza Maracuya Stone 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stone-cerveza-lemon-stone-473-ml",
+    "marca": "Stone",
+    "sku": "Cerveza Lemon Stone 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
