@@ -823,3 +823,4 @@
 2026-09-04.csv: SKU nuevo sin catalogo -> 'Dia | Stone | Cerveza Lemon Stone 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-05.csv: SKU nuevo sin catalogo -> 'Carrefour | Andes | Cerveza negra Andes 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-05.csv: SKU nuevo sin catalogo -> 'Jumbo | Andes Origen | Cerveza Andes Origen Roja 473cc 6un' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-06.csv: SKU nuevo sin catalogo -> 'Carrefour | Tsingtao | Cerveza de arroz Tsingtao 300 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
