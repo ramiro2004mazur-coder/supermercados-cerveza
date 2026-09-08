@@ -6902,5 +6902,21 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "grolsch-cerveza-grolsch-ipa-473cc",
+    "marca": "Grolsch",
+    "sku": "Cerveza Grolsch Ipa 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-golden-330cc-imperial",
+    "marca": "Imperial",
+    "sku": "Cerveza Golden 330cc Imperial",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

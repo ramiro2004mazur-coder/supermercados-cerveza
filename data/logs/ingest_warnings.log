@@ -824,3 +824,5 @@
 2026-09-05.csv: SKU nuevo sin catalogo -> 'Carrefour | Andes | Cerveza negra Andes 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-05.csv: SKU nuevo sin catalogo -> 'Jumbo | Andes Origen | Cerveza Andes Origen Roja 473cc 6un' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-06.csv: SKU nuevo sin catalogo -> 'Carrefour | Tsingtao | Cerveza de arroz Tsingtao 300 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-08.csv: SKU nuevo sin catalogo -> 'Jumbo | Grolsch | Cerveza Grolsch Ipa 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-08.csv: SKU nuevo sin catalogo -> 'Jumbo | Imperial | Cerveza Golden 330cc Imperial' (agregado como 'Sin clasificar', revisar data/catalog.json)
