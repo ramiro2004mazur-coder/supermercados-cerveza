@@ -826,3 +826,7 @@
 2026-09-06.csv: SKU nuevo sin catalogo -> 'Carrefour | Tsingtao | Cerveza de arroz Tsingtao 300 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-08.csv: SKU nuevo sin catalogo -> 'Jumbo | Grolsch | Cerveza Grolsch Ipa 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-08.csv: SKU nuevo sin catalogo -> 'Jumbo | Imperial | Cerveza Golden 330cc Imperial' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-09.csv: SKU nuevo sin catalogo -> 'Carrefour | Brahma | Cerveza rubia Brahma 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-09.csv: precio sospechoso -> 'Dia | Antares | Cerveza Lager Antares 473 Ml.': cayo 53% vs 2026-09-08 ($4000 -> $1885)
+2026-09-09.csv: SKU nuevo sin catalogo -> 'Dia | Patagonia | Cerveza Patagonia Session Ipa En Lata 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-09.csv: SKU nuevo sin catalogo -> 'Coto | Andes | Cerveza Andes Clásica 473ml' (agregado como 'Sin clasificar', revisar data/catalog.json)

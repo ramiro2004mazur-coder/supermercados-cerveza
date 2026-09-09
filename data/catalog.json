@@ -6918,5 +6918,29 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-brahma-473-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza rubia Brahma 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-session-ipa-en-lata-473-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Session Ipa En Lata 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-andes-clasica-473ml",
+    "marca": "Andes",
+    "sku": "Cerveza Andes Clásica 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
