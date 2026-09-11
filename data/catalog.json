@@ -6942,5 +6942,237 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-stella-artois-330-ml",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Stella Artois 330 Ml.",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-negra-stella-artois-noire-473-cc",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Negra Stella Artois Noire 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "peroni-cerveza-rubia-peroni-330-ml",
+    "marca": "Peroni",
+    "sku": "Cerveza Rubia Peroni 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-blanca-andes-710-ml",
+    "marca": "Andes",
+    "sku": "Cerveza Blanca Andes 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-rubia-estrella-galicia-lager-355-ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Rubia Estrella Galicia Lager 355 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "santa-fe-cerveza-rubia-santa-fe-pilsen-1-l",
+    "marca": "Santa Fe",
+    "sku": "Cerveza Rubia Santa Fe Pilsen 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "palermo-cerveza-rubia-palermo-retornable-1l",
+    "marca": "Palermo",
+    "sku": "Cerveza Rubia Palermo Retornable 1l",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "santa-fe-cerveza-rubia-santa-fe-retornable-1-l",
+    "marca": "Santa Fe",
+    "sku": "Cerveza Rubia Santa Fé Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "norte-cerveza-rubia-norte-1-l",
+    "marca": "Norte",
+    "sku": "Cerveza Rubia Norte 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bieckert-cerveza-rubia-bieckert-urbana-pilsen-473-ml",
+    "marca": "Bieckert",
+    "sku": "Cerveza Rubia Bieckert Urbana Pilsen 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-andes-regular-1-l",
+    "marca": "Andes",
+    "sku": "Cerveza Andes Regular 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-michelob-ultra-bajas-calorias-473-ml-6-u",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza Michelob Ultra Bajas Calorías 473 Ml 6 U",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "grolsch-cerveza-rubia-ipa-grolsch-473-ml",
+    "marca": "Grolsch",
+    "sku": "Cerveza Rubia Ipa Grolsch 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-andes-regular-473ml",
+    "marca": "Andes",
+    "sku": "Cerveza Andes Regular 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cerveza-salta-negra-en-lata-473ml",
+    "marca": "Salta",
+    "sku": "Cerveza Salta Negra En Lata 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "norte-cerveza-norte-rubia-en-lata-473ml",
+    "marca": "Norte",
+    "sku": "Cerveza Norte Rubia En Lata 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cautiva-cerveza-rubia-salta-cautiva-retornable-1-l",
+    "marca": "Salta Cautiva",
+    "sku": "Cerveza Rubia Salta Cautiva Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "santa-fe-cerveza-pilsen-lata-santa-fe-473-cc",
+    "marca": "Santa Fe",
+    "sku": "Cerveza Pilsen Lata Santa Fe 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-negra-stout-quilmes-473-cc",
+    "marca": "Quilmes",
+    "sku": "Cerveza Negra Stout Quilmes 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "kunstmann-cerveza-torobayo-lata-kunstmann-473-cc",
+    "marca": "Kunstmann",
+    "sku": "Cerveza Torobayo Lata Kunstmann 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "kunstmann-cerveza-ipa-lata-kunstmann-473-cc",
+    "marca": "Kunstmann",
+    "sku": "Cerveza Ipa Lata Kunstmann 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "cordoba-cerveza-rubia-cordoba-retornable-1-l",
+    "marca": "Cordoba",
+    "sku": "Cerveza Rubia Cordoba Retornable 1 L",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "santa-fe-cerveza-rubia-lata-santa-fe-473cc",
+    "marca": "Santa Fe",
+    "sku": "Cerveza Rubia Lata Santa Fe 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cerveza-rubia-lata-salta-473cc",
+    "marca": "Salta",
+    "sku": "Cerveza Rubia Lata Salta 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-24-7-patagonia-session-ipa-473-ml-6u",
+    "marca": "Patagonia",
+    "sku": "Cerveza 24.7 Patagonia Session Ipa 473 Ml 6u",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cerveza-negra-salta-retornable-1-lt",
+    "marca": "Salta",
+    "sku": "Cerveza Negra Salta Retornable 1 Lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cerveza-retornable-salta-1-lt",
+    "marca": "Salta",
+    "sku": "Cerveza Retornable Salta 1 Lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "cordoba-cerveza-cordoba-473-cc",
+    "marca": "Cordoba",
+    "sku": "Cerveza Cordoba 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-cerveza-andes-retornable-970ml",
+    "marca": "Andes",
+    "sku": "Cerveza Andes Retornable 970ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
