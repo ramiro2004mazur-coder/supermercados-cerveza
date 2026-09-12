@@ -7174,5 +7174,21 @@
     "calibre": "710/730",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-rubia-andes-origen-710-ml-4-u",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Rubia Andes Origen 710 Ml 4 U",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-clasica-quilmes-473-ml-6u",
+    "marca": "Quilmes",
+    "sku": "Cerveza Clásica Quilmes 473 Ml 6u",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
