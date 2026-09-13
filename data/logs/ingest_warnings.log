@@ -861,3 +861,5 @@
 2026-09-11.csv: SKU nuevo sin catalogo -> 'Más Online | Andes | Cerveza Andes Retornable 970ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-12.csv: SKU nuevo sin catalogo -> 'Más Online | Andes Origen | Cerveza Rubia Andes Origen 710 Ml 4 U' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-12.csv: SKU nuevo sin catalogo -> 'Más Online | Quilmes | Cerveza Clásica Quilmes 473 Ml 6u' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-13.csv: SKU nuevo sin catalogo -> 'Carrefour | República Artesanal | Cerveza ipa República Artesanal en lata 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-13.csv: SKU nuevo sin catalogo -> 'Carrefour | Oranjeboom | Cerveza rubia Oranjeboom original en lata 500 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
