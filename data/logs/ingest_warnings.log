@@ -868,3 +868,4 @@
 2026-09-19.csv: SKU nuevo sin catalogo -> 'Jumbo | Schneider | Cerveza Rubia 710 Ml Schneider' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-22.csv: SKU nuevo sin catalogo -> 'Carrefour | Schneider | Cerveza blanca Schneider Pomelo Remix lata 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-22.csv: SKU nuevo sin catalogo -> 'Jumbo | Imperial | Cerveza Imperial Ipa 1lt Ret' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-09-24.csv: SKU nuevo sin catalogo -> 'Jumbo | Corona | Cerveza Rubia 330 Cc Corona' (agregado como 'Sin clasificar', revisar data/catalog.json)
