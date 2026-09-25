@@ -7254,5 +7254,21 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-ipa-473cc",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Ipa 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-kolsch-473-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Kolsch 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
