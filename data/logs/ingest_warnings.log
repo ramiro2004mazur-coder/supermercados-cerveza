@@ -872,3 +872,4 @@
 2026-09-25.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cerveza Antares Ipa 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-25.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cerveza Antares Kolsch 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-09-25.csv: precio sospechoso -> 'Jumbo | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-09-24 ($4381 -> $2190)
+2026-09-26.csv: precio sospechoso -> 'Dia | St Wendeler | Cerveza Rubia St. Wendeler 500 ml.': cayo 53% vs 2026-09-25 ($2101 -> $990)
