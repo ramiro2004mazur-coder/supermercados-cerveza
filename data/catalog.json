@@ -7270,5 +7270,45 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-ipa-quilmes-473-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza Ipa Quilmes 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ramblers-cerveza-ipa-lata-ramblers-473-ml",
+    "marca": "Ramblers",
+    "sku": "Cerveza Ipa Lata Ramblers 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-ipa-24-7-lata-410-ml",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia IPA 24.7 lata 410 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ortuzar-cerveza-scottish-473-ml-ortuzar",
+    "marca": "Ortuzar",
+    "sku": "Cerveza Scottish 473 Ml Ortuzar",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-estrella-galicia-0-0-tostada-330ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Estrella Galicia 0,0% Tostada 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
