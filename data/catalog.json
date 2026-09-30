@@ -7310,5 +7310,37 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-michelob-ultra-sin-gluten-473-ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza Michelob Ultra Sin Gluten 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-scotch-473-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Scotch 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-rubia-710-ml",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Rubia 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ortuzar-cerveza-ortuzar-german-pils-473cc",
+    "marca": "Ortuzar",
+    "sku": "Cerveza Ortuzar German Pils 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
