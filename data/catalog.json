@@ -7342,5 +7342,45 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "flying-fish-cerveza-flying-fish-limon-porron-340-ml",
+    "marca": "Flying Fish",
+    "sku": "Cerveza Flying Fish Limón porrón 340 ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-rubia-1890-quilmes-lata-710-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza rubia 1890 Quilmes lata 710 ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cereveza-antares-lager-473-cc",
+    "marca": "Antares",
+    "sku": "Cereveza Antares Lager 473 Cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "cusquena-cerveza-cusque-a-oscura-330cc",
+    "marca": "Cusqueña",
+    "sku": "Cerveza Cusque+æa Oscura 330cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "ortuzar-cerveza-lager-473-cc-ortuzar",
+    "marca": "Ortuzar",
+    "sku": "Cerveza Lager 473 Cc Ortuzar",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
