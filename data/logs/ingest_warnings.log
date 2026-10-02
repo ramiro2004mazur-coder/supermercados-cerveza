@@ -892,3 +892,7 @@
 2026-10-01.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cereveza Antares Lager 473 Cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-01.csv: SKU nuevo sin catalogo -> 'Jumbo | Cusqueña | Cerveza Cusque+æa Oscura 330cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-01.csv: SKU nuevo sin catalogo -> 'Disco | Ortuzar | Cerveza Lager 473 Cc Ortuzar' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-02.csv: SKU nuevo sin catalogo -> 'Carrefour | Flying Fish | Cerveza Flying Fish Limón lata 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-02.csv: SKU nuevo sin catalogo -> 'Jumbo | Heineken | Cerveza Heineken Rubia 710cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-02.csv: SKU nuevo sin catalogo -> 'Jumbo | Quilmes | Cerveza Quilmes Clásica Lata 473 Cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-02.csv: precio sospechoso -> 'Vea | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-10-01 ($4381 -> $2190)
