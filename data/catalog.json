@@ -7406,5 +7406,37 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-lager-estrella-galicia-porron-355-ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza lager Estrella Galicia porrón 355 ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-brahma-pomelo-lata-473-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Brahma Pomelo lata 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-brahma-limon-lata-473-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Brahma Limón lata 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "peroni-cerveza-sin-alcohol-peroni-0-0-330ml",
+    "marca": "Peroni",
+    "sku": "Cerveza Sin Alcohol Peroni 0.0 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

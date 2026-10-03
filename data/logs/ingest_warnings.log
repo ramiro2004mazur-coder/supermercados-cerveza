@@ -896,3 +896,8 @@
 2026-10-02.csv: SKU nuevo sin catalogo -> 'Jumbo | Heineken | Cerveza Heineken Rubia 710cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-02.csv: SKU nuevo sin catalogo -> 'Jumbo | Quilmes | Cerveza Quilmes Clásica Lata 473 Cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-02.csv: precio sospechoso -> 'Vea | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': cayo 50% vs 2026-10-01 ($4381 -> $2190)
+2026-10-03.csv: precio sospechoso -> 'Carrefour | Brahma | Cerveza rubia Brahma 340 ml': subio 399% vs 2026-10-01 ($272 -> $1356)
+2026-10-03.csv: SKU nuevo sin catalogo -> 'Carrefour | Estrella De Galicia | Cerveza lager Estrella Galicia porrón 355 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-03.csv: SKU nuevo sin catalogo -> 'Carrefour | Brahma | Cerveza Brahma Pomelo lata 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-03.csv: SKU nuevo sin catalogo -> 'Carrefour | Brahma | Cerveza Brahma Limón lata 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-03.csv: SKU nuevo sin catalogo -> 'Jumbo | Peroni | Cerveza Sin Alcohol Peroni 0.0 330ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
