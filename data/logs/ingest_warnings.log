@@ -902,3 +902,4 @@
 2026-10-03.csv: SKU nuevo sin catalogo -> 'Carrefour | Brahma | Cerveza Brahma Limón lata 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-03.csv: SKU nuevo sin catalogo -> 'Jumbo | Peroni | Cerveza Sin Alcohol Peroni 0.0 330ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-05.csv: precio sospechoso -> 'Vea | Bierhaus | Cerveza Argentipa 473 Cc Bierhaus': subio 100% vs 2026-10-04 ($2190 -> $4381)
+2026-10-08.csv: SKU nuevo sin catalogo -> 'Jumbo | Brahma | Cerveza Brahma Chopp Lata 354mlx1' (agregado como 'Sin clasificar', revisar data/catalog.json)
