@@ -7446,5 +7446,21 @@
     "calibre": "S/C",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-miller-473-ml",
+    "marca": "Miller",
+    "sku": "Cerveza Miller 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-miller-genuine-draft-710cc",
+    "marca": "Miller",
+    "sku": "Cerveza Miller Genuine Draft 710cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
