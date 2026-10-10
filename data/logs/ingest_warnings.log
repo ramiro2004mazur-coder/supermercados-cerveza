@@ -905,3 +905,5 @@
 2026-10-08.csv: SKU nuevo sin catalogo -> 'Jumbo | Brahma | Cerveza Brahma Chopp Lata 354mlx1' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-09.csv: SKU nuevo sin catalogo -> 'Vea | Miller | Cerveza Miller 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-09.csv: SKU nuevo sin catalogo -> 'Vea | Miller | Cerveza Miller Genuine Draft 710cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-10.csv: precio sospechoso -> 'Jumbo | Bavaria | Cerveza Rubia 500 Ml Bavaria': cayo 52% vs 2026-10-08 ($6950 -> $3338)
+2026-10-10.csv: SKU nuevo sin catalogo -> 'Disco | Salta Cautiva | Cerveza Salta Cautiva Rubia 473cc 6un' (agregado como 'Sin clasificar', revisar data/catalog.json)
