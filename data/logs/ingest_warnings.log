@@ -907,3 +907,8 @@
 2026-10-09.csv: SKU nuevo sin catalogo -> 'Vea | Miller | Cerveza Miller Genuine Draft 710cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-10.csv: precio sospechoso -> 'Jumbo | Bavaria | Cerveza Rubia 500 Ml Bavaria': cayo 52% vs 2026-10-08 ($6950 -> $3338)
 2026-10-10.csv: SKU nuevo sin catalogo -> 'Disco | Salta Cautiva | Cerveza Salta Cautiva Rubia 473cc 6un' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-11.csv: SKU nuevo sin catalogo -> 'Carrefour | X-Mark | Cerveza Flavoured Canabbis X-Mark lata 500 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-11.csv: SKU nuevo sin catalogo -> 'Carrefour | X-Mark | Cerveza Flavoured Mojito X-Mark lata 500 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-11.csv: SKU nuevo sin catalogo -> 'Carrefour | Gauther | Cerveza sin tacc Gauther de mijo Lupulada 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-11.csv: SKU nuevo sin catalogo -> 'Carrefour | Gauther | Cerveza sin tacc Gauther de mijo Miel 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-11.csv: SKU nuevo sin catalogo -> 'Carrefour | Oranjeboom | Cerveza rubia Oranjeboom Strong 8.5 500 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)

@@ -7470,5 +7470,45 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "x-mark-cerveza-flavoured-canabbis-x-mark-lata-500-ml",
+    "marca": "X-Mark",
+    "sku": "Cerveza Flavoured Canabbis X-Mark lata 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "x-mark-cerveza-flavoured-mojito-x-mark-lata-500-ml",
+    "marca": "X-Mark",
+    "sku": "Cerveza Flavoured Mojito X-Mark lata 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "gauther-cerveza-sin-tacc-gauther-de-mijo-lupulada-473-ml",
+    "marca": "Gauther",
+    "sku": "Cerveza sin tacc Gauther de mijo Lupulada 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "gauther-cerveza-sin-tacc-gauther-de-mijo-miel-473-ml",
+    "marca": "Gauther",
+    "sku": "Cerveza sin tacc Gauther de mijo Miel 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "oranjeboom-cerveza-rubia-oranjeboom-strong-8-5-500-ml",
+    "marca": "Oranjeboom",
+    "sku": "Cerveza rubia Oranjeboom Strong 8.5 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
