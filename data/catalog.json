@@ -7518,5 +7518,37 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "tsingtao-cerveza-tsingtao-botella-640ml",
+    "marca": "Tsingtao",
+    "sku": "Cerveza Tsingtao Botella 640ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "tsingtao-cerveza-lager-tsingtao-botella-330ml",
+    "marca": "Tsingtao",
+    "sku": "Cerveza Lager Tsingtao Botella 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "sin-marca-barril-de-cerveza-alemana-5l-hofjager",
+    "marca": "Sin Marca.",
+    "sku": "Barril De Cerveza Alemana 5l Hofjäger",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "schneider-cerveza-schneider-remix-pomelo-473ml",
+    "marca": "Schneider",
+    "sku": "Cerveza Schneider Remix Pomelo 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
