@@ -7550,5 +7550,29 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "pampa-cerveza-brewing-lager-pampa-473-ml",
+    "marca": "Pampa",
+    "sku": "Cerveza Brewing Lager Pampa 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "imperial-cerveza-extra-lager-1-lts-imperial",
+    "marca": "Imperial",
+    "sku": "Cerveza Extra Lager 1 Lts Imperial",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-cerveza-michelob-rubia-710-ml-fourpack",
+    "marca": "Michelob",
+    "sku": "Cerveza Michelob Rubia 710 Ml Fourpack",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

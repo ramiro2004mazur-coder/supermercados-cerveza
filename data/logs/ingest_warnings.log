@@ -921,3 +921,6 @@
 2026-10-14.csv: SKU nuevo sin catalogo -> 'Jumbo | Tsingtao | Cerveza Lager Tsingtao Botella 330ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-14.csv: SKU nuevo sin catalogo -> 'Jumbo | Sin Marca. | Barril De Cerveza Alemana 5l Hofjäger' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-14.csv: SKU nuevo sin catalogo -> 'Coto | Schneider | Cerveza Schneider Remix Pomelo 473ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-15.csv: SKU nuevo sin catalogo -> 'Dia | Pampa | Cerveza Brewing Lager Pampa 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-15.csv: SKU nuevo sin catalogo -> 'Vea | Imperial | Cerveza Extra Lager 1 Lts Imperial' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-15.csv: SKU nuevo sin catalogo -> 'Vea | Michelob | Cerveza Michelob Rubia 710 Ml Fourpack' (agregado como 'Sin clasificar', revisar data/catalog.json)
