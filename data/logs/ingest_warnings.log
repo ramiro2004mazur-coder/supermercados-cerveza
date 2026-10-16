@@ -924,3 +924,5 @@
 2026-10-15.csv: SKU nuevo sin catalogo -> 'Dia | Pampa | Cerveza Brewing Lager Pampa 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-15.csv: SKU nuevo sin catalogo -> 'Vea | Imperial | Cerveza Extra Lager 1 Lts Imperial' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-15.csv: SKU nuevo sin catalogo -> 'Vea | Michelob | Cerveza Michelob Rubia 710 Ml Fourpack' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-16.csv: SKU nuevo sin catalogo -> 'Carrefour | Gauther | Cerveza sin tacc Gauther de mijo Rubia 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-16.csv: SKU nuevo sin catalogo -> 'Jumbo | Asahi | Cervezas Asahi Super Dry 330 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)

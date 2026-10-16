@@ -7574,5 +7574,21 @@
     "calibre": "710/730",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "gauther-cerveza-sin-tacc-gauther-de-mijo-rubia-473-ml",
+    "marca": "Gauther",
+    "sku": "Cerveza sin tacc Gauther de mijo Rubia 473 ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "asahi-cervezas-asahi-super-dry-330-ml",
+    "marca": "Asahi",
+    "sku": "Cervezas Asahi Super Dry 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
