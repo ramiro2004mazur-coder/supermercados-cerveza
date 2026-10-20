@@ -7590,5 +7590,101 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-light-sin-tacc-michelob-ultra-lata-710-ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza light sin tacc Michelob Ultra lata 710 ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-rubia-1lt",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Rubia 1lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "sin-marca-cerveza-stones-rubia-lemon-473ml",
+    "marca": "Sin Marca.",
+    "sku": "Cerveza Stones Rubia Lemon 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "sin-marca-cerveza-stones-rubia-maracuya-473ml",
+    "marca": "Sin Marca.",
+    "sku": "Cerveza Stones Rubia Maracuya 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "schneider-cerveza-rubia-pomelo-473ml-schneider",
+    "marca": "Schneider",
+    "sku": "Cerveza Rubia Pomelo 473ml Schneider",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "gulden-draak-cerveza-quadruple-330-ml-gulden-draak",
+    "marca": "Gulden Draak",
+    "sku": "Cerveza Quadruple 330 Ml Gulden Draak",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-brahma-limon-473ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Brahma Limón 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-estrella-galicia-lager-355ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Estrella Galicia Lager 355ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-saborizada-brahma-pomelo-473ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Saborizada Brahma Pomelo 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-michelob-ultra-superior-light-beer-710ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza Michelob ULTRA Superior Light Beer 710ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "flying-fish-cerveza-flying-fish-sabor-limon-premium-473ml",
+    "marca": "Flying Fish",
+    "sku": "Cerveza Flying Fish Sabor Limón Premium 473ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "flying-fish-cerveza-flying-fish-sabor-limon-340ml",
+    "marca": "Flying Fish",
+    "sku": "Cerveza Flying Fish Sabor Limón 340ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
