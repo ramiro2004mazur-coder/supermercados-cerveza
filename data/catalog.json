@@ -7686,5 +7686,69 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-ft-pomelo-brahma-473-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Ft Pomelo Brahma 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "flyimg-fish-cerveza-porron-flying-fish-340-ml",
+    "marca": "Flyimg Fish",
+    "sku": "Cerveza Porron Flying Fish 340 Ml.",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "flyimg-fish-cerveza-limon-flying-fish-473-ml",
+    "marca": "Flyimg Fish",
+    "sku": "Cerveza Limon Flying Fish 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-ft-limon-brahma-473-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza Ft Limon Brahma 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "santa-fe-cerveza-rubia-santa-fe-473-ml",
+    "marca": "Santa Fe",
+    "sku": "Cerveza Rubia Santa Fe 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-1890-quilmes-354-ml",
+    "marca": "Quilmes",
+    "sku": "Cerveza 1890 Quilmes 354 Ml.",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-stella-artois-pure-gold-473cc",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Stella Artois Pure Gold 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "sin-marca-cerveza-lemon-473-cc-stones",
+    "marca": "Sin Marca.",
+    "sku": "Cerveza Lemon 473 Cc Stones",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
