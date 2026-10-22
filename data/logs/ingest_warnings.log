@@ -950,3 +950,5 @@
 2026-10-21.csv: SKU nuevo sin catalogo -> 'Dia | Quilmes | Cerveza 1890 Quilmes 354 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-21.csv: SKU nuevo sin catalogo -> 'Disco | Stella Artois | Cerveza Stella Artois Pure Gold 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-21.csv: SKU nuevo sin catalogo -> 'Disco | Sin Marca. | Cerveza Lemon 473 Cc Stones' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-22.csv: SKU nuevo sin catalogo -> 'Carrefour | Denninghoffs | Cerveza Denninghoff weizen wheat barril 5 lts' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-22.csv: SKU nuevo sin catalogo -> 'Carrefour | Denninghoffs | Cerveza Denninghoff bayerisch hell barril 5 lts' (agregado como 'Sin clasificar', revisar data/catalog.json)

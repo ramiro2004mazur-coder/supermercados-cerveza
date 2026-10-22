@@ -7750,5 +7750,21 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "denninghoffs-cerveza-denninghoff-weizen-wheat-barril-5-lts",
+    "marca": "Denninghoffs",
+    "sku": "Cerveza Denninghoff weizen wheat barril 5 lts",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "denninghoffs-cerveza-denninghoff-bayerisch-hell-barril-5-lts",
+    "marca": "Denninghoffs",
+    "sku": "Cerveza Denninghoff bayerisch hell barril 5 lts",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
