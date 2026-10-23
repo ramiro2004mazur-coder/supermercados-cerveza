@@ -7766,5 +7766,29 @@
     "calibre": "S/C",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-botella-retornable-975-ml-stella-artois",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Botella Retornable 975 Ml Stella Artois",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "kunstmann-cerveza-kunstmann-torobayo-roja-470-ml",
+    "marca": "Kunstmann",
+    "sku": "Cerveza Kunstmann Torobayo Roja 470 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-rubia-oro-473cc",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Rubia Oro 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
