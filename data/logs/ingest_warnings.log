@@ -959,3 +959,5 @@
 2026-10-23.csv: SKU nuevo sin catalogo -> 'Jumbo | Stella Artois | Cerveza Botella Retornable 975 Ml Stella Artois' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-23.csv: SKU nuevo sin catalogo -> 'Jumbo | Kunstmann | Cerveza Kunstmann Torobayo Roja 470 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-23.csv: SKU nuevo sin catalogo -> 'Jumbo | Andes Origen | Cerveza Andes Origen Rubia Oro 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-27.csv: SKU nuevo sin catalogo -> 'Carrefour | Corona | Cerveza blanca Corona 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-10-27.csv: SKU nuevo sin catalogo -> 'Vea | Landvik | Cerveza Landvik Lager 330 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
