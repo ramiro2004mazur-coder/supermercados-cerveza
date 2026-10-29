@@ -963,3 +963,4 @@
 2026-10-27.csv: SKU nuevo sin catalogo -> 'Vea | Landvik | Cerveza Landvik Lager 330 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-10-28.csv: precio sospechoso -> 'Dia | Bierhaus | Cerveza Honey Lazybee Bierhaus 473 Ml.': cayo 50% vs 2026-10-27 ($3395 -> $1690)
 2026-10-28.csv: precio sospechoso -> 'Dia | Bierhaus | Cerveza Ipa Chalaland Bierhaus 473 Ml.': cayo 50% vs 2026-10-27 ($5265 -> $2630)
+2026-10-29.csv: SKU nuevo sin catalogo -> 'Jumbo | Peroni | Cerveza Rubia Peroni Nastro Azzurro Botella 33' (agregado como 'Sin clasificar', revisar data/catalog.json)
