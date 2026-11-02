@@ -1,7 +1,7 @@
 {
   "meta": {
     "plataforma": "Supermercados",
-    "ultima_corrida": "2026-11-01T18:30:49.148874+00:00",
+    "ultima_corrida": "2026-11-02T22:23:53.290543+00:00",
     "sku_count": 1336,
     "cadenas": [
       "Carrefour",
@@ -86,7 +86,8 @@
     "2026-10-29",
     "2026-10-30",
     "2026-10-31",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-02"
   ],
   "pivot": [
     {
@@ -43396,6 +43397,12 @@
           "ptc": 1300.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1300.0,
+          "ptc": 1300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -43835,6 +43842,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2190.0,
+          "ptc": 2190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2190.0,
           "ptc": 2190.0,
           "dinamica": 0.0,
@@ -44284,6 +44297,12 @@
           "ptc": 1290.0,
           "dinamica": 0.3857,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2100.0,
+          "ptc": 1290.0,
+          "dinamica": 0.3857,
+          "promo_nominal": ""
         }
       }
     },
@@ -44723,6 +44742,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2359.0,
+          "ptc": 2359.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2359.0,
           "ptc": 2359.0,
           "dinamica": 0.0,
@@ -45170,6 +45195,12 @@
           "ptc": 3630.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3630.0,
+          "ptc": 2178.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -45609,6 +45640,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3890.0,
+          "ptc": 2500.0,
+          "dinamica": 0.3573,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3890.0,
           "ptc": 2500.0,
           "dinamica": 0.3573,
@@ -46056,6 +46093,12 @@
           "ptc": 2614.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2614.0,
+          "ptc": 2614.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -46495,6 +46538,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2500.0,
+          "ptc": 2500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2500.0,
           "ptc": 2500.0,
           "dinamica": 0.0,
@@ -46942,6 +46991,12 @@
           "ptc": 4000.0,
           "dinamica": 0.1011,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4450.0,
+          "ptc": 4000.0,
+          "dinamica": 0.1011,
+          "promo_nominal": ""
         }
       }
     },
@@ -47385,6 +47440,12 @@
           "ptc": 3700.0,
           "dinamica": 0.2292,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4800.0,
+          "ptc": 3360.0,
+          "dinamica": 0.3,
+          "promo_nominal": ""
         }
       }
     },
@@ -47824,6 +47885,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2500.0,
+          "ptc": 1700.0,
+          "dinamica": 0.32,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2500.0,
           "ptc": 1700.0,
           "dinamica": 0.32,
@@ -48271,6 +48338,12 @@
           "ptc": 2150.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2150.0,
+          "ptc": 1290.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -48714,6 +48787,12 @@
           "ptc": 2100.0,
           "dinamica": 0.3396,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3180.0,
+          "ptc": 2067.0,
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
       }
     },
@@ -49153,6 +49232,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2830.0,
+          "ptc": 1839.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2830.0,
           "ptc": 1839.5,
           "dinamica": 0.35,
@@ -49600,6 +49685,12 @@
           "ptc": 3400.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3400.0,
+          "ptc": 2210.0,
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
       }
     },
@@ -50039,6 +50130,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4050.0,
+          "ptc": 2632.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4050.0,
           "ptc": 2632.5,
           "dinamica": 0.35,
@@ -50486,6 +50583,12 @@
           "ptc": 3630.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3630.0,
+          "ptc": 2178.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -50925,6 +51028,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2100.0,
+          "ptc": 1290.0,
+          "dinamica": 0.3857,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2100.0,
           "ptc": 1290.0,
           "dinamica": 0.3857,
@@ -51372,6 +51481,12 @@
           "ptc": 3410.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3410.0,
+          "ptc": 2046.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -51811,6 +51926,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4090.0,
+          "ptc": 4090.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4090.0,
           "ptc": 4090.0,
           "dinamica": 0.0,
@@ -52258,6 +52379,12 @@
           "ptc": 2090.0,
           "dinamica": 0.2589,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2820.0,
+          "ptc": 1833.0,
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
       }
     },
@@ -52700,6 +52827,12 @@
           "fleje": 2690.0,
           "ptc": 2020.0,
           "dinamica": 0.2491,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2690.0,
+          "ptc": 1748.5,
+          "dinamica": 0.35,
           "promo_nominal": ""
         }
       }
@@ -53144,6 +53277,12 @@
           "ptc": 2980.0,
           "dinamica": 0.1722,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3600.0,
+          "ptc": 1980.0,
+          "dinamica": 0.45,
+          "promo_nominal": ""
         }
       }
     },
@@ -53586,6 +53725,12 @@
           "fleje": 4050.0,
           "ptc": 3200.0,
           "dinamica": 0.2099,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4050.0,
+          "ptc": 2632.5,
+          "dinamica": 0.35,
           "promo_nominal": ""
         }
       }
@@ -54030,6 +54175,12 @@
           "ptc": 1660.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1660.0,
+          "ptc": 1328.0,
+          "dinamica": 0.2,
+          "promo_nominal": ""
         }
       }
     },
@@ -54472,6 +54623,12 @@
           "fleje": 3810.0,
           "ptc": 2990.0,
           "dinamica": 0.2152,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3810.0,
+          "ptc": 2476.5,
+          "dinamica": 0.35,
           "promo_nominal": ""
         }
       }
@@ -54916,6 +55073,12 @@
           "ptc": 3190.0,
           "dinamica": 0.1114,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3590.0,
+          "ptc": 3190.0,
+          "dinamica": 0.1114,
+          "promo_nominal": ""
         }
       }
     },
@@ -55349,6 +55512,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3290.0,
+          "ptc": 3290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3290.0,
           "ptc": 3290.0,
           "dinamica": 0.0,
@@ -55796,6 +55965,12 @@
           "ptc": 2190.0,
           "dinamica": 0.2601,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2960.0,
+          "ptc": 1776.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -56229,6 +56404,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4160.0,
+          "ptc": 3300.0,
+          "dinamica": 0.2067,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4160.0,
           "ptc": 3300.0,
           "dinamica": 0.2067,
@@ -56676,6 +56857,12 @@
           "ptc": 3290.0,
           "dinamica": 0.2313,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4280.0,
+          "ptc": 2568.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -57115,6 +57302,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2500.0,
+          "ptc": 1700.0,
+          "dinamica": 0.32,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2500.0,
           "ptc": 1700.0,
           "dinamica": 0.32,
@@ -57562,6 +57755,12 @@
           "ptc": 3490.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3490.0,
+          "ptc": 3490.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -58001,6 +58200,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5995.0,
+          "ptc": 5995.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5995.0,
           "ptc": 5995.0,
           "dinamica": 0.0,
@@ -58448,6 +58653,12 @@
           "ptc": 3490.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3490.0,
+          "ptc": 3490.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -58887,6 +59098,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2500.0,
+          "ptc": 1700.0,
+          "dinamica": 0.32,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2500.0,
           "ptc": 1700.0,
           "dinamica": 0.32,
@@ -59334,6 +59551,12 @@
           "ptc": 3105.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3105.0,
+          "ptc": 3105.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -59773,6 +59996,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4030.0,
+          "ptc": 4030.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4030.0,
           "ptc": 4030.0,
           "dinamica": 0.0,
@@ -60220,6 +60449,12 @@
           "ptc": 7290.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7290.0,
+          "ptc": 7290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -60659,6 +60894,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2090.0,
+          "ptc": 1450.0,
+          "dinamica": 0.3062,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2090.0,
           "ptc": 1450.0,
           "dinamica": 0.3062,
@@ -61106,6 +61347,12 @@
           "ptc": 2700.0,
           "dinamica": 0.1,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 2700.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
       }
     },
@@ -61545,6 +61792,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3300.0,
+          "ptc": 2970.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3300.0,
           "ptc": 2970.0,
           "dinamica": 0.1,
@@ -61992,6 +62245,12 @@
           "ptc": 2700.0,
           "dinamica": 0.1,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 2700.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
       }
     },
@@ -62431,6 +62690,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2490.0,
+          "ptc": 2490.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2490.0,
           "ptc": 2490.0,
           "dinamica": 0.0,
@@ -62878,6 +63143,12 @@
           "ptc": 4700.0,
           "dinamica": 0.2382,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6170.0,
+          "ptc": 4010.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
       }
     },
@@ -63317,6 +63588,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3690.0,
+          "ptc": 3690.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3690.0,
           "ptc": 3690.0,
           "dinamica": 0.0,
@@ -63764,6 +64041,12 @@
           "ptc": 4700.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4700.0,
+          "ptc": 4700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -64203,6 +64486,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4700.0,
+          "ptc": 4700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4700.0,
           "ptc": 4700.0,
           "dinamica": 0.0,
@@ -64650,6 +64939,12 @@
           "ptc": 3290.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3290.0,
+          "ptc": 3290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -65089,6 +65384,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3490.0,
+          "ptc": 3490.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3490.0,
           "ptc": 3490.0,
           "dinamica": 0.0,
@@ -65538,6 +65839,12 @@
           "ptc": 5130.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5130.0,
+          "ptc": 5130.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -65977,6 +66284,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3290.0,
+          "ptc": 3290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3290.0,
           "ptc": 3290.0,
           "dinamica": 0.0,
@@ -66424,6 +66737,12 @@
           "ptc": 4700.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4700.0,
+          "ptc": 3290.0,
+          "dinamica": 0.3,
+          "promo_nominal": ""
         }
       }
     },
@@ -66863,6 +67182,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3690.0,
+          "ptc": 2398.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3690.0,
           "ptc": 2398.5,
           "dinamica": 0.35,
@@ -67310,6 +67635,12 @@
           "ptc": 3790.0,
           "dinamica": 0.1367,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4390.0,
+          "ptc": 3790.0,
+          "dinamica": 0.1367,
+          "promo_nominal": ""
         }
       }
     },
@@ -67753,6 +68084,12 @@
           "ptc": 3240.0,
           "dinamica": 0.1,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3600.0,
+          "ptc": 3240.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
       }
     },
@@ -68192,6 +68529,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4340.0,
+          "ptc": 2170.0,
+          "dinamica": 0.5,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4340.0,
           "ptc": 2170.0,
           "dinamica": 0.5,
@@ -68642,6 +68985,12 @@
           "ptc": 1690.0,
           "dinamica": 0.5022,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3395.0,
+          "ptc": 1690.0,
+          "dinamica": 0.5022,
+          "promo_nominal": ""
         }
       }
     },
@@ -69081,6 +69430,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4300.0,
+          "ptc": 3870.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4300.0,
           "ptc": 3870.0,
           "dinamica": 0.1,
@@ -69525,6 +69880,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4000.0,
+          "ptc": 2900.0,
+          "dinamica": 0.275,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4000.0,
           "ptc": 2900.0,
           "dinamica": 0.275,
@@ -70378,6 +70739,12 @@
           "ptc": 2550.0,
           "dinamica": 0.1981,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3180.0,
+          "ptc": 2550.0,
+          "dinamica": 0.1981,
+          "promo_nominal": ""
         }
       }
     },
@@ -70817,6 +71184,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3900.0,
+          "ptc": 3510.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3900.0,
           "ptc": 3510.0,
           "dinamica": 0.1,
@@ -71569,6 +71942,12 @@
           "ptc": 4000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4000.0,
+          "ptc": 4000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -72015,6 +72394,12 @@
           "ptc": 2630.0,
           "dinamica": 0.5005,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5265.0,
+          "ptc": 2630.0,
+          "dinamica": 0.5005,
+          "promo_nominal": ""
         }
       }
     },
@@ -72454,6 +72839,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3200.0,
+          "ptc": 2880.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3200.0,
           "ptc": 2880.0,
           "dinamica": 0.1,
@@ -72954,6 +73345,12 @@
           "ptc": 2170.0,
           "dinamica": 0.5,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4340.0,
+          "ptc": 2170.0,
+          "dinamica": 0.5,
+          "promo_nominal": ""
         }
       }
     },
@@ -73393,6 +73790,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4340.0,
+          "ptc": 2170.0,
+          "dinamica": 0.5,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4340.0,
           "ptc": 2170.0,
           "dinamica": 0.5,
@@ -73840,6 +74243,12 @@
           "ptc": 5190.0,
           "dinamica": 0.0564,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5500.0,
+          "ptc": 5190.0,
+          "dinamica": 0.0564,
+          "promo_nominal": ""
         }
       }
     },
@@ -74279,6 +74688,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2830.0,
+          "ptc": 1839.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2830.0,
           "ptc": 1839.5,
           "dinamica": 0.35,
@@ -74971,6 +75386,12 @@
           "ptc": 3000.0,
           "dinamica": 0.3056,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4320.0,
+          "ptc": 2592.0,
+          "dinamica": 0.4,
+          "promo_nominal": ""
         }
       }
     },
@@ -75410,6 +75831,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2400.0,
+          "ptc": 1990.0,
+          "dinamica": 0.1708,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2400.0,
           "ptc": 1990.0,
           "dinamica": 0.1708,
@@ -75904,6 +76331,12 @@
           "ptc": 2754.0,
           "dinamica": 0.25,
           "promo_nominal": "25% CORONA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3672.0,
+          "ptc": 2019.6,
+          "dinamica": 0.45,
+          "promo_nominal": "CYBER 45% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -76783,6 +77216,12 @@
           "ptc": 5659.5,
           "dinamica": 0.25,
           "promo_nominal": "25% CORONA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7546.0,
+          "ptc": 5659.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% CORONA | Ofertas Internas"
         }
       }
     },
@@ -77285,6 +77724,12 @@
           "ptc": 2400.0,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3200.0,
+          "ptc": 2400.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% MICHELOB | Ofertas Internas"
         }
       }
     },
@@ -77745,6 +78190,12 @@
           "ptc": 2490.8,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3832.0,
+          "ptc": 2490.8,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -78325,6 +78776,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -78660,6 +79117,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -79019,6 +79482,12 @@
           "ptc": 4615.0,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7100.0,
+          "ptc": 7100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -79246,6 +79715,12 @@
           "ptc": 2827.5,
           "dinamica": 0.35,
           "promo_nominal": "OFERTA Stella Artois | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4350.0,
+          "ptc": 2175.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -79946,6 +80421,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -80293,6 +80774,12 @@
           "ptc": 1982.5,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3050.0,
+          "ptc": 1982.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -80909,6 +81396,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -81268,6 +81761,12 @@
           "ptc": 2307.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3550.0,
+          "ptc": 3550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -81495,6 +81994,12 @@
           "ptc": 1290.0,
           "dinamica": 0.4,
           "promo_nominal": "40% Almacen | Ecommerce"
+        },
+        "2026-11-02": {
+          "fleje": 2150.0,
+          "ptc": 1290.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -81844,6 +82349,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4950.0,
+          "ptc": 4950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4950.0,
           "ptc": 4950.0,
           "dinamica": 0.0,
@@ -82203,6 +82714,12 @@
           "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 4900.0,
+          "ptc": 2450.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 4900.0,
           "ptc": 2450.0,
           "dinamica": 0.5,
@@ -83056,6 +83573,12 @@
           "ptc": 2511.6,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3864.0,
+          "ptc": 2704.8,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -83726,6 +84249,12 @@
           "ptc": 2470.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3800.0,
+          "ptc": 2470.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -84067,6 +84596,12 @@
           "ptc": 3022.5,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4650.0,
+          "ptc": 3487.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -84398,6 +84933,12 @@
           "promo_nominal": "35% HEINEKEN | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 4048.0,
+          "ptc": 2631.2,
+          "dinamica": 0.35,
+          "promo_nominal": "35% HEINEKEN | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 4048.0,
           "ptc": 2631.2,
           "dinamica": 0.35,
@@ -85078,6 +85619,12 @@
           "ptc": 1950.0,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 1800.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -85796,6 +86343,12 @@
           "ptc": 3075.0,
           "dinamica": 0.25,
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 2665.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -86980,6 +87533,12 @@
           "ptc": 2795.0,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4300.0,
+          "ptc": 2795.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -87333,6 +87892,12 @@
           "ptc": 2307.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3550.0,
+          "ptc": 3550.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -87692,6 +88257,12 @@
           "ptc": 2047.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -88045,6 +88616,12 @@
           "ptc": 3347.5,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5150.0,
+          "ptc": 3347.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -88400,6 +88977,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3350.0,
+          "ptc": 3350.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3350.0,
           "ptc": 3350.0,
           "dinamica": 0.0,
@@ -88763,6 +89346,12 @@
           "ptc": 4300.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4300.0,
+          "ptc": 4300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -89122,6 +89711,12 @@
           "ptc": 3350.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3350.0,
+          "ptc": 3350.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -89429,6 +90024,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4300.0,
+          "ptc": 4300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4300.0,
           "ptc": 4300.0,
           "dinamica": 0.0,
@@ -90019,6 +90620,12 @@
           "ptc": 4950.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4950.0,
+          "ptc": 4950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -90348,6 +90955,12 @@
           "ptc": 2307.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3550.0,
+          "ptc": 2307.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -90707,6 +91320,12 @@
           "ptc": 2925.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4500.0,
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -91066,6 +91685,12 @@
           "ptc": 3022.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4650.0,
+          "ptc": 3022.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -91664,6 +92289,12 @@
           "ptc": 3660.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6100.0,
+          "ptc": 3660.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -92007,6 +92638,12 @@
           "promo_nominal": "2do al 80% BLUE MOON | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 5650.0,
+          "ptc": 3390.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% BLUE MOON | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 5650.0,
           "ptc": 3390.0,
           "dinamica": 0.4,
@@ -92567,6 +93204,12 @@
           "ptc": 3660.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6100.0,
+          "ptc": 3660.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -92854,6 +93497,12 @@
           "ptc": 1105.0,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 1700.0,
+          "ptc": 1275.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -93213,6 +93862,12 @@
           "ptc": 3825.0,
           "dinamica": 0.25,
           "promo_nominal": "25% BUDWEISER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 5100.0,
+          "ptc": 3825.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BUDWEISER | Ofertas Internas"
         }
       }
     },
@@ -93542,6 +94197,12 @@
           "ptc": 2145.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3300.0,
+          "ptc": 2145.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -93841,6 +94502,12 @@
           "ptc": 2610.0,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4350.0,
+          "ptc": 2610.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -94196,6 +94863,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 16998.0,
+          "ptc": 12748.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 16998.0,
           "ptc": 12748.5,
           "dinamica": 0.25,
@@ -94953,6 +95626,12 @@
           "ptc": 2535.0,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3900.0,
+          "ptc": 2925.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -95312,6 +95991,12 @@
           "ptc": 2550.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4250.0,
+          "ptc": 2550.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -95946,6 +96631,12 @@
           "ptc": 4300.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4300.0,
+          "ptc": 4300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -96478,6 +97169,12 @@
           "ptc": 2210.0,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3400.0,
+          "ptc": 3400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -96837,6 +97534,12 @@
           "ptc": 2925.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% Cerveza GUINNESS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4500.0,
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -99586,6 +100289,12 @@
           "ptc": 4380.0,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 4380.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -100154,6 +100863,12 @@
           "ptc": 2145.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3300.0,
+          "ptc": 3300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -101671,6 +102386,12 @@
           "ptc": 2047.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -102030,6 +102751,12 @@
           "ptc": 2665.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 4100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -102389,6 +103116,12 @@
           "ptc": 2437.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3750.0,
+          "ptc": 2437.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -102939,6 +103672,12 @@
           "ptc": 3802.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5850.0,
+          "ptc": 3802.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -103294,6 +104033,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 7650.0,
+          "ptc": 7650.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 7650.0,
           "ptc": 7650.0,
           "dinamica": 0.0,
@@ -103988,6 +104733,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 4900.0,
+          "ptc": 3675.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 4900.0,
           "ptc": 3675.0,
           "dinamica": 0.25,
@@ -104853,6 +105604,12 @@
           "ptc": 4500.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4500.0,
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -105208,6 +105965,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 1850.0,
+          "ptc": 1387.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 1850.0,
           "ptc": 1387.5,
           "dinamica": 0.25,
@@ -105571,6 +106334,12 @@
           "ptc": 3840.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6400.0,
+          "ptc": 3840.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -106474,6 +107243,12 @@
           "ptc": 2665.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 4100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -106833,6 +107608,12 @@
           "ptc": 2665.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 4100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -107479,6 +108260,12 @@
           "ptc": 4140.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6900.0,
+          "ptc": 4140.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -107891,6 +108678,12 @@
           "ptc": 2437.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3750.0,
+          "ptc": 2437.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -108250,6 +109043,12 @@
           "ptc": 3510.0,
           "dinamica": 0.35,
           "promo_nominal": "35% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5400.0,
+          "ptc": 5400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -109117,6 +109916,12 @@
           "ptc": 3185.0,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4900.0,
+          "ptc": 3430.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -109476,6 +110281,12 @@
           "ptc": 3770.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5800.0,
+          "ptc": 3770.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -109831,6 +110642,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3944.0,
+          "ptc": 3944.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3944.0,
           "ptc": 3944.0,
           "dinamica": 0.0,
@@ -110893,6 +111710,12 @@
           "ptc": 2832.75,
           "dinamica": 0.25,
           "promo_nominal": "25% CORONA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3777.0,
+          "ptc": 2077.35,
+          "dinamica": 0.45,
+          "promo_nominal": "CYBER 45% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -112244,6 +113067,12 @@
           "ptc": 2601.3,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4002.0,
+          "ptc": 2601.3,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -112836,6 +113665,12 @@
           "ptc": 2827.5,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA ARTOIS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4350.0,
+          "ptc": 2175.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -113183,6 +114018,12 @@
           "ptc": 2047.5,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3150.0,
+          "ptc": 2047.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -113717,6 +114558,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5000.0,
+          "ptc": 5000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5000.0,
           "ptc": 5000.0,
           "dinamica": 0.0,
@@ -114289,6 +115136,12 @@
           "ptc": 3022.5,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4650.0,
+          "ptc": 3487.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -114660,6 +115513,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -115031,6 +115890,12 @@
           "ptc": 4858.1,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7474.0,
+          "ptc": 7474.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -115384,6 +116249,12 @@
           "ptc": 3737.5,
           "dinamica": 0.35,
           "promo_nominal": "35% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5750.0,
+          "ptc": 3450.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -115755,6 +116626,12 @@
           "ptc": 1852.5,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 1800.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -116741,6 +117618,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -117112,6 +117995,12 @@
           "ptc": 2293.85,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3529.0,
+          "ptc": 3529.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -117477,6 +118366,12 @@
           "ptc": 2145.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3300.0,
+          "ptc": 3300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -117848,6 +118743,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -118625,6 +119526,12 @@
           "ptc": 5000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5000.0,
+          "ptc": 5000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -118804,6 +119711,12 @@
           "ptc": 1397.5,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 2150.0,
+          "ptc": 1290.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -119169,6 +120082,12 @@
           "ptc": 2340.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3600.0,
+          "ptc": 2340.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -119414,6 +120333,12 @@
           "ptc": 13110.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 21850.0,
+          "ptc": 13110.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -120096,6 +121021,12 @@
           "ptc": 3660.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6100.0,
+          "ptc": 3660.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -120467,6 +121398,12 @@
           "ptc": 2327.65,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3850.0,
+          "ptc": 2502.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -121179,6 +122116,12 @@
           "ptc": 3022.5,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4650.0,
+          "ptc": 3487.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -121550,6 +122493,12 @@
           "ptc": 4560.0,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7600.0,
+          "ptc": 4560.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -122308,6 +123257,12 @@
           "ptc": 3637.5,
           "dinamica": 0.25,
           "promo_nominal": "25% CORONA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4850.0,
+          "ptc": 3395.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -122756,6 +123711,12 @@
           "ptc": 2024.4,
           "dinamica": 0.4,
           "promo_nominal": "40% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3600.0,
+          "ptc": 3600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -123127,6 +124088,12 @@
           "ptc": 2535.0,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3900.0,
+          "ptc": 2925.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -123779,6 +124746,12 @@
           "ptc": 2860.0,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4400.0,
+          "ptc": 2860.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -124377,6 +125350,12 @@
           "ptc": 2112.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -124742,6 +125721,12 @@
           "ptc": 3407.3,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5350.0,
+          "ptc": 3477.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -124995,6 +125980,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4400.0,
           "ptc": 4400.0,
           "dinamica": 0.0,
@@ -125370,6 +126361,12 @@
           "ptc": 2112.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -125741,6 +126738,12 @@
           "ptc": 2112.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -126578,6 +127581,12 @@
           "ptc": 2327.65,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3850.0,
+          "ptc": 2502.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -126823,6 +127832,12 @@
           "ptc": 2190.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3650.0,
+          "ptc": 2190.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -127373,6 +128388,12 @@
           "ptc": 2327.65,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3581.0,
+          "ptc": 2327.65,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -127910,6 +128931,12 @@
           "ptc": 3540.0,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% BLUE MOON | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 5900.0,
+          "ptc": 3540.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -128257,6 +129284,12 @@
           "ptc": 2304.6,
           "dinamica": 0.4,
           "promo_nominal": "40% WARSTEINER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 2460.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -128624,6 +129657,12 @@
           "promo_nominal": "25% BUDWEISER | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 5100.0,
+          "ptc": 3825.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BUDWEISER | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 5100.0,
           "ptc": 3825.0,
           "dinamica": 0.25,
@@ -128999,6 +130038,12 @@
           "ptc": 3238.3,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5150.0,
+          "ptc": 3605.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -129352,6 +130397,12 @@
           "ptc": 2193.1,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3374.0,
+          "ptc": 2193.1,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -129717,6 +130768,12 @@
           "ptc": 2553.6,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4450.0,
+          "ptc": 2670.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -130084,6 +131141,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 16998.0,
+          "ptc": 12748.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 16998.0,
           "ptc": 12748.5,
           "dinamica": 0.25,
@@ -130971,6 +132034,12 @@
           "ptc": 2496.65,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4000.0,
+          "ptc": 2600.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -131342,6 +132411,12 @@
           "ptc": 2610.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4350.0,
+          "ptc": 2610.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -132358,6 +133433,12 @@
           "ptc": 2709.0,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4515.0,
+          "ptc": 2709.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -133303,6 +134384,12 @@
           "ptc": 2491.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4982.0,
+          "ptc": 2491.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
         }
       }
     },
@@ -133763,6 +134850,12 @@
           "ptc": 2730.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -134134,6 +135227,12 @@
           "ptc": 3137.55,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4827.0,
+          "ptc": 3137.55,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -134451,6 +135550,12 @@
           "ptc": 2327.65,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3581.0,
+          "ptc": 2327.65,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -134798,6 +135903,12 @@
           "ptc": 4014.4,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6176.0,
+          "ptc": 4014.4,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -135438,6 +136549,12 @@
           "ptc": 1950.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -135994,6 +137111,12 @@
           "ptc": 2024.4,
           "dinamica": 0.4,
           "promo_nominal": "40% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3374.0,
+          "ptc": 3374.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -136365,6 +137488,12 @@
           "ptc": 2730.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -136736,6 +137865,12 @@
           "ptc": 2730.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -137944,6 +139079,12 @@
           "ptc": 4320.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7200.0,
+          "ptc": 4320.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -138782,6 +139923,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4250.0,
+          "ptc": 4250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4250.0,
           "ptc": 4250.0,
           "dinamica": 0.0,
@@ -139754,6 +140901,12 @@
           "ptc": 3022.5,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4650.0,
+          "ptc": 3487.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -140817,6 +141970,12 @@
           "ptc": 2950.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2950.0,
+          "ptc": 1770.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -141188,6 +142347,12 @@
           "ptc": 2730.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -142431,6 +143596,12 @@
           "ptc": 3867.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5950.0,
+          "ptc": 3867.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -143089,6 +144260,12 @@
           "ptc": 4600.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4600.0,
+          "ptc": 4600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -143192,6 +144369,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 6000.0,
+          "ptc": 6000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 6000.0,
           "ptc": 6000.0,
           "dinamica": 0.0,
@@ -143776,6 +144959,12 @@
           "ptc": 2842.5,
           "dinamica": 0.25,
           "promo_nominal": "25% QUILMES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3790.0,
+          "ptc": 2463.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -144739,6 +145928,12 @@
           "ptc": 5459.9,
           "dinamica": 0.29,
           "promo_nominal": "OFERTA CORONA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7690.0,
+          "ptc": 5459.9,
+          "dinamica": 0.29,
+          "promo_nominal": "OFERTA CORONA | Ofertas Trafico"
         }
       }
     },
@@ -145122,6 +146317,12 @@
           "ptc": 3142.5,
           "dinamica": 0.25,
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4190.0,
+          "ptc": 2723.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -145866,6 +147067,12 @@
           "promo_nominal": "25% QUILMES | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 3890.0,
+          "ptc": 2917.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 3890.0,
           "ptc": 2917.5,
           "dinamica": 0.25,
@@ -146815,6 +148022,12 @@
           "ptc": 3698.5,
           "dinamica": 0.35,
           "promo_nominal": "35% ANDES ORIGEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5690.0,
+          "ptc": 3414.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -147563,6 +148776,12 @@
           "ptc": 3590.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3590.0,
+          "ptc": 1974.5,
+          "dinamica": 0.45,
+          "promo_nominal": "CYBER 45% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -148520,6 +149739,12 @@
           "ptc": 6190.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6190.0,
+          "ptc": 3714.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -149172,6 +150397,12 @@
           "ptc": 4023.5,
           "dinamica": 0.35,
           "promo_nominal": "35% ANDES ORIGEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6190.0,
+          "ptc": 3714.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -149477,6 +150708,12 @@
           "ptc": 5467.5,
           "dinamica": 0.25,
           "promo_nominal": "25% PATAGONIA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7290.0,
+          "ptc": 3645.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -149860,6 +151097,12 @@
           "ptc": 3892.5,
           "dinamica": 0.25,
           "promo_nominal": "25% BUDWEISER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 5190.0,
+          "ptc": 3892.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BUDWEISER | Ofertas Internas"
         }
       }
     },
@@ -150209,6 +151452,12 @@
           "promo_nominal": "OFERTA QUILMES | Ofertas Trafico"
         },
         "2026-11-01": {
+          "fleje": 4590.0,
+          "ptc": 3396.6,
+          "dinamica": 0.26,
+          "promo_nominal": "OFERTA QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
           "fleje": 4590.0,
           "ptc": 3396.6,
           "dinamica": 0.26,
@@ -150592,6 +151841,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 4890.0,
+          "ptc": 3667.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 4890.0,
           "ptc": 3667.5,
           "dinamica": 0.25,
@@ -151164,6 +152419,12 @@
           "ptc": 4453.15,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6851.0,
+          "ptc": 6851.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -152049,6 +153310,12 @@
           "ptc": 2392.5,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3190.0,
+          "ptc": 2392.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% MICHELOB | Ofertas Internas"
         }
       }
     },
@@ -152426,6 +153693,12 @@
           "ptc": 1878.5,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 2890.0,
+          "ptc": 1734.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -153192,6 +154465,12 @@
           "ptc": 2034.0,
           "dinamica": 0.4,
           "promo_nominal": "40% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3390.0,
+          "ptc": 3390.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -153551,6 +154830,12 @@
           "ptc": 1821.95,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 2890.0,
+          "ptc": 1878.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -154203,6 +155488,12 @@
           "ptc": 3103.75,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4890.0,
+          "ptc": 3178.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -155183,6 +156474,12 @@
           "ptc": 3677.05,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5657.0,
+          "ptc": 3677.05,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -155542,6 +156839,12 @@
           "ptc": 2086.2,
           "dinamica": 0.4,
           "promo_nominal": "40% WARSTEINER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3690.0,
+          "ptc": 2214.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -155877,6 +157180,12 @@
           "ptc": 2159.3,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3490.0,
+          "ptc": 2268.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -156260,6 +157569,12 @@
           "ptc": 3442.5,
           "dinamica": 0.25,
           "promo_nominal": "25% QUILMES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4590.0,
+          "ptc": 3442.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -156595,6 +157910,12 @@
           "ptc": 4194.0,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6990.0,
+          "ptc": 4194.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -156912,6 +158233,12 @@
           "ptc": 2397.6,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4190.0,
+          "ptc": 2514.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -157295,6 +158622,12 @@
           "ptc": 2597.4,
           "dinamica": 0.35,
           "promo_nominal": "35% AMSTEL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4190.0,
+          "ptc": 2723.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -157678,6 +159011,12 @@
           "ptc": 1962.0,
           "dinamica": 0.4,
           "promo_nominal": "40% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3270.0,
+          "ptc": 3270.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -158061,6 +159400,12 @@
           "ptc": 3145.2,
           "dinamica": 0.4,
           "promo_nominal": "40% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5242.0,
+          "ptc": 5242.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -158619,6 +159964,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4690.0,
+          "ptc": 4690.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4690.0,
           "ptc": 4690.0,
           "dinamica": 0.0,
@@ -159328,6 +160679,12 @@
           "ptc": 2900.95,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4463.0,
+          "ptc": 2900.95,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -159639,6 +160996,12 @@
           "ptc": 2159.3,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3322.0,
+          "ptc": 2159.3,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -160315,6 +161678,12 @@
           "ptc": 3048.5,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4690.0,
+          "ptc": 3283.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -160698,6 +162067,12 @@
           "ptc": 2057.9,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3166.0,
+          "ptc": 2057.9,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -161697,6 +163072,12 @@
           "ptc": 12742.5,
           "dinamica": 0.25,
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 16990.0,
+          "ptc": 12742.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
         }
       }
     },
@@ -162294,6 +163675,12 @@
           "ptc": 2514.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4190.0,
+          "ptc": 2514.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -162808,6 +164195,12 @@
           "ptc": 2491.2,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4152.0,
+          "ptc": 2491.2,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -163292,6 +164685,12 @@
           "ptc": 1899.6,
           "dinamica": 0.4,
           "promo_nominal": "40% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3166.0,
+          "ptc": 3166.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -164493,6 +165892,12 @@
           "ptc": 2159.3,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3322.0,
+          "ptc": 2159.3,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -165276,6 +166681,12 @@
           "ptc": 3534.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5890.0,
+          "ptc": 3534.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -165659,6 +167070,12 @@
           "ptc": 2073.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPABREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3190.0,
+          "ptc": 3190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -165988,6 +167405,12 @@
           "ptc": 2528.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3890.0,
+          "ptc": 3890.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -166371,6 +167794,12 @@
           "ptc": 1943.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPABREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 2990.0,
+          "ptc": 2990.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -166664,6 +168093,12 @@
           "ptc": 2528.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3890.0,
+          "ptc": 3890.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -167441,6 +168876,12 @@
           "ptc": 3944.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3944.0,
+          "ptc": 3944.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -167824,6 +169265,12 @@
           "ptc": 1342.5,
           "dinamica": 0.25,
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 1790.0,
+          "ptc": 1342.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
         }
       }
     },
@@ -168203,6 +169650,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3150.0,
           "ptc": 3150.0,
           "dinamica": 0.0,
@@ -168867,6 +170320,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4150.0,
+          "ptc": 4150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4150.0,
           "ptc": 4150.0,
           "dinamica": 0.0,
@@ -169774,6 +171233,12 @@
           "ptc": 2788.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% GUINNESS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4290.0,
+          "ptc": 4290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -170153,6 +171618,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3250.0,
           "ptc": 3250.0,
           "dinamica": 0.0,
@@ -170540,6 +172011,12 @@
           "ptc": 4200.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -170919,6 +172396,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4200.0,
           "ptc": 4200.0,
           "dinamica": 0.0,
@@ -171999,6 +173482,12 @@
           "ptc": 1883.0,
           "dinamica": 0.3,
           "promo_nominal": "30% SANTAFE | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 2690.0,
+          "ptc": 1614.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -172382,6 +173871,12 @@
           "ptc": 3542.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5450.0,
+          "ptc": 3542.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -172687,6 +174182,12 @@
           "ptc": 3830.4,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6690.0,
+          "ptc": 4014.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -173132,6 +174633,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3699.0,
+          "ptc": 2404.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3699.0,
           "ptc": 2404.35,
           "dinamica": 0.35,
@@ -173585,6 +175092,12 @@
           "ptc": 2795.0,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4300.0,
+          "ptc": 2795.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -174034,6 +175547,12 @@
           "ptc": 3528.75,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4705.0,
+          "ptc": 3293.5,
+          "dinamica": 0.3,
+          "promo_nominal": "30%Dto"
         }
       }
     },
@@ -174479,6 +175998,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 2833.0,
+          "ptc": 1841.45,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 2833.0,
           "ptc": 1841.45,
           "dinamica": 0.35,
@@ -174932,6 +176457,12 @@
           "ptc": 1533.35,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2359.0,
+          "ptc": 1533.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -175377,6 +176908,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3925.0,
+          "ptc": 3925.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3925.0,
           "ptc": 3925.0,
           "dinamica": 0.0,
@@ -175830,6 +177367,12 @@
           "ptc": 1494.77,
           "dinamica": 0.3501,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2300.0,
+          "ptc": 1494.77,
+          "dinamica": 0.3501,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -176275,6 +177818,12 @@
           "promo_nominal": "25%Dto"
         },
         "2026-11-01": {
+          "fleje": 7745.0,
+          "ptc": 5808.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
           "fleje": 7745.0,
           "ptc": 5808.75,
           "dinamica": 0.25,
@@ -176728,6 +178277,12 @@
           "ptc": 2741.7,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4218.0,
+          "ptc": 2530.8,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -177173,6 +178728,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 2692.0,
+          "ptc": 1749.8,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 2692.0,
           "ptc": 1749.8,
           "dinamica": 0.35,
@@ -177626,6 +179187,12 @@
           "ptc": 1690.0,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2600.0,
+          "ptc": 1690.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -178071,6 +179638,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 4395.0,
+          "ptc": 2856.75,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 4395.0,
           "ptc": 2856.75,
           "dinamica": 0.35,
@@ -178524,6 +180097,12 @@
           "ptc": 3299.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3299.0,
+          "ptc": 3299.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -178969,6 +180548,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 7299.0,
+          "ptc": 4744.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 7299.0,
           "ptc": 4744.35,
           "dinamica": 0.35,
@@ -179422,6 +181007,12 @@
           "ptc": 2288.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2288.0,
+          "ptc": 2288.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -179867,6 +181458,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 7054.0,
+          "ptc": 4585.1,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 7054.0,
           "ptc": 4585.1,
           "dinamica": 0.35,
@@ -180320,6 +181917,12 @@
           "ptc": 6999.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6999.0,
+          "ptc": 6999.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -180765,6 +182368,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 6195.0,
+          "ptc": 4026.75,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 6195.0,
           "ptc": 4026.75,
           "dinamica": 0.35,
@@ -181218,6 +182827,12 @@
           "ptc": 4289.35,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 6599.0,
+          "ptc": 4289.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -181663,6 +183278,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3930.0,
+          "ptc": 2554.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3930.0,
           "ptc": 2554.5,
           "dinamica": 0.35,
@@ -182116,6 +183737,12 @@
           "ptc": 3499.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3499.0,
+          "ptc": 3499.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -182561,6 +184188,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3299.0,
+          "ptc": 2144.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3299.0,
           "ptc": 2144.35,
           "dinamica": 0.35,
@@ -183014,6 +184647,12 @@
           "ptc": 1696.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1696.0,
+          "ptc": 1696.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -183459,6 +185098,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 2850.0,
+          "ptc": 1425.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 2850.0,
           "ptc": 1425.0,
           "dinamica": 0.5,
@@ -183912,6 +185557,12 @@
           "ptc": 3299.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3299.0,
+          "ptc": 3299.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -184357,6 +186008,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 4057.0,
+          "ptc": 2637.05,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 4057.0,
           "ptc": 2637.05,
           "dinamica": 0.35,
@@ -184810,6 +186467,12 @@
           "ptc": 1575.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 3150.0,
+          "ptc": 1575.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -185259,6 +186922,12 @@
           "ptc": 19128.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 19128.0,
+          "ptc": 12433.2,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -185704,6 +187373,12 @@
           "promo_nominal": "30%Dto"
         },
         "2026-11-01": {
+          "fleje": 5531.0,
+          "ptc": 3871.7,
+          "dinamica": 0.3,
+          "promo_nominal": "30%Dto"
+        },
+        "2026-11-02": {
           "fleje": 5531.0,
           "ptc": 3871.7,
           "dinamica": 0.3,
@@ -186157,6 +187832,12 @@
           "ptc": 3648.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 7296.0,
+          "ptc": 3648.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -186602,6 +188283,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 1808.0,
+          "ptc": 1175.2,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 1808.0,
           "ptc": 1175.2,
           "dinamica": 0.35,
@@ -187055,6 +188742,12 @@
           "ptc": 5530.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5530.0,
+          "ptc": 5530.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -187500,6 +189193,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3499.0,
+          "ptc": 3499.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3499.0,
           "ptc": 3499.0,
           "dinamica": 0.0,
@@ -187953,6 +189652,12 @@
           "ptc": 4900.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4900.0,
+          "ptc": 4900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -188398,6 +190103,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 7296.0,
+          "ptc": 3648.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 7296.0,
           "ptc": 3648.0,
           "dinamica": 0.5,
@@ -188851,6 +190562,12 @@
           "ptc": 2979.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2979.0,
+          "ptc": 2979.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -189296,6 +191013,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 4057.0,
+          "ptc": 2628.53,
+          "dinamica": 0.3521,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 4057.0,
           "ptc": 2628.53,
           "dinamica": 0.3521,
@@ -189749,6 +191472,12 @@
           "ptc": 3499.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3499.0,
+          "ptc": 3499.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -190194,6 +191923,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3299.0,
+          "ptc": 2144.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3299.0,
           "ptc": 2144.35,
           "dinamica": 0.35,
@@ -190647,6 +192382,12 @@
           "ptc": 3832.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3832.0,
+          "ptc": 2490.8,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -191092,6 +192833,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 2850.0,
+          "ptc": 1425.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 2850.0,
           "ptc": 1425.0,
           "dinamica": 0.5,
@@ -191545,6 +193292,12 @@
           "ptc": 3165.5,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4870.0,
+          "ptc": 3165.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -191994,6 +193747,12 @@
           "ptc": 4557.0,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 6076.0,
+          "ptc": 3645.6,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -192439,6 +194198,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 2850.0,
+          "ptc": 1425.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 2850.0,
           "ptc": 1425.0,
           "dinamica": 0.5,
@@ -192892,6 +194657,12 @@
           "ptc": 4113.2,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 6328.0,
+          "ptc": 3796.8,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -193341,6 +195112,12 @@
           "ptc": 2815.15,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4331.0,
+          "ptc": 2165.5,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -193786,6 +195563,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4305.0,
+          "ptc": 4305.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4305.0,
           "ptc": 4305.0,
           "dinamica": 0.0,
@@ -194239,6 +196022,12 @@
           "ptc": 3165.5,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4870.0,
+          "ptc": 3165.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -194684,6 +196473,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3699.0,
+          "ptc": 2404.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3699.0,
           "ptc": 2404.35,
           "dinamica": 0.35,
@@ -195137,6 +196932,12 @@
           "ptc": 3648.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 7296.0,
+          "ptc": 3648.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -195582,6 +197383,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3150.0,
+          "ptc": 1575.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3150.0,
           "ptc": 1575.0,
           "dinamica": 0.5,
@@ -196035,6 +197842,12 @@
           "ptc": 5530.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5530.0,
+          "ptc": 5530.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -196480,6 +198293,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3600.0,
+          "ptc": 1798.92,
+          "dinamica": 0.5003,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3600.0,
           "ptc": 1798.92,
           "dinamica": 0.5003,
@@ -196933,6 +198752,12 @@
           "ptc": 3648.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 7296.0,
+          "ptc": 3648.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -197378,6 +199203,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3299.0,
+          "ptc": 2144.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3299.0,
           "ptc": 2144.35,
           "dinamica": 0.35,
@@ -197831,6 +199662,12 @@
           "ptc": 5410.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5410.0,
+          "ptc": 5410.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -198276,6 +200113,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 2830.0,
+          "ptc": 1839.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 2830.0,
           "ptc": 1839.5,
           "dinamica": 0.35,
@@ -198729,6 +200572,12 @@
           "ptc": 3395.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3395.0,
+          "ptc": 2037.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -199174,6 +201023,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 3299.0,
+          "ptc": 2144.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 3299.0,
           "ptc": 2144.35,
           "dinamica": 0.35,
@@ -199627,6 +201482,12 @@
           "ptc": 3067.35,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4719.0,
+          "ptc": 3067.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -200076,6 +201937,12 @@
           "ptc": 3395.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3395.0,
+          "ptc": 2037.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -200521,6 +202388,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4800.0,
+          "ptc": 4800.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4800.0,
           "ptc": 4800.0,
           "dinamica": 0.0,
@@ -200974,6 +202847,12 @@
           "ptc": 4649.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4649.0,
+          "ptc": 4649.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -201419,6 +203298,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3499.0,
+          "ptc": 3499.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3499.0,
           "ptc": 3499.0,
           "dinamica": 0.0,
@@ -201872,6 +203757,12 @@
           "ptc": 2593.5,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3990.0,
+          "ptc": 2593.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -202317,6 +204208,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3895.0,
+          "ptc": 3895.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3895.0,
           "ptc": 3895.0,
           "dinamica": 0.0,
@@ -202770,6 +204667,12 @@
           "ptc": 2014.5,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 4029.0,
+          "ptc": 2014.5,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -203215,6 +205118,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5091.0,
+          "ptc": 5091.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5091.0,
           "ptc": 5091.0,
           "dinamica": 0.0,
@@ -203668,6 +205577,12 @@
           "ptc": 5900.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5900.0,
+          "ptc": 5900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -204113,6 +206028,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3400.0,
+          "ptc": 1700.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3400.0,
           "ptc": 1700.0,
           "dinamica": 0.5,
@@ -204566,6 +206487,12 @@
           "ptc": 2075.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 4150.0,
+          "ptc": 2075.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -205011,6 +206938,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4800.0,
+          "ptc": 4800.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4800.0,
           "ptc": 4800.0,
           "dinamica": 0.0,
@@ -205464,6 +207397,12 @@
           "ptc": 3625.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3625.0,
+          "ptc": 3625.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -205909,6 +207848,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4649.0,
+          "ptc": 4649.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4649.0,
           "ptc": 4649.0,
           "dinamica": 0.0,
@@ -206362,6 +208307,12 @@
           "ptc": 4670.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4670.0,
+          "ptc": 4670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -206807,6 +208758,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3590.0,
+          "ptc": 1795.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3590.0,
           "ptc": 1795.0,
           "dinamica": 0.5,
@@ -207260,6 +209217,12 @@
           "ptc": 3387.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3387.0,
+          "ptc": 3387.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -207705,6 +209668,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4670.0,
+          "ptc": 4670.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4670.0,
           "ptc": 4670.0,
           "dinamica": 0.0,
@@ -208158,6 +210127,12 @@
           "ptc": 4740.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4740.0,
+          "ptc": 4740.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -208603,6 +210578,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 6599.0,
+          "ptc": 4289.35,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 6599.0,
           "ptc": 4289.35,
           "dinamica": 0.35,
@@ -209056,6 +211037,12 @@
           "ptc": 3841.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3841.0,
+          "ptc": 3841.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -209501,6 +211488,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3285.0,
+          "ptc": 3285.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3285.0,
           "ptc": 3285.0,
           "dinamica": 0.0,
@@ -209954,6 +211947,12 @@
           "ptc": 3285.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3285.0,
+          "ptc": 3285.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -210399,6 +212398,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3285.0,
+          "ptc": 3285.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3285.0,
           "ptc": 3285.0,
           "dinamica": 0.0,
@@ -210852,6 +212857,12 @@
           "ptc": 1850.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 3700.0,
+          "ptc": 1850.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -211297,6 +213308,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4740.0,
+          "ptc": 4740.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4740.0,
           "ptc": 4740.0,
           "dinamica": 0.0,
@@ -211750,6 +213767,12 @@
           "ptc": 4740.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4740.0,
+          "ptc": 4740.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -212195,6 +214218,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3170.0,
+          "ptc": 3170.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3170.0,
           "ptc": 3170.0,
           "dinamica": 0.0,
@@ -212648,6 +214677,12 @@
           "ptc": 3781.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3781.0,
+          "ptc": 3781.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -213093,6 +215128,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 5430.0,
+          "ptc": 3529.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 5430.0,
           "ptc": 3529.5,
           "dinamica": 0.35,
@@ -213546,6 +215587,12 @@
           "ptc": 3637.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3637.0,
+          "ptc": 3637.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -213995,6 +216042,12 @@
           "ptc": 3395.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3395.0,
+          "ptc": 2037.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -214440,6 +216493,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4029.0,
+          "ptc": 4029.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4029.0,
           "ptc": 4029.0,
           "dinamica": 0.0,
@@ -214893,6 +216952,12 @@
           "ptc": 3871.7,
           "dinamica": 0.3,
           "promo_nominal": "30%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 5531.0,
+          "ptc": 3871.7,
+          "dinamica": 0.3,
+          "promo_nominal": "30%Dto"
         }
       }
     },
@@ -215342,6 +217407,12 @@
           "ptc": 5265.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5265.0,
+          "ptc": 3422.25,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -215791,6 +217862,12 @@
           "ptc": 4301.25,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 5735.0,
+          "ptc": 3441.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -216236,6 +218313,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3170.0,
+          "ptc": 3170.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3170.0,
           "ptc": 3170.0,
           "dinamica": 0.0,
@@ -216689,6 +218772,12 @@
           "ptc": 1850.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 3700.0,
+          "ptc": 1850.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -217134,6 +219223,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3700.0,
+          "ptc": 1850.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3700.0,
           "ptc": 1850.0,
           "dinamica": 0.5,
@@ -217587,6 +219682,12 @@
           "ptc": 4100.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 4100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -218036,6 +220137,12 @@
           "ptc": 4557.0,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 6076.0,
+          "ptc": 3645.6,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -218481,6 +220588,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 24692.0,
+          "ptc": 16049.8,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 24692.0,
           "ptc": 16049.8,
           "dinamica": 0.35,
@@ -218934,6 +221047,12 @@
           "ptc": 5900.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5900.0,
+          "ptc": 5900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -219379,6 +221498,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4740.0,
+          "ptc": 4740.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4740.0,
           "ptc": 4740.0,
           "dinamica": 0.0,
@@ -219832,6 +221957,12 @@
           "ptc": 2781.35,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4279.0,
+          "ptc": 2139.5,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -220277,6 +222408,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3781.0,
+          "ptc": 3781.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3781.0,
           "ptc": 3781.0,
           "dinamica": 0.0,
@@ -220730,6 +222867,12 @@
           "ptc": 4740.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4740.0,
+          "ptc": 4740.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -221175,6 +223318,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 20400.0,
+          "ptc": 10200.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 20400.0,
           "ptc": 10200.0,
           "dinamica": 0.5,
@@ -221628,6 +223777,12 @@
           "ptc": 4290.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4290.0,
+          "ptc": 4290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -222073,6 +224228,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4900.0,
+          "ptc": 4900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4900.0,
           "ptc": 4900.0,
           "dinamica": 0.0,
@@ -222526,6 +224687,12 @@
           "ptc": 4649.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4649.0,
+          "ptc": 4649.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -222975,6 +225142,12 @@
           "ptc": 4340.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4340.0,
+          "ptc": 2604.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -223420,6 +225593,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 12900.0,
+          "ptc": 6450.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 12900.0,
           "ptc": 6450.0,
           "dinamica": 0.5,
@@ -223873,6 +226052,12 @@
           "ptc": 4100.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 4100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -224322,6 +226507,12 @@
           "ptc": 4340.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4340.0,
+          "ptc": 2604.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -224771,6 +226962,12 @@
           "ptc": 4340.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4340.0,
+          "ptc": 2604.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -225216,6 +227413,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3700.0,
+          "ptc": 1850.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3700.0,
           "ptc": 1850.0,
           "dinamica": 0.5,
@@ -225669,6 +227872,12 @@
           "ptc": 7829.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7829.0,
+          "ptc": 7829.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -226114,6 +228323,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4990.0,
+          "ptc": 4990.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4990.0,
           "ptc": 4990.0,
           "dinamica": 0.0,
@@ -226567,6 +228782,12 @@
           "ptc": 3787.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3787.0,
+          "ptc": 3787.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -227012,6 +229233,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 7129.0,
+          "ptc": 7129.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 7129.0,
           "ptc": 7129.0,
           "dinamica": 0.0,
@@ -227465,6 +229692,12 @@
           "ptc": 3848.0,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 5920.0,
+          "ptc": 3848.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -227914,6 +230147,12 @@
           "ptc": 6739.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6739.0,
+          "ptc": 6739.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -228359,6 +230598,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 8549.0,
+          "ptc": 8549.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 8549.0,
           "ptc": 8549.0,
           "dinamica": 0.0,
@@ -228813,6 +231058,12 @@
           "ptc": 7489.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7489.0,
+          "ptc": 7489.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -229262,6 +231513,12 @@
           "ptc": 9159.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 9159.0,
+          "ptc": 9159.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -229707,6 +231964,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5000.0,
+          "ptc": 5000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5000.0,
           "ptc": 5000.0,
           "dinamica": 0.0,
@@ -230364,6 +232627,12 @@
           "ptc": 6000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6000.0,
+          "ptc": 6000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -230854,6 +233123,12 @@
           "ptc": 5109.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5109.0,
+          "ptc": 5109.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -231316,6 +233591,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2300.0,
+          "ptc": 2300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2300.0,
           "ptc": 2300.0,
           "dinamica": 0.0,
@@ -231816,6 +234097,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4400.0,
           "ptc": 4400.0,
           "dinamica": 0.0,
@@ -232337,6 +234624,12 @@
           "ptc": 1830.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1830.0,
+          "ptc": 1830.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -232829,6 +235122,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3500.0,
+          "ptc": 3500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3500.0,
           "ptc": 3500.0,
           "dinamica": 0.0,
@@ -233384,6 +235683,12 @@
           "ptc": 4400.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -233521,6 +235826,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3750.0,
+          "ptc": 1875.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3750.0,
           "ptc": 1875.0,
           "dinamica": 0.5,
@@ -233974,6 +236285,12 @@
           "ptc": 3180.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3180.0,
+          "ptc": 3180.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -234298,6 +236615,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3750.0,
+          "ptc": 1875.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3750.0,
           "ptc": 1875.0,
           "dinamica": 0.5,
@@ -234819,6 +237142,12 @@
           "ptc": 3555.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3555.0,
+          "ptc": 3555.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -235315,6 +237644,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2461.0,
+          "ptc": 2461.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2461.0,
           "ptc": 2461.0,
           "dinamica": 0.0,
@@ -235972,6 +238307,12 @@
           "ptc": 4400.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -236472,6 +238813,12 @@
           "ptc": 4420.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4420.0,
+          "ptc": 4420.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -236917,6 +239264,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 6390.0,
+          "ptc": 6390.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 6390.0,
           "ptc": 6390.0,
           "dinamica": 0.0,
@@ -237388,6 +239741,12 @@
           "ptc": 2563.5,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3418.0,
+          "ptc": 2050.8,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -237905,6 +240264,12 @@
           "ptc": 5000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5000.0,
+          "ptc": 3645.6,
+          "dinamica": 0.2709,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -238371,6 +240736,12 @@
           "ptc": 1830.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1830.0,
+          "ptc": 1830.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -238646,6 +241017,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 7190.0,
+          "ptc": 7190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 7190.0,
           "ptc": 7190.0,
           "dinamica": 0.0,
@@ -239095,6 +241472,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4400.0,
+          "ptc": 4400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4400.0,
           "ptc": 4400.0,
           "dinamica": 0.0,
@@ -239565,6 +241948,12 @@
           "ptc": 4725.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4725.0,
+          "ptc": 2565.0,
+          "dinamica": 0.4571,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -240269,6 +242658,12 @@
           "ptc": 3300.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3300.0,
+          "ptc": 3300.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -240782,6 +243177,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4055.0,
+          "ptc": 4055.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4055.0,
           "ptc": 4055.0,
           "dinamica": 0.0,
@@ -241303,6 +243704,12 @@
           "ptc": 3586.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3586.0,
+          "ptc": 3586.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -241820,6 +244227,12 @@
           "ptc": 6200.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6200.0,
+          "ptc": 6200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -242320,6 +244733,12 @@
           "ptc": 6200.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6200.0,
+          "ptc": 3528.0,
+          "dinamica": 0.431,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -242765,6 +245184,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4423.0,
+          "ptc": 4423.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4423.0,
           "ptc": 4423.0,
           "dinamica": 0.0,
@@ -243303,6 +245728,12 @@
           "ptc": 2650.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2650.0,
+          "ptc": 2650.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -243837,6 +246268,12 @@
           "ptc": 4450.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4450.0,
+          "ptc": 4450.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -244303,6 +246740,12 @@
           "ptc": 4420.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4420.0,
+          "ptc": 4420.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -244752,6 +247195,12 @@
           "ptc": 6190.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 6190.0,
+          "ptc": 6190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -245197,6 +247646,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2800.0,
+          "ptc": 2800.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2800.0,
           "ptc": 2800.0,
           "dinamica": 0.0,
@@ -245786,6 +248241,12 @@
           "ptc": 3961.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3961.0,
+          "ptc": 3961.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -246112,6 +248573,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 7190.0,
+          "ptc": 7190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 7190.0,
           "ptc": 7190.0,
           "dinamica": 0.0,
@@ -246973,6 +249440,12 @@
           "ptc": 4450.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4450.0,
+          "ptc": 4450.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -247263,6 +249736,12 @@
           "ptc": 1045.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 2090.0,
+          "ptc": 1045.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -247534,6 +250013,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 1340.0,
+          "ptc": 670.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 1340.0,
           "ptc": 670.0,
           "dinamica": 0.5,
@@ -248708,6 +251193,12 @@
           "ptc": 2580.0,
           "dinamica": 0.4,
           "promo_nominal": "40% GROLSCH | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4300.0,
+          "ptc": 2580.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -249043,6 +251534,12 @@
           "ptc": 2275.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3500.0,
+          "ptc": 2275.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -249570,6 +252067,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 6200.0,
+          "ptc": 6200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 6200.0,
           "ptc": 6200.0,
           "dinamica": 0.0,
@@ -251354,6 +253857,12 @@
           "ptc": 2203.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3390.0,
+          "ptc": 2203.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -252410,6 +254919,12 @@
           "ptc": 2159.3,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3490.0,
+          "ptc": 2268.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -253168,6 +255683,12 @@
           "ptc": 4740.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4740.0,
+          "ptc": 4740.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -253607,6 +256128,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 2101.0,
+          "ptc": 1365.65,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 2101.0,
           "ptc": 1365.65,
           "dinamica": 0.35,
@@ -254401,6 +256928,12 @@
           "ptc": 2075.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 4150.0,
+          "ptc": 2075.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -254840,6 +257373,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 2850.0,
+          "ptc": 1425.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 2850.0,
           "ptc": 1425.0,
           "dinamica": 0.5,
@@ -255287,6 +257826,12 @@
           "ptc": 1750.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1750.0,
+          "ptc": 1750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -255726,6 +258271,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 2490.0,
+          "ptc": 1245.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 2490.0,
           "ptc": 1245.0,
           "dinamica": 0.5,
@@ -256173,6 +258724,12 @@
           "ptc": 3605.25,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4807.0,
+          "ptc": 3605.25,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
         }
       }
     },
@@ -256456,6 +259013,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3500.0,
+          "ptc": 3500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3500.0,
           "ptc": 3500.0,
           "dinamica": 0.0,
@@ -256903,6 +259466,12 @@
           "ptc": 2692.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2692.0,
+          "ptc": 2692.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -257346,6 +259915,12 @@
           "ptc": 2726.25,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3635.0,
+          "ptc": 2181.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -257789,6 +260364,12 @@
           "ptc": 2563.5,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3418.0,
+          "ptc": 2050.8,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -258228,6 +260809,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 4163.0,
+          "ptc": 2705.95,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 4163.0,
           "ptc": 2705.95,
           "dinamica": 0.35,
@@ -258675,6 +261262,12 @@
           "ptc": 1933.1,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2974.0,
+          "ptc": 1784.4,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -259118,6 +261711,12 @@
           "ptc": 4340.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4340.0,
+          "ptc": 2604.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -259557,6 +262156,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3700.0,
+          "ptc": 1850.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3700.0,
           "ptc": 1850.0,
           "dinamica": 0.5,
@@ -260004,6 +262609,12 @@
           "ptc": 4015.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4015.0,
+          "ptc": 2409.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -260890,6 +263501,12 @@
           "ptc": 2565.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 5130.0,
+          "ptc": 2565.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -261329,6 +263946,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3490.0,
+          "ptc": 1745.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 3490.0,
           "ptc": 1745.0,
           "dinamica": 0.5,
@@ -261776,6 +264399,12 @@
           "ptc": 3606.0,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4808.0,
+          "ptc": 3365.6,
+          "dinamica": 0.3,
+          "promo_nominal": "30%Dto"
         }
       }
     },
@@ -262219,6 +264848,12 @@
           "ptc": 3188.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3188.0,
+          "ptc": 2072.2,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -262662,6 +265297,12 @@
           "ptc": 2726.25,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3635.0,
+          "ptc": 2181.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -263105,6 +265746,12 @@
           "ptc": 2726.25,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3635.0,
+          "ptc": 2181.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -263544,6 +266191,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5359.0,
+          "ptc": 5359.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5359.0,
           "ptc": 5359.0,
           "dinamica": 0.0,
@@ -263991,6 +266644,12 @@
           "ptc": 2565.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 5130.0,
+          "ptc": 2565.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -264430,6 +267089,12 @@
           "promo_nominal": "25%Dto"
         },
         "2026-11-01": {
+          "fleje": 4057.0,
+          "ptc": 3042.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
           "fleje": 4057.0,
           "ptc": 3042.75,
           "dinamica": 0.25,
@@ -264877,6 +267542,12 @@
           "ptc": 3000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 3000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -265316,6 +267987,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 6173.0,
+          "ptc": 4012.45,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 6173.0,
           "ptc": 4012.45,
           "dinamica": 0.35,
@@ -265763,6 +268440,12 @@
           "ptc": 3590.25,
           "dinamica": 0.25,
           "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 4787.0,
+          "ptc": 2872.2,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -266206,6 +268889,12 @@
           "ptc": 7590.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7590.0,
+          "ptc": 7590.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -266645,6 +269334,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 5130.0,
+          "ptc": 2565.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
           "fleje": 5130.0,
           "ptc": 2565.0,
           "dinamica": 0.5,
@@ -267391,6 +270086,12 @@
           "ptc": 1749.8,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2692.0,
+          "ptc": 1749.8,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
         }
       }
     },
@@ -267830,6 +270531,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 75990.0,
+          "ptc": 75990.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 75990.0,
           "ptc": 75990.0,
           "dinamica": 0.0,
@@ -268277,6 +270984,12 @@
           "ptc": 7329.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7329.0,
+          "ptc": 7329.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -268716,6 +271429,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3310.0,
+          "ptc": 3310.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3310.0,
           "ptc": 3310.0,
           "dinamica": 0.0,
@@ -269163,6 +271882,12 @@
           "ptc": 5790.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5790.0,
+          "ptc": 5790.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -269602,6 +272327,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2120.0,
+          "ptc": 2120.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2120.0,
           "ptc": 2120.0,
           "dinamica": 0.0,
@@ -270049,6 +272780,12 @@
           "ptc": 3150.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -270488,6 +273225,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3709.0,
+          "ptc": 3709.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3709.0,
           "ptc": 3709.0,
           "dinamica": 0.0,
@@ -270935,6 +273678,12 @@
           "ptc": 5130.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5130.0,
+          "ptc": 5130.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -271374,6 +274123,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2680.0,
+          "ptc": 2680.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2680.0,
           "ptc": 2680.0,
           "dinamica": 0.0,
@@ -271821,6 +274576,12 @@
           "ptc": 2680.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2680.0,
+          "ptc": 2680.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -272264,6 +275025,12 @@
           "ptc": 4283.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4283.0,
+          "ptc": 2569.8,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -272697,6 +275464,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 4163.0,
+          "ptc": 2705.95,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 4163.0,
           "ptc": 2705.95,
           "dinamica": 0.35,
@@ -273144,6 +275917,12 @@
           "ptc": 4340.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4340.0,
+          "ptc": 2604.0,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -273559,6 +276338,12 @@
           "promo_nominal": "2x1"
         },
         "2026-11-01": {
+          "fleje": 3500.0,
+          "ptc": 3500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3500.0,
           "ptc": 3500.0,
           "dinamica": 0.0,
@@ -275437,6 +278222,12 @@
           "ptc": 2520.0,
           "dinamica": 0.3,
           "promo_nominal": "30% Almacen | Ecommerce"
+        },
+        "2026-11-02": {
+          "fleje": 3600.0,
+          "ptc": 1980.0,
+          "dinamica": 0.45,
+          "promo_nominal": "CYBER 45% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -276657,6 +279448,12 @@
           "ptc": 2138.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPABREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3290.0,
+          "ptc": 3290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -277028,6 +279825,12 @@
           "ptc": 2528.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3890.0,
+          "ptc": 3890.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -277399,6 +280202,12 @@
           "ptc": 2528.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3890.0,
+          "ptc": 3890.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -277734,6 +280543,12 @@
           "ptc": 2788.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4290.0,
+          "ptc": 4290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -278755,6 +281570,12 @@
           "ptc": 2138.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPABREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3290.0,
+          "ptc": 3290.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -309304,6 +312125,12 @@
           "ptc": 3330.0,
           "dinamica": 0.1,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3700.0,
+          "ptc": 3330.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
       }
     },
@@ -309451,6 +312278,12 @@
         "2026-11-01": {
           "fleje": 4900.0,
           "ptc": 4900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5050.0,
+          "ptc": 5050.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -309625,6 +312458,12 @@
           "ptc": 5000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5200.0,
+          "ptc": 5200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -309710,6 +312549,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4950.0,
+          "ptc": 4950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4950.0,
           "ptc": 4950.0,
           "dinamica": 0.0,
@@ -309913,6 +312758,12 @@
         "2026-11-01": {
           "fleje": 4690.0,
           "ptc": 4690.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4890.0,
+          "ptc": 4890.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -310888,6 +313739,12 @@
           "ptc": 2047.5,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% PAMPA BREWING | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3150.0,
+          "ptc": 3150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -311278,6 +314135,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3350.0,
+          "ptc": 3350.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3350.0,
           "ptc": 3350.0,
           "dinamica": 0.0,
@@ -311830,6 +314693,12 @@
           "ptc": 5700.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5700.0,
+          "ptc": 5700.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -312377,6 +315246,12 @@
           "ptc": 2400.0,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3200.0,
+          "ptc": 2400.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% MICHELOB | Ofertas Internas"
         }
       }
     },
@@ -312854,6 +315729,12 @@
           "ptc": 3892.5,
           "dinamica": 0.25,
           "promo_nominal": "25% PATAGONIA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5190.0,
+          "ptc": 2595.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -313976,6 +316857,12 @@
           "ptc": 7000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7000.0,
+          "ptc": 7000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -314283,6 +317170,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 7500.0,
+          "ptc": 7500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 7500.0,
           "ptc": 7500.0,
           "dinamica": 0.0,
@@ -315555,6 +318448,12 @@
           "ptc": 9200.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 9200.0,
+          "ptc": 9200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -315866,6 +318765,12 @@
           "ptc": 5110.0,
           "dinamica": 0.3,
           "promo_nominal": "30% PATAGONIA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 7300.0,
+          "ptc": 3650.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -316259,6 +319164,12 @@
           "ptc": 3180.0,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% BLUE MOON | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 5300.0,
+          "ptc": 3180.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% BLUE MOON | Ofertas Internas"
         }
       }
     },
@@ -316328,6 +319239,12 @@
           "ptc": 4140.0,
           "dinamica": 0.4,
           "promo_nominal": "40% WARSTEINER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6900.0,
+          "ptc": 4140.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -316991,6 +319908,12 @@
           "ptc": 3022.5,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4650.0,
+          "ptc": 3487.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -317318,6 +320241,12 @@
           "ptc": 4500.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4500.0,
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -317508,6 +320437,12 @@
           "ptc": 3090.0,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% BLUE MOON | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 5400.0,
+          "ptc": 3240.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -317583,6 +320518,12 @@
           "ptc": 4320.0,
           "dinamica": 0.4,
           "promo_nominal": "40% WARSTEINER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7200.0,
+          "ptc": 4320.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -318311,6 +321252,12 @@
           "ptc": 7000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7000.0,
+          "ptc": 7000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -318606,6 +321553,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4600.0,
+          "ptc": 4600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4600.0,
           "ptc": 4600.0,
           "dinamica": 0.0,
@@ -319082,6 +322035,12 @@
           "ptc": 7200.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 7200.0,
+          "ptc": 7200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -319243,6 +322202,12 @@
           "ptc": 2788.5,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4290.0,
+          "ptc": 2145.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -319312,6 +322277,12 @@
           "ptc": 3830.4,
           "dinamica": 0.4,
           "promo_nominal": "40% WARSTEINER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6690.0,
+          "ptc": 4014.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -320194,6 +323165,12 @@
           "ptc": 3737.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5750.0,
+          "ptc": 3737.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -321311,6 +324288,12 @@
           "ptc": 3900.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6000.0,
+          "ptc": 3900.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -321556,6 +324539,12 @@
           "ptc": 3568.5,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5490.0,
+          "ptc": 3568.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -321915,6 +324904,12 @@
           "ptc": 1917.5,
           "dinamica": 0.35,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2950.0,
+          "ptc": 1917.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
         }
       }
     },
@@ -322270,6 +325265,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2950.0,
+          "ptc": 1917.5,
+          "dinamica": 0.35,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2950.0,
           "ptc": 1917.5,
           "dinamica": 0.35,
@@ -323311,6 +326312,12 @@
           "ptc": 3442.5,
           "dinamica": 0.25,
           "promo_nominal": "25% QUILMES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4590.0,
+          "ptc": 3442.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -324229,6 +327236,12 @@
           "ptc": 5130.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5130.0,
+          "ptc": 5130.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -324482,6 +327495,12 @@
           "promo_nominal": "25%Dto"
         },
         "2026-11-01": {
+          "fleje": 2365.0,
+          "ptc": 1773.75,
+          "dinamica": 0.25,
+          "promo_nominal": "25%Dto"
+        },
+        "2026-11-02": {
           "fleje": 2365.0,
           "ptc": 1773.75,
           "dinamica": 0.25,
@@ -324802,6 +327821,12 @@
           "fleje": 4210.0,
           "ptc": 3400.0,
           "dinamica": 0.1924,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4210.0,
+          "ptc": 2526.0,
+          "dinamica": 0.4,
           "promo_nominal": ""
         }
       }
@@ -327424,6 +330449,12 @@
           "ptc": 3600.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3600.0,
+          "ptc": 1980.0,
+          "dinamica": 0.45,
+          "promo_nominal": ""
         }
       }
     },
@@ -327639,6 +330670,12 @@
           "ptc": 2990.0,
           "dinamica": 0.35,
           "promo_nominal": "2do al 70% RABIETA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4600.0,
+          "ptc": 4600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -327782,6 +330819,12 @@
           "ptc": 2730.0,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA ARTOIS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4200.0,
+          "ptc": 4200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -328769,6 +331812,12 @@
           "ptc": 3058.25,
           "dinamica": 0.35,
           "promo_nominal": "35% CORONA | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4705.0,
+          "ptc": 3058.25,
+          "dinamica": 0.35,
+          "promo_nominal": "35% CORONA | Ofertas Internas"
         }
       }
     },
@@ -328938,6 +331987,12 @@
           "promo_nominal": "35% CORONA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 4705.0,
+          "ptc": 3058.25,
+          "dinamica": 0.35,
+          "promo_nominal": "35% CORONA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 4705.0,
           "ptc": 3058.25,
           "dinamica": 0.35,
@@ -329120,6 +332175,12 @@
           "ptc": 4690.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4690.0,
+          "ptc": 3283.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -329302,6 +332363,12 @@
         "2026-11-01": {
           "fleje": 4950.0,
           "ptc": 4950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5050.0,
+          "ptc": 5050.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -329564,6 +332631,12 @@
         "2026-11-01": {
           "fleje": 5000.0,
           "ptc": 5000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5100.0,
+          "ptc": 5100.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -330179,6 +333252,12 @@
           "ptc": 1700.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1"
+        },
+        "2026-11-02": {
+          "fleje": 3400.0,
+          "ptc": 1700.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1"
         }
       }
     },
@@ -330304,6 +333383,12 @@
           "ptc": 2400.0,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3200.0,
+          "ptc": 2080.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -330439,6 +333524,12 @@
         "2026-11-01": {
           "fleje": 4950.0,
           "ptc": 4950.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5050.0,
+          "ptc": 5050.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -330679,6 +333770,12 @@
           "ptc": 5000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 5200.0,
+          "ptc": 5200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -330913,6 +334010,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3200.0,
+          "ptc": 3200.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3200.0,
           "ptc": 3200.0,
           "dinamica": 0.0,
@@ -331448,6 +334551,12 @@
           "ptc": 4150.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4150.0,
+          "ptc": 4150.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -331581,6 +334690,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4500.0,
+          "ptc": 4500.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4500.0,
           "ptc": 4500.0,
           "dinamica": 0.0,
@@ -331813,6 +334928,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4250.0,
+          "ptc": 4250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4250.0,
           "ptc": 4250.0,
           "dinamica": 0.0,
@@ -332090,6 +335211,12 @@
           "ptc": 3450.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3450.0,
+          "ptc": 3450.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -332245,6 +335372,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 4600.0,
+          "ptc": 4600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 4600.0,
           "ptc": 4600.0,
           "dinamica": 0.0,
@@ -332517,6 +335650,12 @@
           "ptc": 3250.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3250.0,
+          "ptc": 3250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -332664,6 +335803,12 @@
         "2026-11-01": {
           "fleje": 4690.0,
           "ptc": 4690.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4790.0,
+          "ptc": 4790.0,
           "dinamica": 0.0,
           "promo_nominal": ""
         }
@@ -333208,6 +336353,12 @@
           "ptc": 4062.5,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6250.0,
+          "ptc": 6250.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -333339,6 +336490,12 @@
           "ptc": 1755.0,
           "dinamica": 0.35,
           "promo_nominal": "35% QUILMES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 2700.0,
+          "ptc": 1755.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -333470,6 +336627,12 @@
           "ptc": 3913.0,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6190.0,
+          "ptc": 6190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -333589,6 +336752,12 @@
           "ptc": 2392.5,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3190.0,
+          "ptc": 2073.5,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -334256,6 +337425,12 @@
           "ptc": 3675.0,
           "dinamica": 0.25,
           "promo_nominal": "25% PERONI | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4900.0,
+          "ptc": 4900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -334387,6 +337562,12 @@
           "ptc": 4217.2,
           "dinamica": 0.35,
           "promo_nominal": "35% HEINEKEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 6750.0,
+          "ptc": 6750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -334583,6 +337764,12 @@
           "ptc": 3675.0,
           "dinamica": 0.25,
           "promo_nominal": "25% PERONI | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4900.0,
+          "ptc": 4900.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -334684,6 +337871,12 @@
           "ptc": 2400.0,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3200.0,
+          "ptc": 2080.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -334781,6 +337974,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 2150.0,
+          "ptc": 1612.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 2150.0,
           "ptc": 1612.5,
           "dinamica": 0.25,
@@ -334888,6 +338087,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 2190.0,
+          "ptc": 1642.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 2190.0,
           "ptc": 1642.5,
           "dinamica": 0.25,
@@ -335141,6 +338346,12 @@
           "ptc": 3294.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5490.0,
+          "ptc": 3294.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -335230,6 +338441,12 @@
           "ptc": 2310.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 3850.0,
+          "ptc": 2310.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -335325,6 +338542,12 @@
           "ptc": 3420.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5700.0,
+          "ptc": 3420.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -335426,6 +338649,12 @@
           "ptc": 2304.6,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4100.0,
+          "ptc": 2460.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -335523,6 +338752,12 @@
           "promo_nominal": "25% BRAHMA | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 2150.0,
+          "ptc": 1612.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% BRAHMA | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 2150.0,
           "ptc": 1612.5,
           "dinamica": 0.25,
@@ -335628,6 +338863,12 @@
           "ptc": 3363.0,
           "dinamica": 0.4,
           "promo_nominal": "40% MILLER | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5900.0,
+          "ptc": 3540.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -336598,6 +339839,12 @@
           "ptc": 8750.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 8750.0,
+          "ptc": 8750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -336677,6 +339924,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5600.0,
+          "ptc": 5600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5600.0,
           "ptc": 5600.0,
           "dinamica": 0.0,
@@ -336764,6 +340017,12 @@
           "ptc": 51400.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 51400.0,
+          "ptc": 51400.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -336847,6 +340106,12 @@
           "ptc": 9000.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 9000.0,
+          "ptc": 9000.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -336926,6 +340191,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 5750.0,
+          "ptc": 5750.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 5750.0,
           "ptc": 5750.0,
           "dinamica": 0.0,
@@ -337039,6 +340310,12 @@
           "promo_nominal": "35%Dto"
         },
         "2026-11-01": {
+          "fleje": 2830.0,
+          "ptc": 1839.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
           "fleje": 2830.0,
           "ptc": 1839.5,
           "dinamica": 0.35,
@@ -337162,6 +340439,12 @@
           "ptc": 2700.0,
           "dinamica": 0.1,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 2700.0,
+          "dinamica": 0.1,
+          "promo_nominal": ""
         }
       }
     },
@@ -337245,6 +340528,12 @@
           "ptc": 3407.3,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5242.0,
+          "ptc": 3407.3,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -337324,6 +340613,12 @@
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 16990.0,
+          "ptc": 12742.5,
+          "dinamica": 0.25,
+          "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 16990.0,
           "ptc": 12742.5,
           "dinamica": 0.25,
@@ -337518,6 +340813,12 @@
           "ptc": 3510.0,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5400.0,
+          "ptc": 3510.0,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -337595,6 +340896,12 @@
           "ptc": 4200.0,
           "dinamica": 0.25,
           "promo_nominal": "25% ASAHI | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5600.0,
+          "ptc": 3920.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -337672,6 +340979,12 @@
           "ptc": 3677.05,
           "dinamica": 0.35,
           "promo_nominal": "35% IMPERIAL | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5657.0,
+          "ptc": 3677.05,
+          "dinamica": 0.35,
+          "promo_nominal": "CYBER 35% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -337749,6 +341062,12 @@
           "ptc": 4162.5,
           "dinamica": 0.25,
           "promo_nominal": "25% ASAHI | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5550.0,
+          "ptc": 3885.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -337822,6 +341141,12 @@
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 17000.0,
+          "ptc": 12750.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 17000.0,
           "ptc": 12750.0,
           "dinamica": 0.25,
@@ -337968,6 +341293,12 @@
           "ptc": 3450.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5750.0,
+          "ptc": 3450.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -338044,6 +341375,12 @@
           "ptc": 1770.0,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% STONES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 2950.0,
+          "ptc": 1770.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% STONES | Ofertas Internas"
         }
       }
     },
@@ -338103,6 +341440,12 @@
           "ptc": 1950.0,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 1950.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
         }
       }
     },
@@ -338158,6 +341501,12 @@
           "promo_nominal": "35% Aging | Ecommerce"
         },
         "2026-11-01": {
+          "fleje": 11250.0,
+          "ptc": 7312.5,
+          "dinamica": 0.35,
+          "promo_nominal": "35% Aging | Ecommerce"
+        },
+        "2026-11-02": {
           "fleje": 11250.0,
           "ptc": 7312.5,
           "dinamica": 0.35,
@@ -338233,6 +341582,12 @@
           "ptc": 3450.0,
           "dinamica": 0.4,
           "promo_nominal": "40% ANDES | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5750.0,
+          "ptc": 3450.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -338321,6 +341676,12 @@
           "ptc": 1702.07,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% STONES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 2950.0,
+          "ptc": 1770.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% STONES | Ofertas Internas"
         }
       }
     },
@@ -338392,6 +341753,12 @@
           "ptc": 1852.5,
           "dinamica": 0.35,
           "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 3000.0,
+          "ptc": 1950.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35% SCHNEIDER | Ofertas Internas"
         }
       }
     },
@@ -338457,6 +341824,12 @@
           "ptc": 3698.5,
           "dinamica": 0.35,
           "promo_nominal": "35% ANDES ORIGEN | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5690.0,
+          "ptc": 3414.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -338546,6 +341919,12 @@
           "ptc": 1841.45,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2833.0,
+          "ptc": 1558.15,
+          "dinamica": 0.45,
+          "promo_nominal": "45%Dto"
         }
       }
     },
@@ -338631,6 +342010,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 3800.0,
+          "ptc": 3800.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 3800.0,
           "ptc": 3800.0,
           "dinamica": 0.0,
@@ -338724,6 +342109,12 @@
           "ptc": 1841.45,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 2833.0,
+          "ptc": 1558.15,
+          "dinamica": 0.45,
+          "promo_nominal": "45%Dto"
         }
       }
     },
@@ -338813,6 +342204,12 @@
           "ptc": 4248.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 4248.0,
+          "ptc": 2548.8,
+          "dinamica": 0.4,
+          "promo_nominal": "40%Dto"
         }
       }
     },
@@ -338902,6 +342299,12 @@
           "ptc": 2072.2,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3188.0,
+          "ptc": 1753.4,
+          "dinamica": 0.45,
+          "promo_nominal": "45%Dto"
         }
       }
     },
@@ -338991,6 +342394,12 @@
           "ptc": 2072.2,
           "dinamica": 0.35,
           "promo_nominal": "35%Dto"
+        },
+        "2026-11-02": {
+          "fleje": 3188.0,
+          "ptc": 1753.4,
+          "dinamica": 0.45,
+          "promo_nominal": "45%Dto"
         }
       }
     },
@@ -339073,6 +342482,12 @@
           "fleje": 2833.0,
           "ptc": 2833.0,
           "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2833.0,
+          "ptc": 1558.15,
+          "dinamica": 0.45,
           "promo_nominal": ""
         }
       }
@@ -339157,6 +342572,12 @@
           "ptc": 3188.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3188.0,
+          "ptc": 1753.4,
+          "dinamica": 0.45,
+          "promo_nominal": ""
         }
       }
     },
@@ -339239,6 +342660,12 @@
           "fleje": 3188.0,
           "ptc": 3188.0,
           "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 3188.0,
+          "ptc": 1753.4,
+          "dinamica": 0.45,
           "promo_nominal": ""
         }
       }
@@ -339323,6 +342750,12 @@
           "ptc": 2833.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 2833.0,
+          "ptc": 1558.15,
+          "dinamica": 0.45,
+          "promo_nominal": ""
         }
       }
     },
@@ -339402,6 +342835,12 @@
           "promo_nominal": ""
         },
         "2026-11-01": {
+          "fleje": 2690.0,
+          "ptc": 2690.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 2690.0,
           "ptc": 2690.0,
           "dinamica": 0.0,
@@ -339489,6 +342928,12 @@
           "ptc": 1090.0,
           "dinamica": 0.4233,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1890.0,
+          "ptc": 1090.0,
+          "dinamica": 0.4233,
+          "promo_nominal": ""
         }
       }
     },
@@ -339554,6 +342999,12 @@
           "ptc": 2795.0,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA ARTOIS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4300.0,
+          "ptc": 2150.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -339615,6 +343066,12 @@
           "promo_nominal": "2do al 80% STONES | Ofertas Internas"
         },
         "2026-11-01": {
+          "fleje": 2950.0,
+          "ptc": 1770.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% STONES | Ofertas Internas"
+        },
+        "2026-11-02": {
           "fleje": 2950.0,
           "ptc": 1770.0,
           "dinamica": 0.4,
@@ -339771,6 +343228,12 @@
           "ptc": 12750.0,
           "dinamica": 0.25,
           "promo_nominal": "25% MICHELOB | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 17000.0,
+          "ptc": 12750.0,
+          "dinamica": 0.25,
+          "promo_nominal": "25% MICHELOB | Ofertas Internas"
         }
       }
     },
@@ -339824,6 +343287,12 @@
           "ptc": 1770.0,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% STONES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 2950.0,
+          "ptc": 1770.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% STONES | Ofertas Internas"
         }
       }
     },
@@ -339871,6 +343340,12 @@
           "ptc": 4615.0,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA ARTOIS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7100.0,
+          "ptc": 7100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -339918,6 +343393,12 @@
           "ptc": 2450.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4900.0,
+          "ptc": 2450.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
         }
       }
     },
@@ -339947,6 +343428,12 @@
           "ptc": 2242.5,
           "dinamica": 0.35,
           "promo_nominal": "35% Almacen | Ecommerce"
+        },
+        "2026-11-02": {
+          "fleje": 3450.0,
+          "ptc": 2070.0,
+          "dinamica": 0.4,
+          "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -340006,6 +343493,12 @@
           "ptc": 4615.0,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA ARTOIS | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7100.0,
+          "ptc": 7100.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -340065,6 +343558,12 @@
           "ptc": 2491.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 4982.0,
+          "ptc": 2491.0,
+          "dinamica": 0.5,
+          "promo_nominal": "2x1 KUNSTMANN | Ofertas Internas"
         }
       }
     },
@@ -340112,6 +343611,12 @@
           "ptc": 4673.5,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 7190.0,
+          "ptc": 7190.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -340159,6 +343664,12 @@
           "ptc": 2788.5,
           "dinamica": 0.35,
           "promo_nominal": "35% STELLA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 4290.0,
+          "ptc": 2145.0,
+          "dinamica": 0.5,
+          "promo_nominal": "CYBER 2x1 CERVEZAS | Ecommerce"
         }
       }
     },
@@ -340323,6 +343834,12 @@
           "ptc": 1702.07,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% STONES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 2890.0,
+          "ptc": 1734.0,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% STONES | Ofertas Internas"
         }
       }
     },
@@ -340370,6 +343887,12 @@
           "ptc": 11210.4,
           "dinamica": 0.4,
           "promo_nominal": "40% SALTA | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 18684.0,
+          "ptc": 18684.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -340415,6 +343938,12 @@
         "2026-11-01": {
           "fleje": 2836.79,
           "ptc": 1702.07,
+          "dinamica": 0.4,
+          "promo_nominal": "2do al 80% STONES | Ofertas Internas"
+        },
+        "2026-11-02": {
+          "fleje": 2890.0,
+          "ptc": 1734.0,
           "dinamica": 0.4,
           "promo_nominal": "2do al 80% STONES | Ofertas Internas"
         }
@@ -340528,6 +344057,12 @@
           "ptc": 1490.0,
           "dinamica": 0.0,
           "promo_nominal": ""
+        },
+        "2026-11-02": {
+          "fleje": 1490.0,
+          "ptc": 1490.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -340551,6 +344086,12 @@
           "ptc": 4200.0,
           "dinamica": 0.25,
           "promo_nominal": "25% PERONI | Ofertas Trafico"
+        },
+        "2026-11-02": {
+          "fleje": 5600.0,
+          "ptc": 3920.0,
+          "dinamica": 0.3,
+          "promo_nominal": "CYBER 30% CERVEZAS | Ecommerce"
         }
       }
     },
@@ -340564,6 +344105,12 @@
       "segmento": "Sin clasificar",
       "dates": {
         "2026-11-01": {
+          "fleje": 12600.0,
+          "ptc": 12600.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
+        },
+        "2026-11-02": {
           "fleje": 12600.0,
           "ptc": 12600.0,
           "dinamica": 0.0,
