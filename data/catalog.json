@@ -7822,5 +7822,29 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bavaria-cerveza-rubia-baravia-premium-500-ml",
+    "marca": "Bavaria",
+    "sku": "Cerveza rubia Baravia Premium 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "la-trappe-cerveza-la-trappe-trappist-tripel-330ml",
+    "marca": "La Trappe",
+    "sku": "Cerveza La Trappe Trappist Tripel 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "la-trappe-cerveza-trappist-la-trappe-dubbel-330ml",
+    "marca": "La Trappe",
+    "sku": "Cerveza Trappist La Trappe Dubbel 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
