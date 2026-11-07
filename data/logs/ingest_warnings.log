@@ -1001,3 +1001,6 @@
 2026-11-04.csv: precio sospechoso -> 'Coto | Rabieta | Cerveza Ipa RABIETA Lata 473 Cc': subio 107% vs 2026-11-03 ($2075 -> $4300)
 2026-11-04.csv: precio sospechoso -> 'Coto | Rabieta | Cerveza Munich Helles Rabieta Lat 473 Cmq': subio 111% vs 2026-11-03 ($1850 -> $3900)
 2026-11-06.csv: SKU nuevo sin catalogo -> 'Dia | Stones | Cerveza Lemon Stone 473 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-07.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cerveza Lager 330 Ml Antares' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-07.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cerveza Antares Xpa 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-07.csv: SKU nuevo sin catalogo -> 'Disco | Antares | Cerveza Antares Lager 660 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)

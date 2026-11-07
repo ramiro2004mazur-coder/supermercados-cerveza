@@ -7854,5 +7854,29 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-lager-330-ml-antares",
+    "marca": "Antares",
+    "sku": "Cerveza Lager 330 Ml Antares",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-xpa-473-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Xpa 473 Ml",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "antares-cerveza-antares-lager-660-ml",
+    "marca": "Antares",
+    "sku": "Cerveza Antares Lager 660 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
