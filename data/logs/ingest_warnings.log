@@ -1004,3 +1004,6 @@
 2026-11-07.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cerveza Lager 330 Ml Antares' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-07.csv: SKU nuevo sin catalogo -> 'Jumbo | Antares | Cerveza Antares Xpa 473 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-07.csv: SKU nuevo sin catalogo -> 'Disco | Antares | Cerveza Antares Lager 660 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-09.csv: precio sospechoso -> 'Carrefour | Stella Artois | Cerveza Pure Gold Stella Artois en lata 473 ml': subio 150% vs 2026-11-08 ($1284 -> $3209)
+2026-11-09.csv: precio sospechoso -> 'Jumbo | Antares | Cerveza Lager 330 Ml Antares': subio 100% vs 2026-11-08 ($2262 -> $4525)
+2026-11-09.csv: precio sospechoso -> 'Disco | Antares | Cerveza Lager 330 Ml Antares': subio 100% vs 2026-11-08 ($2262 -> $4525)
