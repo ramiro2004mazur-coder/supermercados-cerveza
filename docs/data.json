@@ -93672,6 +93672,12 @@
           "ptc": 2310.0,
           "dinamica": 0.4,
           "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
+        },
+        "2026-11-11": {
+          "fleje": 3850.0,
+          "ptc": 3850.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       },
       "volumen_l": 0.473
@@ -118852,6 +118858,12 @@
           "ptc": 2795.0,
           "dinamica": 0.35,
           "promo_nominal": "35% Almacen | Ecommerce"
+        },
+        "2026-11-11": {
+          "fleje": 4300.0,
+          "ptc": 2795.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35% Almacen | Ecommerce"
         }
       },
       "volumen_l": 0.71
@@ -132946,6 +132958,12 @@
           "ptc": 1075.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1 QUILMES | Ofertas Trafico"
+        },
+        "2026-11-11": {
+          "fleje": 2150.0,
+          "ptc": 1397.5,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% QUILMES | Ofertas Internas"
         }
       },
       "volumen_l": 0.473
@@ -142637,6 +142655,12 @@
           "ptc": 2190.0,
           "dinamica": 0.4,
           "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
+        },
+        "2026-11-11": {
+          "fleje": 3650.0,
+          "ptc": 2555.0,
+          "dinamica": 0.3,
+          "promo_nominal": "30% Almacen | Ecommerce"
         }
       },
       "volumen_l": 0.473
@@ -386168,11 +386192,11 @@
       "marca": "Warsteiner",
       "grupo": "Competencia",
       "segmento": "Value",
-      "dias": 58,
+      "dias": 59,
       "dias_dinamica": 46,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.22632075471698113,
-      "avg_ptc": 3950.7026415094338
+      "avg_dinamica": 0.2242056074766355,
+      "avg_ptc": 3949.7614953271027
     },
     {
       "cadena": "Jumbo",
@@ -386248,8 +386272,8 @@
       "dias": 67,
       "dias_dinamica": 62,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.2535483870967742,
-      "avg_ptc": 3296.4632258064516
+      "avg_dinamica": 0.25416666666666665,
+      "avg_ptc": 3293.248717948718
     },
     {
       "cadena": "Jumbo",
@@ -386457,8 +386481,8 @@
       "dias": 70,
       "dias_dinamica": 65,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.2590379008746356,
-      "avg_ptc": 3082.2881924198255
+      "avg_dinamica": 0.2593023255813954,
+      "avg_ptc": 3077.3905523255817
     },
     {
       "cadena": "Disco",
@@ -386512,8 +386536,8 @@
       "dias": 70,
       "dias_dinamica": 65,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.27155844155844155,
-      "avg_ptc": 3755.5048051948056
+      "avg_dinamica": 0.2716321243523316,
+      "avg_ptc": 3752.3946891191713
     },
     {
       "cadena": "Disco",
@@ -389928,9 +389952,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-11-11 15:28:16",
+    "generado": "2026-11-11 20:17:15",
     "sku_rows": 1347,
-    "registros_validos": 61496,
+    "registros_validos": 61500,
     "dias": 83,
     "cadenas": [
       "Carrefour",

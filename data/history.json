@@ -1,7 +1,7 @@
 {
   "meta": {
     "plataforma": "Supermercados",
-    "ultima_corrida": "2026-11-11T15:28:16.037795+00:00",
+    "ultima_corrida": "2026-11-11T20:17:14.801903+00:00",
     "sku_count": 1347,
     "cadenas": [
       "Carrefour",
@@ -93557,6 +93557,12 @@
           "ptc": 2310.0,
           "dinamica": 0.4,
           "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
+        },
+        "2026-11-11": {
+          "fleje": 3850.0,
+          "ptc": 3850.0,
+          "dinamica": 0.0,
+          "promo_nominal": ""
         }
       }
     },
@@ -118662,6 +118668,12 @@
           "ptc": 2795.0,
           "dinamica": 0.35,
           "promo_nominal": "35% Almacen | Ecommerce"
+        },
+        "2026-11-11": {
+          "fleje": 4300.0,
+          "ptc": 2795.0,
+          "dinamica": 0.35,
+          "promo_nominal": "35% Almacen | Ecommerce"
         }
       }
     },
@@ -132713,6 +132725,12 @@
           "ptc": 1075.0,
           "dinamica": 0.5,
           "promo_nominal": "2x1 QUILMES | Ofertas Trafico"
+        },
+        "2026-11-11": {
+          "fleje": 2150.0,
+          "ptc": 1397.5,
+          "dinamica": 0.35,
+          "promo_nominal": "2do al 70% QUILMES | Ofertas Internas"
         }
       }
     },
@@ -142374,6 +142392,12 @@
           "ptc": 2190.0,
           "dinamica": 0.4,
           "promo_nominal": "CYBER 40% CERVEZAS | Ecommerce"
+        },
+        "2026-11-11": {
+          "fleje": 3650.0,
+          "ptc": 2555.0,
+          "dinamica": 0.3,
+          "promo_nominal": "30% Almacen | Ecommerce"
         }
       }
     },
