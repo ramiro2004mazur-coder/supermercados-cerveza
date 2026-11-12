@@ -1009,3 +1009,5 @@
 2026-11-09.csv: precio sospechoso -> 'Disco | Antares | Cerveza Lager 330 Ml Antares': subio 100% vs 2026-11-08 ($2262 -> $4525)
 2026-11-11.csv: precio sospechoso -> 'Vea | Antares | Cerveza Antares Kolsch 473 Ml': subio 104% vs 2026-10-10 ($2345 -> $4790)
 2026-11-11.csv: precio sospechoso -> 'Vea | Antares | Cerveza Antares Kolsch 473 Ml': subio 104% vs 2026-10-10 ($2345 -> $4790)
+2026-11-12.csv: SKU nuevo sin catalogo -> 'Carrefour | Antares | Cerveza ipa citrica Antares sin alcohol 473 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-12.csv: precio sospechoso -> 'Coto | Munich | Cerveza Royal Munich 330ml': cayo 50% vs 2026-11-11 ($2700 -> $1349)
