@@ -7886,5 +7886,221 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-quilmes-clasica-710cc",
+    "marca": "Quilmes",
+    "sku": "Cerveza Quilmes Clasica 710cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bajo-cero-cerveza-quilmes-bajo-cero-1lt-ret",
+    "marca": "Bajo Cero",
+    "sku": "Cerveza Quilmes Bajo Cero 1lt Ret.",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-quilmes-clasica-1lt-ret",
+    "marca": "Quilmes",
+    "sku": "Cerveza Quilmes Clasica 1lt Ret",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-vera-ipa-730-ml-patagonia",
+    "marca": "Patagonia",
+    "sku": "Cerveza Vera Ipa 730 Ml Patagonia",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-ipa-sauco-ow-730cc-patagonia",
+    "marca": "Patagonia",
+    "sku": "Cerveza Ipa Sauco Ow 730cc Patagonia",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-amber-lager-730cc",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Amber Lager 730cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-lager-del-sur-730cc",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Lager Del Sur 730cc",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-rubia-710ml-x-4u-stella-artois",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Rubia 710ml X 4u Stella Artois",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "budweiser-cerveza-rubia-710ml-x-4u-budweiser",
+    "marca": "Budweiser",
+    "sku": "Cerveza Rubia 710ml X 4u Budweiser",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "budweiser-budwei-rub-1lt-ret",
+    "marca": "Budweiser",
+    "sku": "Budwei Rub 1lt Ret",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-rubia-710ml-corona",
+    "marca": "Corona",
+    "sku": "Cerveza Rubia 710ml Corona",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-0-0sin-alcohol-473ml-x-6u-stella-artois",
+    "marca": "Stella Artois",
+    "sku": "Cerveza 0.0sin Alcohol 473ml X 6u Stella Artois",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-rubia-473cc-6un",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Rubia 473cc 6un",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-roja-1l-retornable-andes-origen",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Roja 1l Retornable Andes Origen",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-cerveza-ultra-rubia-275cc-michelob",
+    "marca": "Michelob",
+    "sku": "Cerveza Ultra Rubia 275cc Michelob",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-lager-del-sur-473cc",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Lager Del Sur 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "corona-cerveza-473-cc-corona",
+    "marca": "Corona",
+    "sku": "Cerveza 473 Cc Corona",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-rubia-710-cc-4-u",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Rubia 710 Cc 4 U",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-patagonia-vera-ipa-473cc-6un",
+    "marca": "Patagonia",
+    "sku": "Cerveza Patagonia Vera Ipa 473cc 6un",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-quilmes-clasica-lata-473mlx6",
+    "marca": "Quilmes",
+    "sku": "Cerveza Quilmes Clásica Lata 473mlx6",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "patagonia-cerveza-amber-lager-473-ml-x-6u-patagonia",
+    "marca": "Patagonia",
+    "sku": "Cerveza Amber Lager 473 Ml X 6u Patagonia",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-ipa-1l-retornable-andes-origen",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Ipa 1l Retornable Andes Origen",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-rubia-oro-473cc-6un",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Rubia Oro 473cc 6un",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "andes-origen-cerveza-andes-origen-negra-473cc-6un",
+    "marca": "Andes Origen",
+    "sku": "Cerveza Andes Origen Negra 473cc 6un",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-quilmes-stout-1lt",
+    "marca": "Quilmes",
+    "sku": "Cerveza Quilmes Stout 1lt",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "quilmes-cerveza-ipa-1l-retornable",
+    "marca": "Quilmes",
+    "sku": "Cerveza Ipa 1l Retornable",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "stella-artois-cerveza-stella-artois-noire-473cc-6un",
+    "marca": "Stella Artois",
+    "sku": "Cerveza Stella Artois Noire 473cc 6un",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
