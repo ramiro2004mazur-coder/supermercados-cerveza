@@ -8102,5 +8102,21 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-ultra-cerveza-michelob-ultra-710-ml",
+    "marca": "Michelob Ultra",
+    "sku": "Cerveza Michelob Ultra 710 Ml.",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "bavaria-cerveza-roja-8-6-500-ml-bavaria",
+    "marca": "Bavaria",
+    "sku": "Cerveza Roja 8.6 500 Ml Bavaria",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]

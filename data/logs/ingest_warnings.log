@@ -1038,3 +1038,5 @@
 2026-11-13.csv: SKU nuevo sin catalogo -> 'Vea | Quilmes | Cerveza Quilmes Stout 1lt' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-13.csv: SKU nuevo sin catalogo -> 'Vea | Quilmes | Cerveza Ipa 1l Retornable' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-13.csv: SKU nuevo sin catalogo -> 'Vea | Stella Artois | Cerveza Stella Artois Noire 473cc 6un' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-14.csv: SKU nuevo sin catalogo -> 'Dia | Michelob Ultra | Cerveza Michelob Ultra 710 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-14.csv: SKU nuevo sin catalogo -> 'Jumbo | Bavaria | Cerveza Roja 8.6 500 Ml Bavaria' (agregado como 'Sin clasificar', revisar data/catalog.json)
