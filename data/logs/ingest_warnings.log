@@ -1040,3 +1040,7 @@
 2026-11-13.csv: SKU nuevo sin catalogo -> 'Vea | Stella Artois | Cerveza Stella Artois Noire 473cc 6un' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-14.csv: SKU nuevo sin catalogo -> 'Dia | Michelob Ultra | Cerveza Michelob Ultra 710 Ml.' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-14.csv: SKU nuevo sin catalogo -> 'Jumbo | Bavaria | Cerveza Roja 8.6 500 Ml Bavaria' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-16.csv: SKU nuevo sin catalogo -> 'Disco | Erdinger | Cerveza Weissbier Erdinger 500ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-16.csv: SKU nuevo sin catalogo -> 'Disco | Erdinger | Cerveza Alkoholfrei Erdinger 330ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-16.csv: SKU nuevo sin catalogo -> 'Disco | Erdinger | Cerveza Erdinger Rubia-bot-cc.-330' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-16.csv: SKU nuevo sin catalogo -> 'Disco | Erdinger | Cerveza Erdinger Negra 500 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)

@@ -8118,5 +8118,37 @@
     "calibre": "600",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "erdinger-cerveza-weissbier-erdinger-500ml",
+    "marca": "Erdinger",
+    "sku": "Cerveza Weissbier Erdinger 500ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "erdinger-cerveza-alkoholfrei-erdinger-330ml",
+    "marca": "Erdinger",
+    "sku": "Cerveza Alkoholfrei Erdinger 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "erdinger-cerveza-erdinger-rubia-bot-cc-330",
+    "marca": "Erdinger",
+    "sku": "Cerveza Erdinger Rubia-bot-cc.-330",
+    "calibre": "S/C",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "erdinger-cerveza-erdinger-negra-500-ml",
+    "marca": "Erdinger",
+    "sku": "Cerveza Erdinger Negra 500 Ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
