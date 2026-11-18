@@ -1051,3 +1051,6 @@
 2026-11-17.csv: precio sospechoso -> 'Jumbo | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': subio 591% vs 2026-11-15 ($2080 -> $14362)
 2026-11-17.csv: precio sospechoso -> 'Disco | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': subio 498% vs 2026-11-16 ($2400 -> $14362)
 2026-11-17.csv: precio sospechoso -> 'Vea | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': subio 594% vs 2026-11-15 ($2074 -> $14392)
+2026-11-18.csv: precio sospechoso -> 'Disco | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 83% vs 2026-11-17 ($14362 -> $2475)
+2026-11-18.csv: precio sospechoso -> 'Vea | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 83% vs 2026-11-17 ($14392 -> $2468)
+2026-11-18.csv: precio sospechoso -> 'Coto | Munich | Cerveza Royal Munich 330ml': subio 100% vs 2026-11-17 ($1349 -> $2700)
