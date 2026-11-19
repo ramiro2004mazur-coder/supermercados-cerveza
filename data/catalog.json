@@ -8158,5 +8158,29 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "schneider-cerveza-remix-pomelo-schneider-473-ml",
+    "marca": "Schneider",
+    "sku": "Cerveza Remix Pomelo Schneider 473 Ml.",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "estrella-de-galicia-cerveza-lager-porron-estrella-de-galicia-355-ml",
+    "marca": "Estrella De Galicia",
+    "sku": "Cerveza Lager Porron Estrella De Galicia 355 Ml.",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "erdinger-cerveza-dunkel-erdinger-330ml",
+    "marca": "Erdinger",
+    "sku": "Cerveza Dunkel Erdinger 330ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
