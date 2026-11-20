@@ -8182,5 +8182,21 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "michelob-cerveza-michelob-rubia-710-ml",
+    "marca": "Michelob",
+    "sku": "Cerveza Michelob Rubia 710 Ml",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-ft-limon-473-ml-brahma",
+    "marca": "Brahma",
+    "sku": "Cerveza Ft Limon 473 Ml Brahma",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
