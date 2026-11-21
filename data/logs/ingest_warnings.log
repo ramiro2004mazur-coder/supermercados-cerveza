@@ -1065,3 +1065,8 @@
 2026-11-20.csv: SKU nuevo sin catalogo -> 'Jumbo | Michelob | Cerveza Michelob Rubia 710 Ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-20.csv: SKU nuevo sin catalogo -> 'Jumbo | Brahma | Cerveza Ft Limon 473 Ml Brahma' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-20.csv: precio sospechoso -> 'Disco | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 83% vs 2026-11-19 ($13825 -> $2310)
+2026-11-21.csv: SKU nuevo sin catalogo -> 'Carrefour | Brahma | Cerveza rubia Brahmita 269 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-21.csv: SKU nuevo sin catalogo -> 'Carrefour | Weidmann | Cerveza rubia Weidmann Hefetrub 500 ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-21.csv: precio sospechoso -> 'Jumbo | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 83% vs 2026-11-20 ($13825 -> $2310)
+2026-11-21.csv: precio sospechoso -> 'Disco | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 83% vs 2026-11-20 ($13825 -> $2310)
+2026-11-21.csv: precio sospechoso -> 'Vea | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 84% vs 2026-11-19 ($13783 -> $2138)

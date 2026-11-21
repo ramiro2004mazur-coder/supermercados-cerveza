@@ -8198,5 +8198,21 @@
     "calibre": "473",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "brahma-cerveza-rubia-brahmita-269-ml",
+    "marca": "Brahma",
+    "sku": "Cerveza rubia Brahmita 269 ml",
+    "calibre": "275",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "weidmann-cerveza-rubia-weidmann-hefetrub-500-ml",
+    "marca": "Weidmann",
+    "sku": "Cerveza rubia Weidmann Hefetrub 500 ml",
+    "calibre": "600",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
