@@ -8230,5 +8230,37 @@
     "calibre": "330/355",
     "grupo": "Sin clasificar",
     "segmento": "Sin clasificar"
+  },
+  {
+    "id": "grolsch-cerveza-grolsch-pilsner-925cc-ret",
+    "marca": "Grolsch",
+    "sku": "Cerveza Grolsch Pilsner 925cc Ret",
+    "calibre": "710/730",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "miller-cerveza-miller-330-cc",
+    "marca": "Miller",
+    "sku": "Cerveza Miller 330 Cc",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "heineken-cerveza-heineken-330-ml",
+    "marca": "Heineken",
+    "sku": "Cerveza Heineken 330 Ml",
+    "calibre": "330/355",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
+  },
+  {
+    "id": "salta-cautiva-cerveza-salta-cautiva-session-ipa-473cc",
+    "marca": "Salta Cautiva",
+    "sku": "Cerveza Salta Cautiva Session Ipa 473cc",
+    "calibre": "473",
+    "grupo": "Sin clasificar",
+    "segmento": "Sin clasificar"
   }
 ]
