@@ -1090,3 +1090,8 @@
 2026-11-25.csv: SKU nuevo sin catalogo -> 'Disco | Salta Cautiva | Cerveza Salta Cautiva Session Ipa 473cc' (agregado como 'Sin clasificar', revisar data/catalog.json)
 2026-11-25.csv: precio sospechoso -> 'Vea | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 83% vs 2026-11-24 ($14768 -> $2468)
 2026-11-25.csv: precio sospechoso -> 'Coto | Grolsch | Cerveza Lager GROLSCH Lata 473 Cc': subio 100% vs 2026-11-24 ($1959 -> $3925)
+2026-11-26.csv: precio sospechoso -> 'Jumbo | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 86% vs 2026-11-24 ($14812 -> $2145)
+2026-11-26.csv: SKU nuevo sin catalogo -> 'Jumbo | Erdinger | Cerveza Sin Alcohol Erdinger 330ml' (agregado como 'Sin clasificar', revisar data/catalog.json)
+2026-11-26.csv: precio sospechoso -> 'Disco | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 86% vs 2026-11-25 ($14812 -> $2145)
+2026-11-26.csv: precio sospechoso -> 'Vea | Michelob Ultra | Cerveza Michelob Ultra Sin Gluten 473 Ml': cayo 86% vs 2026-11-25 ($14768 -> $2138)
+2026-11-26.csv: precio sospechoso -> 'Coto | Grolsch | Cerveza Lager GROLSCH Lata 473 Cc': cayo 50% vs 2026-11-25 ($3925 -> $1959)
